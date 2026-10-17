@@ -1,1 +1,725 @@
-﻿{"phrases": [], "last_updated": null}
+{
+  "phrases": [
+    {
+      "english": "Keep going, don't give up.",
+      "ukrainian": "Продовжуй, не здавайся.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-17T07:18:09.202625"
+    },
+    {
+      "english": "It's tough, but we can do it.",
+      "ukrainian": "Важко, але ми зможемо.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-17T07:18:09.202641"
+    },
+    {
+      "english": "One step at a time.",
+      "ukrainian": "Крок за кроком.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-17T07:18:09.202644"
+    },
+    {
+      "english": "We're almost there, hold on.",
+      "ukrainian": "Ми майже там, тримайся.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-17T07:18:09.202647"
+    },
+    {
+      "english": "Don't quit now, push through.",
+      "ukrainian": "Не кидай зараз, проривайся.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-17T07:18:09.202650"
+    },
+    {
+      "english": "Every effort counts.",
+      "ukrainian": "Кожні зусилля важливі.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-17T07:18:09.202653"
+    },
+    {
+      "english": "Stay strong, keep fighting.",
+      "ukrainian": "Будь сильним, продовжуй боротися.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-17T07:18:09.202655"
+    },
+    {
+      "english": "We'll overcome this challenge.",
+      "ukrainian": "Ми подолаємо цю перешкоду.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-17T07:18:09.202661"
+    },
+    {
+      "english": "Slow and steady wins.",
+      "ukrainian": "Повільно, але впевнено.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-17T07:18:09.202664"
+    },
+    {
+      "english": "Never lose hope.",
+      "ukrainian": "Ніколи не втрачай надії.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-17T07:18:09.202667"
+    },
+    {
+      "english": "Keep your head up.",
+      "ukrainian": "Тримай голову вище.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-17T07:18:09.202669"
+    },
+    {
+      "english": "This is just a setback.",
+      "ukrainian": "Це лише тимчасова невдача.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-17T07:18:09.202672"
+    },
+    {
+      "english": "We're learning as we go.",
+      "ukrainian": "Ми вчимося в процесі.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-17T07:18:09.202674"
+    },
+    {
+      "english": "It's worth the struggle.",
+      "ukrainian": "Це варте боротьби.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-17T07:18:09.202676"
+    },
+    {
+      "english": "Keep pushing forward.",
+      "ukrainian": "Рухайся вперед.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-17T07:18:09.202678"
+    },
+    {
+      "english": "We can get through this.",
+      "ukrainian": "Ми впораємося з цим.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-17T07:18:09.202681"
+    },
+    {
+      "english": "Persistence pays off.",
+      "ukrainian": "Наполегливість винагороджується.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-17T07:18:09.202683"
+    },
+    {
+      "english": "Don't let it beat you.",
+      "ukrainian": "Не дозволяй цьому перемогти.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-17T07:18:09.202685"
+    },
+    {
+      "english": "We're getting stronger.",
+      "ukrainian": "Ми стаємо сильнішими.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-17T07:18:09.202689"
+    },
+    {
+      "english": "Just keep trying.",
+      "ukrainian": "Просто пробуй далі.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-17T07:18:09.202691"
+    },
+    {
+      "english": "A little more effort.",
+      "ukrainian": "Ще трохи зусиль.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-17T07:18:09.202693"
+    },
+    {
+      "english": "We'll reach our goal.",
+      "ukrainian": "Ми досягнемо мети.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-17T07:18:09.202695"
+    },
+    {
+      "english": "Don't stop believing.",
+      "ukrainian": "Не переставай вірити.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-17T07:18:09.202697"
+    },
+    {
+      "english": "It takes time and patience.",
+      "ukrainian": "Це вимагає часу й терпіння.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-17T07:18:09.202700"
+    },
+    {
+      "english": "Keep the faith.",
+      "ukrainian": "Зберігай віру.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-17T07:18:09.202702"
+    },
+    {
+      "english": "We're making progress.",
+      "ukrainian": "Ми робимо прогрес.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-17T07:18:09.202704"
+    },
+    {
+      "english": "Every day counts.",
+      "ukrainian": "Кожен день важливий.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-17T07:18:09.202706"
+    },
+    {
+      "english": "We're built for this.",
+      "ukrainian": "Ми створені для цього.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-17T07:18:09.202708"
+    },
+    {
+      "english": "Hang in there.",
+      "ukrainian": "Тримайся там.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-17T07:18:09.202710"
+    },
+    {
+      "english": "Never give in.",
+      "ukrainian": "Ніколи не здавайся.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-17T07:18:09.202713"
+    },
+    {
+      "english": "What helps you keep going?",
+      "ukrainian": "Що допомагає тобі рухатись далі?",
+      "category": "Perseverance",
+      "generated_at": "2026-10-17T07:18:09.202715"
+    },
+    {
+      "english": "How do you handle difficult moments?",
+      "ukrainian": "Як ти долаєш складні моменти?",
+      "category": "Perseverance",
+      "generated_at": "2026-10-17T07:18:09.202718"
+    },
+    {
+      "english": "Where do you find your motivation?",
+      "ukrainian": "Де ти знаходиш свою мотивацію?",
+      "category": "Perseverance",
+      "generated_at": "2026-10-17T07:18:09.202721"
+    },
+    {
+      "english": "Can you share a success story?",
+      "ukrainian": "Можеш розповісти історію успіху?",
+      "category": "Perseverance",
+      "generated_at": "2026-10-17T07:18:09.202724"
+    },
+    {
+      "english": "What's your biggest challenge now?",
+      "ukrainian": "Який твій найбільший виклик зараз?",
+      "category": "Perseverance",
+      "generated_at": "2026-10-17T07:18:09.202727"
+    },
+    {
+      "english": "Do you think it's possible?",
+      "ukrainian": "Ти думаєш, це можливо?",
+      "category": "Perseverance",
+      "generated_at": "2026-10-17T07:18:09.202730"
+    },
+    {
+      "english": "What advice do you have for me?",
+      "ukrainian": "Яку пораду ти мені даси?",
+      "category": "Perseverance",
+      "generated_at": "2026-10-17T07:18:09.202732"
+    },
+    {
+      "english": "How did you overcome that obstacle?",
+      "ukrainian": "Як ти подолав ту перешкоду?",
+      "category": "Perseverance",
+      "generated_at": "2026-10-17T07:18:09.202735"
+    },
+    {
+      "english": "Are you learning from mistakes?",
+      "ukrainian": "Ти вчишся на помилках?",
+      "category": "Perseverance",
+      "generated_at": "2026-10-17T07:18:09.202737"
+    },
+    {
+      "english": "What keeps you inspired?",
+      "ukrainian": "Що тебе надихає?",
+      "category": "Perseverance",
+      "generated_at": "2026-10-17T07:18:09.202739"
+    },
+    {
+      "english": "Should I try a different approach?",
+      "ukrainian": "Мені спробувати інший підхід?",
+      "category": "Perseverance",
+      "generated_at": "2026-10-17T07:18:09.202741"
+    },
+    {
+      "english": "How do you stay focused?",
+      "ukrainian": "Як ти залишаєшся зосередженим?",
+      "category": "Perseverance",
+      "generated_at": "2026-10-17T07:18:09.202758"
+    },
+    {
+      "english": "What if it doesn't work out?",
+      "ukrainian": "А якщо не вийде?",
+      "category": "Perseverance",
+      "generated_at": "2026-10-17T07:18:09.202760"
+    },
+    {
+      "english": "Can we achieve this together?",
+      "ukrainian": "Ми можемо досягти цього разом?",
+      "category": "Perseverance",
+      "generated_at": "2026-10-17T07:18:09.202763"
+    },
+    {
+      "english": "What's the next small step?",
+      "ukrainian": "Який наступний маленький крок?",
+      "category": "Perseverance",
+      "generated_at": "2026-10-17T07:18:09.202765"
+    },
+    {
+      "english": "How long have you been trying?",
+      "ukrainian": "Як довго ти вже намагаєшся?",
+      "category": "Perseverance",
+      "generated_at": "2026-10-17T07:18:09.202768"
+    },
+    {
+      "english": "Is there a secret to patience?",
+      "ukrainian": "Є секрет терпіння?",
+      "category": "Perseverance",
+      "generated_at": "2026-10-17T07:18:09.202770"
+    },
+    {
+      "english": "What motivates you daily?",
+      "ukrainian": "Що тебе мотивує щодня?",
+      "category": "Perseverance",
+      "generated_at": "2026-10-17T07:18:09.202772"
+    },
+    {
+      "english": "Did you ever want to quit?",
+      "ukrainian": "Ти коли-небудь хотів кинути?",
+      "category": "Perseverance",
+      "generated_at": "2026-10-17T07:18:09.202774"
+    },
+    {
+      "english": "How do you celebrate small wins?",
+      "ukrainian": "Як ти святкуєш маленькі перемоги?",
+      "category": "Perseverance",
+      "generated_at": "2026-10-17T07:18:09.202776"
+    },
+    {
+      "english": "What lesson did you learn?",
+      "ukrainian": "Який урок ти засвоїв?",
+      "category": "Perseverance",
+      "generated_at": "2026-10-17T07:18:09.202779"
+    },
+    {
+      "english": "Are you feeling discouraged at all?",
+      "ukrainian": "Ти взагалі засмучений?",
+      "category": "Perseverance",
+      "generated_at": "2026-10-17T07:18:09.202781"
+    },
+    {
+      "english": "What's your long-term vision?",
+      "ukrainian": "Яке твоє довгострокове бачення?",
+      "category": "Perseverance",
+      "generated_at": "2026-10-17T07:18:09.202783"
+    },
+    {
+      "english": "How do you bounce back?",
+      "ukrainian": "Як ти повертаєшся до норми?",
+      "category": "Perseverance",
+      "generated_at": "2026-10-17T07:18:09.202786"
+    },
+    {
+      "english": "Is this path worth it?",
+      "ukrainian": "Чи вартий цей шлях?",
+      "category": "Perseverance",
+      "generated_at": "2026-10-17T07:18:09.202788"
+    },
+    {
+      "english": "What keeps you grounded?",
+      "ukrainian": "Що тримає тебе на землі?",
+      "category": "Perseverance",
+      "generated_at": "2026-10-17T07:18:09.202791"
+    },
+    {
+      "english": "Can you offer some encouragement?",
+      "ukrainian": "Можеш дати трохи підтримки?",
+      "category": "Perseverance",
+      "generated_at": "2026-10-17T07:18:09.202793"
+    },
+    {
+      "english": "What's the goal ahead?",
+      "ukrainian": "Яка мета попереду?",
+      "category": "Perseverance",
+      "generated_at": "2026-10-17T07:18:09.202795"
+    },
+    {
+      "english": "How do you build resilience?",
+      "ukrainian": "Як ти будуєш стійкість?",
+      "category": "Perseverance",
+      "generated_at": "2026-10-17T07:18:09.202798"
+    },
+    {
+      "english": "What keeps your spirits high?",
+      "ukrainian": "Що підтримує твій дух?",
+      "category": "Perseverance",
+      "generated_at": "2026-10-17T07:18:09.202800"
+    },
+    {
+      "english": "Step by step, we move forward.",
+      "ukrainian": "Крок за кроком, рухаємось вперед.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-17T07:18:09.202803"
+    },
+    {
+      "english": "Don't break your stride, keep going.",
+      "ukrainian": "Не збивайся з ритму, продовжуй.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-17T07:18:09.202805"
+    },
+    {
+      "english": "Little by little, it will come.",
+      "ukrainian": "Потроху, потроху, все вдасться.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-17T07:18:09.202808"
+    },
+    {
+      "english": "Hold on, the dawn is coming.",
+      "ukrainian": "Тримайся, світанок наближається.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-17T07:18:09.202810"
+    },
+    {
+      "english": "Push through the tough times.",
+      "ukrainian": "Проривайся крізь важкі часи.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-17T07:18:09.202812"
+    },
+    {
+      "english": "Even a mountain starts small.",
+      "ukrainian": "Навіть гора починається з малого.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-17T07:18:09.202814"
+    },
+    {
+      "english": "The river carves the canyon.",
+      "ukrainian": "Річка точить каньйон.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-17T07:18:09.202819"
+    },
+    {
+      "english": "When it's hard, dig deeper.",
+      "ukrainian": "Коли важко, копай глибше.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-17T07:18:09.202822"
+    },
+    {
+      "english": "Every setback, is a setup.",
+      "ukrainian": "Кожна невдача, це підготовка.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-17T07:18:09.202824"
+    },
+    {
+      "english": "Keep planting seeds, for growth.",
+      "ukrainian": "Продовжуй садити зерна, для росту.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-17T07:18:09.202827"
+    },
+    {
+      "english": "Don't give up the ship.",
+      "ukrainian": "Не покидай корабель.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-17T07:18:09.202830"
+    },
+    {
+      "english": "One day at a time, manage.",
+      "ukrainian": "День за днем, справляйся.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-17T07:18:09.202832"
+    },
+    {
+      "english": "The persistent win, eventually.",
+      "ukrainian": "Наполегливі перемагають, зрештою.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-17T07:18:09.202863"
+    },
+    {
+      "english": "It’s a marathon, not sprint.",
+      "ukrainian": "Це марафон, не спринт.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-17T07:18:09.202872"
+    },
+    {
+      "english": "Keep pushing, towards the light.",
+      "ukrainian": "Рухайся вперед, до світла.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-17T07:18:09.202876"
+    },
+    {
+      "english": "Learn from falls, stand up.",
+      "ukrainian": "Вчись з падінь, вставай.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-17T07:18:09.202879"
+    },
+    {
+      "english": "The struggle builds strength.",
+      "ukrainian": "Боротьба будує силу.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-17T07:18:09.202883"
+    },
+    {
+      "english": "Don't let fear, stop you.",
+      "ukrainian": "Не дозволяй страху, зупинити тебе.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-17T07:18:09.202887"
+    },
+    {
+      "english": "You're stronger, than you think.",
+      "ukrainian": "Ти сильніший, ніж думаєш.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-17T07:18:09.202890"
+    },
+    {
+      "english": "Keep chipping, at the stone.",
+      "ukrainian": "Продовжуй відсікати, камінь.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-17T07:18:09.202892"
+    },
+    {
+      "english": "Patience, is a virtue.",
+      "ukrainian": "Терпіння, це чеснота.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-17T07:18:09.202894"
+    },
+    {
+      "english": "Adapt and overcome obstacles.",
+      "ukrainian": "Адаптуйся і долай перешкоди.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-17T07:18:09.202897"
+    },
+    {
+      "english": "This too shall pass.",
+      "ukrainian": "І це мине.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-17T07:18:09.202899"
+    },
+    {
+      "english": "The journey, is the reward.",
+      "ukrainian": "Шлях, це і є нагорода.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-17T07:18:09.202902"
+    },
+    {
+      "english": "Never underestimate, small steps.",
+      "ukrainian": "Ніколи не недооцінюй, маленькі кроки.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-17T07:18:09.202904"
+    },
+    {
+      "english": "Keep that fire, burning bright.",
+      "ukrainian": "Підтримуй той вогонь, яскравим.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-17T07:18:09.202907"
+    },
+    {
+      "english": "The effort, compounds over time.",
+      "ukrainian": "Зусилля, накопичуються з часом.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-17T07:18:09.202909"
+    },
+    {
+      "english": "Keep pushing, the boulder.",
+      "ukrainian": "Продовжуй штовхати, камінь.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-17T07:18:09.202911"
+    },
+    {
+      "english": "My heart feels heavy, but I'll continue.",
+      "ukrainian": "Моє серце важке, але я продовжу.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-17T07:18:09.202914"
+    },
+    {
+      "english": "This challenge tests my spirit, truly.",
+      "ukrainian": "Цей виклик справді випробовує мій дух.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-17T07:18:09.202917"
+    },
+    {
+      "english": "I reflect on how far I have come.",
+      "ukrainian": "Я розмірковую, як далеко я зайшов.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-17T07:18:09.202919"
+    },
+    {
+      "english": "Patience is a quiet, inner strength.",
+      "ukrainian": "Терпіння — це тиха, внутрішня сила.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-17T07:18:09.202921"
+    },
+    {
+      "english": "Sometimes I doubt, but hope remains.",
+      "ukrainian": "Іноді я сумніваюся, але надія залишається.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-17T07:18:09.202924"
+    },
+    {
+      "english": "Feeling weary, but not defeated yet.",
+      "ukrainian": "Я відчуваю втому, але ще не переможений.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-17T07:18:09.202927"
+    },
+    {
+      "english": "My inner voice whispers, 'Keep going'.",
+      "ukrainian": "Мій внутрішній голос шепоче: 'Йди далі'.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-17T07:18:09.202930"
+    },
+    {
+      "english": "What truly matters, is the effort.",
+      "ukrainian": "Що справді має значення, то це зусилля.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-17T07:18:09.202932"
+    },
+    {
+      "english": "I need to trust this process more.",
+      "ukrainian": "Мені потрібно більше довіряти цьому процесу.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-17T07:18:09.202935"
+    },
+    {
+      "english": "My emotions are part of the journey.",
+      "ukrainian": "Мої емоції — частина шляху.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-17T07:18:09.202936"
+    },
+    {
+      "english": "Slow progress feels slow, but it is progress.",
+      "ukrainian": "Повільний прогрес здається повільним, але це прогрес.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-17T07:18:09.202941"
+    },
+    {
+      "english": "I'm learning to be kind to myself.",
+      "ukrainian": "Я вчуся бути добрим до себе.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-17T07:18:09.202944"
+    },
+    {
+      "english": "The struggle is shaping me deeply.",
+      "ukrainian": "Боротьба глибоко мене формує.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-17T07:18:09.202948"
+    },
+    {
+      "english": "Honesty with myself is crucial now.",
+      "ukrainian": "Чесність із собою зараз є вирішальною.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-17T07:18:09.202952"
+    },
+    {
+      "english": "What if I fail? I'll still learn.",
+      "ukrainian": "А що, як я зазнаю невдачі? Я все одно навчуся.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-17T07:18:09.202955"
+    },
+    {
+      "english": "My feelings change, like the weather.",
+      "ukrainian": "Мої почуття змінюються, як погода.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-17T07:18:09.202957"
+    },
+    {
+      "english": "I must accept this moment, as it is.",
+      "ukrainian": "Я мушу прийняти цей момент, таким, яким він є.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-17T07:18:09.202960"
+    },
+    {
+      "english": "Finding peace in the effort itself.",
+      "ukrainian": "Знаходжу спокій у самих зусиллях.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-17T07:18:09.202962"
+    },
+    {
+      "english": "This path requires deep inner work.",
+      "ukrainian": "Цей шлях вимагає глибокої внутрішньої роботи.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-17T07:18:09.202964"
+    },
+    {
+      "english": "Allowing myself to feel, then proceeding.",
+      "ukrainian": "Дозволяю собі відчувати, а потім рухатися далі.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-17T07:18:09.202967"
+    },
+    {
+      "english": "My resilience is growing, day by day.",
+      "ukrainian": "Моя стійкість зростає, день за днем.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-17T07:18:09.202969"
+    },
+    {
+      "english": "I acknowledge the fatigue, but persist.",
+      "ukrainian": "Я визнаю втому, але наполегливо йду.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-17T07:18:09.202972"
+    },
+    {
+      "english": "This vulnerability makes me human.",
+      "ukrainian": "Ця вразливість робить мене людиною.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-17T07:18:09.202974"
+    },
+    {
+      "english": "What am I truly seeking here?",
+      "ukrainian": "Чого я насправді тут шукаю?",
+      "category": "Perseverance",
+      "generated_at": "2026-10-17T07:18:09.202976"
+    },
+    {
+      "english": "I find strength in my vulnerability.",
+      "ukrainian": "Я знаходжу силу у своїй вразливості.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-17T07:18:09.202978"
+    },
+    {
+      "english": "Letting go of perfectionism helps.",
+      "ukrainian": "Відпускати перфекціонізм допомагає.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-17T07:18:09.202980"
+    },
+    {
+      "english": "My inner peace is my compass.",
+      "ukrainian": "Мій внутрішній спокій — мій компас.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-17T07:18:09.202983"
+    },
+    {
+      "english": "I am building faith, slowly.",
+      "ukrainian": "Я будую віру, повільно.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-17T07:18:09.202985"
+    },
+    {
+      "english": "This journey is teaching me patience.",
+      "ukrainian": "Цей шлях вчить мене терпінню.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-17T07:18:09.202987"
+    },
+    {
+      "english": "I embrace the uncertainty with courage.",
+      "ukrainian": "Я приймаю невизначеність із мужністю.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-17T07:18:09.202989"
+    },
+    {
+      "english": "Try it one more time, you can.",
+      "ukrainian": "Спробуй ще раз, ти зможеш.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-17T07:18:09.202991"
+    },
+    {
+      "english": "Don't give up, just keep working.",
+      "ukrainian": "Не здавайся, просто працюй далі.",
+      "category": "Perseverance",
+      "generated_at": "2026-10-17T07:18:09.202994"
+    }
+  ],
+  "last_updated": "2026-10-17T07:18:09.202996"
+}
