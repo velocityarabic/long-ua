@@ -719,7 +719,727 @@
       "ukrainian": "Не здавайся, просто працюй далі.",
       "category": "Perseverance",
       "generated_at": "2026-10-17T07:18:09.202994"
+    },
+    {
+      "english": "Wisdom comes, with time.",
+      "ukrainian": "Мудрість приходить, з часом.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-18T07:32:06.517855"
+    },
+    {
+      "english": "Listen more, speak less.",
+      "ukrainian": "Слухай більше, говори менше.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-18T07:32:06.517869"
+    },
+    {
+      "english": "Learn from mistakes, always.",
+      "ukrainian": "Вчися на помилках, завжди.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-18T07:32:06.517874"
+    },
+    {
+      "english": "Kindness, costs nothing.",
+      "ukrainian": "Доброта, нічого не коштує.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-18T07:32:06.517877"
+    },
+    {
+      "english": "Truth, will set you free.",
+      "ukrainian": "Правда, звільнить тебе.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-18T07:32:06.517884"
+    },
+    {
+      "english": "Think first, then act.",
+      "ukrainian": "Спочатку думай, потім дій.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-18T07:32:06.517888"
+    },
+    {
+      "english": "Every cloud, has a silver lining.",
+      "ukrainian": "Кожен хмари, має срібну підкладку.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-18T07:32:06.517892"
+    },
+    {
+      "english": "A quiet mind, hears everything.",
+      "ukrainian": "Тихий розум, чує все.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-18T07:32:06.517898"
+    },
+    {
+      "english": "Experience, is the best teacher.",
+      "ukrainian": "Досвід, найкращий вчитель.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-18T07:32:06.517903"
+    },
+    {
+      "english": "Be grateful, for small things.",
+      "ukrainian": "Будь вдячний, за дрібниці.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-18T07:32:06.517907"
+    },
+    {
+      "english": "Understand, before being understood.",
+      "ukrainian": "Розумій, перш ніж тебе зрозуміють.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-18T07:32:06.517911"
+    },
+    {
+      "english": "Never stop learning, ever.",
+      "ukrainian": "Ніколи не припиняй вчитися, ніколи.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-18T07:32:06.517915"
+    },
+    {
+      "english": "Simplicity, is the ultimate sophistication.",
+      "ukrainian": "Простота, це найвища витонченість.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-18T07:32:06.517918"
+    },
+    {
+      "english": "Forgiveness, heals the soul.",
+      "ukrainian": "Прощення, зцілює душу.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-18T07:32:06.517922"
+    },
+    {
+      "english": "Humility, opens doors.",
+      "ukrainian": "Скромність, відкриває двері.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-18T07:32:06.517925"
+    },
+    {
+      "english": "True strength, lies within.",
+      "ukrainian": "Справжня сила, криється всередині.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-18T07:32:06.517928"
+    },
+    {
+      "english": "Change your thoughts, change your world.",
+      "ukrainian": "Зміни думки, зміни світ.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-18T07:32:06.517932"
+    },
+    {
+      "english": "Action, speaks louder than words.",
+      "ukrainian": "Дія, говорить голосніше за слова.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-18T07:32:06.517935"
+    },
+    {
+      "english": "Seek knowledge, always.",
+      "ukrainian": "Шукай знання, завжди.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-18T07:32:06.517939"
+    },
+    {
+      "english": "Contentment, is true wealth.",
+      "ukrainian": "Задоволення, це справжнє багатство.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-18T07:32:06.517942"
+    },
+    {
+      "english": "Empathy, connects us all.",
+      "ukrainian": "Емпатія, об'єднує нас усіх.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-18T07:32:06.517945"
+    },
+    {
+      "english": "Courage, is not the absence of fear.",
+      "ukrainian": "Відвага, це не відсутність страху.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-18T07:32:06.517949"
+    },
+    {
+      "english": "Respect, is earned.",
+      "ukrainian": "Повагу, заробляють.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-18T07:32:06.517952"
+    },
+    {
+      "english": "Integrity, matters most.",
+      "ukrainian": "Чесність, найважливіша.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-18T07:32:06.517957"
+    },
+    {
+      "english": "Focus on the present, moment.",
+      "ukrainian": "Зосередься на теперішньому, моменті.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-18T07:32:06.517963"
+    },
+    {
+      "english": "Wisdom grows, with reflection.",
+      "ukrainian": "Мудрість росте, з роздумів.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-18T07:32:06.517967"
+    },
+    {
+      "english": "Speak kindly, always.",
+      "ukrainian": "Говори доброзичливо, завжди.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-18T07:32:06.517970"
+    },
+    {
+      "english": "Understand the why, behind actions.",
+      "ukrainian": "Зрозумій чому, за вчинками.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-18T07:32:06.517974"
+    },
+    {
+      "english": "True wealth, is inner peace.",
+      "ukrainian": "Справжнє багатство, це внутрішній спокій.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-18T07:32:06.517977"
+    },
+    {
+      "english": "What do you think, about this?",
+      "ukrainian": "Що ти думаєш, про це?",
+      "category": "Wisdom",
+      "generated_at": "2026-10-18T07:32:06.517981"
+    },
+    {
+      "english": "Can you explain, this idea?",
+      "ukrainian": "Можеш пояснити, цю думку?",
+      "category": "Wisdom",
+      "generated_at": "2026-10-18T07:32:06.517985"
+    },
+    {
+      "english": "How did you learn, that lesson?",
+      "ukrainian": "Як ти засвоїв, той урок?",
+      "category": "Wisdom",
+      "generated_at": "2026-10-18T07:32:06.517991"
+    },
+    {
+      "english": "What's your advice, for me?",
+      "ukrainian": "Яка твоя порада, мені?",
+      "category": "Wisdom",
+      "generated_at": "2026-10-18T07:32:06.517995"
+    },
+    {
+      "english": "Should I consider, this option?",
+      "ukrainian": "Чи варто мені розглянути, цей варіант?",
+      "category": "Wisdom",
+      "generated_at": "2026-10-18T07:32:06.517998"
+    },
+    {
+      "english": "What is the deeper meaning, here?",
+      "ukrainian": "Який тут глибший зміст?",
+      "category": "Wisdom",
+      "generated_at": "2026-10-18T07:32:06.518002"
+    },
+    {
+      "english": "Tell me more, please.",
+      "ukrainian": "Розкажи більше, будь ласка.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-18T07:32:06.518005"
+    },
+    {
+      "english": "Is there another way, to see this?",
+      "ukrainian": "Чи є інший погляд, на це?",
+      "category": "Wisdom",
+      "generated_at": "2026-10-18T07:32:06.518009"
+    },
+    {
+      "english": "What have you observed, lately?",
+      "ukrainian": "Що ти помітив, останнім часом?",
+      "category": "Wisdom",
+      "generated_at": "2026-10-18T07:32:06.518012"
+    },
+    {
+      "english": "How can we improve, together?",
+      "ukrainian": "Як ми можемо покращитись, разом?",
+      "category": "Wisdom",
+      "generated_at": "2026-10-18T07:32:06.518016"
+    },
+    {
+      "english": "What inspires you, most?",
+      "ukrainian": "Що тебе надихає, найбільше?",
+      "category": "Wisdom",
+      "generated_at": "2026-10-18T07:32:06.518019"
+    },
+    {
+      "english": "Could you share, your perspective?",
+      "ukrainian": "Чи міг би ти поділитися, своєю думкою?",
+      "category": "Wisdom",
+      "generated_at": "2026-10-18T07:32:06.518023"
+    },
+    {
+      "english": "What's the best approach, do you think?",
+      "ukrainian": "Який найкращий підхід, на твою думку?",
+      "category": "Wisdom",
+      "generated_at": "2026-10-18T07:32:06.518026"
+    },
+    {
+      "english": "Why is this important, to you?",
+      "ukrainian": "Чому це важливо, для тебе?",
+      "category": "Wisdom",
+      "generated_at": "2026-10-18T07:32:06.518030"
+    },
+    {
+      "english": "What have you learned, recently?",
+      "ukrainian": "Чого ти навчився, нещодавно?",
+      "category": "Wisdom",
+      "generated_at": "2026-10-18T07:32:06.518034"
+    },
+    {
+      "english": "What's your biggest takeaway, from this?",
+      "ukrainian": "Що головне ти виніс, з цього?",
+      "category": "Wisdom",
+      "generated_at": "2026-10-18T07:32:06.518037"
+    },
+    {
+      "english": "Can we discuss, this further?",
+      "ukrainian": "Чи можемо ми обговорити, це детальніше?",
+      "category": "Wisdom",
+      "generated_at": "2026-10-18T07:32:06.518041"
+    },
+    {
+      "english": "What helps you, stay positive?",
+      "ukrainian": "Що допомагає тобі, залишатись позитивним?",
+      "category": "Wisdom",
+      "generated_at": "2026-10-18T07:32:06.518044"
+    },
+    {
+      "english": "Is there a simple truth, here?",
+      "ukrainian": "Чи є тут проста істина?",
+      "category": "Wisdom",
+      "generated_at": "2026-10-18T07:32:06.518048"
+    },
+    {
+      "english": "What have you found, to be true?",
+      "ukrainian": "Що ти знайшов, правдивим?",
+      "category": "Wisdom",
+      "generated_at": "2026-10-18T07:32:06.518051"
+    },
+    {
+      "english": "How do you find, inner peace?",
+      "ukrainian": "Як ти знаходиш, внутрішній спокій?",
+      "category": "Wisdom",
+      "generated_at": "2026-10-18T07:32:06.518054"
+    },
+    {
+      "english": "What questions, should I ask myself?",
+      "ukrainian": "Які питання, я маю собі ставити?",
+      "category": "Wisdom",
+      "generated_at": "2026-10-18T07:32:06.518058"
+    },
+    {
+      "english": "Can you recommend, a good book?",
+      "ukrainian": "Можеш порадити, хорошу книгу?",
+      "category": "Wisdom",
+      "generated_at": "2026-10-18T07:32:06.518061"
+    },
+    {
+      "english": "What do you believe, in deeply?",
+      "ukrainian": "У що ти глибоко віриш?",
+      "category": "Wisdom",
+      "generated_at": "2026-10-18T07:32:06.518064"
+    },
+    {
+      "english": "How can I grow, as a person?",
+      "ukrainian": "Як я можу рости, як особистість?",
+      "category": "Wisdom",
+      "generated_at": "2026-10-18T07:32:06.518069"
+    },
+    {
+      "english": "What is the essence, of this?",
+      "ukrainian": "У чому суть, цього?",
+      "category": "Wisdom",
+      "generated_at": "2026-10-18T07:32:06.518072"
+    },
+    {
+      "english": "Do you have any insights, to share?",
+      "ukrainian": "Чи є в тебе якісь ідеї, якими поділишся?",
+      "category": "Wisdom",
+      "generated_at": "2026-10-18T07:32:06.518076"
+    },
+    {
+      "english": "What makes life, truly meaningful?",
+      "ukrainian": "Що робить життя, по-справжньому значущим?",
+      "category": "Wisdom",
+      "generated_at": "2026-10-18T07:32:06.518081"
+    },
+    {
+      "english": "How do you seek, understanding?",
+      "ukrainian": "Як ти шукаєш, розуміння?",
+      "category": "Wisdom",
+      "generated_at": "2026-10-18T07:32:06.518085"
+    },
+    {
+      "english": "Believe in yourself, always.",
+      "ukrainian": "Завжди вір у себе.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-18T07:32:06.518134"
+    },
+    {
+      "english": "Your potential is limitless.",
+      "ukrainian": "Твій потенціал безмежний.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-18T07:32:06.518139"
+    },
+    {
+      "english": "You are stronger than you think.",
+      "ukrainian": "Ти сильніший, ніж думаєш.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-18T07:32:06.518143"
+    },
+    {
+      "english": "Progress, not perfection, matters.",
+      "ukrainian": "Важливий прогрес, не досконалість.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-18T07:32:06.518151"
+    },
+    {
+      "english": "Embrace challenges with a smile.",
+      "ukrainian": "Приймай виклики з усмішкою.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-18T07:32:06.518154"
+    },
+    {
+      "english": "Your journey is unique, value it.",
+      "ukrainian": "Твій шлях унікальний, цінуй його.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-18T07:32:06.518158"
+    },
+    {
+      "english": "Stay curious, learn constantly.",
+      "ukrainian": "Залишайся допитливим, вчися постійно.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-18T07:32:06.518162"
+    },
+    {
+      "english": "Positive thoughts bring positive results.",
+      "ukrainian": "Позитивні думки дають позитивні результати.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-18T07:32:06.518165"
+    },
+    {
+      "english": "You've got this, breathe deep.",
+      "ukrainian": "Ти впораєшся, дихай глибше.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-18T07:32:06.518169"
+    },
+    {
+      "english": "Every day is a new chance.",
+      "ukrainian": "Кожен день – це новий шанс.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-18T07:32:06.518172"
+    },
+    {
+      "english": "Trust the process, it unfolds.",
+      "ukrainian": "Довірся процесу, він розкриється.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-18T07:32:06.518176"
+    },
+    {
+      "english": "Your growth is visible, well done.",
+      "ukrainian": "Твій ріст помітний, молодець.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-18T07:32:06.518180"
+    },
+    {
+      "english": "Find joy in small victories.",
+      "ukrainian": "Знаходь радість у дрібних перемогах.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-18T07:32:06.518183"
+    },
+    {
+      "english": "Patience yields great rewards.",
+      "ukrainian": "Терпіння приносить великі плоди.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-18T07:32:06.518187"
+    },
+    {
+      "english": "You are capable of amazing things.",
+      "ukrainian": "Ти здатний на дивовижні речі.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-18T07:32:06.518190"
+    },
+    {
+      "english": "Keep your spirit bright, always.",
+      "ukrainian": "Завжди зберігай свій дух яскравим.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-18T07:32:06.518194"
+    },
+    {
+      "english": "Learn from mistakes, don't dwell.",
+      "ukrainian": "Вчися на помилках, не зациклюйся.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-18T07:32:06.518197"
+    },
+    {
+      "english": "Your efforts are appreciated.",
+      "ukrainian": "Твої зусилля цінуються.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-18T07:32:06.518201"
+    },
+    {
+      "english": "Stay hopeful, brighter days ahead.",
+      "ukrainian": "Залишайся сповненим надії, попереду світліші дні.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-18T07:32:06.518204"
+    },
+    {
+      "english": "Inner strength guides you.",
+      "ukrainian": "Внутрішня сила веде тебе.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-18T07:32:06.518207"
+    },
+    {
+      "english": "Celebrate your progress, sincerely.",
+      "ukrainian": "Щиро святкуй свій прогрес.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-18T07:32:06.518211"
+    },
+    {
+      "english": "You are on the right path.",
+      "ukrainian": "Ти на правильному шляху.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-18T07:32:06.518214"
+    },
+    {
+      "english": "Kindness always returns, believe it.",
+      "ukrainian": "Добро завжди повертається, вір у це.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-18T07:32:06.518217"
+    },
+    {
+      "english": "Let go of what you can't control.",
+      "ukrainian": "Відпусти те, що не можеш контролювати.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-18T07:32:06.518222"
+    },
+    {
+      "english": "You inspire others, remember that.",
+      "ukrainian": "Ти надихаєш інших, пам'ятай це.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-18T07:32:06.518225"
+    },
+    {
+      "english": "Keep learning, keep growing.",
+      "ukrainian": "Продовжуй вчитися, продовжуй рости.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-18T07:32:06.518229"
+    },
+    {
+      "english": "Your efforts create a ripple.",
+      "ukrainian": "Твої зусилля створюють хвилю.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-18T07:32:06.518232"
+    },
+    {
+      "english": "Stay true to your values.",
+      "ukrainian": "Залишайся вірним своїм цінностям.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-18T07:32:06.518235"
+    },
+    {
+      "english": "Listen to your heart, it knows.",
+      "ukrainian": "Прислухайся до серця, воно знає.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-18T07:32:06.518239"
+    },
+    {
+      "english": "Sometimes, silence speaks loudest.",
+      "ukrainian": "Іноді, тиша говорить найголосніше.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-18T07:32:06.518246"
+    },
+    {
+      "english": "True wisdom comes from within.",
+      "ukrainian": "Справжня мудрість йде зсередини.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-18T07:32:06.518249"
+    },
+    {
+      "english": "Feel deeply, then let go.",
+      "ukrainian": "Відчувай глибоко, потім відпусти.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-18T07:32:06.518255"
+    },
+    {
+      "english": "Honesty with yourself, first.",
+      "ukrainian": "Чесність із собою, перш за все.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-18T07:32:06.518261"
+    },
+    {
+      "english": "Be patient with your own growth.",
+      "ukrainian": "Будь терплячим до власного зростання.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-18T07:32:06.518265"
+    },
+    {
+      "english": "Reflect often, learn always.",
+      "ukrainian": "Розмірковуй часто, вчися завжди.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-18T07:32:06.518269"
+    },
+    {
+      "english": "Your feelings are valid, accept them.",
+      "ukrainian": "Твої почуття слушні, прийми їх.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-18T07:32:06.518273"
+    },
+    {
+      "english": "Empathy builds bridges, not walls.",
+      "ukrainian": "Емпатія будує мости, не стіни.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-18T07:32:06.518276"
+    },
+    {
+      "english": "Seek peace in simple moments.",
+      "ukrainian": "Шукай спокій у простих митях.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-18T07:32:06.518280"
+    },
+    {
+      "english": "What hurts, often teaches most.",
+      "ukrainian": "Те, що болить, часто вчить найбільше.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-18T07:32:06.518283"
+    },
+    {
+      "english": "Express yourself, clearly and kindly.",
+      "ukrainian": "Висловлюй себе, чітко та люб'язно.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-18T07:32:06.518286"
+    },
+    {
+      "english": "Forgiveness liberates the soul.",
+      "ukrainian": "Прощення звільняє душу.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-18T07:32:06.518290"
+    },
+    {
+      "english": "Vulnerability is a strength.",
+      "ukrainian": "Вразливість — це сила.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-18T07:32:06.518293"
+    },
+    {
+      "english": "Accept what is, start there.",
+      "ukrainian": "Прийми те, що є, почни звідти.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-18T07:32:06.518297"
+    },
+    {
+      "english": "Your inner voice, listen closely.",
+      "ukrainian": "Твій внутрішній голос, слухай уважно.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-18T07:32:06.518300"
+    },
+    {
+      "english": "Be present, for joy resides.",
+      "ukrainian": "Будь присутнім, бо там радість.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-18T07:32:06.518304"
+    },
+    {
+      "english": "Let kindness be your compass.",
+      "ukrainian": "Нехай доброта буде твоїм компасом.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-18T07:32:06.518307"
+    },
+    {
+      "english": "Gratitude opens up the heart.",
+      "ukrainian": "Вдячність відкриває серце.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-18T07:32:06.518310"
+    },
+    {
+      "english": "A calm mind sees clearly.",
+      "ukrainian": "Спокійний розум бачить ясно.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-18T07:32:06.518313"
+    },
+    {
+      "english": "Share your authentic self, openly.",
+      "ukrainian": "Ділися собою справжнім, відкрито.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-18T07:32:06.518317"
+    },
+    {
+      "english": "Seek truth, even when difficult.",
+      "ukrainian": "Шукай правду, навіть коли важко.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-18T07:32:06.518320"
+    },
+    {
+      "english": "Your intuition is a wise guide.",
+      "ukrainian": "Твоя інтуїція — мудрий провідник.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-18T07:32:06.518323"
+    },
+    {
+      "english": "Embrace imperfection, it's human.",
+      "ukrainian": "Прийми недосконалість, це по-людськи.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-18T07:32:06.518326"
+    },
+    {
+      "english": "Learn to say no, kindly.",
+      "ukrainian": "Навчись говорити 'ні', люб'язно.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-18T07:32:06.518328"
+    },
+    {
+      "english": "Connect with your true feelings.",
+      "ukrainian": "Зв'яжися зі своїми справжніми почуттями.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-18T07:32:06.518331"
+    },
+    {
+      "english": "Wisdom is quiet, not loud.",
+      "ukrainian": "Мудрість — тиха, а не гучна.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-18T07:32:06.518333"
+    },
+    {
+      "english": "Trust your inner knowing, always.",
+      "ukrainian": "Довіряй своєму внутрішньому знанню, завжди.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-18T07:32:06.518336"
+    },
+    {
+      "english": "Be gentle with yourself, dear.",
+      "ukrainian": "Будь ласкавий до себе, дорогенький.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-18T07:32:06.518339"
+    },
+    {
+      "english": "Help others, it comes back.",
+      "ukrainian": "Допомагай іншим, воно повернеться.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-18T07:32:06.518342"
+    },
+    {
+      "english": "Every day, learn something new.",
+      "ukrainian": "Щодня, вчи щось нове.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-18T07:32:06.518345"
+    },
+    {
+      "english": "Fix problems, don't complain.",
+      "ukrainian": "Вирішуй проблеми, не скаржся.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-18T07:32:06.518348"
+    },
+    {
+      "english": "Be polite, it costs nothing.",
+      "ukrainian": "Будь ввічливим, це нічого не коштує.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-18T07:32:06.518352"
+    },
+    {
+      "english": "Share what you have.",
+      "ukrainian": "Ділися тим, що маєш.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-18T07:32:06.518357"
     }
   ],
-  "last_updated": "2026-10-17T07:18:09.202996"
+  "last_updated": "2026-10-18T07:32:06.518358"
 }
