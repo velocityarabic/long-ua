@@ -1439,7 +1439,727 @@
       "ukrainian": "Ділися тим, що маєш.",
       "category": "Wisdom",
       "generated_at": "2026-10-18T07:32:06.518357"
+    },
+    {
+      "english": "Start today, don't wait.",
+      "ukrainian": "Почни сьогодні, не чекай.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-19T08:15:55.700803"
+    },
+    {
+      "english": "Learn from mistakes, grow.",
+      "ukrainian": "Вчися на помилках, розвивайся.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-19T08:15:55.700817"
+    },
+    {
+      "english": "Stay focused, reach goals.",
+      "ukrainian": "Залишайся зосередженим, досягай цілей.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-19T08:15:55.700823"
+    },
+    {
+      "english": "Embrace challenges, get stronger.",
+      "ukrainian": "Приймай виклики, ставай сильнішим.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-19T08:15:55.700826"
+    },
+    {
+      "english": "Positive thoughts, positive life.",
+      "ukrainian": "Позитивні думки, позитивне життя.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-19T08:15:55.700830"
+    },
+    {
+      "english": "Be kind, to yourself too.",
+      "ukrainian": "Будь добрим, до себе також.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-19T08:15:55.700833"
+    },
+    {
+      "english": "Listen to your intuition.",
+      "ukrainian": "Слухай свою інтуїцію.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-19T08:15:55.700836"
+    },
+    {
+      "english": "Small steps, big results.",
+      "ukrainian": "Маленькі кроки, великі результати.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-19T08:15:55.700842"
+    },
+    {
+      "english": "Never give up learning.",
+      "ukrainian": "Ніколи не припиняй вчитися.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-19T08:15:55.700845"
+    },
+    {
+      "english": "Find your passion, follow it.",
+      "ukrainian": "Знайди свою пристрасть, йди за нею.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-19T08:15:55.700849"
+    },
+    {
+      "english": "Be patient with progress.",
+      "ukrainian": "Будь терплячим до прогресу.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-19T08:15:55.700851"
+    },
+    {
+      "english": "Adapt and overcome easily.",
+      "ukrainian": "Адаптуйся і долай легко.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-19T08:15:55.700854"
+    },
+    {
+      "english": "Your mind, your power.",
+      "ukrainian": "Твій розум, твоя сила.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-19T08:15:55.700857"
+    },
+    {
+      "english": "Practice makes perfect, right?",
+      "ukrainian": "Практика веде до досконалості, так?",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-19T08:15:55.700860"
+    },
+    {
+      "english": "Seek knowledge, expand horizons.",
+      "ukrainian": "Шукай знання, розширюй горизонти.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-19T08:15:55.700863"
+    },
+    {
+      "english": "Health first, always.",
+      "ukrainian": "Здоров’я перш за все, завжди.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-19T08:15:55.700865"
+    },
+    {
+      "english": "Rest is important too.",
+      "ukrainian": "Відпочинок теж важливий.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-19T08:15:55.700868"
+    },
+    {
+      "english": "Gratitude changes perspective.",
+      "ukrainian": "Вдячність змінює перспективу.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-19T08:15:55.700871"
+    },
+    {
+      "english": "Surround yourself with positivity.",
+      "ukrainian": "Оточуй себе позитивом.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-19T08:15:55.700874"
+    },
+    {
+      "english": "Set clear intentions daily.",
+      "ukrainian": "Став чіткі наміри щодня.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-19T08:15:55.700876"
+    },
+    {
+      "english": "Challenge your comfort zone.",
+      "ukrainian": "Кидай виклик своїй зоні комфорту.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-19T08:15:55.700879"
+    },
+    {
+      "english": "Speak your truth kindly.",
+      "ukrainian": "Говори свою правду лагідно.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-19T08:15:55.700881"
+    },
+    {
+      "english": "Forgive, and be free.",
+      "ukrainian": "Пробачай, і будь вільним.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-19T08:15:55.700886"
+    },
+    {
+      "english": "Visualize success often.",
+      "ukrainian": "Візуалізуй успіх часто.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-19T08:15:55.700889"
+    },
+    {
+      "english": "Be open to new ideas.",
+      "ukrainian": "Будь відкритим до нових ідей.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-19T08:15:55.700892"
+    },
+    {
+      "english": "Self-care is not selfish.",
+      "ukrainian": "Турбота про себе – не егоїзм.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-19T08:15:55.700895"
+    },
+    {
+      "english": "Embrace your journey, it's unique.",
+      "ukrainian": "Приймай свою подорож, вона унікальна.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-19T08:15:55.700898"
+    },
+    {
+      "english": "Growth happens outside comfort.",
+      "ukrainian": "Зростання відбувається поза зоною комфорту.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-19T08:15:55.700903"
+    },
+    {
+      "english": "What's your main goal now?",
+      "ukrainian": "Яка твоя головна ціль зараз?",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-19T08:15:55.700906"
+    },
+    {
+      "english": "How can I improve this skill?",
+      "ukrainian": "Як я можу покращити цю навичку?",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-19T08:15:55.700909"
+    },
+    {
+      "english": "What helps you stay motivated?",
+      "ukrainian": "Що допомагає тобі залишатись вмотивованим?",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-19T08:15:55.700912"
+    },
+    {
+      "english": "Can we discuss our plans?",
+      "ukrainian": "Чи можемо ми обговорити наші плани?",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-19T08:15:55.700915"
+    },
+    {
+      "english": "Where do you find inspiration?",
+      "ukrainian": "Де ти знаходиш натхнення?",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-19T08:15:55.700918"
+    },
+    {
+      "english": "What if I feel stuck?",
+      "ukrainian": "Що робити, якщо я почуваюсь застряглим?",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-19T08:15:55.700921"
+    },
+    {
+      "english": "Tell me more about your journey.",
+      "ukrainian": "Розкажи мені більше про свій шлях.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-19T08:15:55.700923"
+    },
+    {
+      "english": "What's the best way to start?",
+      "ukrainian": "Який найкращий спосіб почати?",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-19T08:15:55.701009"
+    },
+    {
+      "english": "Could you share your experience?",
+      "ukrainian": "Чи міг би ти поділитися досвідом?",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-19T08:15:55.701012"
+    },
+    {
+      "english": "How do you handle setbacks?",
+      "ukrainian": "Як ти справляєшся з невдачами?",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-19T08:15:55.701015"
+    },
+    {
+      "english": "What are your strengths, really?",
+      "ukrainian": "Які твої сильні сторони, насправді?",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-19T08:15:55.701018"
+    },
+    {
+      "english": "What areas need my attention?",
+      "ukrainian": "На які сфери мені треба звернути увагу?",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-19T08:15:55.701021"
+    },
+    {
+      "english": "How do you maintain balance?",
+      "ukrainian": "Як ти підтримуєш баланс?",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-19T08:15:55.701023"
+    },
+    {
+      "english": "What's one small change today?",
+      "ukrainian": "Яка одна маленька зміна сьогодні?",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-19T08:15:55.701026"
+    },
+    {
+      "english": "Are you learning something new?",
+      "ukrainian": "Ти вивчаєш щось нове?",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-19T08:15:55.701029"
+    },
+    {
+      "english": "What motivates your actions?",
+      "ukrainian": "Що мотивує твої дії?",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-19T08:15:55.701031"
+    },
+    {
+      "english": "Can I ask for your opinion?",
+      "ukrainian": "Чи можу я попросити твою думку?",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-19T08:15:55.701036"
+    },
+    {
+      "english": "How do you stay positive daily?",
+      "ukrainian": "Як ти залишаєшся позитивним щодня?",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-19T08:15:55.701039"
+    },
+    {
+      "english": "What's your personal growth plan?",
+      "ukrainian": "Який твій план особистісного зростання?",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-19T08:15:55.701042"
+    },
+    {
+      "english": "When did you start this habit?",
+      "ukrainian": "Коли ти почав цю звичку?",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-19T08:15:55.701045"
+    },
+    {
+      "english": "What makes you feel accomplished?",
+      "ukrainian": "Що змушує тебе відчувати досягнення?",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-19T08:15:55.701048"
+    },
+    {
+      "english": "How do you define success?",
+      "ukrainian": "Як ти визначаєш успіх?",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-19T08:15:55.701051"
+    },
+    {
+      "english": "What are you grateful for today?",
+      "ukrainian": "За що ти вдячний сьогодні?",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-19T08:15:55.701054"
+    },
+    {
+      "english": "Can you suggest a good book?",
+      "ukrainian": "Чи можеш порадити гарну книгу?",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-19T08:15:55.701056"
+    },
+    {
+      "english": "How do you manage your time?",
+      "ukrainian": "Як ти керуєш своїм часом?",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-19T08:15:55.701059"
+    },
+    {
+      "english": "What helps you unwind after work?",
+      "ukrainian": "Що допомагає тобі розслабитись після роботи?",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-19T08:15:55.701062"
+    },
+    {
+      "english": "What's your favorite self-help tip?",
+      "ukrainian": "Яка твоя улюблена порада для самодопомоги?",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-19T08:15:55.701067"
+    },
+    {
+      "english": "How do you practice mindfulness?",
+      "ukrainian": "Як ти практикуєш усвідомленість?",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-19T08:15:55.701071"
+    },
+    {
+      "english": "What goal are you working towards?",
+      "ukrainian": "Над якою ціллю ти працюєш?",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-19T08:15:55.701074"
+    },
+    {
+      "english": "Every step forward counts.",
+      "ukrainian": "Кожен крок вперед важливий.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-19T08:15:55.701077"
+    },
+    {
+      "english": "Keep pushing your limits.",
+      "ukrainian": "Продовжуй розширювати межі.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-19T08:15:55.701079"
+    },
+    {
+      "english": "Your progress is inspiring.",
+      "ukrainian": "Твій прогрес надихає.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-19T08:15:55.701082"
+    },
+    {
+      "english": "Focus on what you can control.",
+      "ukrainian": "Зосередься на тому, що можеш контролювати.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-19T08:15:55.701085"
+    },
+    {
+      "english": "Small wins build big results.",
+      "ukrainian": "Маленькі перемоги дають великі результати.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-19T08:15:55.701088"
+    },
+    {
+      "english": "Stay positive, stay focused.",
+      "ukrainian": "Залишайся позитивним, залишайся зосередженим.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-19T08:15:55.701090"
+    },
+    {
+      "english": "You've got this, really.",
+      "ukrainian": "Ти впораєшся, справді.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-19T08:15:55.701094"
+    },
+    {
+      "english": "Embrace the learning process.",
+      "ukrainian": "Прийми процес навчання.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-19T08:15:55.701097"
+    },
+    {
+      "english": "Never stop learning, never stop growing.",
+      "ukrainian": "Ніколи не переставай вчитися, ніколи не переставай рости.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-19T08:15:55.701100"
+    },
+    {
+      "english": "Your mindset is everything.",
+      "ukrainian": "Твій настрій – це все.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-19T08:15:55.701113"
+    },
+    {
+      "english": "Celebrate your achievements, big or small.",
+      "ukrainian": "Святкуй свої досягнення, великі чи малі.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-19T08:15:55.701116"
+    },
+    {
+      "english": "Cultivate a growth mindset.",
+      "ukrainian": "Виховуй мислення зростання.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-19T08:15:55.701119"
+    },
+    {
+      "english": "Believe in the power of persistence.",
+      "ukrainian": "Вір у силу наполегливості.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-19T08:15:55.701123"
+    },
+    {
+      "english": "Keep a positive outlook.",
+      "ukrainian": "Зберігай позитивний погляд.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-19T08:15:55.701125"
+    },
+    {
+      "english": "Trust the process, it works.",
+      "ukrainian": "Довірся процесу, він працює.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-19T08:15:55.701129"
+    },
+    {
+      "english": "Your journey matters greatly.",
+      "ukrainian": "Твоя подорож має велике значення.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-19T08:15:55.701131"
+    },
+    {
+      "english": "Keep striving for your best.",
+      "ukrainian": "Продовжуй прагнути свого найкращого.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-19T08:15:55.701134"
+    },
+    {
+      "english": "Positive thoughts bring positive outcomes.",
+      "ukrainian": "Позитивні думки приносять позитивні результати.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-19T08:15:55.701137"
+    },
+    {
+      "english": "You're doing great, keep going.",
+      "ukrainian": "Ти чудово справляєшся, продовжуй.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-19T08:15:55.701140"
+    },
+    {
+      "english": "Adapt and overcome challenges.",
+      "ukrainian": "Адаптуйся і долай виклики.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-19T08:15:55.701143"
+    },
+    {
+      "english": "Focus on solutions, not problems.",
+      "ukrainian": "Зосередься на рішеннях, а не проблемах.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-19T08:15:55.701146"
+    },
+    {
+      "english": "Your attitude determines your altitude.",
+      "ukrainian": "Твоє ставлення визначає твій злет.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-19T08:15:55.701149"
+    },
+    {
+      "english": "Inner peace brings outer success.",
+      "ukrainian": "Внутрішній спокій приносить зовнішній успіх.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-19T08:15:55.701151"
+    },
+    {
+      "english": "Every day is a chance to grow.",
+      "ukrainian": "Кожен день – це шанс рости.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-19T08:15:55.701154"
+    },
+    {
+      "english": "What truly moves my heart?",
+      "ukrainian": "Що справді зворушує моє серце?",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-19T08:15:55.701157"
+    },
+    {
+      "english": "I need to be more patient, yes.",
+      "ukrainian": "Мені треба бути терплячішим, так.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-19T08:15:55.701160"
+    },
+    {
+      "english": "This feeling, it's quite deep.",
+      "ukrainian": "Це відчуття, воно досить глибоке.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-19T08:15:55.701163"
+    },
+    {
+      "english": "My inner voice, I must listen.",
+      "ukrainian": "Мій внутрішній голос, я мушу слухати.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-19T08:15:55.701168"
+    },
+    {
+      "english": "Honesty with myself, it's key.",
+      "ukrainian": "Чесність із собою, це головне.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-19T08:15:55.701171"
+    },
+    {
+      "english": "Slow down, breathe it all in.",
+      "ukrainian": "Сповільнись, вдихай усе.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-19T08:15:55.701175"
+    },
+    {
+      "english": "What does my soul truly desire?",
+      "ukrainian": "Чого насправді прагне моя душа?",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-19T08:15:55.701178"
+    },
+    {
+      "english": "Letting go, it's a skill.",
+      "ukrainian": "Відпускати, це навичка.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-19T08:15:55.701181"
+    },
+    {
+      "english": "Finding calm within the chaos.",
+      "ukrainian": "Знайти спокій серед хаосу.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-19T08:15:55.701184"
+    },
+    {
+      "english": "My own truth, I will seek.",
+      "ukrainian": "Свою власну правду, я шукатиму.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-19T08:15:55.701186"
+    },
+    {
+      "english": "Reflection time, very important.",
+      "ukrainian": "Час для роздумів, дуже важливий.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-19T08:15:55.701189"
+    },
+    {
+      "english": "What really matters to me?",
+      "ukrainian": "Що для мене справді важливо?",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-19T08:15:55.701192"
+    },
+    {
+      "english": "Empathy, it helps us connect.",
+      "ukrainian": "Емпатія, вона допомагає єднатися.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-19T08:15:55.701195"
+    },
+    {
+      "english": "Accepting flaws, part of life.",
+      "ukrainian": "Приймати недоліки, частина життя.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-19T08:15:55.701198"
+    },
+    {
+      "english": "This moment, I am present.",
+      "ukrainian": "Цей момент, я присутній.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-19T08:15:55.701201"
+    },
+    {
+      "english": "Learning from my mistakes, always.",
+      "ukrainian": "Вчитися на своїх помилках, завжди.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-19T08:15:55.701203"
+    },
+    {
+      "english": "My feelings, I won't suppress.",
+      "ukrainian": "Свої почуття, я не придушуватиму.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-19T08:15:55.701207"
+    },
+    {
+      "english": "Inner peace, my ultimate goal.",
+      "ukrainian": "Внутрішній спокій, моя кінцева мета.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-19T08:15:55.701210"
+    },
+    {
+      "english": "Understanding myself, taking time.",
+      "ukrainian": "Зрозуміти себе, потребує часу.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-19T08:15:55.701212"
+    },
+    {
+      "english": "Gratitude fills my whole being.",
+      "ukrainian": "Вдячність наповнює все моє єство.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-19T08:15:55.701215"
+    },
+    {
+      "english": "This journey requires courage.",
+      "ukrainian": "Ця подорож вимагає сміливості.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-19T08:15:55.701218"
+    },
+    {
+      "english": "My intuition, I will trust.",
+      "ukrainian": "Свою інтуїцію, я довірятиму.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-19T08:15:55.701220"
+    },
+    {
+      "english": "Kindness towards others, and me.",
+      "ukrainian": "Доброта до інших, і до себе.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-19T08:15:55.701223"
+    },
+    {
+      "english": "Letting emotions flow naturally.",
+      "ukrainian": "Дозволяти емоціям текти природно.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-19T08:15:55.701226"
+    },
+    {
+      "english": "What brings me genuine joy?",
+      "ukrainian": "Що приносить мені щиру радість?",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-19T08:15:55.701228"
+    },
+    {
+      "english": "Accepting change, it's necessary.",
+      "ukrainian": "Приймати зміни, це необхідно.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-19T08:15:55.701237"
+    },
+    {
+      "english": "Self-compassion is truly vital.",
+      "ukrainian": "Співчуття до себе справді життєво важливе.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-19T08:15:55.701241"
+    },
+    {
+      "english": "My core values, I live by.",
+      "ukrainian": "Мої основні цінності, я живу за ними.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-19T08:15:55.701243"
+    },
+    {
+      "english": "A quiet mind, makes clear thoughts.",
+      "ukrainian": "Тихий розум, породжує ясні думки.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-19T08:15:55.701246"
+    },
+    {
+      "english": "This understanding brings me peace.",
+      "ukrainian": "Це розуміння приносить мені спокій.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-19T08:15:55.701249"
+    },
+    {
+      "english": "Plan your day, make progress.",
+      "ukrainian": "Плануй день, роби прогрес.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-19T08:15:55.701252"
+    },
+    {
+      "english": "Ask for help, it's not weakness.",
+      "ukrainian": "Проси про допомогу, це не слабкість.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-19T08:15:55.701257"
+    },
+    {
+      "english": "Simplify your life, reduce clutter.",
+      "ukrainian": "Спрости своє життя, зменш безлад.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-19T08:15:55.701261"
+    },
+    {
+      "english": "Take breaks, avoid burnout, seriously.",
+      "ukrainian": "Робіть перерви, уникайте вигорання, серйозно.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-19T08:15:55.701264"
+    },
+    {
+      "english": "Prioritize sleep, it's fundamental.",
+      "ukrainian": "Віддай перевагу сну, це фундаментально.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-19T08:15:55.701267"
+    },
+    {
+      "english": "Drink enough water, daily habit.",
+      "ukrainian": "Пий достатньо води, щоденна звичка.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-19T08:15:55.701270"
+    },
+    {
+      "english": "Move your body, feel alive.",
+      "ukrainian": "Рухай тілом, відчуй себе живим.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-19T08:15:55.701273"
+    },
+    {
+      "english": "Connect with loved ones, regularly.",
+      "ukrainian": "Спілкуйся з близькими, регулярно.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-19T08:15:55.701278"
+    },
+    {
+      "english": "Practice gratitude, for small things.",
+      "ukrainian": "Практикуй вдячність, за дрібниці.",
+      "category": "Self Improvement",
+      "generated_at": "2026-10-19T08:15:55.701281"
     }
   ],
-  "last_updated": "2026-10-18T07:32:06.518358"
+  "last_updated": "2026-10-19T08:15:55.701283"
 }
