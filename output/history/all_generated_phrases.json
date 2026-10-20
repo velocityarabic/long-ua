@@ -2159,7 +2159,727 @@
       "ukrainian": "Практикуй вдячність, за дрібниці.",
       "category": "Self Improvement",
       "generated_at": "2026-10-19T08:15:55.701281"
+    },
+    {
+      "english": "Hello, who is it?,",
+      "ukrainian": "Алло, хто це?,",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-20T08:01:33.545394"
+    },
+    {
+      "english": "Can you hear me?,",
+      "ukrainian": "Мене чути?,",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-20T08:01:33.545424"
+    },
+    {
+      "english": "I can't hear you well,",
+      "ukrainian": "Погано чую,",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-20T08:01:33.545427"
+    },
+    {
+      "english": "Speak louder, please,",
+      "ukrainian": "Говоріть голосніше, будь ласка,",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-20T08:01:33.545428"
+    },
+    {
+      "english": "It's bad connection,",
+      "ukrainian": "Зв'язок поганий,",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-20T08:01:33.545431"
+    },
+    {
+      "english": "Call me back later,",
+      "ukrainian": "Передзвони мені пізніше,",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-20T08:01:33.545433"
+    },
+    {
+      "english": "I'll call you right back,",
+      "ukrainian": "Я тобі передзвоню,",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-20T08:01:33.545435"
+    },
+    {
+      "english": "Are you busy now?,",
+      "ukrainian": "Ти зайнятий зараз?,",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-20T08:01:33.545439"
+    },
+    {
+      "english": "I'm on my way,",
+      "ukrainian": "Я вже в дорозі,",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-20T08:01:33.545441"
+    },
+    {
+      "english": "Where are you exactly?,",
+      "ukrainian": "Де ти саме?,",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-20T08:01:33.545443"
+    },
+    {
+      "english": "I'll send you my location,",
+      "ukrainian": "Надішлю тобі локацію,",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-20T08:01:33.545445"
+    },
+    {
+      "english": "Did you get my message?,",
+      "ukrainian": "Ти отримав моє повідомлення?,",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-20T08:01:33.545447"
+    },
+    {
+      "english": "I'll text you later,",
+      "ukrainian": "Я напишу тобі пізніше,",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-20T08:01:33.545449"
+    },
+    {
+      "english": "What's up?,",
+      "ukrainian": "Як справи?,",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-20T08:01:33.545451"
+    },
+    {
+      "english": "Everything is fine,",
+      "ukrainian": "Все гаразд,",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-20T08:01:33.545452"
+    },
+    {
+      "english": "Not bad, thanks,",
+      "ukrainian": "Непогано, дякую,",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-20T08:01:33.545454"
+    },
+    {
+      "english": "I'm a bit late,",
+      "ukrainian": "Я трохи запізнююсь,",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-20T08:01:33.545456"
+    },
+    {
+      "english": "See you soon,",
+      "ukrainian": "До зустрічі,",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-20T08:01:33.545457"
+    },
+    {
+      "english": "I'm already here,",
+      "ukrainian": "Я вже тут,",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-20T08:01:33.545458"
+    },
+    {
+      "english": "Wait for me a minute,",
+      "ukrainian": "Почекай хвилинку,",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-20T08:01:33.545460"
+    },
+    {
+      "english": "I'm leaving now,",
+      "ukrainian": "Я виходжу,",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-20T08:01:33.545461"
+    },
+    {
+      "english": "What time is it?,",
+      "ukrainian": "Котра година?,",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-20T08:01:33.545463"
+    },
+    {
+      "english": "It's almost time,",
+      "ukrainian": "Вже майже час,",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-20T08:01:33.545464"
+    },
+    {
+      "english": "I can't talk now,",
+      "ukrainian": "Не можу зараз говорити,",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-20T08:01:33.545466"
+    },
+    {
+      "english": "Let's talk later,",
+      "ukrainian": "Поговоримо пізніше,",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-20T08:01:33.545467"
+    },
+    {
+      "english": "The line is busy,",
+      "ukrainian": "Лінія зайнята,",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-20T08:01:33.545469"
+    },
+    {
+      "english": "I'll call you from another number,",
+      "ukrainian": "Я подзвоню з іншого номера,",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-20T08:01:33.545470"
+    },
+    {
+      "english": "Is this number correct?,",
+      "ukrainian": "Цей номер правильний?,",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-20T08:01:33.545472"
+    },
+    {
+      "english": "I didn't understand,",
+      "ukrainian": "Я не зрозумів,",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-20T08:01:33.545473"
+    },
+    {
+      "english": "Could you repeat that?,",
+      "ukrainian": "Можете повторити?,",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-20T08:01:33.545475"
+    },
+    {
+      "english": "What are you doing, my friend?",
+      "ukrainian": "Що робиш, друже мій?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-20T08:01:33.545477"
+    },
+    {
+      "english": "Is everything okay with you?",
+      "ukrainian": "Все гаразд у тебе?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-20T08:01:33.545479"
+    },
+    {
+      "english": "Can I ask a quick question?",
+      "ukrainian": "Можна, спитаю швидко?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-20T08:01:33.545481"
+    },
+    {
+      "english": "Do you have a moment to chat?",
+      "ukrainian": "Маєш хвилинку поговорити?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-20T08:01:33.545484"
+    },
+    {
+      "english": "What is your opinion on this?",
+      "ukrainian": "Яка твоя думка про це?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-20T08:01:33.545485"
+    },
+    {
+      "english": "Could you give me some advice?",
+      "ukrainian": "Можеш дати пораду мені?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-20T08:01:33.545488"
+    },
+    {
+      "english": "When would be a good time to call?",
+      "ukrainian": "Коли зручно тобі дзвонити?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-20T08:01:33.545490"
+    },
+    {
+      "english": "Is this a good time to bother you?",
+      "ukrainian": "Зараз добрий час тебе турбувати?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-20T08:01:33.545492"
+    },
+    {
+      "english": "What are your plans for the weekend?",
+      "ukrainian": "Які твої плани на вихідні?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-20T08:01:33.545494"
+    },
+    {
+      "english": "Are you free to meet up?",
+      "ukrainian": "Ти вільний зустрітися?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-20T08:01:33.545496"
+    },
+    {
+      "english": "What did you think of the movie?",
+      "ukrainian": "Як тобі сподобався фільм?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-20T08:01:33.545497"
+    },
+    {
+      "english": "Did you enjoy your trip?",
+      "ukrainian": "Тобі сподобалася поїздка?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-20T08:01:33.545501"
+    },
+    {
+      "english": "What's the latest news?",
+      "ukrainian": "Які останні новини?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-20T08:01:33.545503"
+    },
+    {
+      "english": "Can you recommend a good restaurant?",
+      "ukrainian": "Порекомендуєш хороший ресторан?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-20T08:01:33.545505"
+    },
+    {
+      "english": "How was your day?",
+      "ukrainian": "Як пройшов твій день?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-20T08:01:33.545506"
+    },
+    {
+      "english": "What are you thinking about?",
+      "ukrainian": "Про що ти думаєш?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-20T08:01:33.545508"
+    },
+    {
+      "english": "Is there anything I can help with?",
+      "ukrainian": "Можу чимось допомогти?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-20T08:01:33.545510"
+    },
+    {
+      "english": "Do you need anything from the store?",
+      "ukrainian": "Треба щось тобі з магазину?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-20T08:01:33.545511"
+    },
+    {
+      "english": "What time should we meet?",
+      "ukrainian": "О котрій годині зустрінемось?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-20T08:01:33.545513"
+    },
+    {
+      "english": "Are you coming to the party?",
+      "ukrainian": "Ти прийдеш на вечірку?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-20T08:01:33.545514"
+    },
+    {
+      "english": "Did you finish the project?",
+      "ukrainian": "Ти закінчив проект?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-20T08:01:33.545516"
+    },
+    {
+      "english": "What do you want to eat?",
+      "ukrainian": "Що хочеш з'їсти?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-20T08:01:33.545517"
+    },
+    {
+      "english": "Should I wait for you outside?",
+      "ukrainian": "Мені чекати тебе ззовні?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-20T08:01:33.545519"
+    },
+    {
+      "english": "Do you want to go for a walk?",
+      "ukrainian": "Хочеш піти на прогулянку?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-20T08:01:33.545520"
+    },
+    {
+      "english": "What is the weather like there?",
+      "ukrainian": "Яка там погода?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-20T08:01:33.545522"
+    },
+    {
+      "english": "Can you send me the details?",
+      "ukrainian": "Можеш надіслати мені деталі?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-20T08:01:33.545523"
+    },
+    {
+      "english": "What is your favorite color?",
+      "ukrainian": "Який твій улюблений колір?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-20T08:01:33.545525"
+    },
+    {
+      "english": "Did you hear the news?",
+      "ukrainian": "Ти чув новини?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-20T08:01:33.545527"
+    },
+    {
+      "english": "What are you up to today?",
+      "ukrainian": "Чим зайнятий сьогодні?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-20T08:01:33.545528"
+    },
+    {
+      "english": "Is there anything else I should know?",
+      "ukrainian": "Є ще щось, що мені знати?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-20T08:01:33.545530"
+    },
+    {
+      "english": "Give me a ring, later on.",
+      "ukrainian": "Набери мене, пізніше.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-20T08:01:33.545532"
+    },
+    {
+      "english": "Just checking in, you know?",
+      "ukrainian": "Просто на зв'язку, знаєш?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-20T08:01:33.545534"
+    },
+    {
+      "english": "Got your message, thanks!",
+      "ukrainian": "Бачив твоє повідомлення, дякую!",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-20T08:01:33.545536"
+    },
+    {
+      "english": "Speak soon, alright?",
+      "ukrainian": "Поговоримо скоро, гаразд?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-20T08:01:33.545538"
+    },
+    {
+      "english": "Don't be a stranger, text me.",
+      "ukrainian": "Не пропадай, напиши мені.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-20T08:01:33.545541"
+    },
+    {
+      "english": "Hear from you soon, hopefully.",
+      "ukrainian": "Буду чекати звісточки, сподіваюсь.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-20T08:01:33.545545"
+    },
+    {
+      "english": "This call is cutting out.",
+      "ukrainian": "Зв'язок переривається.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-20T08:01:33.545546"
+    },
+    {
+      "english": "Let's catch up soon, okay?",
+      "ukrainian": "Зустрінемось скоріше, добре?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-20T08:01:33.545548"
+    },
+    {
+      "english": "Drop me a line sometime.",
+      "ukrainian": "Кидай мені звістку коли-небудь.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-20T08:01:33.545550"
+    },
+    {
+      "english": "Is my voice breaking up?",
+      "ukrainian": "Мене погано чути?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-20T08:01:33.545551"
+    },
+    {
+      "english": "I'll ping you later.",
+      "ukrainian": "Я тобі напишу пізніше.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-20T08:01:33.545553"
+    },
+    {
+      "english": "Keep me posted, yeah?",
+      "ukrainian": "Тримай мене в курсі, га?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-20T08:01:33.545555"
+    },
+    {
+      "english": "Talk to you then.",
+      "ukrainian": "До зв'язку тоді.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-20T08:01:33.545557"
+    },
+    {
+      "english": "Got it, will do.",
+      "ukrainian": "Зрозумів, зроблю.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-20T08:01:33.545559"
+    },
+    {
+      "english": "Send me a quick text.",
+      "ukrainian": "Напиши мені швиденько.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-20T08:01:33.545560"
+    },
+    {
+      "english": "All good on my end.",
+      "ukrainian": "У мене все добре.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-20T08:01:33.545562"
+    },
+    {
+      "english": "I'll get back to you.",
+      "ukrainian": "Я тобі передзвоню.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-20T08:01:33.545564"
+    },
+    {
+      "english": "Give me a shout if needed.",
+      "ukrainian": "Дай знати, якщо що.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-20T08:01:33.545565"
+    },
+    {
+      "english": "We're on the same wavelength.",
+      "ukrainian": "Ми на одній хвилі.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-20T08:01:33.545567"
+    },
+    {
+      "english": "This signal is weak.",
+      "ukrainian": "Сигнал слабкий.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-20T08:01:33.545569"
+    },
+    {
+      "english": "Catch you on the flip side.",
+      "ukrainian": "Побачимось пізніше.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-20T08:01:33.545571"
+    },
+    {
+      "english": "Lost connection, call back.",
+      "ukrainian": "Зв'язок обірвався, передзвони.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-20T08:01:33.545572"
+    },
+    {
+      "english": "I'll follow up.",
+      "ukrainian": "Я проконтролюю.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-20T08:01:33.545574"
+    },
+    {
+      "english": "My battery is dying.",
+      "ukrainian": "Батарея сідає.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-20T08:01:33.545575"
+    },
+    {
+      "english": "Anything new happening?",
+      "ukrainian": "Щось новеньке?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-20T08:01:33.545577"
+    },
+    {
+      "english": "You're breaking up a bit.",
+      "ukrainian": "Трохи погано чути.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-20T08:01:33.545579"
+    },
+    {
+      "english": "Sending good vibes your way.",
+      "ukrainian": "Надсилаю тобі позитив.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-20T08:01:33.545580"
+    },
+    {
+      "english": "Got your missed call.",
+      "ukrainian": "Бачив, що телефонував.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-20T08:01:33.545582"
+    },
+    {
+      "english": "Let's keep in touch.",
+      "ukrainian": "Давай спілкуватись.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-20T08:01:33.545584"
+    },
+    {
+      "english": "Got your text, message received.",
+      "ukrainian": "Бачив твоє повідомлення, отримав.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-20T08:01:33.545585"
+    },
+    {
+      "english": "I'm feeling a bit thoughtful today.",
+      "ukrainian": "Я сьогодні трохи замислився.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-20T08:01:33.545587"
+    },
+    {
+      "english": "It makes me reflect, you know?",
+      "ukrainian": "Це змушує мене замислитись, знаєш?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-20T08:01:33.545590"
+    },
+    {
+      "english": "Take your time, no rush at all.",
+      "ukrainian": "Не поспішай, зовсім немає потреби.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-20T08:01:33.545592"
+    },
+    {
+      "english": "I'm trying to be more patient.",
+      "ukrainian": "Я намагаюся бути терплячішим.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-20T08:01:33.545594"
+    },
+    {
+      "english": "Honestly, I feel quite calm.",
+      "ukrainian": "Чесно кажучи, я почуваюся досить спокійно.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-20T08:01:33.545596"
+    },
+    {
+      "english": "This situation requires reflection.",
+      "ukrainian": "Ця ситуація вимагає роздумів.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-20T08:01:33.545597"
+    },
+    {
+      "english": "I've been thinking about it deeply.",
+      "ukrainian": "Я глибоко про це думав.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-20T08:01:33.545600"
+    },
+    {
+      "english": "What's truly on your mind now?",
+      "ukrainian": "Що справді у тебе на думці зараз?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-20T08:01:33.545603"
+    },
+    {
+      "english": "I hope you're doing okay, really.",
+      "ukrainian": "Сподіваюся, у тебе все добре, справді.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-20T08:01:33.545605"
+    },
+    {
+      "english": "Let's talk about feelings later.",
+      "ukrainian": "Давай поговоримо про почуття пізніше.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-20T08:01:33.545607"
+    },
+    {
+      "english": "This message carries sincere thoughts.",
+      "ukrainian": "Це повідомлення несе щирі думки.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-20T08:01:33.545609"
+    },
+    {
+      "english": "I understand your perspective now.",
+      "ukrainian": "Тепер я розумію твою точку зору.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-20T08:01:33.545610"
+    },
+    {
+      "english": "My feelings are a bit complex.",
+      "ukrainian": "Мої почуття трохи складні.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-20T08:01:33.545612"
+    },
+    {
+      "english": "It’s important to be honest here.",
+      "ukrainian": "Тут важливо бути відвертим.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-20T08:01:33.545617"
+    },
+    {
+      "english": "I need some time to process.",
+      "ukrainian": "Мені потрібен час, щоб обдумати.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-20T08:01:33.545619"
+    },
+    {
+      "english": "What are you truly feeling inside?",
+      "ukrainian": "Що ти насправді відчуваєш усередині?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-20T08:01:33.545620"
+    },
+    {
+      "english": "Let's share our honest thoughts.",
+      "ukrainian": "Давай поділимося щирими думками.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-20T08:01:33.545622"
+    },
+    {
+      "english": "This connection means a lot to me.",
+      "ukrainian": "Цей зв'язок для мене багато значить.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-20T08:01:33.545624"
+    },
+    {
+      "english": "I appreciate your understanding.",
+      "ukrainian": "Я ціную твоє розуміння.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-20T08:01:33.545625"
+    },
+    {
+      "english": "Everything feels rather peaceful now.",
+      "ukrainian": "Усе здається досить мирним зараз.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-20T08:01:33.545627"
+    },
+    {
+      "english": "Just wanted to share this feeling.",
+      "ukrainian": "Просто хотів поділитися цим почуттям.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-20T08:01:33.545629"
+    },
+    {
+      "english": "Let's be patient with each other.",
+      "ukrainian": "Будьмо терплячими одне до одного.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-20T08:01:33.545630"
+    },
+    {
+      "english": "I'm reflecting on our conversation.",
+      "ukrainian": "Я розмірковую над нашою розмовою.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-20T08:01:33.545633"
+    },
+    {
+      "english": "It's good to express ourselves openly.",
+      "ukrainian": "Добре висловлюватись відкрито.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-20T08:01:33.545635"
+    },
+    {
+      "english": "This requires some deep thinking.",
+      "ukrainian": "Це вимагає глибоких роздумів.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-20T08:01:33.545636"
+    },
+    {
+      "english": "My thoughts are with you always.",
+      "ukrainian": "Мої думки завжди з тобою.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-20T08:01:33.545637"
+    },
+    {
+      "english": "This moment feels quite profound.",
+      "ukrainian": "Цей момент здається доволі глибоким.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-20T08:01:33.545639"
+    },
+    {
+      "english": "Honesty builds stronger connections.",
+      "ukrainian": "Чесність будує міцніші зв'язки.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-20T08:01:33.545640"
+    },
+    {
+      "english": "I value this quiet reflection time.",
+      "ukrainian": "Я ціную цей час спокійних роздумів.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-20T08:01:33.545642"
+    },
+    {
+      "english": "Sorry, missed your call, what's up?",
+      "ukrainian": "Вибач, пропустив дзвінок, щось сталося?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-20T08:01:33.545644"
     }
   ],
-  "last_updated": "2026-10-19T08:15:55.701283"
+  "last_updated": "2026-10-20T08:01:33.545645"
 }
