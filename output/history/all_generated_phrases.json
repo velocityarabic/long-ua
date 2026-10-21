@@ -2879,7 +2879,727 @@
       "ukrainian": "Вибач, пропустив дзвінок, щось сталося?",
       "category": "Phone Calls & Messages",
       "generated_at": "2026-10-20T08:01:33.545644"
+    },
+    {
+      "english": "Let's go, team!",
+      "ukrainian": "Вперед, команда!",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-21T08:07:06.582194"
+    },
+    {
+      "english": "You got this!",
+      "ukrainian": "Ти зможеш!",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-21T08:07:06.582206"
+    },
+    {
+      "english": "Good job, really!",
+      "ukrainian": "Молодець, справді!",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-21T08:07:06.582211"
+    },
+    {
+      "english": "How was your workout?",
+      "ukrainian": "Як пройшла твоя тренування?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-21T08:07:06.582214"
+    },
+    {
+      "english": "I'm so tired, wow.",
+      "ukrainian": "Я такий втомлений, ого.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-21T08:07:06.582217"
+    },
+    {
+      "english": "Need to stretch more.",
+      "ukrainian": "Треба більше розтягуватися.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-21T08:07:06.582220"
+    },
+    {
+      "english": "Let's hit the gym.",
+      "ukrainian": "Ходімо в спортзал.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-21T08:07:06.582222"
+    },
+    {
+      "english": "Feeling energetic today!",
+      "ukrainian": "Сьогодні сповнений енергії!",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-21T08:07:06.582228"
+    },
+    {
+      "english": "One more rep, come on!",
+      "ukrainian": "Ще один повтор, давай!",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-21T08:07:06.582231"
+    },
+    {
+      "english": "That was intense, man.",
+      "ukrainian": "Це було інтенсивно, друже.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-21T08:07:06.582236"
+    },
+    {
+      "english": "My muscles are sore.",
+      "ukrainian": "Мої м'язи болять.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-21T08:07:06.582239"
+    },
+    {
+      "english": "Time to hydrate, right?",
+      "ukrainian": "Час пити воду, так?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-21T08:07:06.582242"
+    },
+    {
+      "english": "Let's warm up first.",
+      "ukrainian": "Давай спочатку розім'ємося.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-21T08:07:06.582244"
+    },
+    {
+      "english": "Keep pushing, don't stop.",
+      "ukrainian": "Продовжуй наполягати, не зупиняйся.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-21T08:07:06.582247"
+    },
+    {
+      "english": "Almost there, you're close!",
+      "ukrainian": "Майже готово, ти близько!",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-21T08:07:06.582342"
+    },
+    {
+      "english": "Did you run today?",
+      "ukrainian": "Ти сьогодні бігав?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-21T08:07:06.582346"
+    },
+    {
+      "english": "Feeling the burn, yeah!",
+      "ukrainian": "Відчуваю печіння, так!",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-21T08:07:06.582348"
+    },
+    {
+      "english": "Need a good cool-down.",
+      "ukrainian": "Потрібне гарне заспокоєння.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-21T08:07:06.582351"
+    },
+    {
+      "english": "Let's beat our records.",
+      "ukrainian": "Поб'ємо наші рекорди.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-21T08:07:06.582354"
+    },
+    {
+      "english": "That was a killer workout.",
+      "ukrainian": "Це було вбивче тренування.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-21T08:07:06.582356"
+    },
+    {
+      "english": "Staying active is key.",
+      "ukrainian": "Залишатися активним – це головне.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-21T08:07:06.582359"
+    },
+    {
+      "english": "Ready for the challenge?",
+      "ukrainian": "Готовий до виклику?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-21T08:07:06.582361"
+    },
+    {
+      "english": "My legs are jelly.",
+      "ukrainian": "Мої ноги, як желе.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-21T08:07:06.582363"
+    },
+    {
+      "english": "Let's get stronger, guys.",
+      "ukrainian": "Стаємо сильнішими, хлопці.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-21T08:07:06.582366"
+    },
+    {
+      "english": "Sweating buckets, phew!",
+      "ukrainian": "Ллється піт градом, фух!",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-21T08:07:06.582369"
+    },
+    {
+      "english": "Focus on your form.",
+      "ukrainian": "Зосередься на своїй формі.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-21T08:07:06.582371"
+    },
+    {
+      "english": "What's your fitness goal?",
+      "ukrainian": "Яка твоя фітнес-ціль?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-21T08:07:06.582376"
+    },
+    {
+      "english": "This feels amazing!",
+      "ukrainian": "Це відчувається дивовижно!",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-21T08:07:06.582379"
+    },
+    {
+      "english": "Don't give up now.",
+      "ukrainian": "Не здавайся зараз.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-21T08:07:06.582381"
+    },
+    {
+      "english": "Healthy body, healthy mind.",
+      "ukrainian": "Здорове тіло, здоровий розум.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-21T08:07:06.582384"
+    },
+    {
+      "english": "Can you show me, please?",
+      "ukrainian": "Можеш показати, будь ласка?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-21T08:07:06.582387"
+    },
+    {
+      "english": "What exercise is this?",
+      "ukrainian": "Яка це вправа?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-21T08:07:06.582390"
+    },
+    {
+      "english": "How many sets do we do?",
+      "ukrainian": "Скільки підходів робимо?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-21T08:07:06.582392"
+    },
+    {
+      "english": "Is this the correct form?",
+      "ukrainian": "Це правильна техніка?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-21T08:07:06.582395"
+    },
+    {
+      "english": "Where is the water fountain?",
+      "ukrainian": "Де тут питна вода?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-21T08:07:06.582398"
+    },
+    {
+      "english": "What do you recommend for legs?",
+      "ukrainian": "Що порадите для ніг?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-21T08:07:06.582400"
+    },
+    {
+      "english": "Can I join your group?",
+      "ukrainian": "Можна з вами?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-21T08:07:06.582403"
+    },
+    {
+      "english": "Is this gym open late?",
+      "ukrainian": "Цей зал працює допізна?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-21T08:07:06.582405"
+    },
+    {
+      "english": "How often do you train?",
+      "ukrainian": "Як часто тренуєшся?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-21T08:07:06.582408"
+    },
+    {
+      "english": "Could you help me start?",
+      "ukrainian": "Допоможете почати?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-21T08:07:06.582410"
+    },
+    {
+      "english": "What's your favorite sport?",
+      "ukrainian": "Який твій улюблений спорт?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-21T08:07:06.582413"
+    },
+    {
+      "english": "Do you play any sports?",
+      "ukrainian": "Займаєшся якимись видами спорту?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-21T08:07:06.582421"
+    },
+    {
+      "english": "How can I improve?",
+      "ukrainian": "Як мені покращитись?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-21T08:07:06.582424"
+    },
+    {
+      "english": "Should I lift heavier?",
+      "ukrainian": "Чи варто взяти більше?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-21T08:07:06.582428"
+    },
+    {
+      "english": "Is there a class today?",
+      "ukrainian": "Сьогодні є заняття?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-21T08:07:06.582431"
+    },
+    {
+      "english": "Are you ready to go?",
+      "ukrainian": "Готовий(а) йти?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-21T08:07:06.582433"
+    },
+    {
+      "english": "What time does it start?",
+      "ukrainian": "О котрій годині починається?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-21T08:07:06.582435"
+    },
+    {
+      "english": "Can we do this together?",
+      "ukrainian": "Можемо зробити разом?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-21T08:07:06.582438"
+    },
+    {
+      "english": "Is this challenging enough?",
+      "ukrainian": "Це достатньо складно?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-21T08:07:06.582441"
+    },
+    {
+      "english": "What are you training for?",
+      "ukrainian": "До чого тренуєшся?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-21T08:07:06.582443"
+    },
+    {
+      "english": "Do you need a spotter?",
+      "ukrainian": "Потрібен помічник?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-21T08:07:06.582446"
+    },
+    {
+      "english": "Can you recommend a trainer?",
+      "ukrainian": "Можете порадити тренера?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-21T08:07:06.582448"
+    },
+    {
+      "english": "Where should I stretch?",
+      "ukrainian": "Де мені розім'ятись?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-21T08:07:06.582452"
+    },
+    {
+      "english": "Is this equipment free?",
+      "ukrainian": "Це обладнання вільне?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-21T08:07:06.582455"
+    },
+    {
+      "english": "How many minutes should I run?",
+      "ukrainian": "Скільки хвилин бігти?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-21T08:07:06.582457"
+    },
+    {
+      "english": "What's the next exercise?",
+      "ukrainian": "Яка наступна вправа?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-21T08:07:06.582460"
+    },
+    {
+      "english": "Can we slow down a bit?",
+      "ukrainian": "Можемо трохи сповільнитись?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-21T08:07:06.582463"
+    },
+    {
+      "english": "Did you try that new class?",
+      "ukrainian": "Ти пробував(ла) нове заняття?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-21T08:07:06.582465"
+    },
+    {
+      "english": "How do you feel now?",
+      "ukrainian": "Як ти себе почуваєш?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-21T08:07:06.582467"
+    },
+    {
+      "english": "Push your limits, gently.",
+      "ukrainian": "Розширюй межі, обережно.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-21T08:07:06.582470"
+    },
+    {
+      "english": "Today's effort, tomorrow's strength.",
+      "ukrainian": "Сьогоднішні зусилля, завтрашня сила.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-21T08:07:06.582474"
+    },
+    {
+      "english": "You've got this power.",
+      "ukrainian": "Ти маєш цю силу.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-21T08:07:06.582477"
+    },
+    {
+      "english": "Keep that positive energy.",
+      "ukrainian": "Зберігай цю позитивну енергію.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-21T08:07:06.582479"
+    },
+    {
+      "english": "Mind over matter, right?",
+      "ukrainian": "Дух сильніший за тіло, так?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-21T08:07:06.582482"
+    },
+    {
+      "english": "Little by little, we grow.",
+      "ukrainian": "Мало-помалу, ми ростемо.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-21T08:07:06.582485"
+    },
+    {
+      "english": "You're doing great work.",
+      "ukrainian": "Ти чудово працюєш.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-21T08:07:06.582488"
+    },
+    {
+      "english": "Don't compare, just strive.",
+      "ukrainian": "Не порівнюй, просто прагни.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-21T08:07:06.582490"
+    },
+    {
+      "english": "Your body will thank you.",
+      "ukrainian": "Твоє тіло подякує тобі.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-21T08:07:06.582493"
+    },
+    {
+      "english": "Stay consistent, see results.",
+      "ukrainian": "Будь послідовним/послідовною, побачиш результат.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-21T08:07:06.582496"
+    },
+    {
+      "english": "One more repetition, you can.",
+      "ukrainian": "Ще одне повторення, ти можеш.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-21T08:07:06.582499"
+    },
+    {
+      "english": "Feel the burn, embrace it.",
+      "ukrainian": "Відчуй печіння, прийми його.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-21T08:07:06.582501"
+    },
+    {
+      "english": "Your effort is noticeable.",
+      "ukrainian": "Твої зусилля помітні.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-21T08:07:06.582504"
+    },
+    {
+      "english": "Keep pushing through fatigue.",
+      "ukrainian": "Продовжуй долати втому.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-21T08:07:06.582506"
+    },
+    {
+      "english": "This discipline builds champions.",
+      "ukrainian": "Ця дисципліна виховує чемпіонів.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-21T08:07:06.582511"
+    },
+    {
+      "english": "Listen to your inner voice.",
+      "ukrainian": "Прислухайся до свого внутрішнього голосу.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-21T08:07:06.582513"
+    },
+    {
+      "english": "Celebrate small victories.",
+      "ukrainian": "Святкуй маленькі перемоги.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-21T08:07:06.582516"
+    },
+    {
+      "english": "You are getting fitter.",
+      "ukrainian": "Ти стаєш здоровішим/здоровішою.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-21T08:07:06.582518"
+    },
+    {
+      "english": "Never underestimate your potential.",
+      "ukrainian": "Ніколи не недооцінюй свій потенціал.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-21T08:07:06.582521"
+    },
+    {
+      "english": "Focus on the process, enjoy.",
+      "ukrainian": "Зосередься на процесі, насолоджуйся.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-21T08:07:06.582523"
+    },
+    {
+      "english": "Your determination is inspiring.",
+      "ukrainian": "Твоя рішучість надихає.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-21T08:07:06.582526"
+    },
+    {
+      "english": "Keep that fighting spirit.",
+      "ukrainian": "Збережи бойовий дух.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-21T08:07:06.582530"
+    },
+    {
+      "english": "Stronger every single day.",
+      "ukrainian": "Сильніший/сильніша щодня.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-21T08:07:06.582533"
+    },
+    {
+      "english": "Embrace the discomfort zone.",
+      "ukrainian": "Прийми зону дискомфорту.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-21T08:07:06.582535"
+    },
+    {
+      "english": "Consistency breeds excellence.",
+      "ukrainian": "Послідовність породжує досконалість.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-21T08:07:06.582538"
+    },
+    {
+      "english": "You're making real progress.",
+      "ukrainian": "Ти досягаєш реального прогресу.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-21T08:07:06.582540"
+    },
+    {
+      "english": "This feels harder today, strangely.",
+      "ukrainian": "Це відчувається важче сьогодні, дивно.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-21T08:07:06.582543"
+    },
+    {
+      "english": "I reflect on my form, often.",
+      "ukrainian": "Я часто розмірковую над своєю формою.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-21T08:07:06.582546"
+    },
+    {
+      "english": "It takes patience, this journey.",
+      "ukrainian": "Ця подорож вимагає терпіння.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-21T08:07:06.582549"
+    },
+    {
+      "english": "My mind wanders sometimes, during reps.",
+      "ukrainian": "Мій розум іноді блукає, під час повторень.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-21T08:07:06.582552"
+    },
+    {
+      "english": "How do you manage the mental fatigue?",
+      "ukrainian": "Як ти справляєшся з ментальною втомою?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-21T08:07:06.582554"
+    },
+    {
+      "english": "I really need to be more mindful.",
+      "ukrainian": "Мені справді потрібно бути уважнішим.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-21T08:07:06.582557"
+    },
+    {
+      "english": "That inner voice whispers doubts.",
+      "ukrainian": "Той внутрішній голос шепоче сумніви.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-21T08:07:06.582560"
+    },
+    {
+      "english": "What motivates your consistent effort?",
+      "ukrainian": "Що мотивує твої послідовні зусилля?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-21T08:07:06.582562"
+    },
+    {
+      "english": "I'm learning to accept limitations.",
+      "ukrainian": "Я вчуся приймати обмеження.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-21T08:07:06.582565"
+    },
+    {
+      "english": "This quiet work builds character.",
+      "ukrainian": "Ця тиха робота виховує характер.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-21T08:07:06.582567"
+    },
+    {
+      "english": "My confidence grows with each session.",
+      "ukrainian": "Моя впевненість зростає з кожним тренуванням.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-21T08:07:06.582570"
+    },
+    {
+      "english": "Sometimes, just showing up is victory.",
+      "ukrainian": "Іноді, просто прийти – це вже перемога.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-21T08:07:06.582573"
+    },
+    {
+      "english": "I have to trust the long game.",
+      "ukrainian": "Я мушу довіряти довгостроковій перспективі.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-21T08:07:06.582575"
+    },
+    {
+      "english": "What brings you genuine joy here?",
+      "ukrainian": "Що приносить тобі справжню радість тут?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-21T08:07:06.582578"
+    },
+    {
+      "english": "I feel a deep sense of calm now.",
+      "ukrainian": "Я відчуваю глибоке відчуття спокою зараз.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-21T08:07:06.582581"
+    },
+    {
+      "english": "Reflecting, I see slow progress.",
+      "ukrainian": "Розмірковуючи, я бачу повільний прогрес.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-21T08:07:06.582583"
+    },
+    {
+      "english": "This is more than just physical.",
+      "ukrainian": "Це більше, ніж просто фізичне.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-21T08:07:06.582586"
+    },
+    {
+      "english": "I value the quiet introspection.",
+      "ukrainian": "Я ціную тиху саморефлексію.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-21T08:07:06.582588"
+    },
+    {
+      "english": "My patience is being tested, honestly.",
+      "ukrainian": "Моє терпіння перевіряється, чесно кажучи.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-21T08:07:06.582591"
+    },
+    {
+      "english": "What inner strength do you seek?",
+      "ukrainian": "Якої внутрішньої сили ти шукаєш?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-21T08:07:06.582594"
+    },
+    {
+      "english": "This is a personal challenge, truly.",
+      "ukrainian": "Це справді особистий виклик.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-21T08:07:06.582600"
+    },
+    {
+      "english": "My perspective has shifted recently.",
+      "ukrainian": "Мій погляд нещодавно змінився.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-21T08:07:06.582602"
+    },
+    {
+      "english": "This focus calms my restless spirit.",
+      "ukrainian": "Ця зосередженість заспокоює мій неспокійний дух.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-21T08:07:06.582605"
+    },
+    {
+      "english": "It's okay to feel the struggle.",
+      "ukrainian": "Це нормально відчувати боротьбу.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-21T08:07:06.582607"
+    },
+    {
+      "english": "Deep breaths help me center.",
+      "ukrainian": "Глибокі вдихи допомагають мені зосередитись.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-21T08:07:06.582611"
+    },
+    {
+      "english": "I appreciate the process, genuinely.",
+      "ukrainian": "Я щиро ціную процес.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-21T08:07:06.582614"
+    },
+    {
+      "english": "This endurance builds inner resilience.",
+      "ukrainian": "Ця витривалість будує внутрішню стійкість.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-21T08:07:06.582620"
+    },
+    {
+      "english": "My commitment is deepening steadily.",
+      "ukrainian": "Моя відданість стабільно поглиблюється.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-21T08:07:06.582623"
+    },
+    {
+      "english": "What honest feedback do you have?",
+      "ukrainian": "Які чесні відгуки ти маєш?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-21T08:07:06.582628"
+    },
+    {
+      "english": "Warm up first, always, for safety.",
+      "ukrainian": "Розминайтеся спочатку, завжди, для безпеки.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-21T08:07:06.582637"
+    },
+    {
+      "english": "Hydrate well, before, during, and after.",
+      "ukrainian": "Пийте багато води, до, під час, і після.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-21T08:07:06.582640"
+    },
+    {
+      "english": "Listen to your body, it knows best.",
+      "ukrainian": "Слухайте своє тіло, воно знає найкраще.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-21T08:07:06.582643"
+    },
+    {
+      "english": "Stretch afterwards, for flexibility.",
+      "ukrainian": "Розтягуйтесь потім, для гнучкості.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-21T08:07:06.582646"
+    },
+    {
+      "english": "Eat healthy, fuel your workouts.",
+      "ukrainian": "Їжте здорово, заряджайте свої тренування.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-21T08:07:06.582649"
+    },
+    {
+      "english": "Rest days are crucial, don't skip them.",
+      "ukrainian": "Дні відпочинку важливі, не пропускайте їх.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-10-21T08:07:06.582651"
     }
   ],
-  "last_updated": "2026-10-20T08:01:33.545645"
+  "last_updated": "2026-10-21T08:07:06.582653"
 }
