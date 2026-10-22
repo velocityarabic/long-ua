@@ -3599,7 +3599,727 @@
       "ukrainian": "Дні відпочинку важливі, не пропускайте їх.",
       "category": "Sports & Fitness",
       "generated_at": "2026-10-21T08:07:06.582651"
+    },
+    {
+      "english": "What's up, man?",
+      "ukrainian": "Як справи, чувак?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-22T08:05:53.129613"
+    },
+    {
+      "english": "No way, really?",
+      "ukrainian": "Та ну, серйозно?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-22T08:05:53.129626"
+    },
+    {
+      "english": "Got it, understood.",
+      "ukrainian": "Зрозумів, прийняв.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-22T08:05:53.129630"
+    },
+    {
+      "english": "Hold on a sec.",
+      "ukrainian": "Зачекай хвилинку.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-22T08:05:53.129633"
+    },
+    {
+      "english": "What a mess!",
+      "ukrainian": "Який бардак!",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-22T08:05:53.129635"
+    },
+    {
+      "english": "It's all good.",
+      "ukrainian": "Все нормально.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-22T08:05:53.129638"
+    },
+    {
+      "english": "Let's go, hurry up!",
+      "ukrainian": "Давай, швидше!",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-22T08:05:53.129641"
+    },
+    {
+      "english": "I'm starving, man.",
+      "ukrainian": "Я голодний, як вовк.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-22T08:05:53.129647"
+    },
+    {
+      "english": "That's awesome!",
+      "ukrainian": "Це круто!",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-22T08:05:53.129650"
+    },
+    {
+      "english": "What a shame.",
+      "ukrainian": "Шкода.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-22T08:05:53.129653"
+    },
+    {
+      "english": "You're kidding me.",
+      "ukrainian": "Ти жартуєш.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-22T08:05:53.129656"
+    },
+    {
+      "english": "Just chilling, you know?",
+      "ukrainian": "Просто відпочиваю, знаєш?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-22T08:05:53.129659"
+    },
+    {
+      "english": "Give me a break.",
+      "ukrainian": "Дай мені спокій.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-22T08:05:53.129661"
+    },
+    {
+      "english": "It's a piece of cake.",
+      "ukrainian": "Це легко.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-22T08:05:53.129664"
+    },
+    {
+      "english": "Seriously, though?",
+      "ukrainian": "А якщо серйозно?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-22T08:05:53.129667"
+    },
+    {
+      "english": "I'm so tired.",
+      "ukrainian": "Я так втомився.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-22T08:05:53.129670"
+    },
+    {
+      "english": "Let's hang out.",
+      "ukrainian": "Давай зустрінемось.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-22T08:05:53.129672"
+    },
+    {
+      "english": "What's the plan?",
+      "ukrainian": "Які плани?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-22T08:05:53.129675"
+    },
+    {
+      "english": "Don't worry about it.",
+      "ukrainian": "Не переймайся.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-22T08:05:53.129677"
+    },
+    {
+      "english": "It's not my fault.",
+      "ukrainian": "Це не моя провина.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-22T08:05:53.129680"
+    },
+    {
+      "english": "I'm broke.",
+      "ukrainian": "Я на мілині.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-22T08:05:53.129685"
+    },
+    {
+      "english": "It's getting late.",
+      "ukrainian": "Вже пізно.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-22T08:05:53.129687"
+    },
+    {
+      "english": "Can you repeat that?",
+      "ukrainian": "Можеш повторити?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-22T08:05:53.129690"
+    },
+    {
+      "english": "I don't care.",
+      "ukrainian": "Мені байдуже.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-22T08:05:53.129692"
+    },
+    {
+      "english": "What a disaster!",
+      "ukrainian": "Яка біда!",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-22T08:05:53.129696"
+    },
+    {
+      "english": "It's your turn.",
+      "ukrainian": "Твоя черга.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-22T08:05:53.129699"
+    },
+    {
+      "english": "I'm hungry.",
+      "ukrainian": "Я хочу їсти.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-22T08:05:53.129702"
+    },
+    {
+      "english": "It's a deal.",
+      "ukrainian": "Домовились.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-22T08:05:53.129704"
+    },
+    {
+      "english": "See you later.",
+      "ukrainian": "Побачимось.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-22T08:05:53.129706"
+    },
+    {
+      "english": "How's your day going, buddy?",
+      "ukrainian": "Як твій день, друже?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-22T08:05:53.129709"
+    },
+    {
+      "english": "Any interesting news lately?",
+      "ukrainian": "Є якісь цікаві новини останнім часом?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-22T08:05:53.129712"
+    },
+    {
+      "english": "What's on your mind, tell me?",
+      "ukrainian": "Про що думаєш, розкажи?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-22T08:05:53.129715"
+    },
+    {
+      "english": "Can you explain this to me?",
+      "ukrainian": "Можеш мені це пояснити?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-22T08:05:53.129718"
+    },
+    {
+      "english": "Where should we go next?",
+      "ukrainian": "Куди нам далі йти?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-22T08:05:53.129721"
+    },
+    {
+      "english": "Did you hear about that?",
+      "ukrainian": "Ти чув про це?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-22T08:05:53.129723"
+    },
+    {
+      "english": "How do you usually do this?",
+      "ukrainian": "Як ти зазвичай це робиш?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-22T08:05:53.129726"
+    },
+    {
+      "english": "What's the best way, friend?",
+      "ukrainian": "Який найкращий спосіб, друже?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-22T08:05:53.129729"
+    },
+    {
+      "english": "Can I ask you something?",
+      "ukrainian": "Можна тебе щось спитати?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-22T08:05:53.129731"
+    },
+    {
+      "english": "What do you recommend I do?",
+      "ukrainian": "Що б ти порадив зробити?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-22T08:05:53.129734"
+    },
+    {
+      "english": "Are you free for a chat?",
+      "ukrainian": "Ти маєш час поговорити?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-22T08:05:53.129737"
+    },
+    {
+      "english": "What's happening over there?",
+      "ukrainian": "Що там відбувається?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-22T08:05:53.129739"
+    },
+    {
+      "english": "How can I help you out?",
+      "ukrainian": "Чим я можу тобі допомогти?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-22T08:05:53.129742"
+    },
+    {
+      "english": "What's the reason for this?",
+      "ukrainian": "Яка причина цього?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-22T08:05:53.129745"
+    },
+    {
+      "english": "Do you agree with this?",
+      "ukrainian": "Ти згоден з цим?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-22T08:05:53.129747"
+    },
+    {
+      "english": "What were you thinking back then?",
+      "ukrainian": "Про що ти думав тоді?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-22T08:05:53.129750"
+    },
+    {
+      "english": "Is this the right way?",
+      "ukrainian": "Це правильний шлях?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-22T08:05:53.129753"
+    },
+    {
+      "english": "What are your plans for tonight?",
+      "ukrainian": "Які твої плани на сьогодні?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-22T08:05:53.129755"
+    },
+    {
+      "english": "Can you give me advice?",
+      "ukrainian": "Можеш дати пораду?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-22T08:05:53.129758"
+    },
+    {
+      "english": "What's the story behind it?",
+      "ukrainian": "Яка історія за цим?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-22T08:05:53.129761"
+    },
+    {
+      "english": "Are you interested in this?",
+      "ukrainian": "Тобі це цікаво?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-22T08:05:53.129763"
+    },
+    {
+      "english": "What are you looking for?",
+      "ukrainian": "Що ти шукаєш?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-22T08:05:53.129766"
+    },
+    {
+      "english": "How did you learn this?",
+      "ukrainian": "Як ти це вивчив?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-22T08:05:53.129770"
+    },
+    {
+      "english": "What's the latest buzz?",
+      "ukrainian": "Які останні плітки?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-22T08:05:53.129774"
+    },
+    {
+      "english": "Can we discuss this later?",
+      "ukrainian": "Можемо обговорити це пізніше?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-22T08:05:53.129776"
+    },
+    {
+      "english": "What's your take on this?",
+      "ukrainian": "Яка твоя думка щодо цього?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-22T08:05:53.129781"
+    },
+    {
+      "english": "Go for it, you can do it!",
+      "ukrainian": "Давай, ти зможеш!",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-22T08:05:53.129784"
+    },
+    {
+      "english": "Keep pushing, don't give up.",
+      "ukrainian": "Продовжуй, не здавайся.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-22T08:05:53.129786"
+    },
+    {
+      "english": "You're doing great, keep it up.",
+      "ukrainian": "Ти молодець, так тримати.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-22T08:05:53.129789"
+    },
+    {
+      "english": "That's the spirit, keep going!",
+      "ukrainian": "Оце настрій, рухайся далі!",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-22T08:05:53.129792"
+    },
+    {
+      "english": "You've got this, no doubt.",
+      "ukrainian": "У тебе вийде, без сумнівів.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-22T08:05:53.129795"
+    },
+    {
+      "english": "Stay strong, you're amazing.",
+      "ukrainian": "Будь сильним, ти неймовірний.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-22T08:05:53.129798"
+    },
+    {
+      "english": "Let your light shine, always.",
+      "ukrainian": "Світи яскраво, завжди.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-22T08:05:53.129801"
+    },
+    {
+      "english": "Positive vibes only, my friend.",
+      "ukrainian": "Тільки позитив, друже.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-22T08:05:53.129804"
+    },
+    {
+      "english": "You've got potential, unlock it.",
+      "ukrainian": "Ти маєш потенціал, розкрий його.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-22T08:05:53.129807"
+    },
+    {
+      "english": "You're capable of great things.",
+      "ukrainian": "Ти здатний на великі справи.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-22T08:05:53.129810"
+    },
+    {
+      "english": "Keep your chin up, everything's fine.",
+      "ukrainian": "Тримай голову вище, все гаразд.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-22T08:05:53.129813"
+    },
+    {
+      "english": "You're on the right track, buddy.",
+      "ukrainian": "Ти на правильному шляху, друже.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-22T08:05:53.129816"
+    },
+    {
+      "english": "Dream big, start small.",
+      "ukrainian": "Мрій масштабно, почни з малого.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-22T08:05:53.129819"
+    },
+    {
+      "english": "Your effort is amazing, truly.",
+      "ukrainian": "Твої зусилля вражають, справді.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-22T08:05:53.129822"
+    },
+    {
+      "english": "You're inspiring others, you know.",
+      "ukrainian": "Ти надихаєш інших, знаєш.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-22T08:05:53.129825"
+    },
+    {
+      "english": "Focus on the good, always.",
+      "ukrainian": "Зосередься на хорошому, завжди.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-22T08:05:53.129827"
+    },
+    {
+      "english": "Never underestimate your power.",
+      "ukrainian": "Ніколи не недооцінюй свою силу.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-22T08:05:53.129830"
+    },
+    {
+      "english": "Keep shining, you're a star.",
+      "ukrainian": "Сяй далі, ти зірка.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-22T08:05:53.129833"
+    },
+    {
+      "english": "Success is within reach, go get it.",
+      "ukrainian": "Успіх близько, йди за ним.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-22T08:05:53.129837"
+    },
+    {
+      "english": "Stay positive, stay motivated.",
+      "ukrainian": "Залишайся позитивним, мотивованим.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-22T08:05:53.129840"
+    },
+    {
+      "english": "You are capable, remember that.",
+      "ukrainian": "Ти можеш, пам'ятай про це.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-22T08:05:53.129843"
+    },
+    {
+      "english": "Your efforts will pay off.",
+      "ukrainian": "Твої старання окупляться.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-22T08:05:53.129845"
+    },
+    {
+      "english": "You're a game changer, keep going.",
+      "ukrainian": "Ти змінюєш гру, продовжуй.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-22T08:05:53.129848"
+    },
+    {
+      "english": "Believe in the process, it works.",
+      "ukrainian": "Вір у процес, він працює.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-22T08:05:53.129851"
+    },
+    {
+      "english": "You're making progress, awesome!",
+      "ukrainian": "Ти робиш прогрес, чудово!",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-22T08:05:53.129856"
+    },
+    {
+      "english": "Embrace challenges, they make you stronger.",
+      "ukrainian": "Приймай виклики, вони роблять сильнішим.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-22T08:05:53.129859"
+    },
+    {
+      "english": "Deep down, I feel it's right.",
+      "ukrainian": "Глибоко всередині, я відчуваю, це правильно.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-22T08:05:53.129862"
+    },
+    {
+      "english": "Honestly, I'm a bit tired.",
+      "ukrainian": "Чесно кажучи, я трохи втомився.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-22T08:05:53.129865"
+    },
+    {
+      "english": "It takes time, let it be.",
+      "ukrainian": "Це вимагає часу, хай буде.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-22T08:05:53.129869"
+    },
+    {
+      "english": "My gut says no, you know.",
+      "ukrainian": "Нутро мені підказує ні, знаєш.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-22T08:05:53.129872"
+    },
+    {
+      "english": "I'm really reflecting on this.",
+      "ukrainian": "Я справді обмірковую це.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-22T08:05:53.129875"
+    },
+    {
+      "english": "Just breathe, it's okay.",
+      "ukrainian": "Просто дихай, все гаразд.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-22T08:05:53.129877"
+    },
+    {
+      "english": "It is what it is, sadly.",
+      "ukrainian": "Що є, то є, на жаль.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-22T08:05:53.129880"
+    },
+    {
+      "english": "I need patience with myself.",
+      "ukrainian": "Мені потрібна терплячість до себе.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-22T08:05:53.129883"
+    },
+    {
+      "english": "Let's be real for a second.",
+      "ukrainian": "Давай будемо чесними на секунду.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-22T08:05:53.129886"
+    },
+    {
+      "english": "My heart feels heavy, honestly.",
+      "ukrainian": "Серце моє важке, відверто.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-22T08:05:53.129888"
+    },
+    {
+      "english": "This is how I truly feel.",
+      "ukrainian": "Ось як я насправді почуваюся.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-22T08:05:53.129891"
+    },
+    {
+      "english": "It's a tough pill to swallow.",
+      "ukrainian": "Це гірка пігулка, яку треба ковтнути.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-22T08:05:53.129894"
+    },
+    {
+      "english": "I'm learning to let go.",
+      "ukrainian": "Я вчуся відпускати.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-22T08:05:53.129896"
+    },
+    {
+      "english": "Thinking it over, slowly.",
+      "ukrainian": "Обдумую це, повільно.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-22T08:05:53.129899"
+    },
+    {
+      "english": "It cuts deep, you understand?",
+      "ukrainian": "Це глибоко ранить, розумієш?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-22T08:05:53.129901"
+    },
+    {
+      "english": "Sometimes silence says more.",
+      "ukrainian": "Іноді тиша говорить більше.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-22T08:05:53.129904"
+    },
+    {
+      "english": "My intuition is screaming.",
+      "ukrainian": "Моя інтуїція кричить.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-22T08:05:53.129906"
+    },
+    {
+      "english": "It weighs heavily on my mind.",
+      "ukrainian": "Це сильно тисне мені на думку.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-22T08:05:53.129909"
+    },
+    {
+      "english": "Give it some time, okay?",
+      "ukrainian": "Дай цьому час, добре?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-22T08:05:53.129912"
+    },
+    {
+      "english": "That's just my honest opinion.",
+      "ukrainian": "Це просто моя чесна думка.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-22T08:05:53.129914"
+    },
+    {
+      "english": "I'm feeling quite vulnerable.",
+      "ukrainian": "Я почуваюся досить вразливим.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-22T08:05:53.129917"
+    },
+    {
+      "english": "This hits home for me.",
+      "ukrainian": "Це дуже близько для мене.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-22T08:05:53.129919"
+    },
+    {
+      "english": "Let's just be honest, yeah?",
+      "ukrainian": "Давай просто будемо чесні, так?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-22T08:05:53.129922"
+    },
+    {
+      "english": "It's a complex situation, really.",
+      "ukrainian": "Це складна ситуація, справді.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-22T08:05:53.129925"
+    },
+    {
+      "english": "I'm trying to understand it.",
+      "ukrainian": "Я намагаюся це зрозуміти.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-22T08:05:53.129929"
+    },
+    {
+      "english": "My heart aches a little.",
+      "ukrainian": "Моє серце трохи болить.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-22T08:05:53.129932"
+    },
+    {
+      "english": "Let nature take its course.",
+      "ukrainian": "Нехай природа бере своє.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-22T08:05:53.129934"
+    },
+    {
+      "english": "I'm just being true to myself.",
+      "ukrainian": "Я просто залишаюся собою.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-22T08:05:53.129937"
+    },
+    {
+      "english": "This feels deeply personal.",
+      "ukrainian": "Це відчувається дуже особистим.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-22T08:05:53.129939"
+    },
+    {
+      "english": "It requires deep thought, you see.",
+      "ukrainian": "Це потребує глибоких роздумів, бачиш.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-22T08:05:53.129942"
+    },
+    {
+      "english": "What's up?, anything new?",
+      "ukrainian": "Як справи?, що нового?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-22T08:05:53.129945"
+    },
+    {
+      "english": "Let's grab coffee, later on.",
+      "ukrainian": "Давай вип'ємо кави, потім.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-22T08:05:53.129948"
+    },
+    {
+      "english": "Where are you heading?, what's the plan?",
+      "ukrainian": "Куди йдеш?, який план?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-22T08:05:53.129951"
+    },
+    {
+      "english": "I'm running late, sorry about that.",
+      "ukrainian": "Я запізнююся, вибач.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-22T08:05:53.129954"
+    },
+    {
+      "english": "Can you help me out?, please?",
+      "ukrainian": "Можеш допомогти мені?, будь ласка?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-22T08:05:53.129958"
+    },
+    {
+      "english": "It's a bit tricky, don't you think?",
+      "ukrainian": "Це трохи складно, правда?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-22T08:05:53.129963"
+    },
+    {
+      "english": "Just wing it, figure it out.",
+      "ukrainian": "Просто ризикни, розберися.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-22T08:05:53.129966"
+    },
+    {
+      "english": "Don't overthink it, go for it.",
+      "ukrainian": "Не переймайся, спробуй.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-22T08:05:53.129969"
+    },
+    {
+      "english": "Take it easy, no rush at all.",
+      "ukrainian": "Не поспішай, зовсім.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-22T08:05:53.129971"
     }
   ],
-  "last_updated": "2026-10-21T08:07:06.582653"
+  "last_updated": "2026-10-22T08:05:53.129973"
 }
