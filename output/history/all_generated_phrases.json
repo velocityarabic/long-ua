@@ -5039,7 +5039,727 @@
       "ukrainian": "Смійся часто, це добрі ліки.",
       "category": "Joy",
       "generated_at": "2026-10-23T08:04:23.974958"
+    },
+    {
+      "english": "Good morning, sleepyhead.",
+      "ukrainian": "Доброго ранку, соня.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-24T07:43:39.506945"
+    },
+    {
+      "english": "Time to get up, now.",
+      "ukrainian": "Час вставати, вже.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-24T07:43:39.506959"
+    },
+    {
+      "english": "Did you sleep well?",
+      "ukrainian": "Ти добре спав?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-24T07:43:39.506962"
+    },
+    {
+      "english": "I overslept a bit.",
+      "ukrainian": "Я трохи проспав.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-24T07:43:39.506964"
+    },
+    {
+      "english": "Let's have some coffee.",
+      "ukrainian": "Давай вип'ємо кави.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-24T07:43:39.506966"
+    },
+    {
+      "english": "What's for breakfast?",
+      "ukrainian": "Що на сніданок?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-24T07:43:39.506968"
+    },
+    {
+      "english": "I need to hurry.",
+      "ukrainian": "Мені треба поспішати.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-24T07:43:39.506970"
+    },
+    {
+      "english": "Don't be late, okay?",
+      "ukrainian": "Не запізнюйся, добре?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-24T07:43:39.506975"
+    },
+    {
+      "english": "It's already noon.",
+      "ukrainian": "Вже дванадцята.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-24T07:43:39.506978"
+    },
+    {
+      "english": "Time for lunch, I think.",
+      "ukrainian": "Час обідати, здається.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-24T07:43:39.506980"
+    },
+    {
+      "english": "I'm feeling tired today.",
+      "ukrainian": "Я сьогодні втомлений.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-24T07:43:39.506984"
+    },
+    {
+      "english": "Let's take a break.",
+      "ukrainian": "Давай зробимо перерву.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-24T07:43:39.506986"
+    },
+    {
+      "english": "What are you doing?",
+      "ukrainian": "Що робиш?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-24T07:43:39.506988"
+    },
+    {
+      "english": "Time to wind down.",
+      "ukrainian": "Час розслабитися.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-24T07:43:39.506990"
+    },
+    {
+      "english": "Are you hungry?",
+      "ukrainian": "Ти голодний?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-24T07:43:39.506994"
+    },
+    {
+      "english": "Let's grab a snack.",
+      "ukrainian": "Перекусимо щось.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-24T07:43:39.506996"
+    },
+    {
+      "english": "I'm ready for bed.",
+      "ukrainian": "Я готовий до сну.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-24T07:43:39.506998"
+    },
+    {
+      "english": "Good night, sleep tight.",
+      "ukrainian": "На добраніч, солодких снів.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-24T07:43:39.507000"
+    },
+    {
+      "english": "See you tomorrow.",
+      "ukrainian": "Побачимось завтра.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-24T07:43:39.507002"
+    },
+    {
+      "english": "I have a busy day.",
+      "ukrainian": "У мене насичений день.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-24T07:43:39.507003"
+    },
+    {
+      "english": "Need to run errands.",
+      "ukrainian": "Треба виконати доручення.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-24T07:43:39.507006"
+    },
+    {
+      "english": "Let's get started.",
+      "ukrainian": "Почнемо.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-24T07:43:39.507008"
+    },
+    {
+      "english": "Almost done for today.",
+      "ukrainian": "Майже все на сьогодні.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-24T07:43:39.507010"
+    },
+    {
+      "english": "What a long day.",
+      "ukrainian": "Який довгий день.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-24T07:43:39.507012"
+    },
+    {
+      "english": "Let's relax a bit.",
+      "ukrainian": "Відпочинемо трохи.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-24T07:43:39.507014"
+    },
+    {
+      "english": "Time to call it a day.",
+      "ukrainian": "Час закінчувати.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-24T07:43:39.507016"
+    },
+    {
+      "english": "What time do you wake up, usually?",
+      "ukrainian": "О котрій ти зазвичай прокидаєшся?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-24T07:43:39.507018"
+    },
+    {
+      "english": "Do you prefer mornings or evenings?",
+      "ukrainian": "Ти любиш ранки чи вечори?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-24T07:43:39.507021"
+    },
+    {
+      "english": "How do you start your day?",
+      "ukrainian": "Як починаєш свій день?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-24T07:43:39.507023"
+    },
+    {
+      "english": "Do you listen to music while getting ready?",
+      "ukrainian": "Слухаєш музику, коли збираєшся?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-24T07:43:39.507025"
+    },
+    {
+      "english": "What's your go-to breakfast?",
+      "ukrainian": "Що ти зазвичай їси на сніданок?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-24T07:43:39.507028"
+    },
+    {
+      "english": "Do you read the news in the morning?",
+      "ukrainian": "Читаєш новини зранку?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-24T07:43:39.507030"
+    },
+    {
+      "english": "How long is your commute?",
+      "ukrainian": "Скільки часу займає дорога до роботи?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-24T07:43:39.507034"
+    },
+    {
+      "english": "What do you do during your lunch break?",
+      "ukrainian": "Що робиш на обідній перерві?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-24T07:43:39.507036"
+    },
+    {
+      "english": "Do you take short breaks during work?",
+      "ukrainian": "Ти робиш короткі перерви під час роботи?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-24T07:43:39.507038"
+    },
+    {
+      "english": "When do you usually finish work?",
+      "ukrainian": "Коли ти зазвичай закінчуєш роботу?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-24T07:43:39.507040"
+    },
+    {
+      "english": "What are your evening plans?",
+      "ukrainian": "Які твої плани на вечір?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-24T07:43:39.507042"
+    },
+    {
+      "english": "Do you cook dinner yourself?",
+      "ukrainian": "Ти сам готуєш вечерю?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-24T07:43:39.507044"
+    },
+    {
+      "english": "Do you watch TV before bed?",
+      "ukrainian": "Дивишся телевізор перед сном?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-24T07:43:39.507046"
+    },
+    {
+      "english": "What helps you relax?",
+      "ukrainian": "Що допомагає тобі розслабитись?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-24T07:43:39.507049"
+    },
+    {
+      "english": "Do you have any bedtime rituals?",
+      "ukrainian": "Чи є у тебе ритуали перед сном?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-24T07:43:39.507051"
+    },
+    {
+      "english": "What time do you usually go to sleep?",
+      "ukrainian": "О котрій ти зазвичай лягаєш спати?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-24T07:43:39.507053"
+    },
+    {
+      "english": "Do you ever exercise in the evening?",
+      "ukrainian": "Ти займаєшся спортом увечері?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-24T07:43:39.507055"
+    },
+    {
+      "english": "What’s on your to-do list today?",
+      "ukrainian": "Що у тебе сьогодні в списку справ?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-24T07:43:39.507058"
+    },
+    {
+      "english": "Do you plan your day ahead?",
+      "ukrainian": "Ти плануєш свій день наперед?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-24T07:43:39.507060"
+    },
+    {
+      "english": "How do you stay organized?",
+      "ukrainian": "Як ти зберігаєш порядок?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-24T07:43:39.507062"
+    },
+    {
+      "english": "What do you do to unwind after work?",
+      "ukrainian": "Що робиш, щоб відволіктися після роботи?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-24T07:43:39.507064"
+    },
+    {
+      "english": "Do you have a favorite daily habit?",
+      "ukrainian": "Чи є у тебе улюблена щоденна звичка?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-24T07:43:39.507066"
+    },
+    {
+      "english": "How do you handle unexpected tasks?",
+      "ukrainian": "Як ти справляєшся з несподіваними завданнями?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-24T07:43:39.507068"
+    },
+    {
+      "english": "What's the first thing you do when you get home?",
+      "ukrainian": "Що робиш першим, коли приходиш додому?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-24T07:43:39.507070"
+    },
+    {
+      "english": "Do you prefer a quiet evening or something active?",
+      "ukrainian": "Ти віддаєш перевагу тихому вечору чи активному?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-24T07:43:39.507072"
+    },
+    {
+      "english": "What time do you usually have dinner?",
+      "ukrainian": "О котрій ти зазвичай вечеряєш?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-24T07:43:39.507074"
+    },
+    {
+      "english": "Do you drink tea or coffee at night?",
+      "ukrainian": "Ти п'єш чай чи каву на ніч?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-24T07:43:39.507076"
+    },
+    {
+      "english": "What's your ideal daily schedule?",
+      "ukrainian": "Який твій ідеальний розклад дня?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-24T07:43:39.507078"
+    },
+    {
+      "english": "How do you prepare for the next day?",
+      "ukrainian": "Як ти готуєшся до наступного дня?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-24T07:43:39.507080"
+    },
+    {
+      "english": "Believe in yourself, you can do it.",
+      "ukrainian": "Вір у себе, ти зможеш.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-24T07:43:39.507083"
+    },
+    {
+      "english": "Every small step counts.",
+      "ukrainian": "Кожен маленький крок має значення.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-24T07:43:39.507085"
+    },
+    {
+      "english": "Today is a new opportunity.",
+      "ukrainian": "Сьогодні новий шанс.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-24T07:43:39.507087"
+    },
+    {
+      "english": "Your efforts are noticed and appreciated.",
+      "ukrainian": "Твої старання помітні й цінуються.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-24T07:43:39.507090"
+    },
+    {
+      "english": "Stay positive, stay strong.",
+      "ukrainian": "Залишайся позитивним, залишайся сильним.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-24T07:43:39.507092"
+    },
+    {
+      "english": "Learn from yesterday, live for today.",
+      "ukrainian": "Вчися вчорашньому, живи сьогоднішнім.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-24T07:43:39.507094"
+    },
+    {
+      "english": "Embrace the challenge, grow stronger.",
+      "ukrainian": "Приймай виклик, ставай сильнішим.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-24T07:43:39.507096"
+    },
+    {
+      "english": "Your mindset shapes your reality.",
+      "ukrainian": "Твій настрій формує твою реальність.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-24T07:43:39.507098"
+    },
+    {
+      "english": "Keep a good attitude.",
+      "ukrainian": "Зберігай хороший настрій.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-24T07:43:39.507100"
+    },
+    {
+      "english": "This is going well.",
+      "ukrainian": "Це йде добре.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-24T07:43:39.507104"
+    },
+    {
+      "english": "You're making good progress.",
+      "ukrainian": "Ти робиш добрий прогрес.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-24T07:43:39.507106"
+    },
+    {
+      "english": "Don't give up, you're almost there.",
+      "ukrainian": "Не здавайся, ти майже там.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-24T07:43:39.507109"
+    },
+    {
+      "english": "Feel proud of your accomplishments.",
+      "ukrainian": "Пишайся своїми досягненнями.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-24T07:43:39.507112"
+    },
+    {
+      "english": "Maintain your focus.",
+      "ukrainian": "Зберігай свій фокус.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-24T07:43:39.507114"
+    },
+    {
+      "english": "Believe in the process.",
+      "ukrainian": "Вір у процес.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-24T07:43:39.507116"
+    },
+    {
+      "english": "Today will be a good day.",
+      "ukrainian": "Сьогодні буде добрий день.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-24T07:43:39.507118"
+    },
+    {
+      "english": "You're learning and growing.",
+      "ukrainian": "Ти вчишся і ростеш.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-24T07:43:39.507120"
+    },
+    {
+      "english": "Keep up the fantastic work.",
+      "ukrainian": "Продовжуй фантастичну роботу.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-24T07:43:39.507122"
+    },
+    {
+      "english": "Visualize success.",
+      "ukrainian": "Візуалізуй успіх.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-24T07:43:39.507125"
+    },
+    {
+      "english": "You are making a difference.",
+      "ukrainian": "Ти робиш різницю.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-24T07:43:39.507127"
+    },
+    {
+      "english": "Stay motivated.",
+      "ukrainian": "Залишайся мотивованим.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-24T07:43:39.507129"
+    },
+    {
+      "english": "You're doing wonderfully.",
+      "ukrainian": "Ти чудово справляєшся.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-24T07:43:39.507131"
+    },
+    {
+      "english": "I start my day, with a clear head.",
+      "ukrainian": "Я починаю день, з ясною головою.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-24T07:43:39.507135"
+    },
+    {
+      "english": "Morning coffee, sets the mood.",
+      "ukrainian": "Ранкова кава, задає настрій.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-24T07:43:39.507137"
+    },
+    {
+      "english": "I usually jog, before breakfast.",
+      "ukrainian": "Я зазвичай бігаю, перед сніданком.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-24T07:43:39.507139"
+    },
+    {
+      "english": "Quick news check, on my phone.",
+      "ukrainian": "Швидкий перегляд новин, на телефоні.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-24T07:43:39.507141"
+    },
+    {
+      "english": "Commute in silence, or music.",
+      "ukrainian": "Їду на роботу, в тиші, чи з музикою.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-24T07:43:39.507144"
+    },
+    {
+      "english": "Work starts, with checking emails.",
+      "ukrainian": "Робота починається, з перевірки пошти.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-24T07:43:39.507146"
+    },
+    {
+      "english": "Lunch break, is sacred time.",
+      "ukrainian": "Обідня перерва, це святий час.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-24T07:43:39.507148"
+    },
+    {
+      "english": "Afternoon slump, needs a quick walk.",
+      "ukrainian": "Післяобідній занепад, потребує короткої прогулянки.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-24T07:43:39.507150"
+    },
+    {
+      "english": "Wrapping up work, feels good.",
+      "ukrainian": "Завершувати роботу, це приємне відчуття.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-24T07:43:39.507152"
+    },
+    {
+      "english": "Head home, unwind a bit.",
+      "ukrainian": "Йду додому, трохи розслабитися.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-24T07:43:39.507155"
+    },
+    {
+      "english": "Dinner prep, is a family affair.",
+      "ukrainian": "Приготування вечері, це сімейна справа.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-24T07:43:39.507157"
+    },
+    {
+      "english": "Eat together, talk about the day.",
+      "ukrainian": "Їмо разом, обговорюємо день.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-24T07:43:39.507159"
+    },
+    {
+      "english": "Evening chores, done quickly.",
+      "ukrainian": "Вечірні домашні справи, робляться швидко.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-24T07:43:39.507161"
+    },
+    {
+      "english": "Reading a book, before sleep.",
+      "ukrainian": "Читаю книгу, перед сном.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-24T07:43:39.507163"
+    },
+    {
+      "english": "My wind-down routine, is simple.",
+      "ukrainian": "Мій ритуал відходу до сну, простий.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-24T07:43:39.507165"
+    },
+    {
+      "english": "Time to disconnect, from screens.",
+      "ukrainian": "Час відключитися, від екранів.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-24T07:43:39.507167"
+    },
+    {
+      "english": "A warm shower, eases the mind.",
+      "ukrainian": "Теплий душ, заспокоює думки.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-24T07:43:39.507169"
+    },
+    {
+      "english": "Listen to calm music, or silence.",
+      "ukrainian": "Слухаю спокійну музику, або тишу.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-24T07:43:39.507171"
+    },
+    {
+      "english": "I make a to-do list, for tomorrow.",
+      "ukrainian": "Я складаю список справ, на завтра.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-24T07:43:39.507174"
+    },
+    {
+      "english": "Planning ahead, reduces stress.",
+      "ukrainian": "Планування наперед, зменшує стрес.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-24T07:43:39.507180"
+    },
+    {
+      "english": "Final check, of the apartment.",
+      "ukrainian": "Останній огляд, квартири.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-24T07:43:39.507182"
+    },
+    {
+      "english": "Tuck in, with a good feeling.",
+      "ukrainian": "Затишно вкладаюся, з добрим відчуттям.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-24T07:43:39.507184"
+    },
+    {
+      "english": "Ready for dreams, and tomorrow.",
+      "ukrainian": "Готовий до снів, і до завтра.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-24T07:43:39.507186"
+    },
+    {
+      "english": "Sleep well, recharge completely.",
+      "ukrainian": "Сплю добре, заряджаюсь повністю.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-24T07:43:39.507188"
+    },
+    {
+      "english": "Sometimes, I meditate briefly.",
+      "ukrainian": "Іноді, коротко медитую.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-24T07:43:39.507192"
+    },
+    {
+      "english": "A quiet moment, before rising.",
+      "ukrainian": "Тиха мить, перед пробудженням.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-24T07:43:39.507194"
+    },
+    {
+      "english": "Hydrate well, throughout the day.",
+      "ukrainian": "Добре п'ю воду, протягом дня.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-24T07:43:39.507197"
+    },
+    {
+      "english": "This pace, works for me.",
+      "ukrainian": "Такий темп, мені підходить.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-24T07:43:39.507198"
+    },
+    {
+      "english": "My daily rhythm, is consistent.",
+      "ukrainian": "Мій щоденний ритм, послідовний.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-24T07:43:39.507201"
+    },
+    {
+      "english": "Let's discuss it, over tea.",
+      "ukrainian": "Обговоримо це, за чаєм.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-24T07:43:39.507203"
+    },
+    {
+      "english": "Can you help me, with this task?",
+      "ukrainian": "Можеш допомогти мені, з цим завданням?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-24T07:43:39.507205"
+    },
+    {
+      "english": "I need to buy groceries, after work.",
+      "ukrainian": "Мені треба купити продукти, після роботи.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-24T07:43:39.507207"
+    },
+    {
+      "english": "Don't forget, to lock the door.",
+      "ukrainian": "Не забудь, замкнути двері.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-24T07:43:39.507210"
+    },
+    {
+      "english": "Where is the nearest, pharmacy?",
+      "ukrainian": "Де знаходиться найближча, аптека?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-24T07:43:39.507212"
+    },
+    {
+      "english": "This traffic, is terrible today.",
+      "ukrainian": "Цей трафік, жахливий сьогодні.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-24T07:43:39.507214"
+    },
+    {
+      "english": "We should order, some food.",
+      "ukrainian": "Нам варто замовити, їжі.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-24T07:43:39.507217"
+    },
+    {
+      "english": "Is there a good cafe, nearby?",
+      "ukrainian": "Чи є тут неподалік, хороший кафе?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-24T07:43:39.507219"
+    },
+    {
+      "english": "I'm running late, sorry.",
+      "ukrainian": "Я запізнююся, вибачте.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-24T07:43:39.507221"
+    },
+    {
+      "english": "Let's meet, at seven o'clock.",
+      "ukrainian": "Зустрінемося, о сьомій.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-24T07:43:39.507223"
+    },
+    {
+      "english": "Have you seen my keys, anywhere?",
+      "ukrainian": "Ти не бачив мої ключі, десь?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-24T07:43:39.507226"
+    },
+    {
+      "english": "It's a bit chilly, outside.",
+      "ukrainian": "На вулиці, трохи прохолодно.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-24T07:43:39.507228"
+    },
+    {
+      "english": "Take an umbrella, just in case.",
+      "ukrainian": "Візьми парасольку, про всяк випадок.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-24T07:43:39.507230"
+    },
+    {
+      "english": "What's the weather, forecast?",
+      "ukrainian": "Який прогноз, погоди?",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-24T07:43:39.507232"
     }
   ],
-  "last_updated": "2026-10-23T08:04:23.974959"
+  "last_updated": "2026-10-24T07:43:39.507234"
 }
