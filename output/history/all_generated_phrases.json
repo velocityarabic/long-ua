@@ -5759,7 +5759,727 @@
       "ukrainian": "Який прогноз, погоди?",
       "category": "Daily Routine",
       "generated_at": "2026-10-24T07:43:39.507232"
+    },
+    {
+      "english": "Hey, how are you?, I'm good.",
+      "ukrainian": "Привіт, як справи?, Я добре.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-25T07:55:24.636199"
+    },
+    {
+      "english": "What's your name?, I'm [Name].",
+      "ukrainian": "Як тебе звати?, Я [Ім'я].",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-25T07:55:24.636215"
+    },
+    {
+      "english": "Nice to meet you., Likewise.",
+      "ukrainian": "Приємно познайомитись., Взаємно.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-25T07:55:24.636219"
+    },
+    {
+      "english": "Can I buy you a drink?, That's very kind.",
+      "ukrainian": "Можу я пригостити тебе напоєм?, Це дуже мило.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-25T07:55:24.636222"
+    },
+    {
+      "english": "You look great today., Thank you.",
+      "ukrainian": "Ти чудово виглядаєш сьогодні., Дякую.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-25T07:55:24.636225"
+    },
+    {
+      "english": "Are you busy tonight?, Maybe later.",
+      "ukrainian": "Ти зайнятий сьогодні ввечері?, Можливо, пізніше.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-25T07:55:24.636228"
+    },
+    {
+      "english": "What are you doing this weekend?, Let's make plans.",
+      "ukrainian": "Що робиш цими вихідними?, Давай складемо плани.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-25T07:55:24.636231"
+    },
+    {
+      "english": "I like your smile., Oh, really?",
+      "ukrainian": "Мені подобається твоя посмішка., О, справді?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-25T07:55:24.636238"
+    },
+    {
+      "english": "This is fun., I agree.",
+      "ukrainian": "Це весело., Я згоден/згодна.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-25T07:55:24.636242"
+    },
+    {
+      "english": "Do you come here often?, Just sometimes.",
+      "ukrainian": "Ти часто тут буваєш?, Тільки іноді.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-25T07:55:24.636245"
+    },
+    {
+      "english": "I'm a bit nervous., That's okay.",
+      "ukrainian": "Я трохи нервуюся., Це нормально.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-25T07:55:24.636248"
+    },
+    {
+      "english": "Tell me about yourself., Where do you live?",
+      "ukrainian": "Розкажи про себе., Де ти живеш?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-25T07:55:24.636251"
+    },
+    {
+      "english": "I had a great time., Me too.",
+      "ukrainian": "Я чудово провів/провела час., Я теж.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-25T07:55:24.636254"
+    },
+    {
+      "english": "Can I have your number?, Sure, here it is.",
+      "ukrainian": "Можна твій номер телефону?, Звісно, ось.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-25T07:55:24.636259"
+    },
+    {
+      "english": "I'm really enjoying this conversation., Me too.",
+      "ukrainian": "Мені дуже подобається наша розмова., Мені теж.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-25T07:55:24.636262"
+    },
+    {
+      "english": "What do you do for a living?, I work in [field].",
+      "ukrainian": "Чим ти займаєшся?, Я працюю в [сфера].",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-25T07:55:24.636265"
+    },
+    {
+      "english": "Do you like coffee or tea?, Coffee, please.",
+      "ukrainian": "Ти любиш каву чи чай?, Каву, будь ласка.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-25T07:55:24.636268"
+    },
+    {
+      "english": "It's a beautiful day., Isn't it?",
+      "ukrainian": "Який гарний день., Чи не так?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-25T07:55:24.636270"
+    },
+    {
+      "english": "I'm looking for someone special., Me too.",
+      "ukrainian": "Я шукаю когось особливого., Я теж.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-25T07:55:24.636273"
+    },
+    {
+      "english": "That's funny., You think so?",
+      "ukrainian": "Це смішно., Ти так думаєш?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-25T07:55:24.636276"
+    },
+    {
+      "english": "I feel a connection., Me too.",
+      "ukrainian": "Я відчуваю зв'язок., Я теж.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-25T07:55:24.636278"
+    },
+    {
+      "english": "What are your hobbies?, I like [hobby].",
+      "ukrainian": "Які твої хобі?, Мені подобається [хобі].",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-25T07:55:24.636281"
+    },
+    {
+      "english": "This is unexpected., Really?",
+      "ukrainian": "Це несподівано., Справді?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-25T07:55:24.636283"
+    },
+    {
+      "english": "I'm glad we met., Likewise.",
+      "ukrainian": "Я радий/рада, що ми зустрілися., Взаємно.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-25T07:55:24.636286"
+    },
+    {
+      "english": "You're very interesting., Thank you.",
+      "ukrainian": "Ти дуже цікавий/цікава., Дякую.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-25T07:55:24.636289"
+    },
+    {
+      "english": "I need some space., Okay, I understand.",
+      "ukrainian": "Мені потрібен простір., Добре, я розумію.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-25T07:55:24.636291"
+    },
+    {
+      "english": "Let's get to know each other better., I'd like that.",
+      "ukrainian": "Давай пізнавати одне одного краще., Мені це подобається.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-25T07:55:24.636294"
+    },
+    {
+      "english": "This feels right., I hope so.",
+      "ukrainian": "Це здається правильним., Сподіваюся.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-25T07:55:24.636296"
+    },
+    {
+      "english": "I'm starting to like you., That's nice to hear.",
+      "ukrainian": "Ти мені починаєш подобатися., Це приємно чути.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-25T07:55:24.636299"
+    },
+    {
+      "english": "So, what brings you here tonight?",
+      "ukrainian": "Тож, що привело тебе сюди сьогодні?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-25T07:55:24.636302"
+    },
+    {
+      "english": "Do you believe in love at first sight?",
+      "ukrainian": "Ти віриш у кохання з першого погляду?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-25T07:55:24.636304"
+    },
+    {
+      "english": "What's your ideal first date like?",
+      "ukrainian": "Яким ти уявляєш ідеальне перше побачення?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-25T07:55:24.636307"
+    },
+    {
+      "english": "Are you looking for something serious?",
+      "ukrainian": "Ти шукаєш чогось серйозного?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-25T07:55:24.636310"
+    },
+    {
+      "english": "What qualities do you value most?",
+      "ukrainian": "Які якості ти цінуєш найбільше?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-25T07:55:24.636312"
+    },
+    {
+      "english": "Tell me, what makes you laugh?",
+      "ukrainian": "Розкажи, що тебе змушує сміятися?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-25T07:55:24.636315"
+    },
+    {
+      "english": "Is there anything you're passionate about?",
+      "ukrainian": "Є щось, чим ти захоплюєшся?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-25T07:55:24.636318"
+    },
+    {
+      "english": "How do you handle disagreements?",
+      "ukrainian": "Як ти вирішуєш розбіжності?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-25T07:55:24.636320"
+    },
+    {
+      "english": "What's your favorite way to relax?",
+      "ukrainian": "Як ти найкраще відпочиваєш?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-25T07:55:24.636322"
+    },
+    {
+      "english": "What's the most romantic thing you've done?",
+      "ukrainian": "Що найромантичніше ти коли-небудь робив(ла)?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-25T07:55:24.636325"
+    },
+    {
+      "english": "Do you prefer planning or spontaneity?",
+      "ukrainian": "Ти надаєш перевагу плануванню чи спонтанності?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-25T07:55:24.636327"
+    },
+    {
+      "english": "What's a dealbreaker for you?",
+      "ukrainian": "Що для тебе є неприйнятним?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-25T07:55:24.636330"
+    },
+    {
+      "english": "How important is honesty in a relationship?",
+      "ukrainian": "Наскільки важлива чесність у стосунках?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-25T07:55:24.636332"
+    },
+    {
+      "english": "What's your opinion on long distance?",
+      "ukrainian": "Яка твоя думка про стосунки на відстані?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-25T07:55:24.636334"
+    },
+    {
+      "english": "Do you believe in soulmates?",
+      "ukrainian": "Ти віриш у споріднені душі?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-25T07:55:24.636336"
+    },
+    {
+      "english": "What's your biggest fear in dating?",
+      "ukrainian": "Чого ти найбільше боїшся на побаченнях?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-25T07:55:24.636340"
+    },
+    {
+      "english": "How do you express affection?",
+      "ukrainian": "Як ти виявляєш свою прихильність?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-25T07:55:24.636343"
+    },
+    {
+      "english": "What's your dream vacation?",
+      "ukrainian": "Яка твоя відпустка мрії?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-25T07:55:24.636345"
+    },
+    {
+      "english": "Do you think communication is key?",
+      "ukrainian": "Ти вважаєш, що спілкування – це ключ?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-25T07:55:24.636348"
+    },
+    {
+      "english": "What makes a relationship last?",
+      "ukrainian": "Що робить стосунки тривалими?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-25T07:55:24.636351"
+    },
+    {
+      "english": "Are you an optimist or pessimist?",
+      "ukrainian": "Ти оптиміст чи песиміст?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-25T07:55:24.636353"
+    },
+    {
+      "english": "What's your favorite kind of music?",
+      "ukrainian": "Яка твоя улюблена музика?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-25T07:55:24.636355"
+    },
+    {
+      "english": "Do you prefer city or nature?",
+      "ukrainian": "Ти віддаєш перевагу місту чи природі?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-25T07:55:24.636357"
+    },
+    {
+      "english": "What's the best compliment you received?",
+      "ukrainian": "Який найкращий комплімент ти отримував(ла)?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-25T07:55:24.636359"
+    },
+    {
+      "english": "What are your thoughts on commitment?",
+      "ukrainian": "Що ти думаєш про відданість?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-25T07:55:24.636362"
+    },
+    {
+      "english": "What's your definition of romance?",
+      "ukrainian": "Що для тебе означає романтика?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-25T07:55:24.636364"
+    },
+    {
+      "english": "Do you have any pets?",
+      "ukrainian": "У тебе є домашні тварини?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-25T07:55:24.636366"
+    },
+    {
+      "english": "What's something surprising about you?",
+      "ukrainian": "Що в тобі може здивувати?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-25T07:55:24.636368"
+    },
+    {
+      "english": "Believe in yourself, first.",
+      "ukrainian": "Вір у себе, перш за все.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-25T07:55:24.636370"
+    },
+    {
+      "english": "Your positive energy is contagious.",
+      "ukrainian": "Твоя позитивна енергія заразлива.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-25T07:55:24.636373"
+    },
+    {
+      "english": "You attract what you are.",
+      "ukrainian": "Ти притягуєш те, чим єш.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-25T07:55:24.636375"
+    },
+    {
+      "english": "Keep an open heart, always.",
+      "ukrainian": "Тримай серце відкритим, завжди.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-25T07:55:24.636377"
+    },
+    {
+      "english": "Good vibes only, please.",
+      "ukrainian": "Тільки хороші вібрації, будь ласка.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-25T07:55:24.636380"
+    },
+    {
+      "english": "You deserve genuine happiness.",
+      "ukrainian": "Ти заслуговуєш на справжнє щастя.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-25T07:55:24.636382"
+    },
+    {
+      "english": "Don't rush, let it unfold.",
+      "ukrainian": "Не поспішай, дозволь цьому розгорнутися.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-25T07:55:24.636385"
+    },
+    {
+      "english": "Your perspective is valuable.",
+      "ukrainian": "Твоя точка зору цінна.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-25T07:55:24.636388"
+    },
+    {
+      "english": "Every experience teaches something.",
+      "ukrainian": "Кожен досвід чомусь вчить.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-25T07:55:24.636390"
+    },
+    {
+      "english": "Radiate kindness, it returns.",
+      "ukrainian": "Випромінюй доброту, вона повертається.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-25T07:55:24.636393"
+    },
+    {
+      "english": "Embrace vulnerability, it's strength.",
+      "ukrainian": "Прийми вразливість, це сила.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-25T07:55:24.636395"
+    },
+    {
+      "english": "You are more than enough.",
+      "ukrainian": "Ти більше, ніж достатньо.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-25T07:55:24.636398"
+    },
+    {
+      "english": "Trust the timing, always.",
+      "ukrainian": "Довіряй часу, завжди.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-25T07:55:24.636400"
+    },
+    {
+      "english": "Your glow is captivating.",
+      "ukrainian": "Твоє сяйво захоплює.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-25T07:55:24.636402"
+    },
+    {
+      "english": "Be patient with your journey.",
+      "ukrainian": "Будь терплячим до свого шляху.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-25T07:55:24.636404"
+    },
+    {
+      "english": "You bring out the best.",
+      "ukrainian": "Ти витягуєш найкраще.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-25T07:55:24.636407"
+    },
+    {
+      "english": "Focus on growth, not perfection.",
+      "ukrainian": "Зосередься на зростанні, не на досконалості.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-25T07:55:24.636409"
+    },
+    {
+      "english": "Kindness is always attractive.",
+      "ukrainian": "Доброта завжди приваблива.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-25T07:55:24.636412"
+    },
+    {
+      "english": "Your presence is a gift.",
+      "ukrainian": "Твоя присутність – це дар.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-25T07:55:24.636414"
+    },
+    {
+      "english": "Inner peace attracts outer love.",
+      "ukrainian": "Внутрішній спокій притягує зовнішню любов.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-25T07:55:24.636417"
+    },
+    {
+      "english": "You are capable of deep love.",
+      "ukrainian": "Ти здатний на глибоку любов.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-25T07:55:24.636419"
+    },
+    {
+      "english": "Let joy lead the way.",
+      "ukrainian": "Дозволь радості вести.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-25T07:55:24.636421"
+    },
+    {
+      "english": "Your uniqueness is your power.",
+      "ukrainian": "Твоя унікальність – твоя сила.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-25T07:55:24.636423"
+    },
+    {
+      "english": "Open yourself to possibilities.",
+      "ukrainian": "Відкрийся можливостям.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-25T07:55:24.636425"
+    },
+    {
+      "english": "Love yourself, then share.",
+      "ukrainian": "Люби себе, потім ділись.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-25T07:55:24.636428"
+    },
+    {
+      "english": "Your heart is a treasure.",
+      "ukrainian": "Твоє серце – це скарб.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-25T07:55:24.636430"
+    },
+    {
+      "english": "Be brave, be bold.",
+      "ukrainian": "Будь сміливим, будь відважним.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-25T07:55:24.636432"
+    },
+    {
+      "english": "Positive thoughts attract positive people.",
+      "ukrainian": "Позитивні думки притягують позитивних людей.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-25T07:55:24.636435"
+    },
+    {
+      "english": "You are worthy of love.",
+      "ukrainian": "Ти гідний любові.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-25T07:55:24.636437"
+    },
+    {
+      "english": "This feels surprisingly right, you know?",
+      "ukrainian": "Це дивовижно правильно, знаєш?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-25T07:55:24.636439"
+    },
+    {
+      "english": "I'm really trying to be open.",
+      "ukrainian": "Я справді намагаюся бути відкритим.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-25T07:55:24.636442"
+    },
+    {
+      "english": "What do you think, really?",
+      "ukrainian": "Що ти думаєш, насправді?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-25T07:55:24.636444"
+    },
+    {
+      "english": "It takes time, I understand that.",
+      "ukrainian": "Це потребує часу, я це розумію.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-25T07:55:24.636446"
+    },
+    {
+      "english": "I'm learning to trust my gut.",
+      "ukrainian": "Я вчуся довіряти своїй інтуїції.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-25T07:55:24.636448"
+    },
+    {
+      "english": "Let's just see how things go.",
+      "ukrainian": "Давай просто подивимося, як підуть справи.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-25T07:55:24.636451"
+    },
+    {
+      "english": "Honesty matters, a lot.",
+      "ukrainian": "Чесність важлива, дуже.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-25T07:55:24.636453"
+    },
+    {
+      "english": "I'm not rushing anything.",
+      "ukrainian": "Я нічого не поспішаю.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-25T07:55:24.636455"
+    },
+    {
+      "english": "This feels different, good different.",
+      "ukrainian": "Це відчувається інакше, по-доброму інакше.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-25T07:55:24.636458"
+    },
+    {
+      "english": "Can we be truly ourselves here?",
+      "ukrainian": "Чи можемо ми бути справжніми тут?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-25T07:55:24.636460"
+    },
+    {
+      "english": "My feelings are getting deeper.",
+      "ukrainian": "Мої почуття стають глибшими.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-25T07:55:24.636462"
+    },
+    {
+      "english": "I value sincerity above all.",
+      "ukrainian": "Я ціную щирість понад усе.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-25T07:55:24.636464"
+    },
+    {
+      "english": "It's okay to be a little scared.",
+      "ukrainian": "Це нормально, трохи боятися.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-25T07:55:24.636466"
+    },
+    {
+      "english": "What's on your mind, really?",
+      "ukrainian": "Що у тебе на думці, справді?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-25T07:55:24.636469"
+    },
+    {
+      "english": "This connection feels genuine.",
+      "ukrainian": "Цей зв'язок відчувається справжнім.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-25T07:55:24.636471"
+    },
+    {
+      "english": "I'm open to exploring this.",
+      "ukrainian": "Я відкритий до дослідження цього.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-25T07:55:24.636474"
+    },
+    {
+      "english": "I'm taking it one day at a time.",
+      "ukrainian": "Я сприймаю це день за днем.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-25T07:55:24.636476"
+    },
+    {
+      "english": "This feeling is quite unexpected.",
+      "ukrainian": "Це почуття досить несподіване.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-25T07:55:24.636479"
+    },
+    {
+      "english": "What are you truly hoping for?",
+      "ukrainian": "На що ти справді сподіваєшся?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-25T07:55:24.636481"
+    },
+    {
+      "english": "I need to reflect on this.",
+      "ukrainian": "Мені треба над цим подумати.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-25T07:55:24.636483"
+    },
+    {
+      "english": "Are we on the same page?",
+      "ukrainian": "Ми на одній хвилі?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-25T07:55:24.636485"
+    },
+    {
+      "english": "This requires some serious thought.",
+      "ukrainian": "Це потребує серйозних роздумів.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-25T07:55:24.636489"
+    },
+    {
+      "english": "I'm letting my guard down.",
+      "ukrainian": "Я опускаю свої захисні стіни.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-25T07:55:24.636491"
+    },
+    {
+      "english": "This journey is mine to figure out.",
+      "ukrainian": "Цей шлях мені розбиратися.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-25T07:55:24.636493"
+    },
+    {
+      "english": "I want something real.",
+      "ukrainian": "Я хочу чогось справжнього.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-25T07:55:24.636495"
+    },
+    {
+      "english": "How do you feel about that?",
+      "ukrainian": "Що ти про це думаєш?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-25T07:55:24.636497"
+    },
+    {
+      "english": "This connection feels deep.",
+      "ukrainian": "Цей зв'язок відчувається глибоким.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-25T07:55:24.636499"
+    },
+    {
+      "english": "I'm just being me.",
+      "ukrainian": "Я просто є собою.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-25T07:55:24.636501"
+    },
+    {
+      "english": "Let's plan a weekend trip, maybe?",
+      "ukrainian": "Давай сплануємо поїздку на вихідні, га?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-25T07:55:24.636504"
+    },
+    {
+      "english": "Where do you like to unwind after work?",
+      "ukrainian": "Де ти любиш відпочивати після роботи?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-25T07:55:24.636506"
+    },
+    {
+      "english": "Do you have any favourite local spots?",
+      "ukrainian": "Чи маєш улюблені місцеві заклади?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-25T07:55:24.636508"
+    },
+    {
+      "english": "Let's cook dinner together sometime soon.",
+      "ukrainian": "Давай якось приготуємо вечерю разом.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-25T07:55:24.636511"
+    },
+    {
+      "english": "What's a good, simple recipe you know?",
+      "ukrainian": "Який простий рецепт ти знаєш?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-25T07:55:24.636513"
+    },
+    {
+      "english": "We should try that new cafe downtown.",
+      "ukrainian": "Треба зайти в ту нову кав'ярню.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-10-25T07:55:24.636515"
     }
   ],
-  "last_updated": "2026-10-24T07:43:39.507234"
+  "last_updated": "2026-10-25T07:55:24.636517"
 }
