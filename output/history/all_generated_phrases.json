@@ -7199,7 +7199,727 @@
       "ukrainian": "Керуй своїм стресом, перш ніж він зросте.",
       "category": "Feelings & Emotions",
       "generated_at": "2026-10-26T08:15:54.998566"
+    },
+    {
+      "english": "What's the purpose, really?",
+      "ukrainian": "Яка мета, насправді?",
+      "category": "Purpose",
+      "generated_at": "2026-10-27T08:30:04.616689"
+    },
+    {
+      "english": "It has a specific purpose.",
+      "ukrainian": "Це має певну мету.",
+      "category": "Purpose",
+      "generated_at": "2026-10-27T08:30:04.616699"
+    },
+    {
+      "english": "I'm doing this for a reason.",
+      "ukrainian": "Я роблю це з причини.",
+      "category": "Purpose",
+      "generated_at": "2026-10-27T08:30:04.616702"
+    },
+    {
+      "english": "What is this for?",
+      "ukrainian": "Для чого це?",
+      "category": "Purpose",
+      "generated_at": "2026-10-27T08:30:04.616705"
+    },
+    {
+      "english": "This is for emergencies.",
+      "ukrainian": "Це для надзвичайних випадків.",
+      "category": "Purpose",
+      "generated_at": "2026-10-27T08:30:04.616708"
+    },
+    {
+      "english": "It serves a good purpose.",
+      "ukrainian": "Це служить добрій меті.",
+      "category": "Purpose",
+      "generated_at": "2026-10-27T08:30:04.616711"
+    },
+    {
+      "english": "What's your goal here?",
+      "ukrainian": "Яка твоя мета тут?",
+      "category": "Purpose",
+      "generated_at": "2026-10-27T08:30:04.616715"
+    },
+    {
+      "english": "My purpose is clear.",
+      "ukrainian": "Моя мета зрозуміла.",
+      "category": "Purpose",
+      "generated_at": "2026-10-27T08:30:04.616720"
+    },
+    {
+      "english": "This is just for fun.",
+      "ukrainian": "Це просто для розваги.",
+      "category": "Purpose",
+      "generated_at": "2026-10-27T08:30:04.616724"
+    },
+    {
+      "english": "It's meant for learning.",
+      "ukrainian": "Це призначене для навчання.",
+      "category": "Purpose",
+      "generated_at": "2026-10-27T08:30:04.616727"
+    },
+    {
+      "english": "What is the intention?",
+      "ukrainian": "Який намір?",
+      "category": "Purpose",
+      "generated_at": "2026-10-27T08:30:04.616730"
+    },
+    {
+      "english": "We have a common purpose.",
+      "ukrainian": "У нас спільна мета.",
+      "category": "Purpose",
+      "generated_at": "2026-10-27T08:30:04.616732"
+    },
+    {
+      "english": "This tool has one use.",
+      "ukrainian": "Цей інструмент має одне призначення.",
+      "category": "Purpose",
+      "generated_at": "2026-10-27T08:30:04.616735"
+    },
+    {
+      "english": "What's the main objective?",
+      "ukrainian": "Яка головна мета?",
+      "category": "Purpose",
+      "generated_at": "2026-10-27T08:30:04.616737"
+    },
+    {
+      "english": "It's not for that purpose.",
+      "ukrainian": "Це не для такої мети.",
+      "category": "Purpose",
+      "generated_at": "2026-10-27T08:30:04.616740"
+    },
+    {
+      "english": "I need it for work.",
+      "ukrainian": "Мені це потрібно для роботи.",
+      "category": "Purpose",
+      "generated_at": "2026-10-27T08:30:04.616742"
+    },
+    {
+      "english": "What's the point of this?",
+      "ukrainian": "У чому сенс цього?",
+      "category": "Purpose",
+      "generated_at": "2026-10-27T08:30:04.616745"
+    },
+    {
+      "english": "This is for your safety.",
+      "ukrainian": "Це для вашої безпеки.",
+      "category": "Purpose",
+      "generated_at": "2026-10-27T08:30:04.616748"
+    },
+    {
+      "english": "What are you aiming for?",
+      "ukrainian": "До чого ти прагнеш?",
+      "category": "Purpose",
+      "generated_at": "2026-10-27T08:30:04.616750"
+    },
+    {
+      "english": "It's for everyday use.",
+      "ukrainian": "Це для повсякденного використання.",
+      "category": "Purpose",
+      "generated_at": "2026-10-27T08:30:04.616753"
+    },
+    {
+      "english": "What's the reason behind it?",
+      "ukrainian": "Яка причина цього?",
+      "category": "Purpose",
+      "generated_at": "2026-10-27T08:30:04.616755"
+    },
+    {
+      "english": "This is for special occasions.",
+      "ukrainian": "Це для особливих випадків.",
+      "category": "Purpose",
+      "generated_at": "2026-10-27T08:30:04.616758"
+    },
+    {
+      "english": "It has a dual purpose.",
+      "ukrainian": "Це має подвійне призначення.",
+      "category": "Purpose",
+      "generated_at": "2026-10-27T08:30:04.616760"
+    },
+    {
+      "english": "What's the ultimate goal?",
+      "ukrainian": "Яка кінцева мета?",
+      "category": "Purpose",
+      "generated_at": "2026-10-27T08:30:04.616765"
+    },
+    {
+      "english": "This is for decoration only.",
+      "ukrainian": "Це тільки для декору.",
+      "category": "Purpose",
+      "generated_at": "2026-10-27T08:30:04.616767"
+    },
+    {
+      "english": "I have a purpose in life.",
+      "ukrainian": "У мене є мета в житті.",
+      "category": "Purpose",
+      "generated_at": "2026-10-27T08:30:04.616770"
+    },
+    {
+      "english": "What is its function?",
+      "ukrainian": "Яка його функція?",
+      "category": "Purpose",
+      "generated_at": "2026-10-27T08:30:04.616772"
+    },
+    {
+      "english": "This is for practice.",
+      "ukrainian": "Це для тренування.",
+      "category": "Purpose",
+      "generated_at": "2026-10-27T08:30:04.616775"
+    },
+    {
+      "english": "What's the intended use?",
+      "ukrainian": "Яке призначене використання?",
+      "category": "Purpose",
+      "generated_at": "2026-10-27T08:30:04.616789"
+    },
+    {
+      "english": "It's for your own good.",
+      "ukrainian": "Це для твого ж блага.",
+      "category": "Purpose",
+      "generated_at": "2026-10-27T08:30:04.616792"
+    },
+    {
+      "english": "Can you explain, what this is for?",
+      "ukrainian": "Можеш пояснити, для чого це?",
+      "category": "Purpose",
+      "generated_at": "2026-10-27T08:30:04.616795"
+    },
+    {
+      "english": "What's the best way, to use this?",
+      "ukrainian": "Який найкращий спосіб, це використати?",
+      "category": "Purpose",
+      "generated_at": "2026-10-27T08:30:04.616798"
+    },
+    {
+      "english": "Is there another option, for this task?",
+      "ukrainian": "Чи є інший варіант, для цього завдання?",
+      "category": "Purpose",
+      "generated_at": "2026-10-27T08:30:04.616801"
+    },
+    {
+      "english": "What if we try, a different approach?",
+      "ukrainian": "А що, як спробуємо, інший підхід?",
+      "category": "Purpose",
+      "generated_at": "2026-10-27T08:30:04.616806"
+    },
+    {
+      "english": "Could you clarify, the intention here?",
+      "ukrainian": "Чи міг би ти уточнити, намір тут?",
+      "category": "Purpose",
+      "generated_at": "2026-10-27T08:30:04.616809"
+    },
+    {
+      "english": "What exactly, are we trying to achieve?",
+      "ukrainian": "Чого саме, ми намагаємося досягти?",
+      "category": "Purpose",
+      "generated_at": "2026-10-27T08:30:04.616812"
+    },
+    {
+      "english": "How does this help, our main goal?",
+      "ukrainian": "Як це допомагає, нашій головній меті?",
+      "category": "Purpose",
+      "generated_at": "2026-10-27T08:30:04.616816"
+    },
+    {
+      "english": "Do you see, the benefit in this?",
+      "ukrainian": "Ти бачиш, користь у цьому?",
+      "category": "Purpose",
+      "generated_at": "2026-10-27T08:30:04.616819"
+    },
+    {
+      "english": "What's the plan, for moving forward?",
+      "ukrainian": "Який план, для подальшого руху?",
+      "category": "Purpose",
+      "generated_at": "2026-10-27T08:30:04.616822"
+    },
+    {
+      "english": "Can we discuss, the reasoning behind?",
+      "ukrainian": "Чи можемо обговорити, причину цього?",
+      "category": "Purpose",
+      "generated_at": "2026-10-27T08:30:04.616825"
+    },
+    {
+      "english": "What is the desired outcome, for this project?",
+      "ukrainian": "Який бажаний результат, для цього проєкту?",
+      "category": "Purpose",
+      "generated_at": "2026-10-27T08:30:04.616827"
+    },
+    {
+      "english": "I'm curious, about the purpose of this.",
+      "ukrainian": "Мені цікава, мета цього.",
+      "category": "Purpose",
+      "generated_at": "2026-10-27T08:30:04.616830"
+    },
+    {
+      "english": "Is this the right tool, for the job?",
+      "ukrainian": "Чи це правильний інструмент, для роботи?",
+      "category": "Purpose",
+      "generated_at": "2026-10-27T08:30:04.616833"
+    },
+    {
+      "english": "What are we expecting, from this action?",
+      "ukrainian": "Чого ми очікуємо, від цієї дії?",
+      "category": "Purpose",
+      "generated_at": "2026-10-27T08:30:04.616836"
+    },
+    {
+      "english": "Can you give me, some guidance, please?",
+      "ukrainian": "Можеш дати мені, якусь пораду, будь ласка?",
+      "category": "Purpose",
+      "generated_at": "2026-10-27T08:30:04.616838"
+    },
+    {
+      "english": "How can I best contribute, to this?",
+      "ukrainian": "Як я можу найкраще долучитися, до цього?",
+      "category": "Purpose",
+      "generated_at": "2026-10-27T08:30:04.616842"
+    },
+    {
+      "english": "Is there a specific target, we're aiming for?",
+      "ukrainian": "Чи є конкретна ціль, до якої ми прагнемо?",
+      "category": "Purpose",
+      "generated_at": "2026-10-27T08:30:04.616845"
+    },
+    {
+      "english": "What makes this, the ideal solution?",
+      "ukrainian": "Що робить це, ідеальним рішенням?",
+      "category": "Purpose",
+      "generated_at": "2026-10-27T08:30:04.616847"
+    },
+    {
+      "english": "Could you help me understand, its function?",
+      "ukrainian": "Чи міг би ти допомогти мені зрозуміти, його функцію?",
+      "category": "Purpose",
+      "generated_at": "2026-10-27T08:30:04.616850"
+    },
+    {
+      "english": "What's the core idea, behind this plan?",
+      "ukrainian": "Яка основна ідея, за цим планом?",
+      "category": "Purpose",
+      "generated_at": "2026-10-27T08:30:04.616853"
+    },
+    {
+      "english": "Are we aligned, on the objective?",
+      "ukrainian": "Чи ми узгоджені, щодо мети?",
+      "category": "Purpose",
+      "generated_at": "2026-10-27T08:30:04.616856"
+    },
+    {
+      "english": "What's the motivation, for this endeavor?",
+      "ukrainian": "Яка мотивація, для цієї справи?",
+      "category": "Purpose",
+      "generated_at": "2026-10-27T08:30:04.616859"
+    },
+    {
+      "english": "Can you explain, the reasoning?",
+      "ukrainian": "Можеш пояснити, логіку?",
+      "category": "Purpose",
+      "generated_at": "2026-10-27T08:30:04.616861"
+    },
+    {
+      "english": "What's the desired effect, of this?",
+      "ukrainian": "Який бажаний ефект, від цього?",
+      "category": "Purpose",
+      "generated_at": "2026-10-27T08:30:04.616864"
+    },
+    {
+      "english": "Is this the intended use, correct?",
+      "ukrainian": "Чи це призначене використання, правильне?",
+      "category": "Purpose",
+      "generated_at": "2026-10-27T08:30:04.616869"
+    },
+    {
+      "english": "What is the objective, of this meeting?",
+      "ukrainian": "Яка мета, цієї зустрічі?",
+      "category": "Purpose",
+      "generated_at": "2026-10-27T08:30:04.616871"
+    },
+    {
+      "english": "Can we clarify, what we need?",
+      "ukrainian": "Чи можемо ми уточнити, що нам потрібно?",
+      "category": "Purpose",
+      "generated_at": "2026-10-27T08:30:04.616876"
+    },
+    {
+      "english": "What are we hoping, to accomplish here?",
+      "ukrainian": "Чого ми сподіваємося, досягти тут?",
+      "category": "Purpose",
+      "generated_at": "2026-10-27T08:30:04.616878"
+    },
+    {
+      "english": "Is there a specific goal, in mind?",
+      "ukrainian": "Чи є конкретна мета, в голові?",
+      "category": "Purpose",
+      "generated_at": "2026-10-27T08:30:04.616881"
+    },
+    {
+      "english": "Believe in your potential, always.",
+      "ukrainian": "Вір у свій потенціал, завжди.",
+      "category": "Purpose",
+      "generated_at": "2026-10-27T08:30:04.616884"
+    },
+    {
+      "english": "Your efforts matter, keep going.",
+      "ukrainian": "Твої зусилля важливі, продовжуй.",
+      "category": "Purpose",
+      "generated_at": "2026-10-27T08:30:04.616886"
+    },
+    {
+      "english": "Embrace the journey, learn and grow.",
+      "ukrainian": "Прийми шлях, вчись і розвивайся.",
+      "category": "Purpose",
+      "generated_at": "2026-10-27T08:30:04.616889"
+    },
+    {
+      "english": "Don't give up, your time will come.",
+      "ukrainian": "Не здавайся, твій час настане.",
+      "category": "Purpose",
+      "generated_at": "2026-10-27T08:30:04.616892"
+    },
+    {
+      "english": "Small wins build big successes.",
+      "ukrainian": "Маленькі перемоги будують великі успіхи.",
+      "category": "Purpose",
+      "generated_at": "2026-10-27T08:30:04.616895"
+    },
+    {
+      "english": "Stay inspired, stay determined.",
+      "ukrainian": "Залишайся натхненним, залишайся рішучим.",
+      "category": "Purpose",
+      "generated_at": "2026-10-27T08:30:04.616897"
+    },
+    {
+      "english": "Visualize your success, make it happen.",
+      "ukrainian": "Уяви свій успіх, зроби його реальністю.",
+      "category": "Purpose",
+      "generated_at": "2026-10-27T08:30:04.616900"
+    },
+    {
+      "english": "Your passion fuels your purpose.",
+      "ukrainian": "Твоя пристрасть живить твою мету.",
+      "category": "Purpose",
+      "generated_at": "2026-10-27T08:30:04.616902"
+    },
+    {
+      "english": "Believe in the process, trust yourself.",
+      "ukrainian": "Вір у процес, довіряй собі.",
+      "category": "Purpose",
+      "generated_at": "2026-10-27T08:30:04.616905"
+    },
+    {
+      "english": "Let your actions speak loudly.",
+      "ukrainian": "Нехай твої дії говорять голосно.",
+      "category": "Purpose",
+      "generated_at": "2026-10-27T08:30:04.616908"
+    },
+    {
+      "english": "Find joy in the journey, always.",
+      "ukrainian": "Шукай радість у шляху, завжди.",
+      "category": "Purpose",
+      "generated_at": "2026-10-27T08:30:04.616910"
+    },
+    {
+      "english": "You have the power to create.",
+      "ukrainian": "Ти маєш силу творити.",
+      "category": "Purpose",
+      "generated_at": "2026-10-27T08:30:04.616913"
+    },
+    {
+      "english": "Stay focused, stay driven.",
+      "ukrainian": "Залишайся зосередженим, залишайся вмотивованим.",
+      "category": "Purpose",
+      "generated_at": "2026-10-27T08:30:04.616915"
+    },
+    {
+      "english": "Never underestimate your own strength.",
+      "ukrainian": "Ніколи не недооцінюй власну силу.",
+      "category": "Purpose",
+      "generated_at": "2026-10-27T08:30:04.616920"
+    },
+    {
+      "english": "Push your boundaries, explore more.",
+      "ukrainian": "Розширюй свої межі, досліджуй більше.",
+      "category": "Purpose",
+      "generated_at": "2026-10-27T08:30:04.616923"
+    },
+    {
+      "english": "Keep learning, keep evolving.",
+      "ukrainian": "Продовжуй вчитися, продовжуй еволюціонувати.",
+      "category": "Purpose",
+      "generated_at": "2026-10-27T08:30:04.616925"
+    },
+    {
+      "english": "Your determination is your superpower.",
+      "ukrainian": "Твоя рішучість – твоя суперсила.",
+      "category": "Purpose",
+      "generated_at": "2026-10-27T08:30:04.616928"
+    },
+    {
+      "english": "Embrace this opportunity, make it count.",
+      "ukrainian": "Скористайся цією можливістю, зроби її значущою.",
+      "category": "Purpose",
+      "generated_at": "2026-10-27T08:30:04.616930"
+    },
+    {
+      "english": "Let your dreams guide your actions.",
+      "ukrainian": "Нехай твої мрії керують твоїми діями.",
+      "category": "Purpose",
+      "generated_at": "2026-10-27T08:30:04.616933"
+    },
+    {
+      "english": "What's the point, really?",
+      "ukrainian": "В чому сенс, насправді?",
+      "category": "Purpose",
+      "generated_at": "2026-10-27T08:30:04.616936"
+    },
+    {
+      "english": "Why are we doing this?",
+      "ukrainian": "Навіщо ми це робимо?",
+      "category": "Purpose",
+      "generated_at": "2026-10-27T08:30:04.616938"
+    },
+    {
+      "english": "What's the goal, here?",
+      "ukrainian": "Яка тут мета?",
+      "category": "Purpose",
+      "generated_at": "2026-10-27T08:30:04.616941"
+    },
+    {
+      "english": "For what reason?",
+      "ukrainian": "З якою метою?",
+      "category": "Purpose",
+      "generated_at": "2026-10-27T08:30:04.616943"
+    },
+    {
+      "english": "What's it all for?",
+      "ukrainian": "Для чого все це?",
+      "category": "Purpose",
+      "generated_at": "2026-10-27T08:30:04.616946"
+    },
+    {
+      "english": "What's the underlying reason?",
+      "ukrainian": "Яка глибинна причина?",
+      "category": "Purpose",
+      "generated_at": "2026-10-27T08:30:04.616948"
+    },
+    {
+      "english": "Where are we heading?",
+      "ukrainian": "Куди ми прямуємо?",
+      "category": "Purpose",
+      "generated_at": "2026-10-27T08:30:04.616951"
+    },
+    {
+      "english": "What's the agenda?",
+      "ukrainian": "Який порядок денний?",
+      "category": "Purpose",
+      "generated_at": "2026-10-27T08:30:04.616953"
+    },
+    {
+      "english": "What problem are we solving?",
+      "ukrainian": "Яку проблему вирішуємо?",
+      "category": "Purpose",
+      "generated_at": "2026-10-27T08:30:04.616957"
+    },
+    {
+      "english": "What's the mission?",
+      "ukrainian": "У чому місія?",
+      "category": "Purpose",
+      "generated_at": "2026-10-27T08:30:04.616960"
+    },
+    {
+      "english": "What's the bigger picture?",
+      "ukrainian": "Яка загальна картина?",
+      "category": "Purpose",
+      "generated_at": "2026-10-27T08:30:04.616962"
+    },
+    {
+      "english": "What's the underlying motive?",
+      "ukrainian": "Який основний мотив?",
+      "category": "Purpose",
+      "generated_at": "2026-10-27T08:30:04.616965"
+    },
+    {
+      "english": "What outcome do you seek?",
+      "ukrainian": "Якого результату ви прагнете?",
+      "category": "Purpose",
+      "generated_at": "2026-10-27T08:30:04.616967"
+    },
+    {
+      "english": "Why this approach?",
+      "ukrainian": "Чому саме такий підхід?",
+      "category": "Purpose",
+      "generated_at": "2026-10-27T08:30:04.616970"
+    },
+    {
+      "english": "What are we building towards?",
+      "ukrainian": "До чого ми прагнемо?",
+      "category": "Purpose",
+      "generated_at": "2026-10-27T08:30:04.616972"
+    },
+    {
+      "english": "What's the end game?",
+      "ukrainian": "Яка кінцева мета?",
+      "category": "Purpose",
+      "generated_at": "2026-10-27T08:30:04.616975"
+    },
+    {
+      "english": "What's the main purpose?",
+      "ukrainian": "Яка головна мета?",
+      "category": "Purpose",
+      "generated_at": "2026-10-27T08:30:04.616977"
+    },
+    {
+      "english": "What is the desired effect?",
+      "ukrainian": "Який бажаний ефект?",
+      "category": "Purpose",
+      "generated_at": "2026-10-27T08:30:04.616980"
+    },
+    {
+      "english": "What's the core meaning?",
+      "ukrainian": "У чому головний зміст?",
+      "category": "Purpose",
+      "generated_at": "2026-10-27T08:30:04.616982"
+    },
+    {
+      "english": "What's the idea, broadly?",
+      "ukrainian": "Яка загальна ідея?",
+      "category": "Purpose",
+      "generated_at": "2026-10-27T08:30:04.616985"
+    },
+    {
+      "english": "What's the aim?",
+      "ukrainian": "Який задум?",
+      "category": "Purpose",
+      "generated_at": "2026-10-27T08:30:04.616987"
+    },
+    {
+      "english": "What are we trying to prove?",
+      "ukrainian": "Що ми намагаємося довести?",
+      "category": "Purpose",
+      "generated_at": "2026-10-27T08:30:04.616990"
+    },
+    {
+      "english": "What's your main goal, today?",
+      "ukrainian": "Яка твоя головна ціль, сьогодні?",
+      "category": "Purpose",
+      "generated_at": "2026-10-27T08:30:04.616994"
+    },
+    {
+      "english": "Let's get this done, right?",
+      "ukrainian": "Зробимо це, так?",
+      "category": "Purpose",
+      "generated_at": "2026-10-27T08:30:04.616997"
+    },
+    {
+      "english": "What are we hoping for?",
+      "ukrainian": "На що ми сподіваємось?",
+      "category": "Purpose",
+      "generated_at": "2026-10-27T08:30:04.616999"
+    },
+    {
+      "english": "This has to work out.",
+      "ukrainian": "Це мусить вийти.",
+      "category": "Purpose",
+      "generated_at": "2026-10-27T08:30:04.617002"
+    },
+    {
+      "english": "What's the best way, forward?",
+      "ukrainian": "Який найкращий шлях, уперед?",
+      "category": "Purpose",
+      "generated_at": "2026-10-27T08:30:04.617004"
+    },
+    {
+      "english": "Think about the final result.",
+      "ukrainian": "Подумай про кінцевий результат.",
+      "category": "Purpose",
+      "generated_at": "2026-10-27T08:30:04.617007"
+    },
+    {
+      "english": "Why are you doing this, exactly?",
+      "ukrainian": "Чому ти це робиш, власне?",
+      "category": "Purpose",
+      "generated_at": "2026-10-27T08:30:04.617009"
+    },
+    {
+      "english": "What's the benefit, for us?",
+      "ukrainian": "Яка користь, для нас?",
+      "category": "Purpose",
+      "generated_at": "2026-10-27T08:30:04.617012"
+    },
+    {
+      "english": "We need a clear direction.",
+      "ukrainian": "Нам потрібен чіткий напрямок.",
+      "category": "Purpose",
+      "generated_at": "2026-10-27T08:30:04.617014"
+    },
+    {
+      "english": "Focus on the immediate task.",
+      "ukrainian": "Зосередься на наявній задачі.",
+      "category": "Purpose",
+      "generated_at": "2026-10-27T08:30:04.617018"
+    },
+    {
+      "english": "What's the desired outcome, here?",
+      "ukrainian": "Який бажаний результат, тут?",
+      "category": "Purpose",
+      "generated_at": "2026-10-27T08:30:04.617020"
+    },
+    {
+      "english": "This is important, you know.",
+      "ukrainian": "Це важливо, знаєш.",
+      "category": "Purpose",
+      "generated_at": "2026-10-27T08:30:04.617023"
+    },
+    {
+      "english": "Let's make it worthwhile.",
+      "ukrainian": "Зробимо це вартим.",
+      "category": "Purpose",
+      "generated_at": "2026-10-27T08:30:04.617025"
+    },
+    {
+      "english": "This must have a purpose.",
+      "ukrainian": "Це повинно мати мету.",
+      "category": "Purpose",
+      "generated_at": "2026-10-27T08:30:04.617028"
+    },
+    {
+      "english": "What are we achieving, ultimately?",
+      "ukrainian": "Чого ми досягаємо, зрештою?",
+      "category": "Purpose",
+      "generated_at": "2026-10-27T08:30:04.617030"
+    },
+    {
+      "english": "Keep the objective in mind.",
+      "ukrainian": "Тримай мету в голові.",
+      "category": "Purpose",
+      "generated_at": "2026-10-27T08:30:04.617033"
+    },
+    {
+      "english": "What impact do we want?",
+      "ukrainian": "Якого впливу ми хочемо?",
+      "category": "Purpose",
+      "generated_at": "2026-10-27T08:30:04.617035"
+    },
+    {
+      "english": "This needs a solid reason.",
+      "ukrainian": "Це потребує вагомої причини.",
+      "category": "Purpose",
+      "generated_at": "2026-10-27T08:30:04.617038"
+    },
+    {
+      "english": "How can we improve this?",
+      "ukrainian": "Як ми можемо це покращити?",
+      "category": "Purpose",
+      "generated_at": "2026-10-27T08:30:04.617042"
+    },
+    {
+      "english": "What's the ultimate intention?",
+      "ukrainian": "Який кінцевий намір?",
+      "category": "Purpose",
+      "generated_at": "2026-10-27T08:30:04.617046"
     }
   ],
-  "last_updated": "2026-10-26T08:15:54.998568"
+  "last_updated": "2026-10-27T08:30:04.617048"
 }
