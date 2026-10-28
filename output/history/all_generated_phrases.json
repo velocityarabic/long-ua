@@ -7919,7 +7919,727 @@
       "ukrainian": "Який кінцевий намір?",
       "category": "Purpose",
       "generated_at": "2026-10-27T08:30:04.617046"
+    },
+    {
+      "english": "Good morning, everyone, let's start.",
+      "ukrainian": "Доброго ранку, всі, почнімо.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-28T09:11:56.451209"
+    },
+    {
+      "english": "How was your weekend, any plans?",
+      "ukrainian": "Як пройшли вихідні, є плани?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-28T09:11:56.451226"
+    },
+    {
+      "english": "I'm ready for the meeting, are you?",
+      "ukrainian": "Я готовий до зустрічі, а ти?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-28T09:11:56.451230"
+    },
+    {
+      "english": "Let's discuss this later, okay?",
+      "ukrainian": "Обговоримо це пізніше, добре?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-28T09:11:56.451234"
+    },
+    {
+      "english": "I need your input on this.",
+      "ukrainian": "Мені потрібна твоя думка щодо цього.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-28T09:11:56.451237"
+    },
+    {
+      "english": "This is quite urgent, please hurry.",
+      "ukrainian": "Це досить терміново, будь ласка, поспіши.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-28T09:11:56.451240"
+    },
+    {
+      "english": "What's the main priority today?",
+      "ukrainian": "Який головний пріоритет сьогодні?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-28T09:11:56.451243"
+    },
+    {
+      "english": "I'm working on it right now.",
+      "ukrainian": "Я працюю над цим просто зараз.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-28T09:11:56.451249"
+    },
+    {
+      "english": "Do you need any help with that?",
+      "ukrainian": "Тобі потрібна допомога з цим?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-28T09:11:56.451253"
+    },
+    {
+      "english": "Let's brainstorm some new ideas.",
+      "ukrainian": "Давай нагенеруємо нових ідей.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-28T09:11:56.451256"
+    },
+    {
+      "english": "Is there anything else, sir?",
+      "ukrainian": "Щось ще, пане?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-28T09:11:56.451260"
+    },
+    {
+      "english": "Let's wrap up this task.",
+      "ukrainian": "Завершимо це завдання.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-28T09:11:56.451263"
+    },
+    {
+      "english": "I'm feeling a bit under the weather.",
+      "ukrainian": "Я почуваюся трохи недобре.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-28T09:11:56.451266"
+    },
+    {
+      "english": "Where is the coffee machine?",
+      "ukrainian": "Де знаходиться кавомашина?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-28T09:11:56.451269"
+    },
+    {
+      "english": "Can we reschedule our call?",
+      "ukrainian": "Ми можемо перенести наш дзвінок?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-28T09:11:56.451274"
+    },
+    {
+      "english": "I'll take care of that.",
+      "ukrainian": "Я подбаю про це.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-28T09:11:56.451276"
+    },
+    {
+      "english": "This needs immediate attention.",
+      "ukrainian": "Це потребує негайної уваги.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-28T09:11:56.451279"
+    },
+    {
+      "english": "Let's confirm the details.",
+      "ukrainian": "Підтвердимо деталі.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-28T09:11:56.451282"
+    },
+    {
+      "english": "I'm swamped with work today.",
+      "ukrainian": "Сьогодні я завалений роботою.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-28T09:11:56.451285"
+    },
+    {
+      "english": "What's the deadline for this?",
+      "ukrainian": "Який термін здачі для цього?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-28T09:11:56.451290"
+    },
+    {
+      "english": "I'll follow up on this.",
+      "ukrainian": "Я проконтролюю це.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-28T09:11:56.451293"
+    },
+    {
+      "english": "Let's get down to business.",
+      "ukrainian": "Візьмемося до діла.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-28T09:11:56.451296"
+    },
+    {
+      "english": "Is this information confidential?",
+      "ukrainian": "Ця інформація конфіденційна?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-28T09:11:56.451298"
+    },
+    {
+      "english": "I'll send you the minutes.",
+      "ukrainian": "Я надішлю вам протокол.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-28T09:11:56.451301"
+    },
+    {
+      "english": "Let's make sure we're aligned.",
+      "ukrainian": "Переконаємося, що ми узгоджені.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-28T09:11:56.451304"
+    },
+    {
+      "english": "Have a productive day, everyone!",
+      "ukrainian": "Продуктивного дня всім!",
+      "category": "Work & Office",
+      "generated_at": "2026-10-28T09:11:56.451309"
+    },
+    {
+      "english": "What time does the meeting start?",
+      "ukrainian": "О котрій годині починається зустріч?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-28T09:11:56.451312"
+    },
+    {
+      "english": "Could you explain this again, please?",
+      "ukrainian": "Чи не могли б Ви пояснити це знову?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-28T09:11:56.451315"
+    },
+    {
+      "english": "Where should I put this document?",
+      "ukrainian": "Куди мені покласти цей документ?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-28T09:11:56.451318"
+    },
+    {
+      "english": "What are your thoughts on this project?",
+      "ukrainian": "Які у Вас думки щодо цього проєкту?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-28T09:11:56.451321"
+    },
+    {
+      "english": "How do you usually handle such tasks?",
+      "ukrainian": "Як Ви зазвичай справляєтесь із такими завданнями?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-28T09:11:56.451324"
+    },
+    {
+      "english": "Can I borrow your pen for a second?",
+      "ukrainian": "Можна позичити Вашу ручку на секунду?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-28T09:11:56.451327"
+    },
+    {
+      "english": "What is the agenda for today?",
+      "ukrainian": "Який порядок денний на сьогодні?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-28T09:11:56.451330"
+    },
+    {
+      "english": "Is this the final version?",
+      "ukrainian": "Це остаточна версія?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-28T09:11:56.451332"
+    },
+    {
+      "english": "Who is responsible for this department?",
+      "ukrainian": "Хто відповідає за цей відділ?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-28T09:11:56.451335"
+    },
+    {
+      "english": "Could you recommend a good restaurant nearby?",
+      "ukrainian": "Чи можете порадити гарний ресторан неподалік?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-28T09:11:56.451339"
+    },
+    {
+      "english": "What's the best way to contact them?",
+      "ukrainian": "Який найкращий спосіб зв'язатися з ними?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-28T09:11:56.451342"
+    },
+    {
+      "english": "Do we have enough supplies?",
+      "ukrainian": "Чи вистачає нам припасів?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-28T09:11:56.451345"
+    },
+    {
+      "english": "How did you solve that problem?",
+      "ukrainian": "Як Ви вирішили ту проблему?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-28T09:11:56.451348"
+    },
+    {
+      "english": "Is there a quiet place to work?",
+      "ukrainian": "Чи є тихе місце для роботи?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-28T09:11:56.451351"
+    },
+    {
+      "english": "What's the Wi-Fi password, please?",
+      "ukrainian": "Який пароль від Wi-Fi, будь ласка?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-28T09:11:56.451355"
+    },
+    {
+      "english": "Could you send me the file?",
+      "ukrainian": "Чи могли б Ви надіслати мені файл?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-28T09:11:56.451357"
+    },
+    {
+      "english": "What is the update on the report?",
+      "ukrainian": "Який статус оновлення звіту?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-28T09:11:56.451360"
+    },
+    {
+      "english": "Do you need any clarification?",
+      "ukrainian": "Вам потрібне якесь уточнення?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-28T09:11:56.451363"
+    },
+    {
+      "english": "How can I improve my performance?",
+      "ukrainian": "Як я можу покращити свою роботу?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-28T09:11:56.451366"
+    },
+    {
+      "english": "What's the plan for the afternoon?",
+      "ukrainian": "Який план на другу половину дня?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-28T09:11:56.451369"
+    },
+    {
+      "english": "Did you receive my email?",
+      "ukrainian": "Ви отримали мій електронний лист?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-28T09:11:56.451373"
+    },
+    {
+      "english": "Can we have a quick chat about this?",
+      "ukrainian": "Можемо коротко обговорити це?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-28T09:11:56.451376"
+    },
+    {
+      "english": "What are the key takeaways from this?",
+      "ukrainian": "Які основні висновки з цього?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-28T09:11:56.451379"
+    },
+    {
+      "english": "Is there a printer I can use?",
+      "ukrainian": "Чи є принтер, яким я можу скористатися?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-28T09:11:56.451382"
+    },
+    {
+      "english": "How long will this take?",
+      "ukrainian": "Скільки часу це займе?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-28T09:11:56.451384"
+    },
+    {
+      "english": "What's the best approach here?",
+      "ukrainian": "Який тут найкращий підхід?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-28T09:11:56.451387"
+    },
+    {
+      "english": "Great job, team! Keep up the excellent work.",
+      "ukrainian": "Чудова робота, команда! Продовжуйте в тому ж дусі.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-28T09:11:56.451390"
+    },
+    {
+      "english": "You're doing amazing, truly.",
+      "ukrainian": "Ти чудово справляєшся, справді.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-28T09:11:56.451394"
+    },
+    {
+      "english": "Let's stay positive, no matter what.",
+      "ukrainian": "Давай залишатися позитивними, незважаючи ні на що.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-28T09:11:56.451398"
+    },
+    {
+      "english": "Every small step counts, remember that.",
+      "ukrainian": "Кожен маленький крок важливий, пам'ятай про це.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-28T09:11:56.451401"
+    },
+    {
+      "english": "We can achieve anything together.",
+      "ukrainian": "Ми можемо досягти всього разом.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-28T09:11:56.451405"
+    },
+    {
+      "english": "Your contribution is highly valued.",
+      "ukrainian": "Ваш внесок дуже цінується.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-28T09:11:56.451407"
+    },
+    {
+      "english": "Let's approach this with a clear mind.",
+      "ukrainian": "Підійдемо до цього з ясною головою.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-28T09:11:56.451410"
+    },
+    {
+      "english": "You have a great attitude towards work.",
+      "ukrainian": "У тебе чудове ставлення до роботи.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-28T09:11:56.451413"
+    },
+    {
+      "english": "What a fantastic idea! Well done.",
+      "ukrainian": "Яка чудова ідея! Молодець.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-28T09:11:56.451416"
+    },
+    {
+      "english": "Let's tackle challenges head-on.",
+      "ukrainian": "Давай протистояти викликам віч-на-віч.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-28T09:11:56.451421"
+    },
+    {
+      "english": "We're making excellent progress here.",
+      "ukrainian": "Ми робимо тут чудовий прогрес.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-28T09:11:56.451424"
+    },
+    {
+      "english": "Keep that positive momentum going.",
+      "ukrainian": "Підтримуй цей позитивний імпульс.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-28T09:11:56.451427"
+    },
+    {
+      "english": "You're a valuable asset to the team.",
+      "ukrainian": "Ти цінний член команди.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-28T09:11:56.451430"
+    },
+    {
+      "english": "Let's celebrate our small wins.",
+      "ukrainian": "Давай відзначати наші маленькі перемоги.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-28T09:11:56.451433"
+    },
+    {
+      "english": "Think creatively, find new solutions.",
+      "ukrainian": "Думай креативно, знаходь нові рішення.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-28T09:11:56.451436"
+    },
+    {
+      "english": "We're on the right track, keep going.",
+      "ukrainian": "Ми на правильному шляху, продовжуй.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-28T09:11:56.451439"
+    },
+    {
+      "english": "Believe we can overcome any obstacle.",
+      "ukrainian": "Вірмо, що ми подолаємо будь-які перешкоди.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-28T09:11:56.451442"
+    },
+    {
+      "english": "That's a smart way to handle it.",
+      "ukrainian": "Це розумний спосіб це вирішити.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-28T09:11:56.451444"
+    },
+    {
+      "english": "Let's bring our best energy today.",
+      "ukrainian": "Давай докладемо сьогодні нашої найкращої енергії.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-28T09:11:56.451447"
+    },
+    {
+      "english": "You're making a real difference.",
+      "ukrainian": "Ти робиш реальну різницю.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-28T09:11:56.451450"
+    },
+    {
+      "english": "Stay focused, stay motivated.",
+      "ukrainian": "Залишайся зосередженим, залишайся мотивованим.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-28T09:11:56.451453"
+    },
+    {
+      "english": "This is a great opportunity for growth.",
+      "ukrainian": "Це чудова можливість для зростання.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-28T09:11:56.451456"
+    },
+    {
+      "english": "Well said! I agree completely.",
+      "ukrainian": "Добре сказано! Я повністю погоджуюсь.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-28T09:11:56.451459"
+    },
+    {
+      "english": "Let's aim high and achieve more.",
+      "ukrainian": "Давай ставити високі цілі та досягати більше.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-28T09:11:56.451462"
+    },
+    {
+      "english": "You've exceeded expectations, great work!",
+      "ukrainian": "Ти перевершив очікування, чудова робота!",
+      "category": "Work & Office",
+      "generated_at": "2026-10-28T09:11:56.451465"
+    },
+    {
+      "english": "Let's maintain this excellent team spirit.",
+      "ukrainian": "Давай підтримувати цей чудовий командний дух.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-28T09:11:56.451468"
+    },
+    {
+      "english": "Let's put our heads together, guys.",
+      "ukrainian": "Давайте гуртом подумаємо, хлопці.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-28T09:11:56.451472"
+    },
+    {
+      "english": "This task, it's a real headache.",
+      "ukrainian": "Це завдання, справжній головний біль.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-28T09:11:56.451477"
+    },
+    {
+      "english": "He's always pulling strings, you know.",
+      "ukrainian": "Він завжди смикає за ниточки, знаєш.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-28T09:11:56.451481"
+    },
+    {
+      "english": "Don't bite off more than you can chew.",
+      "ukrainian": "Не берися за надто багато справ.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-28T09:11:56.451484"
+    },
+    {
+      "english": "She really knows her onions in this field.",
+      "ukrainian": "Вона справді знає свою справу в цій галузі.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-28T09:11:56.451487"
+    },
+    {
+      "english": "Let's not reinvent the wheel here.",
+      "ukrainian": "Не будемо вигадувати велосипед тут.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-28T09:11:56.451489"
+    },
+    {
+      "english": "He's the go-to person for this.",
+      "ukrainian": "Він людина, до якої звертаються з цим.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-28T09:11:56.451492"
+    },
+    {
+      "english": "This is a walk in the park, easy.",
+      "ukrainian": "Це легка справа, як прогулянка парком.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-28T09:11:56.451496"
+    },
+    {
+      "english": "We need to get on the same page.",
+      "ukrainian": "Нам потрібно дійти спільної думки.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-28T09:11:56.451499"
+    },
+    {
+      "english": "He's just spinning his wheels on this.",
+      "ukrainian": "Він просто марнує час на це.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-28T09:11:56.451501"
+    },
+    {
+      "english": "Let's keep our cards close to our chest.",
+      "ukrainian": "Тримаймо наші карти при собі.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-28T09:11:56.451504"
+    },
+    {
+      "english": "This project, it's a tough nut to crack.",
+      "ukrainian": "Цей проєкт, це складний горішок для розколювання.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-28T09:11:56.451507"
+    },
+    {
+      "english": "He's always trying to grease the wheels.",
+      "ukrainian": "Він завжди намагається підмазати.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-28T09:11:56.451510"
+    },
+    {
+      "english": "We need to hit the ground running.",
+      "ukrainian": "Нам потрібно почати негайно й активно.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-28T09:11:56.451513"
+    },
+    {
+      "english": "This is just a drop in the ocean.",
+      "ukrainian": "Це лише крапля в морі.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-28T09:11:56.451516"
+    },
+    {
+      "english": "Let's not rock the boat unnecessarily.",
+      "ukrainian": "Не будемо зайвий раз хвилювати човен.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-28T09:11:56.451519"
+    },
+    {
+      "english": "He's got a finger in every pie.",
+      "ukrainian": "Він скрізь пхає свого носа.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-28T09:11:56.451522"
+    },
+    {
+      "english": "We need to think outside the box here.",
+      "ukrainian": "Нам потрібно мислити нестандартно тут.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-28T09:11:56.451525"
+    },
+    {
+      "english": "This is a real game-changer for us.",
+      "ukrainian": "Це справді змінює правила гри для нас.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-28T09:11:56.451528"
+    },
+    {
+      "english": "Let's get all our ducks in a row.",
+      "ukrainian": "Приведемо все до ладу, організуємося.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-28T09:11:56.451531"
+    },
+    {
+      "english": "He's not playing with a full deck.",
+      "ukrainian": "Він не зовсім при собі.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-28T09:11:56.451534"
+    },
+    {
+      "english": "We need to cut to the chase now.",
+      "ukrainian": "Нам потрібно перейти до суті зараз.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-28T09:11:56.451536"
+    },
+    {
+      "english": "This is a piece of cake, really.",
+      "ukrainian": "Це справжня дрібниця, чесно.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-28T09:11:56.451541"
+    },
+    {
+      "english": "He's always got his ear to the ground.",
+      "ukrainian": "Він завжди тримає вухо гостро.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-28T09:11:56.451544"
+    },
+    {
+      "english": "Let's leave no stone unturned.",
+      "ukrainian": "Не залишимо жодного каменю невивченим.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-28T09:11:56.451547"
+    },
+    {
+      "english": "This situation is really getting out of hand.",
+      "ukrainian": "Ця ситуація справді виходить з-під контролю.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-28T09:11:56.451550"
+    },
+    {
+      "english": "He's just winging it, I think.",
+      "ukrainian": "Він просто імпровізує, я думаю.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-28T09:11:56.451553"
+    },
+    {
+      "english": "We need to burn the midnight oil for this.",
+      "ukrainian": "Нам потрібно працювати допізна над цим.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-28T09:11:56.451556"
+    },
+    {
+      "english": "She's the bee's knees in her department.",
+      "ukrainian": "Вона найкраща у своєму відділі.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-28T09:11:56.451559"
+    },
+    {
+      "english": "Let's not count our chickens before they hatch.",
+      "ukrainian": "Не будемо вважати курчат, поки вони не вилупилися.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-28T09:11:56.451562"
+    },
+    {
+      "english": "Could you send me that file, please?",
+      "ukrainian": "Чи не могли б ви надіслати мені той файл?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-28T09:11:56.451565"
+    },
+    {
+      "english": "Let's schedule a meeting, soon.",
+      "ukrainian": "Давай призначимо зустріч, скоро.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-28T09:11:56.451568"
+    },
+    {
+      "english": "Where is the nearest printer?",
+      "ukrainian": "Де найближчий принтер?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-28T09:11:56.451572"
+    },
+    {
+      "english": "I need a moment, to think.",
+      "ukrainian": "Мені потрібна хвилина, подумати.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-28T09:11:56.451575"
+    },
+    {
+      "english": "This coffee is quite strong.",
+      "ukrainian": "Ця кава досить міцна.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-28T09:11:56.451578"
+    },
+    {
+      "english": "Did you finish the report?",
+      "ukrainian": "Ти закінчив звіт?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-28T09:11:56.451580"
+    },
+    {
+      "english": "I'll be back, in five minutes.",
+      "ukrainian": "Я повернуся, за п'ять хвилин.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-28T09:11:56.451583"
+    },
+    {
+      "english": "Let's grab some lunch, together.",
+      "ukrainian": "Підемо на обід, разом.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-28T09:11:56.451586"
+    },
+    {
+      "english": "The internet is not working.",
+      "ukrainian": "Інтернет не працює.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-28T09:11:56.451589"
+    },
+    {
+      "english": "Who is in charge here?",
+      "ukrainian": "Хто тут головний?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-28T09:11:56.451591"
+    },
+    {
+      "english": "I'm looking for the meeting room.",
+      "ukrainian": "Я шукаю конференц-зал.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-28T09:11:56.451594"
+    },
+    {
+      "english": "My computer is frozen.",
+      "ukrainian": "Мій комп'ютер завис.",
+      "category": "Work & Office",
+      "generated_at": "2026-10-28T09:11:56.451597"
     }
   ],
-  "last_updated": "2026-10-27T08:30:04.617048"
+  "last_updated": "2026-10-28T09:11:56.451599"
 }
