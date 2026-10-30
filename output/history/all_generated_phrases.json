@@ -8639,7 +8639,727 @@
       "ukrainian": "Мій комп'ютер завис.",
       "category": "Work & Office",
       "generated_at": "2026-10-28T09:11:56.451597"
+    },
+    {
+      "english": "Hi there, good to see you!",
+      "ukrainian": "Привіт, радий бачити!",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-30T09:15:45.674188"
+    },
+    {
+      "english": "Hello, how are you doing?",
+      "ukrainian": "Добрий день, як справи?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-30T09:15:45.674203"
+    },
+    {
+      "english": "Hey, what's up?",
+      "ukrainian": "Гей, що нового?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-30T09:15:45.674206"
+    },
+    {
+      "english": "Nice to meet you, really!",
+      "ukrainian": "Дуже приємно познайомитись!",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-30T09:15:45.674208"
+    },
+    {
+      "english": "Good morning, sunshine!",
+      "ukrainian": "Доброго ранку, сонечко!",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-30T09:15:45.674210"
+    },
+    {
+      "english": "Good evening, friend!",
+      "ukrainian": "Доброго вечора, друже!",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-30T09:15:45.674211"
+    },
+    {
+      "english": "How's life treating you?",
+      "ukrainian": "Як тобі життя?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-30T09:15:45.674213"
+    },
+    {
+      "english": "Long time no see!",
+      "ukrainian": "Давно не бачились!",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-30T09:15:45.674217"
+    },
+    {
+      "english": "What a surprise, hello!",
+      "ukrainian": "Яка несподіванка, привіт!",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-30T09:15:45.674220"
+    },
+    {
+      "english": "Welcome, make yourself at home.",
+      "ukrainian": "Ласкаво просимо, почувайтеся як вдома.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-30T09:15:45.674221"
+    },
+    {
+      "english": "Glad to have you here.",
+      "ukrainian": "Радий, що ти тут.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-30T09:15:45.674223"
+    },
+    {
+      "english": "How's everything going?",
+      "ukrainian": "Як все просувається?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-30T09:15:45.674225"
+    },
+    {
+      "english": "What have you been up to?",
+      "ukrainian": "Чим займався останнім часом?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-30T09:15:45.674226"
+    },
+    {
+      "english": "It's good to see your face.",
+      "ukrainian": "Приємно бачити твоє обличчя.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-30T09:15:45.674228"
+    },
+    {
+      "english": "How was your journey?",
+      "ukrainian": "Як минула дорога?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-30T09:15:45.674229"
+    },
+    {
+      "english": "Welcome aboard, friend!",
+      "ukrainian": "Ласкаво просимо на борт, друже!",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-30T09:15:45.674231"
+    },
+    {
+      "english": "So, what's the news?",
+      "ukrainian": "Ну, які новини?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-30T09:15:45.674234"
+    },
+    {
+      "english": "Great to finally meet you!",
+      "ukrainian": "Чудово нарешті зустрітись!",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-30T09:15:45.674236"
+    },
+    {
+      "english": "Hey, stranger, hello!",
+      "ukrainian": "Гей, незнайомець, привіт!",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-30T09:15:45.674239"
+    },
+    {
+      "english": "How are things?",
+      "ukrainian": "Як справи?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-30T09:15:45.674241"
+    },
+    {
+      "english": "Hope you're having a good day.",
+      "ukrainian": "Сподіваюся, у тебе гарний день.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-30T09:15:45.674242"
+    },
+    {
+      "english": "Fancy meeting you here!",
+      "ukrainian": "Яка зустріч, несподівано!",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-30T09:15:45.674244"
+    },
+    {
+      "english": "Hello, my dear!",
+      "ukrainian": "Привіт, моя люба!",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-30T09:15:45.674246"
+    },
+    {
+      "english": "What brings you here?",
+      "ukrainian": "Що тебе сюди привело?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-30T09:15:45.674247"
+    },
+    {
+      "english": "A pleasure to make your acquaintance.",
+      "ukrainian": "Приємно познайомитись.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-30T09:15:45.674249"
+    },
+    {
+      "english": "Hello, old friend!",
+      "ukrainian": "Привіт, старий друже!",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-30T09:15:45.674250"
+    },
+    {
+      "english": "How's the world treating you?",
+      "ukrainian": "Як світ до тебе ставиться?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-30T09:15:45.674252"
+    },
+    {
+      "english": "Good to see you again.",
+      "ukrainian": "Радий бачити знову.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-30T09:15:45.674254"
+    },
+    {
+      "english": "Welcome, come on in!",
+      "ukrainian": "Вітаю, заходь!",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-30T09:15:45.674255"
+    },
+    {
+      "english": "Hello, how's life?",
+      "ukrainian": "Привіт, як життя?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-30T09:15:45.674257"
+    },
+    {
+      "english": "May I ask, where are you from?",
+      "ukrainian": "Можна запитати, звідки ви?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-30T09:15:45.674259"
+    },
+    {
+      "english": "What is your name, please?",
+      "ukrainian": "Як вас звати, будь ласка?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-30T09:15:45.674261"
+    },
+    {
+      "english": "Do you speak English, by chance?",
+      "ukrainian": "Ви випадково говорите англійською?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-30T09:15:45.674263"
+    },
+    {
+      "english": "What brings you to Kyiv?",
+      "ukrainian": "Що привело вас до Києва?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-30T09:15:45.674265"
+    },
+    {
+      "english": "Are you here for vacation?",
+      "ukrainian": "Ви тут на відпустці?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-30T09:15:45.674267"
+    },
+    {
+      "english": "How long are you staying?",
+      "ukrainian": "Як довго ви залишаєтесь?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-30T09:15:45.674269"
+    },
+    {
+      "english": "Could you recommend a good cafe?",
+      "ukrainian": "Чи можете порадити хороший кафе?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-30T09:15:45.674271"
+    },
+    {
+      "english": "Is this your first time here?",
+      "ukrainian": "Ви тут вперше?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-30T09:15:45.674272"
+    },
+    {
+      "english": "What do you do for a living?",
+      "ukrainian": "Чим ви займаєтесь?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-30T09:15:45.674274"
+    },
+    {
+      "english": "Do you live nearby?",
+      "ukrainian": "Ви живете неподалік?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-30T09:15:45.674275"
+    },
+    {
+      "english": "Can I help you with something?",
+      "ukrainian": "Можу я вам чимось допомогти?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-30T09:15:45.674277"
+    },
+    {
+      "english": "What's your favorite part of the city?",
+      "ukrainian": "Яка ваша улюблена частина міста?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-30T09:15:45.674279"
+    },
+    {
+      "english": "Are you meeting someone important?",
+      "ukrainian": "Ви зустрічаєте когось важливого?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-30T09:15:45.674280"
+    },
+    {
+      "english": "Have you tried Ukrainian food yet?",
+      "ukrainian": "Ви вже куштували українську їжу?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-30T09:15:45.674282"
+    },
+    {
+      "english": "Where did you learn Ukrainian?",
+      "ukrainian": "Де ви вивчили українську?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-30T09:15:45.674285"
+    },
+    {
+      "english": "Is it difficult to learn Ukrainian?",
+      "ukrainian": "Чи складно вивчати українську?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-30T09:15:45.674286"
+    },
+    {
+      "english": "What's your impression of Ukraine?",
+      "ukrainian": "Яке ваше враження від України?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-30T09:15:45.674288"
+    },
+    {
+      "english": "Do you need directions anywhere?",
+      "ukrainian": "Вам потрібні вказівки кудись?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-30T09:15:45.674290"
+    },
+    {
+      "english": "What's the best way to get around?",
+      "ukrainian": "Як краще пересуватися містом?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-30T09:15:45.674291"
+    },
+    {
+      "english": "Tell me about yourself, please.",
+      "ukrainian": "Розкажіть про себе, будь ласка.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-30T09:15:45.674294"
+    },
+    {
+      "english": "What do you enjoy doing?",
+      "ukrainian": "Що вам подобається робити?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-30T09:15:45.674297"
+    },
+    {
+      "english": "Can we exchange contacts?",
+      "ukrainian": "Можемо обмінятися контактами?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-30T09:15:45.674299"
+    },
+    {
+      "english": "It's nice talking with you.",
+      "ukrainian": "Приємно з вами спілкуватися.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-30T09:15:45.674300"
+    },
+    {
+      "english": "What's the local custom here?",
+      "ukrainian": "Який тут місцевий звичай?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-30T09:15:45.674302"
+    },
+    {
+      "english": "How do people greet each other?",
+      "ukrainian": "Як люди вітаються один з одним?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-30T09:15:45.674303"
+    },
+    {
+      "english": "Is it rude to ask that?",
+      "ukrainian": "Чи грубо таке запитувати?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-30T09:15:45.674305"
+    },
+    {
+      "english": "I'm trying to practice Ukrainian.",
+      "ukrainian": "Я намагаюся практикувати українську.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-30T09:15:45.674306"
+    },
+    {
+      "english": "Your Ukrainian is very good!",
+      "ukrainian": "Ваша українська дуже хороша!",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-30T09:15:45.674308"
+    },
+    {
+      "english": "Believe in yourself, friend.",
+      "ukrainian": "Вір у себе, друже.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-30T09:15:45.674310"
+    },
+    {
+      "english": "You've got this, absolutely.",
+      "ukrainian": "Ти це можеш, точно.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-30T09:15:45.674312"
+    },
+    {
+      "english": "Every step counts, really.",
+      "ukrainian": "Кожен крок важливий, справді.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-30T09:15:45.674314"
+    },
+    {
+      "english": "You're doing great, truly.",
+      "ukrainian": "Ти молодець, справді.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-30T09:15:45.674316"
+    },
+    {
+      "english": "Don't give up, keep trying.",
+      "ukrainian": "Не здавайся, пробуй далі.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-30T09:15:45.674318"
+    },
+    {
+      "english": "Positive vibes only, yeah?",
+      "ukrainian": "Тільки позитив, так?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-30T09:15:45.674319"
+    },
+    {
+      "english": "Let's make today awesome.",
+      "ukrainian": "Зробімо цей день чудовим.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-30T09:15:45.674321"
+    },
+    {
+      "english": "Embrace the challenge, go!",
+      "ukrainian": "Прийми виклик, вперед!",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-30T09:15:45.674323"
+    },
+    {
+      "english": "You have such potential.",
+      "ukrainian": "У тебе величезний потенціал.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-30T09:15:45.674325"
+    },
+    {
+      "english": "Keep that positive spirit.",
+      "ukrainian": "Зберігай цей позитивний дух.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-30T09:15:45.674326"
+    },
+    {
+      "english": "You make things happen.",
+      "ukrainian": "Ти змушуєш речі ставатися.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-30T09:15:45.674328"
+    },
+    {
+      "english": "Stay focused, stay strong.",
+      "ukrainian": "Будь зосередженим, будь сильним.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-30T09:15:45.674330"
+    },
+    {
+      "english": "I believe in your success.",
+      "ukrainian": "Я вірю в твій успіх.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-30T09:15:45.674331"
+    },
+    {
+      "english": "Your smile is infectious.",
+      "ukrainian": "Твоя усмішка заразлива.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-30T09:15:45.674335"
+    },
+    {
+      "english": "You're making great progress.",
+      "ukrainian": "Ти досягаєш значного прогресу.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-30T09:15:45.674336"
+    },
+    {
+      "english": "That's very thoughtful.",
+      "ukrainian": "Це дуже продумано.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-30T09:15:45.674338"
+    },
+    {
+      "english": "Never underestimate yourself.",
+      "ukrainian": "Ніколи не недооцінюй себе.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-30T09:15:45.674340"
+    },
+    {
+      "english": "You have a kind heart.",
+      "ukrainian": "У тебе добре серце.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-30T09:15:45.674342"
+    },
+    {
+      "english": "Keep up the great work.",
+      "ukrainian": "Продовжуй у тому ж дусі.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-30T09:15:45.674344"
+    },
+    {
+      "english": "This is a new beginning.",
+      "ukrainian": "Це новий початок.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-30T09:15:45.674345"
+    },
+    {
+      "english": "Don't be afraid to shine.",
+      "ukrainian": "Не бійся сяяти.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-30T09:15:45.674347"
+    },
+    {
+      "english": "You bring good energy.",
+      "ukrainian": "Ти приносиш добру енергію.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-30T09:15:45.674348"
+    },
+    {
+      "english": "Let's create something amazing.",
+      "ukrainian": "Давай створимо щось дивовижне.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-30T09:15:45.674350"
+    },
+    {
+      "english": "I appreciate your patience, truly.",
+      "ukrainian": "Я ціную вашу терплячість, щиро.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-30T09:15:45.674353"
+    },
+    {
+      "english": "How do you feel about this place?",
+      "ukrainian": "Як вам це місце, скажіть?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-30T09:15:45.674355"
+    },
+    {
+      "english": "I'm still processing everything.",
+      "ukrainian": "Я ще все осмислюю.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-30T09:15:45.674357"
+    },
+    {
+      "english": "This conversation means a lot.",
+      "ukrainian": "Ця розмова багато значить.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-30T09:15:45.674359"
+    },
+    {
+      "english": "Let's take our time, no rush.",
+      "ukrainian": "Не поспішаймо, без квапливості.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-30T09:15:45.674360"
+    },
+    {
+      "english": "Your perspective is quite unique.",
+      "ukrainian": "Ваш погляд досить унікальний.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-30T09:15:45.674362"
+    },
+    {
+      "english": "I felt a real connection here.",
+      "ukrainian": "Я відчув справжній зв'язок тут.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-30T09:15:45.674364"
+    },
+    {
+      "english": "It's thoughtful of you to say so.",
+      "ukrainian": "Це дуже люб'язно з вашого боку.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-30T09:15:45.674366"
+    },
+    {
+      "english": "What are your genuine thoughts?",
+      "ukrainian": "Які ваші справжні думки?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-30T09:15:45.674367"
+    },
+    {
+      "english": "This moment feels significant.",
+      "ukrainian": "Цей момент видається важливим.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-30T09:15:45.674369"
+    },
+    {
+      "english": "I'm glad we could meet, truly.",
+      "ukrainian": "Я радий, що ми зустрілися, справді.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-30T09:15:45.674371"
+    },
+    {
+      "english": "Let's explore this idea further.",
+      "ukrainian": "Давайте глибше розглянемо це.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-30T09:15:45.674372"
+    },
+    {
+      "english": "Your sincerity is refreshing.",
+      "ukrainian": "Ваша щирість освіжає.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-30T09:15:45.674374"
+    },
+    {
+      "english": "I value this interaction greatly.",
+      "ukrainian": "Я дуже ціную цю взаємодію.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-30T09:15:45.674376"
+    },
+    {
+      "english": "Let's find common ground, slowly.",
+      "ukrainian": "Знайдемо спільну мову, поступово.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-30T09:15:45.674377"
+    },
+    {
+      "english": "This is quite enlightening, thank you.",
+      "ukrainian": "Це досить пізнавально, дякую.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-30T09:15:45.674379"
+    },
+    {
+      "english": "I'm open to understanding more.",
+      "ukrainian": "Я відкритий до більшого розуміння.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-30T09:15:45.674381"
+    },
+    {
+      "english": "What emotions does this evoke?",
+      "ukrainian": "Які емоції це викликає?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-30T09:15:45.674383"
+    },
+    {
+      "english": "Take your time to respond.",
+      "ukrainian": "Не поспішайте з відповіддю.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-30T09:15:45.674384"
+    },
+    {
+      "english": "Your kindness is deeply felt.",
+      "ukrainian": "Ваша доброта глибоко відчутна.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-30T09:15:45.674387"
+    },
+    {
+      "english": "This discussion feels very real.",
+      "ukrainian": "Ця дискусія здається справжньою.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-30T09:15:45.674388"
+    },
+    {
+      "english": "I'm reflecting on our chat.",
+      "ukrainian": "Я роздумую про нашу розмову.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-30T09:15:45.674390"
+    },
+    {
+      "english": "Let's allow understanding to grow.",
+      "ukrainian": "Дайте розумінню зростати.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-30T09:15:45.674392"
+    },
+    {
+      "english": "Your honesty is greatly valued.",
+      "ukrainian": "Вашу чесність дуже ціную.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-30T09:15:45.674393"
+    },
+    {
+      "english": "I'm glad our paths crossed.",
+      "ukrainian": "Я радий, що наші шляхи перетнулися.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-30T09:15:45.674395"
+    },
+    {
+      "english": "Let's listen, really listen.",
+      "ukrainian": "Давайте слухати, по-справжньому.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-30T09:15:45.674397"
+    },
+    {
+      "english": "Are you new to this area?",
+      "ukrainian": "Ти тут новий/нова?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-30T09:15:45.674399"
+    },
+    {
+      "english": "How long have you lived here?",
+      "ukrainian": "Як давно ти тут живеш?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-30T09:15:45.674400"
+    },
+    {
+      "english": "What are your hobbies?",
+      "ukrainian": "Які твої захоплення?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-30T09:15:45.674402"
+    },
+    {
+      "english": "Let's grab a coffee sometime.",
+      "ukrainian": "Давай якось вип'ємо кави.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-30T09:15:45.674404"
+    },
+    {
+      "english": "Can I get your number?",
+      "ukrainian": "Можна твій номер телефону?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-30T09:15:45.674405"
+    },
+    {
+      "english": "I'm exploring the neighborhood.",
+      "ukrainian": "Я досліджую район.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-30T09:15:45.674407"
+    },
+    {
+      "english": "What brings you to this event?",
+      "ukrainian": "Що привело тебе на цю подію?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-30T09:15:45.674410"
+    },
+    {
+      "english": "We should hang out again.",
+      "ukrainian": "Треба ще зустрітися.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-30T09:15:45.674413"
+    },
+    {
+      "english": "This is a great place.",
+      "ukrainian": "Це чудове місце.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-30T09:15:45.674415"
+    },
+    {
+      "english": "What are you drinking?",
+      "ukrainian": "Що ти п'єш?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-30T09:15:45.674416"
+    },
+    {
+      "english": "I love your style.",
+      "ukrainian": "Мені подобається твій стиль.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-30T09:15:45.674418"
+    },
+    {
+      "english": "Are you meeting friends?",
+      "ukrainian": "Ти зустрічаєшся з друзями?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-30T09:15:45.674420"
+    },
+    {
+      "english": "This music is great.",
+      "ukrainian": "Ця музика чудова.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-10-30T09:15:45.674421"
     }
   ],
-  "last_updated": "2026-10-28T09:11:56.451599"
+  "last_updated": "2026-10-30T09:15:45.674423"
 }
