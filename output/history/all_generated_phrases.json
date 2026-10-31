@@ -9359,7 +9359,727 @@
       "ukrainian": "Ця музика чудова.",
       "category": "Meeting People & Greetings",
       "generated_at": "2026-10-30T09:15:45.674421"
+    },
+    {
+      "english": "What's your brilliant idea?",
+      "ukrainian": "Яка твоя блискуча ідея?",
+      "category": "Creativity",
+      "generated_at": "2026-10-31T09:03:07.708471"
+    },
+    {
+      "english": "Let's brainstorm together.",
+      "ukrainian": "Давай разом генерувати ідеї.",
+      "category": "Creativity",
+      "generated_at": "2026-10-31T09:03:07.708484"
+    },
+    {
+      "english": "That's quite inspiring.",
+      "ukrainian": "Це досить надихаюче.",
+      "category": "Creativity",
+      "generated_at": "2026-10-31T09:03:07.708488"
+    },
+    {
+      "english": "How do you come up with this?",
+      "ukrainian": "Як ти таке вигадуєш?",
+      "category": "Creativity",
+      "generated_at": "2026-10-31T09:03:07.708491"
+    },
+    {
+      "english": "Think outside the box.",
+      "ukrainian": "Думай нестандартно.",
+      "category": "Creativity",
+      "generated_at": "2026-10-31T09:03:07.708493"
+    },
+    {
+      "english": "You have a real talent.",
+      "ukrainian": "У тебе справжній талант.",
+      "category": "Creativity",
+      "generated_at": "2026-10-31T09:03:07.708496"
+    },
+    {
+      "english": "Let your imagination fly.",
+      "ukrainian": "Дай волю своїй уяві.",
+      "category": "Creativity",
+      "generated_at": "2026-10-31T09:03:07.708499"
+    },
+    {
+      "english": "That's a creative solution.",
+      "ukrainian": "Це креативне рішення.",
+      "category": "Creativity",
+      "generated_at": "2026-10-31T09:03:07.708504"
+    },
+    {
+      "english": "What sparks your creativity?",
+      "ukrainian": "Що запалює твою креативність?",
+      "category": "Creativity",
+      "generated_at": "2026-10-31T09:03:07.708508"
+    },
+    {
+      "english": "I'm trying something new.",
+      "ukrainian": "Я пробую щось нове.",
+      "category": "Creativity",
+      "generated_at": "2026-10-31T09:03:07.708511"
+    },
+    {
+      "english": "This needs more flair.",
+      "ukrainian": "Цьому бракує родзинки.",
+      "category": "Creativity",
+      "generated_at": "2026-10-31T09:03:07.708513"
+    },
+    {
+      "english": "You're so inventive!",
+      "ukrainian": "Який ти винахідливий!",
+      "category": "Creativity",
+      "generated_at": "2026-10-31T09:03:07.708516"
+    },
+    {
+      "english": "Let's make it art.",
+      "ukrainian": "Давай зробимо з цього мистецтво.",
+      "category": "Creativity",
+      "generated_at": "2026-10-31T09:03:07.708521"
+    },
+    {
+      "english": "This is pure genius.",
+      "ukrainian": "Це чистий геній.",
+      "category": "Creativity",
+      "generated_at": "2026-10-31T09:03:07.708523"
+    },
+    {
+      "english": "What's your inspiration source?",
+      "ukrainian": "Звідки ти черпаєш натхнення?",
+      "category": "Creativity",
+      "generated_at": "2026-10-31T09:03:07.708526"
+    },
+    {
+      "english": "I'm feeling creative today.",
+      "ukrainian": "Сьогодні я відчуваю себе креативно.",
+      "category": "Creativity",
+      "generated_at": "2026-10-31T09:03:07.708528"
+    },
+    {
+      "english": "Let's add some pizzazz.",
+      "ukrainian": "Додамо трохи блиску.",
+      "category": "Creativity",
+      "generated_at": "2026-10-31T09:03:07.708531"
+    },
+    {
+      "english": "Your vision is amazing.",
+      "ukrainian": "Твоє бачення вражає.",
+      "category": "Creativity",
+      "generated_at": "2026-10-31T09:03:07.708533"
+    },
+    {
+      "english": "This is so original.",
+      "ukrainian": "Це так оригінально.",
+      "category": "Creativity",
+      "generated_at": "2026-10-31T09:03:07.708535"
+    },
+    {
+      "english": "I love experimenting.",
+      "ukrainian": "Я люблю експериментувати.",
+      "category": "Creativity",
+      "generated_at": "2026-10-31T09:03:07.708538"
+    },
+    {
+      "english": "What a creative mind!",
+      "ukrainian": "Який креативний розум!",
+      "category": "Creativity",
+      "generated_at": "2026-10-31T09:03:07.708540"
+    },
+    {
+      "english": "Let's think differently.",
+      "ukrainian": "Давай мислити інакше.",
+      "category": "Creativity",
+      "generated_at": "2026-10-31T09:03:07.708543"
+    },
+    {
+      "english": "This idea has potential.",
+      "ukrainian": "Ця ідея має потенціал.",
+      "category": "Creativity",
+      "generated_at": "2026-10-31T09:03:07.708545"
+    },
+    {
+      "english": "You always surprise me.",
+      "ukrainian": "Ти завжди мене дивуєш.",
+      "category": "Creativity",
+      "generated_at": "2026-10-31T09:03:07.708548"
+    },
+    {
+      "english": "Let's paint the town red.",
+      "ukrainian": "Давай влаштуємо свято.",
+      "category": "Creativity",
+      "generated_at": "2026-10-31T09:03:07.708550"
+    },
+    {
+      "english": "That's a stroke of genius.",
+      "ukrainian": "Це справжній прояв геніальності.",
+      "category": "Creativity",
+      "generated_at": "2026-10-31T09:03:07.708556"
+    },
+    {
+      "english": "I'm inspired by you.",
+      "ukrainian": "Ти мене надихаєш.",
+      "category": "Creativity",
+      "generated_at": "2026-10-31T09:03:07.708558"
+    },
+    {
+      "english": "Let's get creative!",
+      "ukrainian": "Давай творити!",
+      "category": "Creativity",
+      "generated_at": "2026-10-31T09:03:07.708561"
+    },
+    {
+      "english": "Your creativity is endless.",
+      "ukrainian": "Твоя креативність безмежна.",
+      "category": "Creativity",
+      "generated_at": "2026-10-31T09:03:07.708563"
+    },
+    {
+      "english": "What inspires your art?",
+      "ukrainian": "Що надихає вашу творчість?",
+      "category": "Creativity",
+      "generated_at": "2026-10-31T09:03:07.708566"
+    },
+    {
+      "english": "Can you share your process?",
+      "ukrainian": "Чи можете поділитися процесом?",
+      "category": "Creativity",
+      "generated_at": "2026-10-31T09:03:07.708568"
+    },
+    {
+      "english": "Where do new ideas come from?",
+      "ukrainian": "Звідки беруться нові ідеї?",
+      "category": "Creativity",
+      "generated_at": "2026-10-31T09:03:07.708571"
+    },
+    {
+      "english": "How do you overcome blocks?",
+      "ukrainian": "Як долаєте творчі кризи?",
+      "category": "Creativity",
+      "generated_at": "2026-10-31T09:03:07.708574"
+    },
+    {
+      "english": "What if we try this?",
+      "ukrainian": "А якщо спробуємо ось так?",
+      "category": "Creativity",
+      "generated_at": "2026-10-31T09:03:07.708576"
+    },
+    {
+      "english": "What do you think of this approach?",
+      "ukrainian": "Що думаєте про цей підхід?",
+      "category": "Creativity",
+      "generated_at": "2026-10-31T09:03:07.708579"
+    },
+    {
+      "english": "Tell me more about it.",
+      "ukrainian": "Розкажіть докладніше.",
+      "category": "Creativity",
+      "generated_at": "2026-10-31T09:03:07.708582"
+    },
+    {
+      "english": "Is this what you imagined?",
+      "ukrainian": "Це те, що ви уявляли?",
+      "category": "Creativity",
+      "generated_at": "2026-10-31T09:03:07.708584"
+    },
+    {
+      "english": "Have you considered other options?",
+      "ukrainian": "Ви розглядали інші варіанти?",
+      "category": "Creativity",
+      "generated_at": "2026-10-31T09:03:07.708587"
+    },
+    {
+      "english": "What's your favorite creative habit?",
+      "ukrainian": "Яка ваша улюблена творча звичка?",
+      "category": "Creativity",
+      "generated_at": "2026-10-31T09:03:07.708590"
+    },
+    {
+      "english": "Can you help me refine this?",
+      "ukrainian": "Допоможете мені це вдосконалити?",
+      "category": "Creativity",
+      "generated_at": "2026-10-31T09:03:07.708598"
+    },
+    {
+      "english": "What makes this idea unique?",
+      "ukrainian": "Що робить цю ідею особливою?",
+      "category": "Creativity",
+      "generated_at": "2026-10-31T09:03:07.708600"
+    },
+    {
+      "english": "How did you develop this concept?",
+      "ukrainian": "Як ви розробили цю концепцію?",
+      "category": "Creativity",
+      "generated_at": "2026-10-31T09:03:07.708603"
+    },
+    {
+      "english": "Does this feel right to you?",
+      "ukrainian": "Це відчувається правильно для вас?",
+      "category": "Creativity",
+      "generated_at": "2026-10-31T09:03:07.708605"
+    },
+    {
+      "english": "What's the story behind this?",
+      "ukrainian": "Яка історія за цим стоїть?",
+      "category": "Creativity",
+      "generated_at": "2026-10-31T09:03:07.708608"
+    },
+    {
+      "english": "Can we collaborate on this?",
+      "ukrainian": "Чи можемо ми співпрацювати над цим?",
+      "category": "Creativity",
+      "generated_at": "2026-10-31T09:03:07.708610"
+    },
+    {
+      "english": "What's missing here?",
+      "ukrainian": "Чого тут бракує?",
+      "category": "Creativity",
+      "generated_at": "2026-10-31T09:03:07.708613"
+    },
+    {
+      "english": "What advice would you give?",
+      "ukrainian": "Яку пораду ви б дали?",
+      "category": "Creativity",
+      "generated_at": "2026-10-31T09:03:07.708615"
+    },
+    {
+      "english": "Are you happy with the result?",
+      "ukrainian": "Ви задоволені результатом?",
+      "category": "Creativity",
+      "generated_at": "2026-10-31T09:03:07.708618"
+    },
+    {
+      "english": "What element is key?",
+      "ukrainian": "Який елемент є ключовим?",
+      "category": "Creativity",
+      "generated_at": "2026-10-31T09:03:07.708622"
+    },
+    {
+      "english": "What challenges did you face?",
+      "ukrainian": "З якими викликами ви зіткнулися?",
+      "category": "Creativity",
+      "generated_at": "2026-10-31T09:03:07.708624"
+    },
+    {
+      "english": "Can you explain your vision?",
+      "ukrainian": "Чи можете пояснити ваше бачення?",
+      "category": "Creativity",
+      "generated_at": "2026-10-31T09:03:07.708627"
+    },
+    {
+      "english": "What if we changed the perspective?",
+      "ukrainian": "А якщо змінити перспективу?",
+      "category": "Creativity",
+      "generated_at": "2026-10-31T09:03:07.708629"
+    },
+    {
+      "english": "Did you intend this effect?",
+      "ukrainian": "Ви це задумали, цей ефект?",
+      "category": "Creativity",
+      "generated_at": "2026-10-31T09:03:07.708632"
+    },
+    {
+      "english": "What's your creative goal?",
+      "ukrainian": "Яка ваша творча мета?",
+      "category": "Creativity",
+      "generated_at": "2026-10-31T09:03:07.708634"
+    },
+    {
+      "english": "How does this make you feel?",
+      "ukrainian": "Як це впливає на ваші почуття?",
+      "category": "Creativity",
+      "generated_at": "2026-10-31T09:03:07.708637"
+    },
+    {
+      "english": "Your mind is a treasure chest.",
+      "ukrainian": "Твій розум – скриня скарбів.",
+      "category": "Creativity",
+      "generated_at": "2026-10-31T09:03:07.708639"
+    },
+    {
+      "english": "Let your imagination run wild.",
+      "ukrainian": "Пусти свою уяву на волю.",
+      "category": "Creativity",
+      "generated_at": "2026-10-31T09:03:07.708642"
+    },
+    {
+      "english": "Trust your inner artist.",
+      "ukrainian": "Довіряй своєму внутрішньому митцю.",
+      "category": "Creativity",
+      "generated_at": "2026-10-31T09:03:07.708646"
+    },
+    {
+      "english": "Embrace the unexpected.",
+      "ukrainian": "Приймай несподіване.",
+      "category": "Creativity",
+      "generated_at": "2026-10-31T09:03:07.708648"
+    },
+    {
+      "english": "You have a gift for this.",
+      "ukrainian": "Ти маєш хист до цього.",
+      "category": "Creativity",
+      "generated_at": "2026-10-31T09:03:07.708651"
+    },
+    {
+      "english": "Keep exploring, keep creating.",
+      "ukrainian": "Продовжуй досліджувати, творити.",
+      "category": "Creativity",
+      "generated_at": "2026-10-31T09:03:07.708654"
+    },
+    {
+      "english": "This idea sparks joy.",
+      "ukrainian": "Ця ідея викликає радість.",
+      "category": "Creativity",
+      "generated_at": "2026-10-31T09:03:07.708656"
+    },
+    {
+      "english": "You're a true innovator.",
+      "ukrainian": "Ти справжній новатор.",
+      "category": "Creativity",
+      "generated_at": "2026-10-31T09:03:07.708659"
+    },
+    {
+      "english": "Don't fear imperfections.",
+      "ukrainian": "Не бійся недоліків.",
+      "category": "Creativity",
+      "generated_at": "2026-10-31T09:03:07.708661"
+    },
+    {
+      "english": "Let's build something beautiful.",
+      "ukrainian": "Давай створимо щось прекрасне.",
+      "category": "Creativity",
+      "generated_at": "2026-10-31T09:03:07.708664"
+    },
+    {
+      "english": "You bring ideas to life.",
+      "ukrainian": "Ти оживляєш ідеї.",
+      "category": "Creativity",
+      "generated_at": "2026-10-31T09:03:07.708669"
+    },
+    {
+      "english": "This is pure magic.",
+      "ukrainian": "Це чиста магія.",
+      "category": "Creativity",
+      "generated_at": "2026-10-31T09:03:07.708671"
+    },
+    {
+      "english": "Dare to be different.",
+      "ukrainian": "Наважся бути іншим.",
+      "category": "Creativity",
+      "generated_at": "2026-10-31T09:03:07.708674"
+    },
+    {
+      "english": "Your imagination knows no bounds.",
+      "ukrainian": "Твоя уява не знає меж.",
+      "category": "Creativity",
+      "generated_at": "2026-10-31T09:03:07.708676"
+    },
+    {
+      "english": "This is truly inspiring.",
+      "ukrainian": "Це надзвичайно надихає.",
+      "category": "Creativity",
+      "generated_at": "2026-10-31T09:03:07.708679"
+    },
+    {
+      "english": "Let's make it extraordinary.",
+      "ukrainian": "Зробімо це надзвичайним.",
+      "category": "Creativity",
+      "generated_at": "2026-10-31T09:03:07.708681"
+    },
+    {
+      "english": "Your ideas are golden.",
+      "ukrainian": "Твої ідеї – золоті.",
+      "category": "Creativity",
+      "generated_at": "2026-10-31T09:03:07.708684"
+    },
+    {
+      "english": "Creativity flows through you.",
+      "ukrainian": "Креативність тече в тобі.",
+      "category": "Creativity",
+      "generated_at": "2026-10-31T09:03:07.708686"
+    },
+    {
+      "english": "What a brilliant spark!",
+      "ukrainian": "Яка блискуча іскра!",
+      "category": "Creativity",
+      "generated_at": "2026-10-31T09:03:07.708689"
+    },
+    {
+      "english": "You've got the magic touch.",
+      "ukrainian": "Ти маєш чарівний дотик.",
+      "category": "Creativity",
+      "generated_at": "2026-10-31T09:03:07.708691"
+    },
+    {
+      "english": "Let's paint our own world.",
+      "ukrainian": "Намалюймо власний світ.",
+      "category": "Creativity",
+      "generated_at": "2026-10-31T09:03:07.708694"
+    },
+    {
+      "english": "Your energy is infectious.",
+      "ukrainian": "Твоя енергія заразлива.",
+      "category": "Creativity",
+      "generated_at": "2026-10-31T09:03:07.708696"
+    },
+    {
+      "english": "This is a masterpiece in progress.",
+      "ukrainian": "Це шедевр у процесі.",
+      "category": "Creativity",
+      "generated_at": "2026-10-31T09:03:07.708699"
+    },
+    {
+      "english": "You have an artist's soul.",
+      "ukrainian": "Ти маєш душу митця.",
+      "category": "Creativity",
+      "generated_at": "2026-10-31T09:03:07.708701"
+    },
+    {
+      "english": "Dare to dream it up.",
+      "ukrainian": "Наважся мріяти про це.",
+      "category": "Creativity",
+      "generated_at": "2026-10-31T09:03:07.708704"
+    },
+    {
+      "english": "Your passion shines through.",
+      "ukrainian": "Твоя пристрасть сяє.",
+      "category": "Creativity",
+      "generated_at": "2026-10-31T09:03:07.708719"
+    },
+    {
+      "english": "Let's make something unforgettable.",
+      "ukrainian": "Створимо щось незабутнє.",
+      "category": "Creativity",
+      "generated_at": "2026-10-31T09:03:07.708722"
+    },
+    {
+      "english": "You're a fountain of ideas.",
+      "ukrainian": "Ти – фонтан ідей.",
+      "category": "Creativity",
+      "generated_at": "2026-10-31T09:03:07.708725"
+    },
+    {
+      "english": "This is absolutely brilliant.",
+      "ukrainian": "Це просто блискуче.",
+      "category": "Creativity",
+      "generated_at": "2026-10-31T09:03:07.708728"
+    },
+    {
+      "english": "Be patient with yourself, okay?",
+      "ukrainian": "Будь терплячим до себе, добре?",
+      "category": "Creativity",
+      "generated_at": "2026-10-31T09:03:07.708730"
+    },
+    {
+      "english": "Sometimes, just breathe and observe.",
+      "ukrainian": "Іноді, просто дихай і спостерігай.",
+      "category": "Creativity",
+      "generated_at": "2026-10-31T09:03:07.708733"
+    },
+    {
+      "english": "My heart whispers, 'this is it'.",
+      "ukrainian": "Моє серце шепоче: 'це воно'.",
+      "category": "Creativity",
+      "generated_at": "2026-10-31T09:03:07.708736"
+    },
+    {
+      "english": "Reflect deeply, find your truth.",
+      "ukrainian": "Розмірковуй глибоко, знайди свою правду.",
+      "category": "Creativity",
+      "generated_at": "2026-10-31T09:03:07.708739"
+    },
+    {
+      "english": "Honesty is the best policy, always.",
+      "ukrainian": "Чесність — найкраща політика, завжди.",
+      "category": "Creativity",
+      "generated_at": "2026-10-31T09:03:07.708742"
+    },
+    {
+      "english": "Does this resonate with your soul?",
+      "ukrainian": "Чи відгукується це твоїй душі?",
+      "category": "Creativity",
+      "generated_at": "2026-10-31T09:03:07.708747"
+    },
+    {
+      "english": "What emotion does this evoke?",
+      "ukrainian": "Які емоції це викликає?",
+      "category": "Creativity",
+      "generated_at": "2026-10-31T09:03:07.708750"
+    },
+    {
+      "english": "Slow down, feel the moment.",
+      "ukrainian": "Сповільнися, відчуй цей момент.",
+      "category": "Creativity",
+      "generated_at": "2026-10-31T09:03:07.708752"
+    },
+    {
+      "english": "My inner voice guides me now.",
+      "ukrainian": "Мій внутрішній голос веде мене зараз.",
+      "category": "Creativity",
+      "generated_at": "2026-10-31T09:03:07.708755"
+    },
+    {
+      "english": "Let vulnerability be your strength.",
+      "ukrainian": "Дозволь вразливості бути твоєю силою.",
+      "category": "Creativity",
+      "generated_at": "2026-10-31T09:03:07.708757"
+    },
+    {
+      "english": "This feeling is deeply authentic.",
+      "ukrainian": "Це відчуття є глибоко автентичним.",
+      "category": "Creativity",
+      "generated_at": "2026-10-31T09:03:07.708760"
+    },
+    {
+      "english": "What is your heartfelt opinion?",
+      "ukrainian": "Яка твоя щира думка?",
+      "category": "Creativity",
+      "generated_at": "2026-10-31T09:03:07.708765"
+    },
+    {
+      "english": "Give yourself grace, it's okay.",
+      "ukrainian": "Дай собі ласку, все гаразд.",
+      "category": "Creativity",
+      "generated_at": "2026-10-31T09:03:07.708768"
+    },
+    {
+      "english": "Allow yourself to simply be.",
+      "ukrainian": "Дозволь собі просто бути.",
+      "category": "Creativity",
+      "generated_at": "2026-10-31T09:03:07.708770"
+    },
+    {
+      "english": "My intuition feels strongly about this.",
+      "ukrainian": "Моя інтуїція сильно відчуває це.",
+      "category": "Creativity",
+      "generated_at": "2026-10-31T09:03:07.708773"
+    },
+    {
+      "english": "What truly matters to you?",
+      "ukrainian": "Що справді має значення для тебе?",
+      "category": "Creativity",
+      "generated_at": "2026-10-31T09:03:07.708776"
+    },
+    {
+      "english": "This resonates with my core being.",
+      "ukrainian": "Це резонує з моєю суттю.",
+      "category": "Creativity",
+      "generated_at": "2026-10-31T09:03:07.708778"
+    },
+    {
+      "english": "The quiet moments hold wisdom.",
+      "ukrainian": "Тихі моменти містять мудрість.",
+      "category": "Creativity",
+      "generated_at": "2026-10-31T09:03:07.708781"
+    },
+    {
+      "english": "How does this situation feel, honestly?",
+      "ukrainian": "Як почувається ця ситуація, чесно?",
+      "category": "Creativity",
+      "generated_at": "2026-10-31T09:03:07.708784"
+    },
+    {
+      "english": "My spirit is at peace with this.",
+      "ukrainian": "Мій дух спокійний щодо цього.",
+      "category": "Creativity",
+      "generated_at": "2026-10-31T09:03:07.708786"
+    },
+    {
+      "english": "What do your instincts say?",
+      "ukrainian": "Що кажуть твої інстинкти?",
+      "category": "Creativity",
+      "generated_at": "2026-10-31T09:03:07.708789"
+    },
+    {
+      "english": "Let's honor our feelings.",
+      "ukrainian": "Вшануймо наші почуття.",
+      "category": "Creativity",
+      "generated_at": "2026-10-31T09:03:07.708792"
+    },
+    {
+      "english": "This feels so genuinely right.",
+      "ukrainian": "Це відчувається так щиро правильно.",
+      "category": "Creativity",
+      "generated_at": "2026-10-31T09:03:07.708794"
+    },
+    {
+      "english": "What lessons are you learning?",
+      "ukrainian": "Які уроки ти засвоюєш?",
+      "category": "Creativity",
+      "generated_at": "2026-10-31T09:03:07.708796"
+    },
+    {
+      "english": "My heart understands this deeply.",
+      "ukrainian": "Моє серце розуміє це глибоко.",
+      "category": "Creativity",
+      "generated_at": "2026-10-31T09:03:07.708799"
+    },
+    {
+      "english": "Allow imperfection, embrace the journey.",
+      "ukrainian": "Дозволь недосконалості, прийми шлях.",
+      "category": "Creativity",
+      "generated_at": "2026-10-31T09:03:07.708801"
+    },
+    {
+      "english": "This is a moment of reflection.",
+      "ukrainian": "Це момент для роздумів.",
+      "category": "Creativity",
+      "generated_at": "2026-10-31T09:03:07.708804"
+    },
+    {
+      "english": "Be kind to your creative spirit.",
+      "ukrainian": "Будь добрим до свого творчого духу.",
+      "category": "Creativity",
+      "generated_at": "2026-10-31T09:03:07.708806"
+    },
+    {
+      "english": "Let's start with one small step.",
+      "ukrainian": "Почнемо з одного маленького кроку.",
+      "category": "Creativity",
+      "generated_at": "2026-10-31T09:03:07.708811"
+    },
+    {
+      "english": "Break down the big ideas.",
+      "ukrainian": "Розбий великі ідеї на частини.",
+      "category": "Creativity",
+      "generated_at": "2026-10-31T09:03:07.708814"
+    },
+    {
+      "english": "What's our next practical move?",
+      "ukrainian": "Який наш наступний практичний крок?",
+      "category": "Creativity",
+      "generated_at": "2026-10-31T09:03:07.708816"
+    },
+    {
+      "english": "How can we simplify this task?",
+      "ukrainian": "Як ми можемо спростити це завдання?",
+      "category": "Creativity",
+      "generated_at": "2026-10-31T09:03:07.708819"
+    },
+    {
+      "english": "Find inspiration in everyday things.",
+      "ukrainian": "Знаходь натхнення у буденних речах.",
+      "category": "Creativity",
+      "generated_at": "2026-10-31T09:03:07.708821"
+    },
+    {
+      "english": "Let's try a different approach.",
+      "ukrainian": "Спробуймо інший підхід.",
+      "category": "Creativity",
+      "generated_at": "2026-10-31T09:03:07.708824"
+    },
+    {
+      "english": "What if we combine these two?",
+      "ukrainian": "Що, якби ми поєднали ці два?",
+      "category": "Creativity",
+      "generated_at": "2026-10-31T09:03:07.708826"
+    },
+    {
+      "english": "Organize your creative space.",
+      "ukrainian": "Організуй свій творчий простір.",
+      "category": "Creativity",
+      "generated_at": "2026-10-31T09:03:07.708829"
     }
   ],
-  "last_updated": "2026-10-30T09:15:45.674423"
+  "last_updated": "2026-10-31T09:03:07.708832"
 }
