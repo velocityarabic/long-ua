@@ -10079,7 +10079,727 @@
       "ukrainian": "Організуй свій творчий простір.",
       "category": "Creativity",
       "generated_at": "2026-10-31T09:03:07.708829"
+    },
+    {
+      "english": "It's a great day, isn't it?",
+      "ukrainian": "Чудовий день, чи не так?",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T09:54:10.446551"
+    },
+    {
+      "english": "What a lovely surprise!",
+      "ukrainian": "Який приємний сюрприз!",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T09:54:10.446565"
+    },
+    {
+      "english": "Feeling good today.",
+      "ukrainian": "Почуваюся добре сьогодні.",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T09:54:10.446568"
+    },
+    {
+      "english": "Pure joy, honestly.",
+      "ukrainian": "Чиста радість, чесно.",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T09:54:10.446572"
+    },
+    {
+      "english": "This is wonderful news!",
+      "ukrainian": "Це чудова новина!",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T09:54:10.446574"
+    },
+    {
+      "english": "I'm in a good mood.",
+      "ukrainian": "У мене гарний настрій.",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T09:54:10.446577"
+    },
+    {
+      "english": "Life is beautiful!",
+      "ukrainian": "Життя прекрасне!",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T09:54:10.446580"
+    },
+    {
+      "english": "So glad you're here.",
+      "ukrainian": "Так радий, що ти тут.",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T09:54:10.446585"
+    },
+    {
+      "english": "I'm beaming with joy.",
+      "ukrainian": "Я сяю від радості.",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T09:54:10.446589"
+    },
+    {
+      "english": "What a happy moment!",
+      "ukrainian": "Який щасливий момент!",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T09:54:10.446591"
+    },
+    {
+      "english": "Everything turned out well.",
+      "ukrainian": "Все вийшло добре.",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T09:54:10.446594"
+    },
+    {
+      "english": "Feeling quite content.",
+      "ukrainian": "Відчуваю себе досить задоволеним.",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T09:54:10.446597"
+    },
+    {
+      "english": "This brightens my day.",
+      "ukrainian": "Це робить мій день яскравішим.",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T09:54:10.446599"
+    },
+    {
+      "english": "Absolutely thrilled, yes!",
+      "ukrainian": "Абсолютно в захваті, так!",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T09:54:10.446602"
+    },
+    {
+      "english": "Such a good feeling.",
+      "ukrainian": "Таке добре відчуття.",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T09:54:10.446604"
+    },
+    {
+      "english": "I'm on cloud nine.",
+      "ukrainian": "Я на сьомому небі.",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T09:54:10.446607"
+    },
+    {
+      "english": "So much to be thankful for.",
+      "ukrainian": "Стільки всього, за що дякувати.",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T09:54:10.446610"
+    },
+    {
+      "english": "What a joyful occasion!",
+      "ukrainian": "Яка радісна подія!",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T09:54:10.446613"
+    },
+    {
+      "english": "I feel truly blessed.",
+      "ukrainian": "Я відчуваю себе справді благословенним.",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T09:54:10.446615"
+    },
+    {
+      "english": "This warms my soul.",
+      "ukrainian": "Це зігріває мою душу.",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T09:54:10.446618"
+    },
+    {
+      "english": "Everything's coming up roses.",
+      "ukrainian": "Все складається якнайкраще.",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T09:54:10.446620"
+    },
+    {
+      "english": "What makes you happy, truly?",
+      "ukrainian": "Що тебе щасливить, справді?",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T09:54:10.446623"
+    },
+    {
+      "english": "How can I help you feel better?",
+      "ukrainian": "Чим я можу допомогти тобі почуватися краще?",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T09:54:10.446628"
+    },
+    {
+      "english": "Do you need anything, my dear?",
+      "ukrainian": "Тобі щось потрібно, моя люба?",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T09:54:10.446631"
+    },
+    {
+      "english": "What's your secret to happiness?",
+      "ukrainian": "Який твій секрет щастя?",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T09:54:10.446634"
+    },
+    {
+      "english": "Can we plan something fun together?",
+      "ukrainian": "Може, сплануємо щось веселе разом?",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T09:54:10.446637"
+    },
+    {
+      "english": "What brings you joy lately?",
+      "ukrainian": "Що приносить тобі радість останнім часом?",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T09:54:10.446639"
+    },
+    {
+      "english": "Tell me your happy thoughts.",
+      "ukrainian": "Розкажи мені свої щасливі думки.",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T09:54:10.446644"
+    },
+    {
+      "english": "Are you looking for company?",
+      "ukrainian": "Шукаєш компанії?",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T09:54:10.446646"
+    },
+    {
+      "english": "What if we tried something new?",
+      "ukrainian": "А що, якби ми спробували щось нове?",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T09:54:10.446649"
+    },
+    {
+      "english": "Did you have a good day?",
+      "ukrainian": "У тебе був гарний день?",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T09:54:10.446653"
+    },
+    {
+      "english": "Is there anything I can do for you?",
+      "ukrainian": "Чи можу я щось для тебе зробити?",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T09:54:10.446656"
+    },
+    {
+      "english": "What are your dreams, big or small?",
+      "ukrainian": "Які твої мрії, великі чи малі?",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T09:54:10.446659"
+    },
+    {
+      "english": "Fancy a little chat, perhaps?",
+      "ukrainian": "Може, хочеш трохи побалакати?",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T09:54:10.446662"
+    },
+    {
+      "english": "What's on your mind, friend?",
+      "ukrainian": "Про що ти думаєш, друже?",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T09:54:10.446665"
+    },
+    {
+      "english": "How do you usually unwind?",
+      "ukrainian": "Як ти зазвичай відпочиваєш?",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T09:54:10.446668"
+    },
+    {
+      "english": "What song makes you feel happy?",
+      "ukrainian": "Яка пісня робить тебе щасливим?",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T09:54:10.446670"
+    },
+    {
+      "english": "Shall we go for a walk?",
+      "ukrainian": "Підемо на прогулянку?",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T09:54:10.446673"
+    },
+    {
+      "english": "What's making you smile today?",
+      "ukrainian": "Що змушує тебе посміхатися сьогодні?",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T09:54:10.446676"
+    },
+    {
+      "english": "Can I offer you a smile?",
+      "ukrainian": "Чи можу я подарувати тобі посмішку?",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T09:54:10.446678"
+    },
+    {
+      "english": "What adventure awaits us?",
+      "ukrainian": "Яка пригода на нас чекає?",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T09:54:10.446681"
+    },
+    {
+      "english": "Do you feel excited about this?",
+      "ukrainian": "Ти відчуваєш захоплення цим?",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T09:54:10.446683"
+    },
+    {
+      "english": "What's your favorite happy memory?",
+      "ukrainian": "Який твій улюблений щасливий спогад?",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T09:54:10.446686"
+    },
+    {
+      "english": "Want to share a joke?",
+      "ukrainian": "Хочеш поділитися жартом?",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T09:54:10.446688"
+    },
+    {
+      "english": "What's the best part of your day?",
+      "ukrainian": "Яка найкраща частина твого дня?",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T09:54:10.446691"
+    },
+    {
+      "english": "Are you open to suggestions?",
+      "ukrainian": "Ти відкритий до пропозицій?",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T09:54:10.446694"
+    },
+    {
+      "english": "What brings you peace of mind?",
+      "ukrainian": "Що приносить тобі спокій?",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T09:54:10.446696"
+    },
+    {
+      "english": "What makes this moment special?",
+      "ukrainian": "Що робить цей момент особливим?",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T09:54:10.446699"
+    },
+    {
+      "english": "Can we just enjoy this?",
+      "ukrainian": "Може, просто насолодимося цим?",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T09:54:10.446701"
+    },
+    {
+      "english": "You've got this, truly.",
+      "ukrainian": "Ти впораєшся, справді.",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T09:54:10.446704"
+    },
+    {
+      "english": "Every day is a fresh start.",
+      "ukrainian": "Кожен день - це новий початок.",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T09:54:10.446707"
+    },
+    {
+      "english": "Embrace the journey, step by step.",
+      "ukrainian": "Приймай подорож, крок за кроком.",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T09:54:10.446709"
+    },
+    {
+      "english": "Stay strong, keep going.",
+      "ukrainian": "Будь сильним, продовжуй.",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T09:54:10.446712"
+    },
+    {
+      "english": "Good things take time.",
+      "ukrainian": "Добрі справи потребують часу.",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T09:54:10.446715"
+    },
+    {
+      "english": "Let your light shine brightly.",
+      "ukrainian": "Нехай твоє світло сяє яскраво.",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T09:54:10.446719"
+    },
+    {
+      "english": "Never give up on your dreams.",
+      "ukrainian": "Ніколи не відмовляйся від мрій.",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T09:54:10.446724"
+    },
+    {
+      "english": "You inspire me, really.",
+      "ukrainian": "Ти мене надихаєш, справді.",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T09:54:10.446727"
+    },
+    {
+      "english": "Today is a good day for you.",
+      "ukrainian": "Сьогодні - добрий день для тебе.",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T09:54:10.446729"
+    },
+    {
+      "english": "Embrace new opportunities.",
+      "ukrainian": "Приймай нові можливості.",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T09:54:10.446732"
+    },
+    {
+      "english": "Keep that amazing spirit.",
+      "ukrainian": "Збережи цей дивовижний дух.",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T09:54:10.446734"
+    },
+    {
+      "english": "What a great attitude!",
+      "ukrainian": "Яке чудове ставлення!",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T09:54:10.446737"
+    },
+    {
+      "english": "Believe in the good things.",
+      "ukrainian": "Вір у добрі речі.",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T09:54:10.446740"
+    },
+    {
+      "english": "Be kind to yourself, please.",
+      "ukrainian": "Будь добрим до себе, будь ласка.",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T09:54:10.446742"
+    },
+    {
+      "english": "This is just the beginning.",
+      "ukrainian": "Це тільки початок.",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T09:54:10.446745"
+    },
+    {
+      "english": "You handle things well.",
+      "ukrainian": "Ти добре справляєшся з речами.",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T09:54:10.446747"
+    },
+    {
+      "english": "Your unique talents matter.",
+      "ukrainian": "Твої унікальні таланти важливі.",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T09:54:10.446750"
+    },
+    {
+      "english": "Stay optimistic, my friend.",
+      "ukrainian": "Залишайся оптимістичним, мій друже.",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T09:54:10.446753"
+    },
+    {
+      "english": "Life is sweet, like honey.",
+      "ukrainian": "Життя солодке, як мед.",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T09:54:10.446755"
+    },
+    {
+      "english": "A good mood, like the sun.",
+      "ukrainian": "Гарний настрій, як сонечко.",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T09:54:10.446758"
+    },
+    {
+      "english": "Happiness is found in small things.",
+      "ukrainian": "Щастя знаходиться в дрібницях.",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T09:54:10.446761"
+    },
+    {
+      "english": "Every day, a little joy.",
+      "ukrainian": "Щодня, трішки радості.",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T09:54:10.446763"
+    },
+    {
+      "english": "Let's celebrate this moment.",
+      "ukrainian": "Давай відсвяткуємо цей момент.",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T09:54:10.446766"
+    },
+    {
+      "english": "Joyful heart, full of life.",
+      "ukrainian": "Серце радісне, повне життя.",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T09:54:10.446769"
+    },
+    {
+      "english": "Good company, good feelings.",
+      "ukrainian": "Гарна компанія, гарні відчуття.",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T09:54:10.446771"
+    },
+    {
+      "english": "A smile, like a warm ray.",
+      "ukrainian": "Посмішка, як теплий промінь.",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T09:54:10.446774"
+    },
+    {
+      "english": "May your day be bright.",
+      "ukrainian": "Хай день твій буде яскравим.",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T09:54:10.446777"
+    },
+    {
+      "english": "Simple pleasures, great happiness.",
+      "ukrainian": "Прості насолоди, велике щастя.",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T09:54:10.446780"
+    },
+    {
+      "english": "Let's find some fun.",
+      "ukrainian": "Давай знайдемо якусь розвагу.",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T09:54:10.446782"
+    },
+    {
+      "english": "This feels like home.",
+      "ukrainian": "Це відчувається як дім.",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T09:54:10.446785"
+    },
+    {
+      "english": "May good fortune follow you.",
+      "ukrainian": "Хай щастить тобі всюди.",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T09:54:10.446787"
+    },
+    {
+      "english": "A light heart, a happy soul.",
+      "ukrainian": "Легке серце, щаслива душа.",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T09:54:10.446790"
+    },
+    {
+      "english": "Enjoy the little moments.",
+      "ukrainian": "Насолоджуйся дрібними моментами.",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T09:54:10.446794"
+    },
+    {
+      "english": "Happiness is contagious, you know.",
+      "ukrainian": "Щастя заразливе, знаєш.",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T09:54:10.446797"
+    },
+    {
+      "english": "Let's create good memories.",
+      "ukrainian": "Давай створимо добрі спогади.",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T09:54:10.446800"
+    },
+    {
+      "english": "Feeling alive and well.",
+      "ukrainian": "Відчуваю себе живим і добре.",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T09:54:10.446802"
+    },
+    {
+      "english": "A moment of pure delight.",
+      "ukrainian": "Момент чистої насолоди.",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T09:54:10.446805"
+    },
+    {
+      "english": "Your presence brightens things.",
+      "ukrainian": "Твоя присутність все освітлює.",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T09:54:10.446809"
+    },
+    {
+      "english": "May laughter fill your day.",
+      "ukrainian": "Хай сміх наповнить твій день.",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T09:54:10.446812"
+    },
+    {
+      "english": "This is a happy occasion.",
+      "ukrainian": "Це щаслива нагода.",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T09:54:10.446814"
+    },
+    {
+      "english": "Finding joy everywhere.",
+      "ukrainian": "Знаходжу радість всюди.",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T09:54:10.446816"
+    },
+    {
+      "english": "Feeling blessed, truly.",
+      "ukrainian": "Відчуваю благословення, справді.",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T09:54:10.446819"
+    },
+    {
+      "english": "Life’s good, isn't it?",
+      "ukrainian": "Життя добре, хіба ні?",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T09:54:10.446825"
+    },
+    {
+      "english": "May your heart sing.",
+      "ukrainian": "Хай серце твоє співає.",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T09:54:10.446827"
+    },
+    {
+      "english": "This feels wonderfully right.",
+      "ukrainian": "Це відчувається чудово правильно.",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T09:54:10.446830"
+    },
+    {
+      "english": "Cherish this peaceful feeling, always.",
+      "ukrainian": "Плекайте це спокійне відчуття, завжди.",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T09:54:10.446833"
+    },
+    {
+      "english": "My heart feels light, truly.",
+      "ukrainian": "Моє серце відчуває легкість, справді.",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T09:54:10.446835"
+    },
+    {
+      "english": "Inner peace brings the most joy.",
+      "ukrainian": "Внутрішній спокій дарує найбільшу радість.",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T09:54:10.446838"
+    },
+    {
+      "english": "Reflecting on good times, happily.",
+      "ukrainian": "Розмірковуючи про добрі часи, щасливо.",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T09:54:10.446841"
+    },
+    {
+      "english": "Patience brings its own reward.",
+      "ukrainian": "Терпіння приносить свій власний здобуток.",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T09:54:10.446844"
+    },
+    {
+      "english": "This quiet moment, I treasure.",
+      "ukrainian": "Цей тихий момент, я ціную.",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T09:54:10.446846"
+    },
+    {
+      "english": "Honesty creates lasting happiness.",
+      "ukrainian": "Чесність створює тривале щастя.",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T09:54:10.446849"
+    },
+    {
+      "english": "My soul feels content, deeply.",
+      "ukrainian": "Моя душа відчуває задоволення, глибоко.",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T09:54:10.446851"
+    },
+    {
+      "english": "Finding peace within myself.",
+      "ukrainian": "Знаходжу спокій у собі.",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T09:54:10.446854"
+    },
+    {
+      "english": "These simple joys matter most.",
+      "ukrainian": "Ці прості радощі найважливіші.",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T09:54:10.446857"
+    },
+    {
+      "english": "I appreciate this kindness, truly.",
+      "ukrainian": "Я ціную цю доброту, щиро.",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T09:54:10.446860"
+    },
+    {
+      "english": "Allow yourself this happiness.",
+      "ukrainian": "Дозвольте собі це щастя.",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T09:54:10.446862"
+    },
+    {
+      "english": "Authenticity leads to joy.",
+      "ukrainian": "Автентичність веде до радості.",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T09:54:10.446865"
+    },
+    {
+      "english": "My spirit feels uplifted now.",
+      "ukrainian": "Мій дух відчуває піднесення зараз.",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T09:54:10.446867"
+    },
+    {
+      "english": "Living authentically brings peace.",
+      "ukrainian": "Жити автентично приносить спокій.",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T09:54:10.446870"
+    },
+    {
+      "english": "This calm brings deep contentment.",
+      "ukrainian": "Цей спокій приносить глибоке задоволення.",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T09:54:10.446880"
+    },
+    {
+      "english": "I feel at ease, completely.",
+      "ukrainian": "Я почуваюся невимушено, повністю.",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T09:54:10.446883"
+    },
+    {
+      "english": "Embracing vulnerability, bravely.",
+      "ukrainian": "Приймаючи вразливість, сміливо.",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T09:54:10.446888"
+    },
+    {
+      "english": "Kindness is its own reward.",
+      "ukrainian": "Доброта – це сама собі нагорода.",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T09:54:10.446890"
+    },
+    {
+      "english": "This shared silence, comforting.",
+      "ukrainian": "Ця спільна тиша, заспокійлива.",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T09:54:10.446893"
+    },
+    {
+      "english": "My thoughts are peaceful now.",
+      "ukrainian": "Мої думки зараз спокійні.",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T09:54:10.446895"
+    },
+    {
+      "english": "Self-acceptance brings inner calm.",
+      "ukrainian": "Самоприйняття приносить внутрішній спокій.",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T09:54:10.446898"
+    },
+    {
+      "english": "I find joy in stillness.",
+      "ukrainian": "Я знаходжу радість у нерухомості.",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T09:54:10.446901"
+    },
+    {
+      "english": "Letting go feels liberating.",
+      "ukrainian": "Відпускати відчувається звільняюче.",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T09:54:10.446903"
+    },
+    {
+      "english": "My heart is open, truly.",
+      "ukrainian": "Моє серце відкрите, щиро.",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T09:54:10.446908"
+    },
+    {
+      "english": "Being present, happily.",
+      "ukrainian": "Бути присутнім, щасливо.",
+      "category": "Happiness",
+      "generated_at": "2026-11-01T09:54:10.446910"
     }
   ],
-  "last_updated": "2026-10-31T09:03:07.708832"
+  "last_updated": "2026-11-01T09:54:10.446912"
 }
