@@ -10799,7 +10799,727 @@
       "ukrainian": "Бути присутнім, щасливо.",
       "category": "Happiness",
       "generated_at": "2026-11-01T09:54:10.446910"
+    },
+    {
+      "english": "Hello, family, how are you?",
+      "ukrainian": "Привіт, родина, як справи?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-02T10:15:29.394816"
+    },
+    {
+      "english": "I'm home, everyone!",
+      "ukrainian": "Я вдома, всі!",
+      "category": "Family & Home",
+      "generated_at": "2026-11-02T10:15:29.394830"
+    },
+    {
+      "english": "What's for dinner, dear?",
+      "ukrainian": "Що на вечерю, коханий/кохана?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-02T10:15:29.394834"
+    },
+    {
+      "english": "Let's have a rest, everyone.",
+      "ukrainian": "Давайте відпочинемо, всі.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-02T10:15:29.394837"
+    },
+    {
+      "english": "Turn on the light, please.",
+      "ukrainian": "Увімкни світло, будь ласка.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-02T10:15:29.394840"
+    },
+    {
+      "english": "The TV is on.",
+      "ukrainian": "Телевізор увімкнений.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-02T10:15:29.394843"
+    },
+    {
+      "english": "Close the door quietly.",
+      "ukrainian": "Закрий двері тихенько.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-02T10:15:29.394845"
+    },
+    {
+      "english": "I need help, please.",
+      "ukrainian": "Мені потрібна допомога, будь ласка.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-02T10:15:29.394852"
+    },
+    {
+      "english": "Can you pass the salt?",
+      "ukrainian": "Передай сіль, будь ласка.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-02T10:15:29.394855"
+    },
+    {
+      "english": "It smells delicious!",
+      "ukrainian": "Пахне смачно!",
+      "category": "Family & Home",
+      "generated_at": "2026-11-02T10:15:29.394858"
+    },
+    {
+      "english": "Time for bed, kids.",
+      "ukrainian": "Час спати, діти.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-02T10:15:29.394861"
+    },
+    {
+      "english": "Did you brush your teeth?",
+      "ukrainian": "Ти почистив зуби?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-02T10:15:29.394863"
+    },
+    {
+      "english": "I'm very tired.",
+      "ukrainian": "Я дуже втомився/втомилася.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-02T10:15:29.394866"
+    },
+    {
+      "english": "Let's clean up this mess.",
+      "ukrainian": "Давай приберемо цей безлад.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-02T10:15:29.394868"
+    },
+    {
+      "english": "Who wants tea?",
+      "ukrainian": "Хто хоче чаю?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-02T10:15:29.394871"
+    },
+    {
+      "english": "This is my favorite chair.",
+      "ukrainian": "Це моє улюблене крісло.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-02T10:15:29.394873"
+    },
+    {
+      "english": "The window is open.",
+      "ukrainian": "Вікно відчинене.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-02T10:15:29.394876"
+    },
+    {
+      "english": "Don't forget your keys.",
+      "ukrainian": "Не забудь ключі.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-02T10:15:29.394880"
+    },
+    {
+      "english": "It's so cozy here.",
+      "ukrainian": "Тут так затишно.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-02T10:15:29.394882"
+    },
+    {
+      "english": "I love my home.",
+      "ukrainian": "Я люблю свій дім.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-02T10:15:29.394885"
+    },
+    {
+      "english": "Let's watch a movie.",
+      "ukrainian": "Давай подивимося фільм.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-02T10:15:29.394887"
+    },
+    {
+      "english": "Is anyone there?",
+      "ukrainian": "Тут хтось є?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-02T10:15:29.394889"
+    },
+    {
+      "english": "This is a big family.",
+      "ukrainian": "Це велика родина.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-02T10:15:29.394892"
+    },
+    {
+      "english": "Please be quiet.",
+      "ukrainian": "Будь ласка, тихо.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-02T10:15:29.394894"
+    },
+    {
+      "english": "My room is messy.",
+      "ukrainian": "Мій кімната брудна.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-02T10:15:29.394896"
+    },
+    {
+      "english": "We are home together.",
+      "ukrainian": "Ми вдома разом.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-02T10:15:29.394898"
+    },
+    {
+      "english": "Dinner is ready!",
+      "ukrainian": "Вечеря готова!",
+      "category": "Family & Home",
+      "generated_at": "2026-11-02T10:15:29.394901"
+    },
+    {
+      "english": "Is everyone here, dear?",
+      "ukrainian": "Всі вдома, люба?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-02T10:15:29.394904"
+    },
+    {
+      "english": "What are we doing today?",
+      "ukrainian": "Що ми робимо сьогодні?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-02T10:15:29.394906"
+    },
+    {
+      "english": "Did you finish your homework?",
+      "ukrainian": "Ти зробив домашнє завдання?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-02T10:15:29.394909"
+    },
+    {
+      "english": "Who wants to play a game?",
+      "ukrainian": "Хто хоче пограти?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-02T10:15:29.394912"
+    },
+    {
+      "english": "Where did you put the keys?",
+      "ukrainian": "Де ти поклав ключі?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-02T10:15:29.394915"
+    },
+    {
+      "english": "Should we go for a walk?",
+      "ukrainian": "Підемо гуляти?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-02T10:15:29.394917"
+    },
+    {
+      "english": "Is the table set yet?",
+      "ukrainian": "Стіл вже накритий?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-02T10:15:29.394919"
+    },
+    {
+      "english": "Can I borrow your book?",
+      "ukrainian": "Можна позичити твою книгу?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-02T10:15:29.394922"
+    },
+    {
+      "english": "Did you lock the front door?",
+      "ukrainian": "Ти замкнув вхідні двері?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-02T10:15:29.394926"
+    },
+    {
+      "english": "Is it time to eat soon?",
+      "ukrainian": "Скоро будемо їсти?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-02T10:15:29.394929"
+    },
+    {
+      "english": "Who's coming over later?",
+      "ukrainian": "Хто сьогодні завітає?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-02T10:15:29.394932"
+    },
+    {
+      "english": "Can we talk for a moment?",
+      "ukrainian": "Можемо поговорити хвилинку?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-02T10:15:29.394934"
+    },
+    {
+      "english": "What's that noise outside?",
+      "ukrainian": "Що це за шум ззовні?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-02T10:15:29.394937"
+    },
+    {
+      "english": "Are the children behaving well?",
+      "ukrainian": "Діти добре поводяться?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-02T10:15:29.394939"
+    },
+    {
+      "english": "Could you turn down the music?",
+      "ukrainian": "Можна зробити музику тихіше?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-02T10:15:29.394942"
+    },
+    {
+      "english": "Did you water the plants?",
+      "ukrainian": "Ти полив квіти?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-02T10:15:29.394944"
+    },
+    {
+      "english": "Is the weather nice today?",
+      "ukrainian": "Сьогодні гарна погода?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-02T10:15:29.394946"
+    },
+    {
+      "english": "Shall we order pizza tonight?",
+      "ukrainian": "Замовимо сьогодні піцу?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-02T10:15:29.394948"
+    },
+    {
+      "english": "Did you see my glasses?",
+      "ukrainian": "Ти бачив мої окуляри?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-02T10:15:29.394951"
+    },
+    {
+      "english": "Is the baby sleeping soundly?",
+      "ukrainian": "Дитина міцно спить?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-02T10:15:29.394953"
+    },
+    {
+      "english": "Are we having guests soon?",
+      "ukrainian": "Ми скоро чекаємо гостей?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-02T10:15:29.394955"
+    },
+    {
+      "english": "What should we cook tomorrow?",
+      "ukrainian": "Що приготуємо завтра?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-02T10:15:29.394958"
+    },
+    {
+      "english": "Do you feel comfortable here?",
+      "ukrainian": "Ти почуваєшся зручно тут?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-02T10:15:29.394961"
+    },
+    {
+      "english": "You are doing great, my dear.",
+      "ukrainian": "Ти чудово справляєшся, моя люба.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-02T10:15:29.394964"
+    },
+    {
+      "english": "Our home is our happy place.",
+      "ukrainian": "Наш дім – це наше щасливе місце.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-02T10:15:29.394966"
+    },
+    {
+      "english": "Let's make this house a home.",
+      "ukrainian": "Давай зробимо цей будинок домом.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-02T10:15:29.394969"
+    },
+    {
+      "english": "Family love is the best love.",
+      "ukrainian": "Любов сім'ї – це найкраща любов.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-02T10:15:29.394971"
+    },
+    {
+      "english": "Keep up the good work, everyone.",
+      "ukrainian": "Продовжуйте добре працювати, всі.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-02T10:15:29.394974"
+    },
+    {
+      "english": "Believe in your family's dreams.",
+      "ukrainian": "Вір у мрії своєї родини.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-02T10:15:29.394977"
+    },
+    {
+      "english": "This is a strong, loving family.",
+      "ukrainian": "Це сильна, любляча сім'я.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-02T10:15:29.394980"
+    },
+    {
+      "english": "We build memories together, always.",
+      "ukrainian": "Ми створюємо спогади разом, завжди.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-02T10:15:29.394982"
+    },
+    {
+      "english": "Our unity makes us stronger.",
+      "ukrainian": "Наша єдність робить нас сильнішими.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-02T10:15:29.394985"
+    },
+    {
+      "english": "This effort is truly appreciated.",
+      "ukrainian": "Ці зусилля справді цінуються.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-02T10:15:29.394987"
+    },
+    {
+      "english": "Home is where the heart is.",
+      "ukrainian": "Дім там, де серце.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-02T10:15:29.394990"
+    },
+    {
+      "english": "Let's grow together, as a team.",
+      "ukrainian": "Давай рости разом, як команда.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-02T10:15:29.394992"
+    },
+    {
+      "english": "You make this house feel like home.",
+      "ukrainian": "Ти робиш цей будинок затишним.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-02T10:15:29.394995"
+    },
+    {
+      "english": "Every little bit helps a lot.",
+      "ukrainian": "Кожна дрібниця дуже допомагає.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-02T10:15:29.394999"
+    },
+    {
+      "english": "Your positive attitude is inspiring.",
+      "ukrainian": "Твоє позитивне ставлення надихає.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-02T10:15:29.395001"
+    },
+    {
+      "english": "We are a team, through thick and thin.",
+      "ukrainian": "Ми команда, у будь-якій ситуації.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-02T10:15:29.395004"
+    },
+    {
+      "english": "Let's create a joyful atmosphere.",
+      "ukrainian": "Створимо радісну атмосферу.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-02T10:15:29.395007"
+    },
+    {
+      "english": "This is a safe and warm haven.",
+      "ukrainian": "Це безпечний і теплий прихисток.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-02T10:15:29.395010"
+    },
+    {
+      "english": "Kindness is our family's motto.",
+      "ukrainian": "Доброта – наш сімейний девіз.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-02T10:15:29.395012"
+    },
+    {
+      "english": "You are doing wonderful, thank you.",
+      "ukrainian": "Ти чудово справляєшся, дякую.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-02T10:15:29.395015"
+    },
+    {
+      "english": "Our home is full of laughter.",
+      "ukrainian": "Наш дім сповнений сміху.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-02T10:15:29.395017"
+    },
+    {
+      "english": "Let's make good choices together.",
+      "ukrainian": "Давай робити добрі вибори разом.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-02T10:15:29.395020"
+    },
+    {
+      "english": "You have a heart of gold.",
+      "ukrainian": "У тебе золоте серце.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-02T10:15:29.395023"
+    },
+    {
+      "english": "Success comes from within the family.",
+      "ukrainian": "Успіх походить з родини.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-02T10:15:29.395025"
+    },
+    {
+      "english": "You are loved unconditionally here.",
+      "ukrainian": "Тебе люблять тут безумовно.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-02T10:15:29.395028"
+    },
+    {
+      "english": "Let's fill our home with joy.",
+      "ukrainian": "Наповнімо наш дім радістю.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-02T10:15:29.395030"
+    },
+    {
+      "english": "This is a place of support.",
+      "ukrainian": "Це місце підтримки.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-02T10:15:29.395033"
+    },
+    {
+      "english": "You are a valuable part of us.",
+      "ukrainian": "Ти – цінна частина нас.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-02T10:15:29.395035"
+    },
+    {
+      "english": "My home, my castle, my peace.",
+      "ukrainian": "Мій дім, мій замок, мій спокій.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-02T10:15:29.395038"
+    },
+    {
+      "english": "Where family gathers, love blooms.",
+      "ukrainian": "Де сім'я збирається, там любов розцвітає.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-02T10:15:29.395040"
+    },
+    {
+      "english": "A cozy corner, a warm hug.",
+      "ukrainian": "Затишний куточок, тепле обійми.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-02T10:15:29.395044"
+    },
+    {
+      "english": "Traditions bind us, always.",
+      "ukrainian": "Традиції нас єднають, завжди.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-02T10:15:29.395046"
+    },
+    {
+      "english": "Listen to your elders, they know.",
+      "ukrainian": "Слухай старших, вони знають.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-02T10:15:29.395049"
+    },
+    {
+      "english": "A shared table, shared stories.",
+      "ukrainian": "Спільний стіл, спільні історії.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-02T10:15:29.395052"
+    },
+    {
+      "english": "Our roots run deep, like family.",
+      "ukrainian": "Наше коріння глибоке, як родина.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-02T10:15:29.395054"
+    },
+    {
+      "english": "Help a neighbor, they'll help you.",
+      "ukrainian": "Допоможи сусіду, він допоможе тобі.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-02T10:15:29.395057"
+    },
+    {
+      "english": "Cherish the little moments, they grow.",
+      "ukrainian": "Цінуй дрібні моменти, вони ростуть.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-02T10:15:29.395060"
+    },
+    {
+      "english": "Every generation, a new chapter.",
+      "ukrainian": "Кожне покоління, нова глава.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-02T10:15:29.395062"
+    },
+    {
+      "english": "Cleanliness is next to godliness, they say.",
+      "ukrainian": "Чистота — запорука здоров'я, кажуть.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-02T10:15:29.395065"
+    },
+    {
+      "english": "A warm hearth, a full pantry.",
+      "ukrainian": "Теплий вогнище, повна комора.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-02T10:15:29.395068"
+    },
+    {
+      "english": "When in doubt, ask Mom.",
+      "ukrainian": "Коли сумніваєшся, питай маму.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-02T10:15:29.395070"
+    },
+    {
+      "english": "Guests are like flowers, make them welcome.",
+      "ukrainian": "Гості як квіти, раді їм.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-02T10:15:29.395073"
+    },
+    {
+      "english": "Respect for elders, is our law.",
+      "ukrainian": "Шанувати старших — наш закон.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-02T10:15:29.395076"
+    },
+    {
+      "english": "A proverb a day, keeps foolishness away.",
+      "ukrainian": "Приказка на день, розуму додає.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-02T10:15:29.395079"
+    },
+    {
+      "english": "Our home, our sanctuary from the world.",
+      "ukrainian": "Наш дім, наша фортеця від світу.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-02T10:15:29.395082"
+    },
+    {
+      "english": "Harmony at home, peace everywhere.",
+      "ukrainian": "Злагода в домі, спокій усюди.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-02T10:15:29.395085"
+    },
+    {
+      "english": "A mother's embrace, heals all wounds.",
+      "ukrainian": "Материнські обійми, лікують усе.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-02T10:15:29.395087"
+    },
+    {
+      "english": "Children are our future, guide them well.",
+      "ukrainian": "Діти — наше майбутнє, веди їх добре.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-02T10:15:29.395090"
+    },
+    {
+      "english": "Sharing food, sharing life.",
+      "ukrainian": "Ділитися їжею, ділитися життям.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-02T10:15:29.395093"
+    },
+    {
+      "english": "The smell of baking, means comfort.",
+      "ukrainian": "Запах випічки, означає затишок.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-02T10:15:29.395096"
+    },
+    {
+      "english": "From dawn till dusk, home calls.",
+      "ukrainian": "Від світанку до темряви, дім кличе.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-02T10:15:29.395098"
+    },
+    {
+      "english": "Every home has its own spirit.",
+      "ukrainian": "Кожен дім має свого духа.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-02T10:15:29.395101"
+    },
+    {
+      "english": "Family is the anchor, in stormy seas.",
+      "ukrainian": "Родина — це якір, у бурхливому морі.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-02T10:15:29.395103"
+    },
+    {
+      "english": "Wisdom comes with age, and home.",
+      "ukrainian": "Мудрість приходить з віком, і домом.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-02T10:15:29.395106"
+    },
+    {
+      "english": "The heart of the home, is love.",
+      "ukrainian": "Серце дому — це любов.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-02T10:15:29.395109"
+    },
+    {
+      "english": "Bless this home, and all within.",
+      "ukrainian": "Благослови цей дім, і всіх у ньому.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-02T10:15:29.395111"
+    },
+    {
+      "english": "Good seeds, yield good fruit.",
+      "ukrainian": "Добрі зерна, дають добрий плід.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-02T10:15:29.395114"
+    },
+    {
+      "english": "Our laughter fills the rooms.",
+      "ukrainian": "Наш сміх наповнює кімнати.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-02T10:15:29.395116"
+    },
+    {
+      "english": "Let's tidy up, before guests arrive.",
+      "ukrainian": "Прибираємося, поки гості не прийшли.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-02T10:15:29.395119"
+    },
+    {
+      "english": "Who took out the trash last time?",
+      "ukrainian": "Хто останнього разу виносив сміття?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-02T10:15:29.395121"
+    },
+    {
+      "english": "We need more milk, don't forget.",
+      "ukrainian": "Нам треба більше молока, не забудь.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-02T10:15:29.395124"
+    },
+    {
+      "english": "Can you help me with this heavy box?",
+      "ukrainian": "Можеш допомогти мені з цією важкою коробкою?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-02T10:15:29.395127"
+    },
+    {
+      "english": "The kettle is boiling, make some tea.",
+      "ukrainian": "Чайник кипить, зроби чай.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-02T10:15:29.395131"
+    },
+    {
+      "english": "Who left the light on upstairs?",
+      "ukrainian": "Хто залишив світло увімкненим нагорі?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-02T10:15:29.395133"
+    },
+    {
+      "english": "Let's fix this leaky faucet together.",
+      "ukrainian": "Давай разом полагодимо цей кран, що протікає.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-02T10:15:29.395136"
+    },
+    {
+      "english": "Where did you put the spare key?",
+      "ukrainian": "Куди ти поклав запасний ключ?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-02T10:15:29.395138"
+    },
+    {
+      "english": "Please don't track mud inside.",
+      "ukrainian": "Будь ласка, не заходь з брудом.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-02T10:15:29.395141"
+    },
+    {
+      "english": "Let's plan our weekend chores.",
+      "ukrainian": "Давай сплануємо наші вихідні справи.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-02T10:15:29.395143"
+    },
+    {
+      "english": "Whose turn is it to cook dinner?",
+      "ukrainian": "Чия черга готувати вечерю?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-02T10:15:29.395146"
+    },
+    {
+      "english": "Remember to turn off the oven.",
+      "ukrainian": "Не забудь вимкнути духовку.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-02T10:15:29.395148"
     }
   ],
-  "last_updated": "2026-11-01T09:54:10.446912"
+  "last_updated": "2026-11-02T10:15:29.395150"
 }
