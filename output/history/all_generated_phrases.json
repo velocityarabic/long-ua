@@ -11519,7 +11519,727 @@
       "ukrainian": "Не забудь вимкнути духовку.",
       "category": "Family & Home",
       "generated_at": "2026-11-02T10:15:29.395148"
+    },
+    {
+      "english": "Hi, can I see the menu, please?",
+      "ukrainian": "Привіт, можна меню, будь ласка?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T10:17:29.099551"
+    },
+    {
+      "english": "I’ll take this, please, for one person.",
+      "ukrainian": "Я візьму це, будь ласка, на одну людину.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T10:17:29.099567"
+    },
+    {
+      "english": "Do you have something vegetarian, by chance?",
+      "ukrainian": "У вас є щось вегетаріанське, випадково?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T10:17:29.099569"
+    },
+    {
+      "english": "Is it spicy, or mild?",
+      "ukrainian": "Це гостре, чи не дуже?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T10:17:29.099572"
+    },
+    {
+      "english": "No onions, please, I’m allergic.",
+      "ukrainian": "Без цибулі, будь ласка, у мене алергія.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T10:17:29.099574"
+    },
+    {
+      "english": "Could I get it to go, please?",
+      "ukrainian": "Можна це з собою, будь ласка?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T10:17:29.099576"
+    },
+    {
+      "english": "One coffee, and water, please.",
+      "ukrainian": "Одна кава, і вода, будь ласка.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T10:17:29.099578"
+    },
+    {
+      "english": "Do you have tap water, please?",
+      "ukrainian": "У вас є вода з-під крану?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T10:17:29.099582"
+    },
+    {
+      "english": "Just checking, this is for now, right?",
+      "ukrainian": "Перепрошую, це вже зараз, так?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T10:17:29.099584"
+    },
+    {
+      "english": "How much is this dish?",
+      "ukrainian": "Скільки коштує ця страва?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T10:17:29.099586"
+    },
+    {
+      "english": "Can I pay by card, please?",
+      "ukrainian": "Можна розрахуватися карткою, будь ласка?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T10:17:29.099588"
+    },
+    {
+      "english": "Do you have a kids’ menu?",
+      "ukrainian": "У вас є меню для дітей?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T10:17:29.099590"
+    },
+    {
+      "english": "Waiter, could I order now?",
+      "ukrainian": "Офіціанте, я можу замовити зараз?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T10:17:29.099592"
+    },
+    {
+      "english": "We’ll share one starter, please.",
+      "ukrainian": "Ми поділимося одним салатом, будь ласка.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T10:17:29.099594"
+    },
+    {
+      "english": "That sounds great, I’ll take it.",
+      "ukrainian": "Звучить чудово, я візьму це.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T10:17:29.099596"
+    },
+    {
+      "english": "I’m not hungry yet, just drinks.",
+      "ukrainian": "Я ще не голодний, тільки напої.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T10:17:29.099598"
+    },
+    {
+      "english": "Can I have extra sauce, please?",
+      "ukrainian": "Можна ще соус, будь ласка?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T10:17:29.099600"
+    },
+    {
+      "english": "Do you have forks, spoons, and napkins?",
+      "ukrainian": "Є виделки, ложки й серветки?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T10:17:29.099602"
+    },
+    {
+      "english": "Sorry, I meant the other thing.",
+      "ukrainian": "Вибачте, я мав на увазі інше.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T10:17:29.099603"
+    },
+    {
+      "english": "No problem, thank you, that’s okay.",
+      "ukrainian": "Нічого страшного, дякую, все добре.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T10:17:29.099605"
+    },
+    {
+      "english": "Could we get this a bit slower, please?",
+      "ukrainian": "Можна повільніше, будь ласка?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T10:17:29.099607"
+    },
+    {
+      "english": "Is the portion big, or small?",
+      "ukrainian": "Порція велика, чи маленька?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T10:17:29.099609"
+    },
+    {
+      "english": "I’ll start with soup, please.",
+      "ukrainian": "Почну із супу, будь ласка.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T10:17:29.099611"
+    },
+    {
+      "english": "That’s delicious, wow, thank you!",
+      "ukrainian": "Це дуже смачно, вау, дякую!",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T10:17:29.099613"
+    },
+    {
+      "english": "Is it fresh, or warmed up?",
+      "ukrainian": "Це свіже, чи підігріте?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T10:17:29.099615"
+    },
+    {
+      "english": "One moment, I need to decide.",
+      "ukrainian": "Зачекайте хвилинку, мені треба обрати.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T10:17:29.099618"
+    },
+    {
+      "english": "Can I get the bill, please?",
+      "ukrainian": "Можна рахунок, будь ласка?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T10:17:29.099620"
+    },
+    {
+      "english": "Just water for me, thanks.",
+      "ukrainian": "Мені просто вода, дякую.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T10:17:29.099622"
+    },
+    {
+      "english": "Do you have coffee after the meal?",
+      "ukrainian": "Після їжі у вас є кава?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T10:17:29.099623"
+    },
+    {
+      "english": "What do you recommend today, honestly?",
+      "ukrainian": "Що ви радите сьогодні, чесно?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T10:17:29.099626"
+    },
+    {
+      "english": "Is there a set lunch option?",
+      "ukrainian": "У вас є комплексний обід, так?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T10:17:29.099627"
+    },
+    {
+      "english": "Do you have gluten-free choices here?",
+      "ukrainian": "У вас є страви без глютену?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T10:17:29.099631"
+    },
+    {
+      "english": "How long does the food take?",
+      "ukrainian": "Скільки часу готується страва?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T10:17:29.099633"
+    },
+    {
+      "english": "Can I ask what’s in the sauce?",
+      "ukrainian": "Можна спитати, що в соусі?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T10:17:29.099635"
+    },
+    {
+      "english": "Is it homemade, or from a kitchen?",
+      "ukrainian": "Це домашнє, чи з кухні ресторану?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T10:17:29.099636"
+    },
+    {
+      "english": "What’s your most popular dessert?",
+      "ukrainian": "Який у вас найпопулярніший десерт?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T10:17:29.099638"
+    },
+    {
+      "english": "Do you have zero-sugar drinks?",
+      "ukrainian": "Є напої без цукру, нуль?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T10:17:29.099640"
+    },
+    {
+      "english": "Can I get it less salty, please?",
+      "ukrainian": "Можна менш солоне, будь ласка?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T10:17:29.099642"
+    },
+    {
+      "english": "Which side comes with this dish?",
+      "ukrainian": "Що йде до цієї страви?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T10:17:29.099643"
+    },
+    {
+      "english": "Is there a sauce on the side?",
+      "ukrainian": "Соус подається окремо?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T10:17:29.099645"
+    },
+    {
+      "english": "Do you use fresh herbs in meals?",
+      "ukrainian": "Ви додаєте свіжу зелень у страви?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T10:17:29.099647"
+    },
+    {
+      "english": "What’s the wait time for delivery?",
+      "ukrainian": "Скільки чекати на доставку?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T10:17:29.099649"
+    },
+    {
+      "english": "Can I switch the side for fries?",
+      "ukrainian": "Можна замінити гарнір на картоплю?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T10:17:29.099650"
+    },
+    {
+      "english": "Do you have anything mild for kids?",
+      "ukrainian": "Є щось не гостре для дітей?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T10:17:29.099652"
+    },
+    {
+      "english": "Is the fish fresh today?",
+      "ukrainian": "Сьогодні риба свіжа?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T10:17:29.099654"
+    },
+    {
+      "english": "May I see the drinks list?",
+      "ukrainian": "Можна глянути список напоїв?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T10:17:29.099655"
+    },
+    {
+      "english": "What kind of bread do you serve?",
+      "ukrainian": "Який хліб подаєте до страви?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T10:17:29.099657"
+    },
+    {
+      "english": "Can I have it without mushrooms?",
+      "ukrainian": "Можна без грибів, будь ласка?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T10:17:29.099660"
+    },
+    {
+      "english": "Do you have daily specials, by chance?",
+      "ukrainian": "У вас бувають щоденні страви?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T10:17:29.099662"
+    },
+    {
+      "english": "How spicy is it, like, really?",
+      "ukrainian": "Наскільки воно гостре, по-справжньому?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T10:17:29.099664"
+    },
+    {
+      "english": "Is there a halal option here?",
+      "ukrainian": "У вас є страви халяль?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T10:17:29.099665"
+    },
+    {
+      "english": "Can I get recommendations for two people?",
+      "ukrainian": "Порадьте, що взяти на двох, будь ласка.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T10:17:29.099667"
+    },
+    {
+      "english": "Do you have a tasting portion option?",
+      "ukrainian": "Є маленька порція для дегустації?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T10:17:29.099669"
+    },
+    {
+      "english": "What’s the vegetarian sauce you use?",
+      "ukrainian": "Який соус ви використовуєте для вегетаріанців?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T10:17:29.099671"
+    },
+    {
+      "english": "Could we change items on the combo?",
+      "ukrainian": "Можна поміняти позиції в комбо?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T10:17:29.099673"
+    },
+    {
+      "english": "Is there a waitlist for popular dishes?",
+      "ukrainian": "Черга на популярні страви є?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T10:17:29.099675"
+    },
+    {
+      "english": "What’s the best drink to pair with this?",
+      "ukrainian": "З чим краще поєднати цей напій?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T10:17:29.099677"
+    },
+    {
+      "english": "Do you have sparkling water, chilled?",
+      "ukrainian": "Є газована вода, холодна?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T10:17:29.099679"
+    },
+    {
+      "english": "Can I get a recommendation, not too heavy?",
+      "ukrainian": "Порадьте щось легке, не надто ситне, будь ласка.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T10:17:29.099682"
+    },
+    {
+      "english": "You got this, order confidently, smile first.",
+      "ukrainian": "Ти справишся, замовляй сміливо, усміхнись першим.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T10:17:29.099685"
+    },
+    {
+      "english": "Say it clearly, they’ll understand you fast.",
+      "ukrainian": "Говори чітко, вони швидко зрозуміють тебе.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T10:17:29.099688"
+    },
+    {
+      "english": "Pick what you want, no overthinking.",
+      "ukrainian": "Бери те, що хочеш, без зайвих думок.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T10:17:29.099692"
+    },
+    {
+      "english": "Trust your taste, order with confidence.",
+      "ukrainian": "Довіряй смаку, замовляй упевнено.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T10:17:29.099694"
+    },
+    {
+      "english": "Good vibe only, choose your comfort meal.",
+      "ukrainian": "Тільки хороший настрій, бери своє зручне блюдо.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T10:17:29.099697"
+    },
+    {
+      "english": "You’re learning fast, one order at a time.",
+      "ukrainian": "Ти вчишся швидко, крок за кроком.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T10:17:29.099700"
+    },
+    {
+      "english": "Ask kindly, you’ll get a better answer.",
+      "ukrainian": "Питай ввічливо, отримаєш кращу відповідь.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T10:17:29.099702"
+    },
+    {
+      "english": "Be brave, ordering is just practice.",
+      "ukrainian": "Будь сміливим, замовлення — це просто практика.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T10:17:29.099704"
+    },
+    {
+      "english": "Small steps, big wins, enjoy your food.",
+      "ukrainian": "Малі кроки, великі перемоги, смакуй їжу.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T10:17:29.099706"
+    },
+    {
+      "english": "Awesome, keep your questions short and sweet.",
+      "ukrainian": "Круто, тримай питання короткими й приємними.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T10:17:29.099708"
+    },
+    {
+      "english": "You don’t need perfect words, just start.",
+      "ukrainian": "Тобі не потрібні ідеальні слова, просто почни.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T10:17:29.099711"
+    },
+    {
+      "english": "Nice choice, trust it, you’ll love it.",
+      "ukrainian": "Чудовий вибір, довірся, тобі сподобається.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T10:17:29.099713"
+    },
+    {
+      "english": "Smile and be patient, they’re doing their best.",
+      "ukrainian": "Усміхайся й будь терплячим, вони роблять усе найкраще.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T10:17:29.099716"
+    },
+    {
+      "english": "Your order matters, say it like you mean it.",
+      "ukrainian": "Твоє замовлення важливе, скажи це впевнено.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T10:17:29.099718"
+    },
+    {
+      "english": "Stay positive, even if plans change.",
+      "ukrainian": "Тримайся позитиву, навіть якщо плани зміняться.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T10:17:29.099720"
+    },
+    {
+      "english": "You’ve got options, relax, choose what fits.",
+      "ukrainian": "У тебе є варіанти, розслабся, обирай як тобі підходить.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T10:17:29.099722"
+    },
+    {
+      "english": "Even one correct word is a win.",
+      "ukrainian": "Навіть одне правильне слово — це перемога.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T10:17:29.099724"
+    },
+    {
+      "english": "Be curious, ask details, enjoy the journey.",
+      "ukrainian": "Будь цікави́м, питай деталі, насолоджуйся процесом.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T10:17:29.099726"
+    },
+    {
+      "english": "You’re in control, order what feels right.",
+      "ukrainian": "Ти керуєш, замовляй те, що відчувається правильним.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T10:17:29.099728"
+    },
+    {
+      "english": "Respect the menu, read it, then decide.",
+      "ukrainian": "Поважай меню, прочитай його, потім вирішуй.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T10:17:29.099730"
+    },
+    {
+      "english": "Good job, you’re speaking like a local.",
+      "ukrainian": "Молодець, ти говориш майже як місцевий.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T10:17:29.099732"
+    },
+    {
+      "english": "Say your preferences, it’s your meal, own it.",
+      "ukrainian": "Скажи свої вподобання, це твоя страва, бери її.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T10:17:29.099734"
+    },
+    {
+      "english": "Stay calm, delivery or dining, you’ll manage.",
+      "ukrainian": "Зберігай спокій, доставка чи зал — ти впораєшся.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T10:17:29.099736"
+    },
+    {
+      "english": "Celebrate the first try, tomorrow gets easier.",
+      "ukrainian": "Святкуй першу спробу, завтра буде легше.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T10:17:29.099738"
+    },
+    {
+      "english": "Your confidence grows, every order proves it.",
+      "ukrainian": "Твоя впевненість зростає, кожне замовлення це доводить.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T10:17:29.099740"
+    },
+    {
+      "english": "Keep it simple, you’ll be understood.",
+      "ukrainian": "Тримай усе просто, тебе зрозуміють.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T10:17:29.099742"
+    },
+    {
+      "english": "High spirits, tasty food, that’s the plan.",
+      "ukrainian": "Високий настрій, смачна їжа, ось твій план.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T10:17:29.099744"
+    },
+    {
+      "english": "Nice and steady, one sentence at a time.",
+      "ukrainian": "Спокійно й рівно, по одному реченню.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T10:17:29.099746"
+    },
+    {
+      "english": "You’re not stuck, you’re building Ukrainian daily.",
+      "ukrainian": "Ти не застряг, ти щодня будуєш українську.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T10:17:29.099748"
+    },
+    {
+      "english": "I’m craving something comforting, what do you suggest?",
+      "ukrainian": "Мені хочеться чогось домашнього, що порадите?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T10:17:29.099751"
+    },
+    {
+      "english": "Honestly, I’m not sure, can you guide me?",
+      "ukrainian": "Чесно кажучи, я не певен, допоможете зорієнтуватися?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T10:17:29.099753"
+    },
+    {
+      "english": "I want it mild, I’m sensitive to heat.",
+      "ukrainian": "Хочу не гостро, я чутливий до гострого.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T10:17:29.099755"
+    },
+    {
+      "english": "Take your time, I’m patient, I’ll wait.",
+      "ukrainian": "Не поспішайте, я терплячий, почекаю.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T10:17:29.099758"
+    },
+    {
+      "english": "I’m a bit unsure, what’s most popular here?",
+      "ukrainian": "Я трішки сумніваюся, що тут найпопулярніше?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T10:17:29.099760"
+    },
+    {
+      "english": "I’d like something light, my stomach feels off.",
+      "ukrainian": "Мені б щось легке, животу не дуже добре.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T10:17:29.099762"
+    },
+    {
+      "english": "If possible, I’d prefer less sauce, please.",
+      "ukrainian": "Якщо можна, я б хотів менше соусу, будь ласка.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T10:17:29.099764"
+    },
+    {
+      "english": "I’m trying to eat healthier, any good choices?",
+      "ukrainian": "Я намагаюся харчуватися корисніше, що порадите?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T10:17:29.099768"
+    },
+    {
+      "english": "To be honest, I’m in a comfort mood.",
+      "ukrainian": "Чесно, я зараз у настрої на комфортну їжу.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T10:17:29.099770"
+    },
+    {
+      "english": "Can you tell me what it tastes like?",
+      "ukrainian": "Підкажіть, який у нього смак?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T10:17:29.099773"
+    },
+    {
+      "english": "I’m nervous ordering, but I’ll try.",
+      "ukrainian": "Мені трохи страшно замовляти, але я спробую.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T10:17:29.099775"
+    },
+    {
+      "english": "I don’t mind waiting, quality matters.",
+      "ukrainian": "Я не проти чекати, якість важлива.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T10:17:29.099777"
+    },
+    {
+      "english": "I’d like it not too salty, please.",
+      "ukrainian": "Мені б не дуже солоне, будь ласка.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T10:17:29.099779"
+    },
+    {
+      "english": "I’m learning, so please speak slowly.",
+      "ukrainian": "Я вчуся, тож, будь ласка, говоріть повільніше.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T10:17:29.099781"
+    },
+    {
+      "english": "I prefer classic flavors, nothing too fancy.",
+      "ukrainian": "Мені до вподоби класичні смаки, без надмірностей.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T10:17:29.099783"
+    },
+    {
+      "english": "I’m trying something new, any tips?",
+      "ukrainian": "Я пробую щось нове, підкажете?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T10:17:29.099785"
+    },
+    {
+      "english": "Honestly, I’m overwhelmed by the menu.",
+      "ukrainian": "Чесно, мене меню трохи перевантажує.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T10:17:29.099787"
+    },
+    {
+      "english": "If it’s spicy, tell me clearly first.",
+      "ukrainian": "Якщо там гостре, скажіть чесно одразу.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T10:17:29.099791"
+    },
+    {
+      "english": "I want balance, not too heavy or sweet.",
+      "ukrainian": "Мені потрібен баланс, не надто важке й не солодке.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T10:17:29.099793"
+    },
+    {
+      "english": "I’m grateful, thanks for helping me choose.",
+      "ukrainian": "Дякую, дуже вдячний за вашу допомогу з вибором.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T10:17:29.099795"
+    },
+    {
+      "english": "Can we start with something simple, please?",
+      "ukrainian": "Можемо почати з чогось простого, будь ласка?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T10:17:29.099798"
+    },
+    {
+      "english": "I’m keeping it low-key today, so what fits?",
+      "ukrainian": "Сьогодні хочу без зайвого, що мені підійде?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T10:17:29.099802"
+    },
+    {
+      "english": "I’m careful with ingredients, what’s in it?",
+      "ukrainian": "Я обережний з інгредієнтами, що там всередині?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T10:17:29.099805"
+    },
+    {
+      "english": "Please be patient, I’m reading every line.",
+      "ukrainian": "Будь ласка, зачекайте, я читаю кожен рядок.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T10:17:29.099807"
+    },
+    {
+      "english": "I’m in the mood for something warm and filling.",
+      "ukrainian": "Мені хочеться чогось теплого й ситного.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T10:17:29.099809"
+    },
+    {
+      "english": "If you can, suggest the safest choice for me.",
+      "ukrainian": "Якщо можете, порадьте найбезпечніший варіант для мене.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T10:17:29.099811"
+    },
+    {
+      "english": "I’ll trust your judgment, what’s your pick?",
+      "ukrainian": "Я довіряю вашому смаку, що б ви взяли?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T10:17:29.099813"
+    },
+    {
+      "english": "I’m not rushing, I just want a solid meal.",
+      "ukrainian": "Я не поспішаю, мені просто потрібна нормальна їжа.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T10:17:29.099815"
+    },
+    {
+      "english": "I feel better with simple choices, what’s easiest?",
+      "ukrainian": "Мені спокійніше з простим вибором, що найпростіше?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T10:17:29.099817"
+    },
+    {
+      "english": "Just tell me the truth, I can handle it.",
+      "ukrainian": "Просто скажіть правду, я впораюся.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T10:17:29.099818"
+    },
+    {
+      "english": "Two teas, one without sugar, please.",
+      "ukrainian": "Два чаї, один без цукру, будь ласка.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T10:17:29.099820"
+    },
+    {
+      "english": "How spicy is that, roughly?",
+      "ukrainian": "Наскільки там гостро, приблизно?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-03T10:17:29.099822"
     }
   ],
-  "last_updated": "2026-11-02T10:15:29.395150"
+  "last_updated": "2026-11-03T10:17:29.099824"
 }
