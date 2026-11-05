@@ -12239,7 +12239,727 @@
       "ukrainian": "Наскільки там гостро, приблизно?",
       "category": "Ordering Food & Dining",
       "generated_at": "2026-11-03T10:17:29.099822"
+    },
+    {
+      "english": "I like you, that’s simple, okay?",
+      "ukrainian": "Ти мені подобаєшся, це просто, окей?",
+      "category": "Love",
+      "generated_at": "2026-11-05T10:02:22.650251"
+    },
+    {
+      "english": "Tell me, do you feel the same?",
+      "ukrainian": "Скажи, ти відчуваєш те саме?",
+      "category": "Love",
+      "generated_at": "2026-11-05T10:02:22.650263"
+    },
+    {
+      "english": "When you smile, I melt fast.",
+      "ukrainian": "Коли ти усміхаєшся, я швидко тану.",
+      "category": "Love",
+      "generated_at": "2026-11-05T10:02:22.650267"
+    },
+    {
+      "english": "I’m here, I’m listening, go on.",
+      "ukrainian": "Я тут, я слухаю, кажи.",
+      "category": "Love",
+      "generated_at": "2026-11-05T10:02:22.650273"
+    },
+    {
+      "english": "No pressure, I just really care.",
+      "ukrainian": "Без тиску, я просто дуже переймаюсь.",
+      "category": "Love",
+      "generated_at": "2026-11-05T10:02:22.650277"
+    },
+    {
+      "english": "You’re my calm, even on busy days.",
+      "ukrainian": "Ти мій спокій, навіть у клопотах.",
+      "category": "Love",
+      "generated_at": "2026-11-05T10:02:22.650280"
+    },
+    {
+      "english": "Wait, I want to hug you now.",
+      "ukrainian": "Почекай, я хочу обійняти тебе зараз.",
+      "category": "Love",
+      "generated_at": "2026-11-05T10:02:22.650283"
+    },
+    {
+      "english": "Hold on, you made my day.",
+      "ukrainian": "Зачекай, ти зробив мій день.",
+      "category": "Love",
+      "generated_at": "2026-11-05T10:02:22.650289"
+    },
+    {
+      "english": "I can’t stop thinking about you.",
+      "ukrainian": "Я не можу перестати думати про тебе.",
+      "category": "Love",
+      "generated_at": "2026-11-05T10:02:22.650293"
+    },
+    {
+      "english": "Let’s talk, I need you closer.",
+      "ukrainian": "Давай поговоримо, я хочу ближче.",
+      "category": "Love",
+      "generated_at": "2026-11-05T10:02:22.650297"
+    },
+    {
+      "english": "Come here, I’m smiling for you.",
+      "ukrainian": "Йди сюди, я усміхаюся тобі.",
+      "category": "Love",
+      "generated_at": "2026-11-05T10:02:22.650300"
+    },
+    {
+      "english": "Seriously, you’re my favorite person.",
+      "ukrainian": "Серйозно, ти моя найулюбленіша людина.",
+      "category": "Love",
+      "generated_at": "2026-11-05T10:02:22.650303"
+    },
+    {
+      "english": "Good news, I’m into you.",
+      "ukrainian": "Є добрі новини, ти мені подобаєшся.",
+      "category": "Love",
+      "generated_at": "2026-11-05T10:02:22.650307"
+    },
+    {
+      "english": "Don’t go, please, stay a little.",
+      "ukrainian": "Не йди, будь ласка, побудь ще трохи.",
+      "category": "Love",
+      "generated_at": "2026-11-05T10:02:22.650310"
+    },
+    {
+      "english": "I’m proud of us, honestly.",
+      "ukrainian": "Я пишаюся нами, чесно.",
+      "category": "Love",
+      "generated_at": "2026-11-05T10:02:22.650313"
+    },
+    {
+      "english": "You’re sweet, stop being adorable.",
+      "ukrainian": "Ти така ніжна, перестань бути милою.",
+      "category": "Love",
+      "generated_at": "2026-11-05T10:02:22.650317"
+    },
+    {
+      "english": "Okay, I’ll be honest, I want you.",
+      "ukrainian": "Добре, чесно кажу, ти мені потрібен.",
+      "category": "Love",
+      "generated_at": "2026-11-05T10:02:22.650320"
+    },
+    {
+      "english": "I got your message, I’m happy.",
+      "ukrainian": "Я бачив твоє повідомлення, мені так радісно.",
+      "category": "Love",
+      "generated_at": "2026-11-05T10:02:22.650324"
+    },
+    {
+      "english": "You make me feel safe, really.",
+      "ukrainian": "З тобою мені спокійно, правда.",
+      "category": "Love",
+      "generated_at": "2026-11-05T10:02:22.650329"
+    },
+    {
+      "english": "Come on, say it, I like you.",
+      "ukrainian": "Ну скажи, скажи, що я тобі подобаюсь.",
+      "category": "Love",
+      "generated_at": "2026-11-05T10:02:22.650332"
+    },
+    {
+      "english": "I noticed you, and I didn’t forget.",
+      "ukrainian": "Я тебе помітив, і не забув.",
+      "category": "Love",
+      "generated_at": "2026-11-05T10:02:22.650335"
+    },
+    {
+      "english": "Today I choose you, no questions.",
+      "ukrainian": "Сьогодні я обираю тебе, без питань.",
+      "category": "Love",
+      "generated_at": "2026-11-05T10:02:22.650338"
+    },
+    {
+      "english": "You’re my home, in a few words.",
+      "ukrainian": "Ти мій дім, от і все.",
+      "category": "Love",
+      "generated_at": "2026-11-05T10:02:22.650341"
+    },
+    {
+      "english": "Please text me, I worry when silent.",
+      "ukrainian": "Ти напиши мені, я хвилююся, коли тиша.",
+      "category": "Love",
+      "generated_at": "2026-11-05T10:02:22.650344"
+    },
+    {
+      "english": "When we laugh, everything feels easier.",
+      "ukrainian": "Коли ми сміємося, все стає легшим.",
+      "category": "Love",
+      "generated_at": "2026-11-05T10:02:22.650347"
+    },
+    {
+      "english": "I’m down, let’s meet after work.",
+      "ukrainian": "Я за, давай зустрінемось після роботи.",
+      "category": "Love",
+      "generated_at": "2026-11-05T10:02:22.650350"
+    },
+    {
+      "english": "Wait, don’t change, you’re perfect.",
+      "ukrainian": "Почекай, не змінюйся, ти ідеальний.",
+      "category": "Love",
+      "generated_at": "2026-11-05T10:02:22.650354"
+    },
+    {
+      "english": "I’m jealous, just a little, not scary.",
+      "ukrainian": "Мені трохи заздрісно, але я не злий.",
+      "category": "Love",
+      "generated_at": "2026-11-05T10:02:22.650357"
+    },
+    {
+      "english": "Say you won’t leave me, okay?",
+      "ukrainian": "Скажи, що не покинеш мене, окей?",
+      "category": "Love",
+      "generated_at": "2026-11-05T10:02:22.650360"
+    },
+    {
+      "english": "What do you think about us, honestly?",
+      "ukrainian": "Як ти думаєш про нас, чесно?",
+      "category": "Love",
+      "generated_at": "2026-11-05T10:02:22.650363"
+    },
+    {
+      "english": "How was your day, did anything surprise you?",
+      "ukrainian": "Як пройшов твій день, щось здивувало?",
+      "category": "Love",
+      "generated_at": "2026-11-05T10:02:22.650366"
+    },
+    {
+      "english": "Do you want to talk, just us two?",
+      "ukrainian": "Ти хочеш поговорити, тільки ми двоє?",
+      "category": "Love",
+      "generated_at": "2026-11-05T10:02:22.650369"
+    },
+    {
+      "english": "What’s your favorite thing about love, really?",
+      "ukrainian": "Що тобі найбільше подобається в коханні?",
+      "category": "Love",
+      "generated_at": "2026-11-05T10:02:22.650373"
+    },
+    {
+      "english": "Can we slow down, and enjoy this?",
+      "ukrainian": "Можемо сповільнитись, і насолодитись?",
+      "category": "Love",
+      "generated_at": "2026-11-05T10:02:22.650378"
+    },
+    {
+      "english": "Should I text you now, or later?",
+      "ukrainian": "Мені написати тобі зараз, чи пізніше?",
+      "category": "Love",
+      "generated_at": "2026-11-05T10:02:22.650380"
+    },
+    {
+      "english": "Where would you like to go on a date?",
+      "ukrainian": "Куди ти хочеш піти на побачення?",
+      "category": "Love",
+      "generated_at": "2026-11-05T10:02:22.650383"
+    },
+    {
+      "english": "Do you prefer sweet words, or actions?",
+      "ukrainian": "Ти більше любиш ніжні слова, чи вчинки?",
+      "category": "Love",
+      "generated_at": "2026-11-05T10:02:22.650386"
+    },
+    {
+      "english": "What makes you feel understood, quickly?",
+      "ukrainian": "Що тобі швидко дає відчуття, що тебе розуміють?",
+      "category": "Love",
+      "generated_at": "2026-11-05T10:02:22.650388"
+    },
+    {
+      "english": "Can I be honest, I’m a bit nervous?",
+      "ukrainian": "Можна чесно, я трохи хвилююся?",
+      "category": "Love",
+      "generated_at": "2026-11-05T10:02:22.650394"
+    },
+    {
+      "english": "What should I know about your boundaries?",
+      "ukrainian": "Що мені знати про твої межі?",
+      "category": "Love",
+      "generated_at": "2026-11-05T10:02:22.650396"
+    },
+    {
+      "english": "How do you like to be comforted?",
+      "ukrainian": "Як тобі подобається, коли підтримують?",
+      "category": "Love",
+      "generated_at": "2026-11-05T10:02:22.650399"
+    },
+    {
+      "english": "Can we meet, after work, if you’re free?",
+      "ukrainian": "Можемо зустрітися, після роботи, якщо ти вільна?",
+      "category": "Love",
+      "generated_at": "2026-11-05T10:02:22.650403"
+    },
+    {
+      "english": "What’s the sweetest thing I can do today?",
+      "ukrainian": "Що наймиліше я можу зробити сьогодні?",
+      "category": "Love",
+      "generated_at": "2026-11-05T10:02:22.650408"
+    },
+    {
+      "english": "Do you want a call, or just messages?",
+      "ukrainian": "Ти хочеш дзвінок, чи просто повідомлення?",
+      "category": "Love",
+      "generated_at": "2026-11-05T10:02:22.650410"
+    },
+    {
+      "english": "How do you want me to say it?",
+      "ukrainian": "Як ти хочеш, щоб я сказав це?",
+      "category": "Love",
+      "generated_at": "2026-11-05T10:02:22.650413"
+    },
+    {
+      "english": "Can I bring you something small, later?",
+      "ukrainian": "Мені принести тобі щось маленьке, пізніше?",
+      "category": "Love",
+      "generated_at": "2026-11-05T10:02:22.650416"
+    },
+    {
+      "english": "Are you free this evening, maybe?",
+      "ukrainian": "Ти вільна сьогодні ввечері, може?",
+      "category": "Love",
+      "generated_at": "2026-11-05T10:02:22.650419"
+    },
+    {
+      "english": "What’s your idea of a perfect date?",
+      "ukrainian": "Яким ти уявляєш ідеальне побачення?",
+      "category": "Love",
+      "generated_at": "2026-11-05T10:02:22.650422"
+    },
+    {
+      "english": "Do you feel comfortable talking about feelings?",
+      "ukrainian": "Тобі комфортно говорити про почуття?",
+      "category": "Love",
+      "generated_at": "2026-11-05T10:02:22.650424"
+    },
+    {
+      "english": "Can I ask, what’s your love language?",
+      "ukrainian": "Можна спитати, яка твоя мова кохання?",
+      "category": "Love",
+      "generated_at": "2026-11-05T10:02:22.650428"
+    },
+    {
+      "english": "How can I support you better, today?",
+      "ukrainian": "Як я можу краще підтримати тебе сьогодні?",
+      "category": "Love",
+      "generated_at": "2026-11-05T10:02:22.650432"
+    },
+    {
+      "english": "If I’m late, will you forgive me?",
+      "ukrainian": "Якщо я запізнюся, ти пробачиш мені?",
+      "category": "Love",
+      "generated_at": "2026-11-05T10:02:22.650435"
+    },
+    {
+      "english": "What do you want from me, right now?",
+      "ukrainian": "Чого ти зараз від мене хочеш?",
+      "category": "Love",
+      "generated_at": "2026-11-05T10:02:22.650439"
+    },
+    {
+      "english": "Can we keep it simple, and real?",
+      "ukrainian": "Можемо тримати це просто, і щиро?",
+      "category": "Love",
+      "generated_at": "2026-11-05T10:02:22.650441"
+    },
+    {
+      "english": "Do you want to hear a nice compliment?",
+      "ukrainian": "Ти хочеш почути гарний комплімент?",
+      "category": "Love",
+      "generated_at": "2026-11-05T10:02:22.650444"
+    },
+    {
+      "english": "What’s your plan, after we talk for a while?",
+      "ukrainian": "Які в тебе плани, після того як поговоримо?",
+      "category": "Love",
+      "generated_at": "2026-11-05T10:02:22.650448"
+    },
+    {
+      "english": "Can I see you soon, with no rush?",
+      "ukrainian": "Можна побачити тебе скоро, без поспіху?",
+      "category": "Love",
+      "generated_at": "2026-11-05T10:02:22.650450"
+    },
+    {
+      "english": "I believe in us, one step at a time.",
+      "ukrainian": "Я вірю в нас, крок за кроком.",
+      "category": "Love",
+      "generated_at": "2026-11-05T10:02:22.650453"
+    },
+    {
+      "english": "Your efforts matter, I see them clearly.",
+      "ukrainian": "Твої старання важливі, я бачу їх чітко.",
+      "category": "Love",
+      "generated_at": "2026-11-05T10:02:22.650456"
+    },
+    {
+      "english": "Stay kind, love starts with your mindset.",
+      "ukrainian": "Залишайся добрим, любов починається з думок.",
+      "category": "Love",
+      "generated_at": "2026-11-05T10:02:22.650459"
+    },
+    {
+      "english": "We can be gentle, even during stress.",
+      "ukrainian": "Ми можемо бути ніжними, навіть під час стресу.",
+      "category": "Love",
+      "generated_at": "2026-11-05T10:02:22.650462"
+    },
+    {
+      "english": "Thank you for showing up, it means a lot.",
+      "ukrainian": "Дякую, що прийшов(ла), це дуже багато значить.",
+      "category": "Love",
+      "generated_at": "2026-11-05T10:02:22.650465"
+    },
+    {
+      "english": "Let’s keep choosing respect, it grows love.",
+      "ukrainian": "Давай обирати повагу, вона вирощує любов.",
+      "category": "Love",
+      "generated_at": "2026-11-05T10:02:22.650468"
+    },
+    {
+      "english": "Your smile calms me, like real magic.",
+      "ukrainian": "Твоя усмішка заспокоює мене, як справжнє диво.",
+      "category": "Love",
+      "generated_at": "2026-11-05T10:02:22.650471"
+    },
+    {
+      "english": "I’m proud of you, genuinely, today.",
+      "ukrainian": "Я пишаюся тобою, чесно, сьогодні.",
+      "category": "Love",
+      "generated_at": "2026-11-05T10:02:22.650475"
+    },
+    {
+      "english": "Slow breaths, soft words, we’ll be okay.",
+      "ukrainian": "Повільні вдихи, теплі слова, у нас все буде добре.",
+      "category": "Love",
+      "generated_at": "2026-11-05T10:02:22.650478"
+    },
+    {
+      "english": "Keep your heart open, I’m right here.",
+      "ukrainian": "Тримай серце відкритим, я поруч.",
+      "category": "Love",
+      "generated_at": "2026-11-05T10:02:22.650481"
+    },
+    {
+      "english": "You don’t have to rush with me.",
+      "ukrainian": "Тобі не треба поспішати зі мною.",
+      "category": "Love",
+      "generated_at": "2026-11-05T10:02:22.650485"
+    },
+    {
+      "english": "I love your courage, it lifts my spirit.",
+      "ukrainian": "Мені подобається твоя сміливість, вона піднімає дух.",
+      "category": "Love",
+      "generated_at": "2026-11-05T10:02:22.650503"
+    },
+    {
+      "english": "Let’s talk it out, no blame, just us.",
+      "ukrainian": "Давай обговоримо, без звинувачень, просто ми.",
+      "category": "Love",
+      "generated_at": "2026-11-05T10:02:22.650507"
+    },
+    {
+      "english": "I’m rooting for you, always, in love.",
+      "ukrainian": "Я вболіваю за тебе, завжди, в любові.",
+      "category": "Love",
+      "generated_at": "2026-11-05T10:02:22.650511"
+    },
+    {
+      "english": "When you doubt, remember my steady support.",
+      "ukrainian": "Коли ти сумніваєшся, пам’ятай про мою підтримку.",
+      "category": "Love",
+      "generated_at": "2026-11-05T10:02:22.650513"
+    },
+    {
+      "english": "We’ll handle tomorrow, together, with patience.",
+      "ukrainian": "Ми впораємось із завтрашнім, разом, із терпінням.",
+      "category": "Love",
+      "generated_at": "2026-11-05T10:02:22.650517"
+    },
+    {
+      "english": "I choose calm, so you can breathe.",
+      "ukrainian": "Я обираю спокій, щоб ти міг(могла) дихати.",
+      "category": "Love",
+      "generated_at": "2026-11-05T10:02:22.650520"
+    },
+    {
+      "english": "Your presence is enough, that’s my truth.",
+      "ukrainian": "Твоя присутність — достатня, це моя правда.",
+      "category": "Love",
+      "generated_at": "2026-11-05T10:02:22.650524"
+    },
+    {
+      "english": "Let me praise you, you deserve it.",
+      "ukrainian": "Дай мені сказати тобі комплімент, ти заслуговуєш.",
+      "category": "Love",
+      "generated_at": "2026-11-05T10:02:22.650529"
+    },
+    {
+      "english": "Even small wins, remind me why I care.",
+      "ukrainian": "Навіть дрібні перемоги нагадують, чому я турбуюся.",
+      "category": "Love",
+      "generated_at": "2026-11-05T10:02:22.650532"
+    },
+    {
+      "english": "You can rest, I’ve got the tone.",
+      "ukrainian": "Ти можеш відпочити, я триматиму тон.",
+      "category": "Love",
+      "generated_at": "2026-11-05T10:02:22.650535"
+    },
+    {
+      "english": "Let’s keep it real, feelings first, always.",
+      "ukrainian": "Залишімося щирими, спочатку почуття, завжди.",
+      "category": "Love",
+      "generated_at": "2026-11-05T10:02:22.650539"
+    },
+    {
+      "english": "Your love makes me braver, not smaller.",
+      "ukrainian": "Твоє кохання робить мене сміливішим, не меншим.",
+      "category": "Love",
+      "generated_at": "2026-11-05T10:02:22.650542"
+    },
+    {
+      "english": "I’m thankful for your patience, every day.",
+      "ukrainian": "Я вдячний(а) за твоє терпіння, щодня.",
+      "category": "Love",
+      "generated_at": "2026-11-05T10:02:22.650545"
+    },
+    {
+      "english": "We’re stronger when we speak with warmth.",
+      "ukrainian": "Ми сильніші, коли говоримо з теплом.",
+      "category": "Love",
+      "generated_at": "2026-11-05T10:02:22.650549"
+    },
+    {
+      "english": "Hold my hand, and think, we’re okay.",
+      "ukrainian": "Візьми за руку, і думай, нам добре.",
+      "category": "Love",
+      "generated_at": "2026-11-05T10:02:22.650554"
+    },
+    {
+      "english": "I won’t shut you out, I’ll listen.",
+      "ukrainian": "Я не відштовхну тебе, я буду слухати.",
+      "category": "Love",
+      "generated_at": "2026-11-05T10:02:22.650558"
+    },
+    {
+      "english": "Your boundaries are love, they protect us.",
+      "ukrainian": "Твої межі — це любов, вони нас захищають.",
+      "category": "Love",
+      "generated_at": "2026-11-05T10:02:22.650561"
+    },
+    {
+      "english": "No drama, just us growing closer.",
+      "ukrainian": "Без драми, просто ми стаємо ближчими.",
+      "category": "Love",
+      "generated_at": "2026-11-05T10:02:22.650563"
+    },
+    {
+      "english": "Believe me, you’re doing great in love.",
+      "ukrainian": "Повір мені, ти чудово справляєшся в любові.",
+      "category": "Love",
+      "generated_at": "2026-11-05T10:02:22.650567"
+    },
+    {
+      "english": "I’m scared, but I’m honest with you.",
+      "ukrainian": "Мені страшно, але я чесний із тобою.",
+      "category": "Love",
+      "generated_at": "2026-11-05T10:02:22.650570"
+    },
+    {
+      "english": "Sometimes I overthink, then you ground me.",
+      "ukrainian": "Іноді я накручую, а ти мене приземляєш.",
+      "category": "Love",
+      "generated_at": "2026-11-05T10:02:22.650573"
+    },
+    {
+      "english": "I miss you, in a quiet, steady way.",
+      "ukrainian": "Я сумую за тобою, тихо й рівно.",
+      "category": "Love",
+      "generated_at": "2026-11-05T10:02:22.650576"
+    },
+    {
+      "english": "Let’s be soft, even when it’s hard.",
+      "ukrainian": "Давай будемо ніжними, навіть коли важко.",
+      "category": "Love",
+      "generated_at": "2026-11-05T10:02:22.650580"
+    },
+    {
+      "english": "I don’t need perfection, I need you.",
+      "ukrainian": "Мені не потрібна ідеальність, мені потрібен ти.",
+      "category": "Love",
+      "generated_at": "2026-11-05T10:02:22.650583"
+    },
+    {
+      "english": "Your patience makes my heart feel safe.",
+      "ukrainian": "Твоя терплячість робить моє серце спокійним.",
+      "category": "Love",
+      "generated_at": "2026-11-05T10:02:22.650586"
+    },
+    {
+      "english": "I’m learning you, slowly, on purpose.",
+      "ukrainian": "Я вчуся тобі, повільно, навмисно.",
+      "category": "Love",
+      "generated_at": "2026-11-05T10:02:22.650589"
+    },
+    {
+      "english": "If I get quiet, I’m just thinking.",
+      "ukrainian": "Якщо я мовчу, я просто думаю.",
+      "category": "Love",
+      "generated_at": "2026-11-05T10:02:22.650593"
+    },
+    {
+      "english": "I choose calm words, because you matter.",
+      "ukrainian": "Я обираю спокійні слова, бо ти важливий.",
+      "category": "Love",
+      "generated_at": "2026-11-05T10:02:22.650596"
+    },
+    {
+      "english": "I want us, but I won’t rush.",
+      "ukrainian": "Я хочу нас, але я не кваплюсь.",
+      "category": "Love",
+      "generated_at": "2026-11-05T10:02:22.650599"
+    },
+    {
+      "english": "When I’m hurt, I’ll say it gently.",
+      "ukrainian": "Коли мені боляче, я скажу це м’яко.",
+      "category": "Love",
+      "generated_at": "2026-11-05T10:02:22.650603"
+    },
+    {
+      "english": "I believe in time, not in pressure.",
+      "ukrainian": "Я вірю в час, а не в тиск.",
+      "category": "Love",
+      "generated_at": "2026-11-05T10:02:22.650607"
+    },
+    {
+      "english": "Your smile tells me, I’m not alone.",
+      "ukrainian": "Твоя усмішка каже мені, я не сам.",
+      "category": "Love",
+      "generated_at": "2026-11-05T10:02:22.650611"
+    },
+    {
+      "english": "I’m trying, even when I’m messy.",
+      "ukrainian": "Я стараюся, навіть коли в мене все хаотично.",
+      "category": "Love",
+      "generated_at": "2026-11-05T10:02:22.650616"
+    },
+    {
+      "english": "Let me be real, I’m jealous sometimes.",
+      "ukrainian": "Дай мені бути чесним, я інколи ревную.",
+      "category": "Love",
+      "generated_at": "2026-11-05T10:02:22.650620"
+    },
+    {
+      "english": "I don’t want games, I want us.",
+      "ukrainian": "Мені не потрібні ігри, мені потрібні ми.",
+      "category": "Love",
+      "generated_at": "2026-11-05T10:02:22.650625"
+    },
+    {
+      "english": "I respect your pace, it feels right.",
+      "ukrainian": "Я поважаю твій темп, він мені підходить.",
+      "category": "Love",
+      "generated_at": "2026-11-05T10:02:22.650628"
+    },
+    {
+      "english": "I’m scared to lose you, so I’ll listen.",
+      "ukrainian": "Мені страшно тебе втратити, тож я слухаю.",
+      "category": "Love",
+      "generated_at": "2026-11-05T10:02:22.650631"
+    },
+    {
+      "english": "Even silence can be kind with you.",
+      "ukrainian": "Навіть мовчання з тобою буває теплим.",
+      "category": "Love",
+      "generated_at": "2026-11-05T10:02:22.650634"
+    },
+    {
+      "english": "I’m proud of how we talk now.",
+      "ukrainian": "Мені приємно, як ми тепер говоримо.",
+      "category": "Love",
+      "generated_at": "2026-11-05T10:02:22.650637"
+    },
+    {
+      "english": "I notice your little efforts, they add up.",
+      "ukrainian": "Я бачу твої дрібні старання, вони накопичуються.",
+      "category": "Love",
+      "generated_at": "2026-11-05T10:02:22.650640"
+    },
+    {
+      "english": "Let’s slow down, so feelings don’t break.",
+      "ukrainian": "Давай сповільнимось, щоб почуття не зламались.",
+      "category": "Love",
+      "generated_at": "2026-11-05T10:02:22.650644"
+    },
+    {
+      "english": "I’m not perfect, but I’m consistent.",
+      "ukrainian": "Я не ідеальний, але я постійний.",
+      "category": "Love",
+      "generated_at": "2026-11-05T10:02:22.650647"
+    },
+    {
+      "english": "Sometimes I need hugs, not big speeches.",
+      "ukrainian": "Іноді мені потрібні обійми, а не промови.",
+      "category": "Love",
+      "generated_at": "2026-11-05T10:02:22.650650"
+    },
+    {
+      "english": "I’ll own my mistakes, then we rebuild.",
+      "ukrainian": "Я визнаю свої помилки, і ми відбудуємо.",
+      "category": "Love",
+      "generated_at": "2026-11-05T10:02:22.650654"
+    },
+    {
+      "english": "You don’t have to prove yourself to me.",
+      "ukrainian": "Тобі не треба доводити мені щось.",
+      "category": "Love",
+      "generated_at": "2026-11-05T10:02:22.650657"
+    },
+    {
+      "english": "My love shows up, even on boring days.",
+      "ukrainian": "Моя любов проявляється, навіть у нудні дні.",
+      "category": "Love",
+      "generated_at": "2026-11-05T10:02:22.650660"
+    },
+    {
+      "english": "If we stumble, we’ll get up together.",
+      "ukrainian": "Якщо ми спіткнемося, ми піднімемось разом.",
+      "category": "Love",
+      "generated_at": "2026-11-05T10:02:22.650665"
+    },
+    {
+      "english": "I’m choosing you, with patience and real effort.",
+      "ukrainian": "Я обираю тебе, з терпінням і реальною старанністю.",
+      "category": "Love",
+      "generated_at": "2026-11-05T10:02:22.650723"
+    },
+    {
+      "english": "Tell me what hurts, I’ll stay kind.",
+      "ukrainian": "Скажи, що болить, я залишуся добрим.",
+      "category": "Love",
+      "generated_at": "2026-11-05T10:02:22.650727"
+    },
+    {
+      "english": "Text me when you land, I’ll check in.",
+      "ukrainian": "Напиши мені, коли приїдеш, я перевірю.",
+      "category": "Love",
+      "generated_at": "2026-11-05T10:02:22.650731"
+    },
+    {
+      "english": "After work, let’s talk, no phone distractions.",
+      "ukrainian": "Після роботи поговорімо, без телефонів.",
+      "category": "Love",
+      "generated_at": "2026-11-05T10:02:22.650734"
+    },
+    {
+      "english": "If we’re late, we message, that’s respect.",
+      "ukrainian": "Як запізнимось, пишемо, це повага.",
+      "category": "Love",
+      "generated_at": "2026-11-05T10:02:22.650738"
     }
   ],
-  "last_updated": "2026-11-03T10:17:29.099824"
+  "last_updated": "2026-11-05T10:02:22.650740"
 }
