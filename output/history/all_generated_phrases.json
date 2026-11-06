@@ -12959,7 +12959,727 @@
       "ukrainian": "Як запізнимось, пишемо, це повага.",
       "category": "Love",
       "generated_at": "2026-11-05T10:02:22.650738"
+    },
+    {
+      "english": "How much is this, please?",
+      "ukrainian": "Скільки це коштує, будь ласка?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:05:09.810589"
+    },
+    {
+      "english": "Is there a discount today?",
+      "ukrainian": "Сьогодні є знижка?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:05:09.810603"
+    },
+    {
+      "english": "What’s the price for two?",
+      "ukrainian": "Скільки коштує два, будь ласка?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:05:09.810607"
+    },
+    {
+      "english": "Do you have this in stock?",
+      "ukrainian": "У вас це є в наявності?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:05:09.810609"
+    },
+    {
+      "english": "Is it cheaper somewhere else?",
+      "ukrainian": "Десь дешевше це можна знайти?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:05:09.810611"
+    },
+    {
+      "english": "What’s the best deal here?",
+      "ukrainian": "Яка тут найвигідніша пропозиція?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:05:09.810613"
+    },
+    {
+      "english": "That seems expensive, really.",
+      "ukrainian": "Виглядає дорого, чесно кажучи.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:05:09.810614"
+    },
+    {
+      "english": "Do you have a cheaper option?",
+      "ukrainian": "Є варіант дешевший?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:05:09.810618"
+    },
+    {
+      "english": "Can you show me the sizes?",
+      "ukrainian": "Можете показати розміри?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:05:09.810620"
+    },
+    {
+      "english": "Do you accept returns, please?",
+      "ukrainian": "Ви приймаєте повернення?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:05:09.810622"
+    },
+    {
+      "english": "What’s included in the price?",
+      "ukrainian": "Що входить у ціну?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:05:09.810623"
+    },
+    {
+      "english": "Is there a sale on this?",
+      "ukrainian": "На це зараз діє знижка?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:05:09.810625"
+    },
+    {
+      "english": "Do you have it in white?",
+      "ukrainian": "Є в білому?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:05:09.810626"
+    },
+    {
+      "english": "How long is the warranty?",
+      "ukrainian": "Скільки триває гарантія?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:05:09.810628"
+    },
+    {
+      "english": "Can I get a receipt, please?",
+      "ukrainian": "Можна чек, будь ласка?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:05:09.810629"
+    },
+    {
+      "english": "I’ll take it, how much?",
+      "ukrainian": "Беру, скільки буде?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:05:09.810631"
+    },
+    {
+      "english": "Wait, I need to check.",
+      "ukrainian": "Пачекайте, мені треба перевірити.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:05:09.810633"
+    },
+    {
+      "english": "This is perfect, I’ll buy it.",
+      "ukrainian": "Це те, що треба, беру!",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:05:09.810635"
+    },
+    {
+      "english": "Do you have it cheaper today?",
+      "ukrainian": "Сьогодні можна дешевше?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:05:09.810638"
+    },
+    {
+      "english": "Sorry, it’s not in my budget.",
+      "ukrainian": "Вибачте, це не мій бюджет.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:05:09.810640"
+    },
+    {
+      "english": "Is there a cheaper brand?",
+      "ukrainian": "Є дешевший бренд?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:05:09.810641"
+    },
+    {
+      "english": "Can I try it on?",
+      "ukrainian": "Можна приміряти?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:05:09.810642"
+    },
+    {
+      "english": "Do you have a loyalty card?",
+      "ukrainian": "У вас є бонусна картка?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:05:09.810644"
+    },
+    {
+      "english": "I’ll think about it, thanks.",
+      "ukrainian": "Я подумаю, дякую.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:05:09.810646"
+    },
+    {
+      "english": "What’s the price with the discount?",
+      "ukrainian": "Скільки коштує зі знижкою?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:05:09.810647"
+    },
+    {
+      "english": "Do you sell by the piece?",
+      "ukrainian": "Ви продаєте поштучно?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:05:09.810649"
+    },
+    {
+      "english": "That’s a good price, okay.",
+      "ukrainian": "Це нормальна ціна, добре.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:05:09.810652"
+    },
+    {
+      "english": "Is this the final price, yes?",
+      "ukrainian": "Це остаточна ціна, так?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:05:09.810653"
+    },
+    {
+      "english": "Where can I find cheaper deals?",
+      "ukrainian": "Де шукати дешевші пропозиції?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:05:09.810656"
+    },
+    {
+      "english": "Excuse me, what colors do you have?",
+      "ukrainian": "Вибачте, які кольори у вас є?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:05:09.810657"
+    },
+    {
+      "english": "Tell me, is it good quality?",
+      "ukrainian": "Скажіть, це гарна якість?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:05:09.810659"
+    },
+    {
+      "english": "Which option is the best for me?",
+      "ukrainian": "Що краще саме для мене?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:05:09.810661"
+    },
+    {
+      "english": "Can you recommend something under budget?",
+      "ukrainian": "Порадите щось до бюджету?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:05:09.810663"
+    },
+    {
+      "english": "Is this price for one item only?",
+      "ukrainian": "Ціна за одну річ, так?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:05:09.810664"
+    },
+    {
+      "english": "Do you have it in my size?",
+      "ukrainian": "Є це у моєму розмірі?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:05:09.810666"
+    },
+    {
+      "english": "What’s the difference between these two?",
+      "ukrainian": "У чому різниця між цими двома?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:05:09.810668"
+    },
+    {
+      "english": "Which material feels softer, this or that?",
+      "ukrainian": "Який матеріал м’якший, цей чи той?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:05:09.810669"
+    },
+    {
+      "english": "Could I ask about the fit, please?",
+      "ukrainian": "Підкажіть, будь ласка, як сідає?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:05:09.810671"
+    },
+    {
+      "english": "How does it compare with the cheaper one?",
+      "ukrainian": "Чим він кращий за той дешевший?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:05:09.810672"
+    },
+    {
+      "english": "Is it comfortable for everyday use?",
+      "ukrainian": "Воно зручне для щоденного користування?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:05:09.810674"
+    },
+    {
+      "english": "Do you have anything similar, but lighter?",
+      "ukrainian": "Є щось схоже, але легше?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:05:09.810675"
+    },
+    {
+      "english": "What payment methods do you take here?",
+      "ukrainian": "Які способи оплати у вас?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:05:09.810677"
+    },
+    {
+      "english": "Can I see the receipt details, please?",
+      "ukrainian": "Можна глянути деталі чека?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:05:09.810679"
+    },
+    {
+      "english": "If I’m unsure, what should I choose?",
+      "ukrainian": "Якщо я сумніваюся, що брати?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:05:09.810681"
+    },
+    {
+      "english": "Which model sells the fastest lately?",
+      "ukrainian": "Яка модель зараз найшвидше береться?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:05:09.810682"
+    },
+    {
+      "english": "Does it run small, or true to size?",
+      "ukrainian": "Воно маломірить, чи в розмір?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:05:09.810684"
+    },
+    {
+      "english": "Can you tell me the delivery time?",
+      "ukrainian": "Підкажіть, будь ласка, термін доставки.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:05:09.810685"
+    },
+    {
+      "english": "Is there a cheaper option in stock?",
+      "ukrainian": "Є щось дешевше в наявності?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:05:09.810687"
+    },
+    {
+      "english": "What’s the return process in your store?",
+      "ukrainian": "Який у вас порядок повернення?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:05:09.810688"
+    },
+    {
+      "english": "Can I get a quick comparison, please?",
+      "ukrainian": "Можна коротке порівняння, будь ласка?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:05:09.810689"
+    },
+    {
+      "english": "Do you offer installment payments, maybe?",
+      "ukrainian": "Можна оплату частинами?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:05:09.810693"
+    },
+    {
+      "english": "Which one looks better on, honestly?",
+      "ukrainian": "Що краще виглядає на мені, чесно?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:05:09.810694"
+    },
+    {
+      "english": "What would you pick for a gift?",
+      "ukrainian": "Що б ви взяли в подарунок?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:05:09.810696"
+    },
+    {
+      "english": "Do you have any promo codes right now?",
+      "ukrainian": "Є зараз промокоди?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:05:09.810697"
+    },
+    {
+      "english": "Is this price already final for me?",
+      "ukrainian": "Це вже остаточна ціна для мене?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:05:09.810699"
+    },
+    {
+      "english": "Can you show me how it works?",
+      "ukrainian": "Покажіть, будь ласка, як це працює.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:05:09.810700"
+    },
+    {
+      "english": "Is it worth the money, in your opinion?",
+      "ukrainian": "На вашу думку, це варте своїх грошей?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:05:09.810702"
+    },
+    {
+      "english": "What’s the difference in warranty terms?",
+      "ukrainian": "Чим відрізняються умови гарантії?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:05:09.810703"
+    },
+    {
+      "english": "If I take two, do I get a bonus?",
+      "ukrainian": "Якщо беру два, буде якийсь бонус?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:05:09.810705"
+    },
+    {
+      "english": "Take a deep breath, you’re doing great.",
+      "ukrainian": "Зроби глибокий вдих, ти молодець.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:05:09.810707"
+    },
+    {
+      "english": "You’ll find the right deal, keep looking.",
+      "ukrainian": "Ти знайдеш свою вигідну пропозицію, не зупиняйся.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:05:09.810709"
+    },
+    {
+      "english": "Choose with calm, your budget will thank you.",
+      "ukrainian": "Обирай спокійно, твій бюджет подякує.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:05:09.810710"
+    },
+    {
+      "english": "Let’s compare options, you’re in control.",
+      "ukrainian": "Давай порівняємо варіанти, ти керуєш ситуацією.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:05:09.810713"
+    },
+    {
+      "english": "Small step, smart choice, great results.",
+      "ukrainian": "Маленький крок, розумний вибір, класний результат.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:05:09.810714"
+    },
+    {
+      "english": "Trust yourself, you know what you need.",
+      "ukrainian": "Довір собі, ти точно знаєш, що треба.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:05:09.810716"
+    },
+    {
+      "english": "Good job, you’re shopping smarter today.",
+      "ukrainian": "Молодець, сьогодні ти шопиш розумніше.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:05:09.810718"
+    },
+    {
+      "english": "Prices change, your plan stays steady.",
+      "ukrainian": "Ціни змінюються, твій план незмінний.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:05:09.810721"
+    },
+    {
+      "english": "Ask questions, clarity always pays off.",
+      "ukrainian": "Питай, ясність завжди окупається.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:05:09.810723"
+    },
+    {
+      "english": "You’re allowed to take your time, really.",
+      "ukrainian": "Ти можеш не поспішати, чесно.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:05:09.810725"
+    },
+    {
+      "english": "This is progress, not just shopping.",
+      "ukrainian": "Це прогрес, а не просто покупки.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:05:09.810727"
+    },
+    {
+      "english": "Pick the value, not the stress.",
+      "ukrainian": "Обирай цінність, а не стрес.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:05:09.810729"
+    },
+    {
+      "english": "You’re learning, and that matters a lot.",
+      "ukrainian": "Ти вчишся, і це дуже важливо.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:05:09.810731"
+    },
+    {
+      "english": "Be brave, try the option you like.",
+      "ukrainian": "Будь сміливим, обирай те, що подобається.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:05:09.810734"
+    },
+    {
+      "english": "Great mindset, you’ll notice better deals.",
+      "ukrainian": "Класний настрій, ти швидко побачиш вигоду.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:05:09.810736"
+    },
+    {
+      "english": "Focus on value, not just numbers.",
+      "ukrainian": "Дивись на цінність, не лише на цифри.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:05:09.810737"
+    },
+    {
+      "english": "You’re doing it right, keep going.",
+      "ukrainian": "Ти робиш усе правильно, рухайся далі.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:05:09.810739"
+    },
+    {
+      "english": "It’s okay to change your mind, calmly.",
+      "ukrainian": "Не страшно передумати, спокійно.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:05:09.810741"
+    },
+    {
+      "english": "That’s a smart move, you’ve got this.",
+      "ukrainian": "Це розумний крок, ти впораєшся.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:05:09.810743"
+    },
+    {
+      "english": "Stay positive, better choices are ahead.",
+      "ukrainian": "Бережи позитив, попереду кращі варіанти.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:05:09.810745"
+    },
+    {
+      "english": "You don’t need rush, you need clarity.",
+      "ukrainian": "Тобі не потрібна поспіх, тобі потрібна ясність.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:05:09.810746"
+    },
+    {
+      "english": "Good vibes, you’ll make a confident purchase.",
+      "ukrainian": "Класні емоції, і покупка буде впевненою.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:05:09.810748"
+    },
+    {
+      "english": "Let’s keep it simple, choose what works.",
+      "ukrainian": "Давай простіше, бери те, що підходить.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:05:09.810750"
+    },
+    {
+      "english": "Every question brings you closer to the best.",
+      "ukrainian": "Кожне запитання наближає до найкращого.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:05:09.810753"
+    },
+    {
+      "english": "You deserve quality, let’s find it.",
+      "ukrainian": "Ти заслуговуєш на якість, давай знайдемо.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:05:09.810755"
+    },
+    {
+      "english": "Celebrate small wins, that’s real progress.",
+      "ukrainian": "Дякуй за маленькі перемоги, це справжній прогрес.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:05:09.810757"
+    },
+    {
+      "english": "You’re building smart habits, one purchase at a time.",
+      "ukrainian": "Ти формуєш розумні звички, крок за кроком у покупках.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:05:09.810759"
+    },
+    {
+      "english": "Prices don’t define you, your choices do.",
+      "ukrainian": "Ціни не визначають тебе, визначає твій вибір.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:05:09.810761"
+    },
+    {
+      "english": "Say it with confidence, I’m ready to decide.",
+      "ukrainian": "Скажи впевнено, я готовий(а) вирішувати.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:05:09.810763"
+    },
+    {
+      "english": "You’ve got this, one step closer today.",
+      "ukrainian": "Ти впораєшся, сьогодні ти на крок ближче.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:05:09.810766"
+    },
+    {
+      "english": "I’m torn, but I’ll choose what feels right.",
+      "ukrainian": "Я в роздумах, але виберу те, що справді відчуваю.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:05:09.810768"
+    },
+    {
+      "english": "This price stings a little, I admit.",
+      "ukrainian": "Ця ціна трохи щипає, чесно кажучи.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:05:09.810769"
+    },
+    {
+      "english": "I want quality, not just the cheapest option.",
+      "ukrainian": "Я хочу якість, а не лише найдешевший варіант.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:05:09.810771"
+    },
+    {
+      "english": "I’m taking my time, I don’t feel rushed.",
+      "ukrainian": "Я не поспішаю, мені не треба поспіху.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:05:09.810773"
+    },
+    {
+      "english": "Honestly, I need something that lasts.",
+      "ukrainian": "Чесно кажучи, мені треба щось, що служить довго.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:05:09.810775"
+    },
+    {
+      "english": "If I doubt it, I pause, and rethink.",
+      "ukrainian": "Якщо сумніваюся, я зупиняюся й думаю знову.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:05:09.810777"
+    },
+    {
+      "english": "I’m budgeting carefully, because I feel responsible.",
+      "ukrainian": "Я обережно рахую бюджет, бо почуваю відповідальність.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:05:09.810781"
+    },
+    {
+      "english": "I want to feel good about my choice.",
+      "ukrainian": "Хочу, щоб мій вибір мене радував.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:05:09.810782"
+    },
+    {
+      "english": "I’m here to compare, but calmly.",
+      "ukrainian": "Я прийшов порівняти, але спокійно.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:05:09.810784"
+    },
+    {
+      "english": "The extra cost, I can live with it.",
+      "ukrainian": "Додаткова ціна, я з цим можу змиритися.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:05:09.810786"
+    },
+    {
+      "english": "I don’t chase hype, I trust simple value.",
+      "ukrainian": "Я не женуся за хайпом, я довіряю простій цінності.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:05:09.810788"
+    },
+    {
+      "english": "I’m thinking about tomorrow, not only today.",
+      "ukrainian": "Я думаю про завтра, не лише про сьогодні.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:05:09.810789"
+    },
+    {
+      "english": "I want a fair deal, not a surprise.",
+      "ukrainian": "Я хочу чесну угоду, а не несподіванку.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:05:09.810791"
+    },
+    {
+      "english": "My heart says yes, my wallet says slow.",
+      "ukrainian": "Серце каже «так», а гаманцю треба повільніше.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:05:09.810792"
+    },
+    {
+      "english": "I’d rather wait, than regret quickly.",
+      "ukrainian": "Краще почекати, ніж швидко пошкодувати.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:05:09.810794"
+    },
+    {
+      "english": "I’m listening to my needs, not trends.",
+      "ukrainian": "Я слухаю свої потреби, а не тренди.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:05:09.810796"
+    },
+    {
+      "english": "This feels like the right fit for me.",
+      "ukrainian": "Мені це відчувається як правильний варіант.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:05:09.810798"
+    },
+    {
+      "english": "I’m not sure yet, but I’m open to advice.",
+      "ukrainian": "Я ще не певен, але я готовий вислухати пораду.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:05:09.810800"
+    },
+    {
+      "english": "I want clarity first, then I’ll decide.",
+      "ukrainian": "Спочатку мені потрібна ясність, тоді вирішу.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:05:09.810802"
+    },
+    {
+      "english": "I’m choosing with patience, not with pressure.",
+      "ukrainian": "Я обираю з терпінням, а не під тиском.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:05:09.810804"
+    },
+    {
+      "english": "I can’t ignore the budget, it matters to me.",
+      "ukrainian": "Я не можу ігнорувати бюджет, це важливо для мене.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:05:09.810806"
+    },
+    {
+      "english": "I’m okay with paying more, if it’s worth it.",
+      "ukrainian": "Я не проти заплатити більше, якщо це справді варто.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:05:09.810808"
+    },
+    {
+      "english": "I feel better when everything is transparent.",
+      "ukrainian": "Мені спокійніше, коли все прозоро.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:05:09.810809"
+    },
+    {
+      "english": "I’m checking details, because I take this seriously.",
+      "ukrainian": "Я звіряю деталі, бо ставлюся до цього серйозно.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:05:09.810811"
+    },
+    {
+      "english": "I don’t want to overspend, I want balance.",
+      "ukrainian": "Я не хочу переплатити, хочу рівновагу.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:05:09.810815"
+    },
+    {
+      "english": "Maybe later, I’m not emotionally ready yet.",
+      "ukrainian": "Може пізніше, я ще не готовий емоційно.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:05:09.810817"
+    },
+    {
+      "english": "I trust my gut, but I still verify.",
+      "ukrainian": "Я довіряю інтуїції, але все одно перевіряю.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:05:09.810823"
+    },
+    {
+      "english": "I’m choosing slowly, so it feels right.",
+      "ukrainian": "Я обираю повільно, щоб відчувати правильність.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:05:09.810824"
+    },
+    {
+      "english": "I’m grateful, I just need time to think.",
+      "ukrainian": "Дякую, мені просто потрібно подумати.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:05:09.810826"
+    },
+    {
+      "english": "No rush, I’ll decide when I’m sure.",
+      "ukrainian": "Без поспіху, я вирішу, коли буду впевнений.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:05:09.810828"
+    },
+    {
+      "english": "Quick check first, what’s the total price?",
+      "ukrainian": "Швидко перевір, яка сума ціни загалом?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-06T10:05:09.810831"
     }
   ],
-  "last_updated": "2026-11-05T10:02:22.650740"
+  "last_updated": "2026-11-06T10:05:09.810833"
 }
