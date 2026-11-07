@@ -13679,7 +13679,727 @@
       "ukrainian": "Швидко перевір, яка сума ціни загалом?",
       "category": "Shopping & Prices",
       "generated_at": "2026-11-06T10:05:09.810831"
+    },
+    {
+      "english": "Hi, I need help, with my health today",
+      "ukrainian": "Привіт, мені потрібна допомога, зі здоров’ям",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-07T09:25:02.216718"
+    },
+    {
+      "english": "Excuse me, where is the pharmacy?",
+      "ukrainian": "Вибачте, де аптека?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-07T09:25:02.216735"
+    },
+    {
+      "english": "I feel dizzy, what should I do now?",
+      "ukrainian": "Мені паморочиться голова, що робити зараз?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-07T09:25:02.216737"
+    },
+    {
+      "english": "My throat hurts, can I get something?",
+      "ukrainian": "У мене болить горло, можна щось?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-07T09:25:02.216739"
+    },
+    {
+      "english": "I have a headache, it’s getting worse",
+      "ukrainian": "У мене болить голова, стає гірше",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-07T09:25:02.216741"
+    },
+    {
+      "english": "Is this medicine safe for me?",
+      "ukrainian": "Це ліки безпечні для мене?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-07T09:25:02.216743"
+    },
+    {
+      "english": "I’m allergic, do you have a substitute?",
+      "ukrainian": "У мене алергія, є заміна?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-07T09:25:02.216745"
+    },
+    {
+      "english": "How often should I take it, please?",
+      "ukrainian": "Як часто мені приймати, будь ласка?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-07T09:25:02.216750"
+    },
+    {
+      "english": "Do I take it before food, or after?",
+      "ukrainian": "Треба до їжі, чи після?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-07T09:25:02.216753"
+    },
+    {
+      "english": "I have nausea, I feel like I’ll vomit",
+      "ukrainian": "Мене нудить, наче зараз вирве",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-07T09:25:02.216755"
+    },
+    {
+      "english": "Quick check, do I need a doctor?",
+      "ukrainian": "Швидка консультація, мені потрібен лікар?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-07T09:25:02.216756"
+    },
+    {
+      "english": "Wait, I need to read this label",
+      "ukrainian": "Зачекайте, мені треба прочитати етикетку",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-07T09:25:02.216758"
+    },
+    {
+      "english": "I’m running a fever, what now?",
+      "ukrainian": "У мене температура, що робити?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-07T09:25:02.216761"
+    },
+    {
+      "english": "Can you measure my blood pressure?",
+      "ukrainian": "Ви можете поміряти тиск?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-07T09:25:02.216762"
+    },
+    {
+      "english": "Please, show me cheaper options",
+      "ukrainian": "Будь ласка, покажіть дешевші варіанти",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-07T09:25:02.216764"
+    },
+    {
+      "english": "I need this urgently, today if possible",
+      "ukrainian": "Мені це терміново, сьогодні якщо можна",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-07T09:25:02.216766"
+    },
+    {
+      "english": "Do you have it in tablets, not syrup?",
+      "ukrainian": "Є в таблетках, не в сиропі?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-07T09:25:02.216767"
+    },
+    {
+      "english": "I started coughing all night, help",
+      "ukrainian": "Я всю ніч кашляю, допоможіть",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-07T09:25:02.216769"
+    },
+    {
+      "english": "Okay, I’ll take it, but tell me why",
+      "ukrainian": "Добре, я візьму, але поясніть чому",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-07T09:25:02.216771"
+    },
+    {
+      "english": "Don’t worry, it’s probably not serious",
+      "ukrainian": "Не хвилюйтесь, мабуть, нічого страшного",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-07T09:25:02.216773"
+    },
+    {
+      "english": "What symptoms should I watch for?",
+      "ukrainian": "Які симптоми треба відстежувати?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-07T09:25:02.216774"
+    },
+    {
+      "english": "Can you recommend something for kids?",
+      "ukrainian": "Порадите щось для дітей?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-07T09:25:02.216776"
+    },
+    {
+      "english": "I need a prescription, where do I get it?",
+      "ukrainian": "Мені потрібен рецепт, де його взяти?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-07T09:25:02.216777"
+    },
+    {
+      "english": "I think it’s the flu, am I right?",
+      "ukrainian": "Мені здається, це грип, чи так?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-07T09:25:02.216779"
+    },
+    {
+      "english": "My stomach hurts, it’s cramping",
+      "ukrainian": "У мене болить живіт, судоми",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-07T09:25:02.216781"
+    },
+    {
+      "english": "Hold on, I need to check the expiry date",
+      "ukrainian": "Почекайте, треба перевірити термін придатності",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-07T09:25:02.216782"
+    },
+    {
+      "english": "Do I need antibiotics, or just pain relief?",
+      "ukrainian": "Мені потрібні антибіотики, чи тільки від болю?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-07T09:25:02.216784"
+    },
+    {
+      "english": "If it gets worse, I’ll come back, okay?",
+      "ukrainian": "Якщо стане гірше, я повернуся, добре?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-07T09:25:02.216786"
+    },
+    {
+      "english": "Thanks, that helped a lot, really",
+      "ukrainian": "Дякую, це дуже допомогло, чесно",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-07T09:25:02.216787"
+    },
+    {
+      "english": "I’ll start tonight, what time exactly?",
+      "ukrainian": "Я почну сьогодні ввечері, о котрій годині?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-07T09:25:02.216789"
+    },
+    {
+      "english": "Could I ask a quick question, please?",
+      "ukrainian": "Можна запитати швидко, будь ласка?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-07T09:25:02.216791"
+    },
+    {
+      "english": "Is this available today, or tomorrow?",
+      "ukrainian": "Це є сьогодні, чи лише завтра?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-07T09:25:02.216793"
+    },
+    {
+      "english": "Do you have anything for allergies?",
+      "ukrainian": "У вас є щось від алергії?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-07T09:25:02.216796"
+    },
+    {
+      "english": "What’s the best option for sore muscles?",
+      "ukrainian": "Що краще від болю в м’язах?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-07T09:25:02.216798"
+    },
+    {
+      "english": "Can you explain how it works, please?",
+      "ukrainian": "Поясніть, будь ласка, як це працює.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-07T09:25:02.216800"
+    },
+    {
+      "english": "Should I take it with water only?",
+      "ukrainian": "Можна просто водою запивати?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-07T09:25:02.216801"
+    },
+    {
+      "english": "Is there anything I should avoid?",
+      "ukrainian": "Є щось, чого краще уникати?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-07T09:25:02.216802"
+    },
+    {
+      "english": "What side effects should I watch for?",
+      "ukrainian": "Які побічні ефекти можливі?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-07T09:25:02.216804"
+    },
+    {
+      "english": "How long will it take to feel better?",
+      "ukrainian": "За скільки днів має полегшати?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-07T09:25:02.216805"
+    },
+    {
+      "english": "Is it okay to drive after taking this?",
+      "ukrainian": "Після цього можна водити машину?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-07T09:25:02.216807"
+    },
+    {
+      "english": "Do I need a doctor’s note for it?",
+      "ukrainian": "Мені потрібна довідка від лікаря?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-07T09:25:02.216808"
+    },
+    {
+      "english": "Which tests do you recommend, first?",
+      "ukrainian": "Які аналізи порадите спочатку?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-07T09:25:02.216810"
+    },
+    {
+      "english": "Should I come in, or just call?",
+      "ukrainian": "Мені краще прийти, чи достатньо дзвінка?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-07T09:25:02.216813"
+    },
+    {
+      "english": "Is there a version without sugar?",
+      "ukrainian": "Є варіант без цукру?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-07T09:25:02.216814"
+    },
+    {
+      "english": "Can I take it if I’m breastfeeding?",
+      "ukrainian": "Можна, якщо я годую грудьми?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-07T09:25:02.216816"
+    },
+    {
+      "english": "What should I do if I miss a dose?",
+      "ukrainian": "Як бути, якщо пропустив дозу?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-07T09:25:02.216818"
+    },
+    {
+      "english": "Can you check interactions with my meds?",
+      "ukrainian": "Ви можете перевірити сумісність ліків?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-07T09:25:02.216819"
+    },
+    {
+      "english": "Do you have something for dry cough?",
+      "ukrainian": "Є щось від сухого кашлю?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-07T09:25:02.216821"
+    },
+    {
+      "english": "Should I warm it up, or rest instead?",
+      "ukrainian": "Мені гріти, чи краще відпочити?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-07T09:25:02.216822"
+    },
+    {
+      "english": "Is this dosage correct for my age?",
+      "ukrainian": "Дозування підходить для мого віку?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-07T09:25:02.216823"
+    },
+    {
+      "english": "What time should I start today?",
+      "ukrainian": "О котрій годині починати сьогодні?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-07T09:25:02.216825"
+    },
+    {
+      "english": "Can I get it in smaller packs?",
+      "ukrainian": "Можна меншу упаковку, будь ласка?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-07T09:25:02.216826"
+    },
+    {
+      "english": "What if it doesn’t improve by tomorrow?",
+      "ukrainian": "Якщо не полегшає до завтра, що робити?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-07T09:25:02.216828"
+    },
+    {
+      "english": "Do you take insurance, or pay cash?",
+      "ukrainian": "У вас приймають страховку, чи готівку?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-07T09:25:02.216829"
+    },
+    {
+      "english": "Is this prescription only, or OTC?",
+      "ukrainian": "Це тільки за рецептом, чи можна без?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-07T09:25:02.216831"
+    },
+    {
+      "english": "Should I keep taking vitamins with this?",
+      "ukrainian": "Вітаміни можна продовжувати паралельно?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-07T09:25:02.216833"
+    },
+    {
+      "english": "How soon can I see you again?",
+      "ukrainian": "Коли краще повернутися на повторний огляд?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-07T09:25:02.216834"
+    },
+    {
+      "english": "What warning signs mean urgent care?",
+      "ukrainian": "Які симптоми вказують на термінову допомогу?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-07T09:25:02.216836"
+    },
+    {
+      "english": "Thanks, can you write it down for me?",
+      "ukrainian": "Дякую, запишіть мені, будь ласка.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-07T09:25:02.216838"
+    },
+    {
+      "english": "You’re doing great, keep going, one step at a time",
+      "ukrainian": "Ти справляєшся чудово, рухайся далі, крок за кроком",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-07T09:25:02.216840"
+    },
+    {
+      "english": "Breathe slow, you’ve got this, okay?",
+      "ukrainian": "Повільно дихай, ти впораєшся, добре?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-07T09:25:02.216842"
+    },
+    {
+      "english": "Let’s take care of it together, step by step",
+      "ukrainian": "Давай подбаємо про це разом, крок за кроком",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-07T09:25:02.216844"
+    },
+    {
+      "english": "Small habits today, big results tomorrow",
+      "ukrainian": "Сьогодні маленькі звички, завтра великі результати",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-07T09:25:02.216847"
+    },
+    {
+      "english": "You’re not alone, we’ll handle the rest",
+      "ukrainian": "Ти не один, ми розберемося з рештою",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-07T09:25:02.216849"
+    },
+    {
+      "english": "Stay positive, your body can recover",
+      "ukrainian": "Тримайся позитивно, тіло може відновитися",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-07T09:25:02.216852"
+    },
+    {
+      "english": "Trust the plan, consistency matters more than speed",
+      "ukrainian": "Вір у план, послідовність важливіша за швидкість",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-07T09:25:02.216854"
+    },
+    {
+      "english": "You did the right thing, thank yourself",
+      "ukrainian": "Ти зробив правильний крок, дякуй собі",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-07T09:25:02.216856"
+    },
+    {
+      "english": "It’s okay to ask, help is part of care",
+      "ukrainian": "Нормально запитувати, допомога — це частина турботи",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-07T09:25:02.216858"
+    },
+    {
+      "english": "Take it easy, today is for healing",
+      "ukrainian": "Заспокойся, сьогодні час для відновлення",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-07T09:25:02.216860"
+    },
+    {
+      "english": "You’re building strength, even if it feels slow",
+      "ukrainian": "Ти набираєш сили, навіть якщо повільно",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-07T09:25:02.216862"
+    },
+    {
+      "english": "Let’s monitor, calm mind, clear next steps",
+      "ukrainian": "Ми відстежимо, спокій у голові, чіткі наступні кроки",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-07T09:25:02.216864"
+    },
+    {
+      "english": "Good job following directions, that’s huge",
+      "ukrainian": "Молодець, що дотримуєшся інструкцій, це дуже важливо",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-07T09:25:02.216866"
+    },
+    {
+      "english": "Your questions matter, we’ll go step by step",
+      "ukrainian": "Твої питання важливі, пройдемо крок за кроком",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-07T09:25:02.216868"
+    },
+    {
+      "english": "Today’s goal, feel better, not perfection",
+      "ukrainian": "Сьогоднішня ціль — почуватися краще, не бути ідеальним",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-07T09:25:02.216871"
+    },
+    {
+      "english": "You’re healing, don’t rush, let it work",
+      "ukrainian": "Ти відновлюєшся, не поспішай, дай йому подіяти",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-07T09:25:02.216873"
+    },
+    {
+      "english": "Pick the simplest option, start there",
+      "ukrainian": "Обери найпростіший варіант, почни з нього",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-07T09:25:02.216874"
+    },
+    {
+      "english": "Consistency wins, even small doses help",
+      "ukrainian": "Послідовність перемагає, навіть малі дози допомагають",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-07T09:25:02.216876"
+    },
+    {
+      "english": "You’re making progress, focus on the win",
+      "ukrainian": "Ти рухаєшся вперед, тримай фокус на результаті",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-07T09:25:02.216878"
+    },
+    {
+      "english": "It’s normal to feel worried, but you’ll manage",
+      "ukrainian": "Боятися — це нормально, але ти справишся",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-07T09:25:02.216880"
+    },
+    {
+      "english": "Let’s choose comfort, you deserve easier days",
+      "ukrainian": "Давай оберемо комфорт, тобі потрібні легші дні",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-07T09:25:02.216882"
+    },
+    {
+      "english": "Be gentle with yourself, recovery takes time",
+      "ukrainian": "Будь добрим до себе, відновлення потребує часу",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-07T09:25:02.216883"
+    },
+    {
+      "english": "You’re in good hands, let the team work",
+      "ukrainian": "Ти в надійних руках, нехай працює команда",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-07T09:25:02.216885"
+    },
+    {
+      "english": "Celebrate every improvement, even tiny ones count",
+      "ukrainian": "Пануй радістю кожному поліпшенню, навіть дрібному",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-07T09:25:02.216887"
+    },
+    {
+      "english": "Keep the routine, your future self will thank you",
+      "ukrainian": "Тримай рутину, майбутнє «я» подякує",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-07T09:25:02.216888"
+    },
+    {
+      "english": "If you feel unsure, say it, we’ll clarify",
+      "ukrainian": "Якщо сумніваєшся, скажи, ми пояснимо",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-07T09:25:02.216890"
+    },
+    {
+      "english": "You’re doing better than you think, really",
+      "ukrainian": "Тобі вже краще, ніж здається, чесно",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-07T09:25:02.216892"
+    },
+    {
+      "english": "Trust the process, steady care brings relief",
+      "ukrainian": "Вір у процес, спокійний догляд приносить полегшення",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-07T09:25:02.216894"
+    },
+    {
+      "english": "We’ll adjust as needed, you’re not alone",
+      "ukrainian": "Ми підлаштуємо, коли треба, ти не один",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-07T09:25:02.216896"
+    },
+    {
+      "english": "Honestly, I feel better just asking questions.",
+      "ukrainian": "Чесно кажучи, мені легше, коли я питаю.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-07T09:25:02.216897"
+    },
+    {
+      "english": "I’m scared, but I’m trying to stay calm.",
+      "ukrainian": "Мені страшно, але я намагаюся триматися спокійно.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-07T09:25:02.216901"
+    },
+    {
+      "english": "Please, tell me the truth in simple words.",
+      "ukrainian": "Будь ласка, скажіть правду простими словами.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-07T09:25:02.216902"
+    },
+    {
+      "english": "I need patience, healing doesn’t happen overnight.",
+      "ukrainian": "Мені потрібне терпіння, одужання не буває миттєвим.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-07T09:25:02.216904"
+    },
+    {
+      "english": "I keep thinking, what if it gets worse?",
+      "ukrainian": "Я все думаю, а якщо стане гірше?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-07T09:25:02.216906"
+    },
+    {
+      "english": "I’ll follow the plan, even if I’m nervous.",
+      "ukrainian": "Я дотримуватимуся плану, навіть якщо хвилююся.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-07T09:25:02.216908"
+    },
+    {
+      "english": "This feels overwhelming, but I’m still hopeful.",
+      "ukrainian": "Це дуже важко, але я все одно маю надію.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-07T09:25:02.216910"
+    },
+    {
+      "english": "I’m grateful, but I want to understand more.",
+      "ukrainian": "Мені вдячно, але хочу розуміти більше.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-07T09:25:02.216913"
+    },
+    {
+      "english": "Can we slow down, I’m processing everything?",
+      "ukrainian": "Можемо повільніше, я все переварюю?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-07T09:25:02.216915"
+    },
+    {
+      "english": "I don’t love waiting, but I can handle it.",
+      "ukrainian": "Я не люблю чекати, але я впораюся.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-07T09:25:02.216917"
+    },
+    {
+      "english": "Sometimes I overthink, then I breathe and reset.",
+      "ukrainian": "Іноді я накручую себе, тоді дихаю й починаю знову.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-07T09:25:02.216919"
+    },
+    {
+      "english": "I’m trying to stay positive, even quietly.",
+      "ukrainian": "Я намагаюся бути позитивним, хоча б тихенько.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-07T09:25:02.216921"
+    },
+    {
+      "english": "Give me reassurance, I just need it today.",
+      "ukrainian": "Дайте мені підтримку, вона потрібна мені сьогодні.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-07T09:25:02.216922"
+    },
+    {
+      "english": "I’m listening, and I’ll ask when unsure.",
+      "ukrainian": "Я слухаю, і питатиму, якщо щось неясно.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-07T09:25:02.216924"
+    },
+    {
+      "english": "My feelings are messy, but I’m doing my part.",
+      "ukrainian": "У мене думки хаотичні, але я роблю своє.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-07T09:25:02.216926"
+    },
+    {
+      "english": "I’d like a simple summary, no drama.",
+      "ukrainian": "Мені потрібен простий підсумок, без зайвого драми.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-07T09:25:02.216928"
+    },
+    {
+      "english": "I hate bad news, but thank you for honesty.",
+      "ukrainian": "Я ненавиджу погані новини, але дякую за чесність.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-07T09:25:02.216929"
+    },
+    {
+      "english": "Pharmacy days feel stressful, but I’m managing.",
+      "ukrainian": "Аптечні дні нервові, але я справляюся.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-07T09:25:02.216931"
+    },
+    {
+      "english": "I’m proud I’m showing up, even anxious.",
+      "ukrainian": "Я пишаюся, що з’являюся, навіть коли тривожно.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-07T09:25:02.216933"
+    },
+    {
+      "english": "Let’s be real, I need comfort and clarity.",
+      "ukrainian": "Давайте чесно, мені потрібні і підтримка, і ясність.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-07T09:25:02.216935"
+    },
+    {
+      "english": "I’m not giving up, I just need time.",
+      "ukrainian": "Я не здаюся, мені просто потрібен час.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-07T09:25:02.216938"
+    },
+    {
+      "english": "I worry, but I trust your experience.",
+      "ukrainian": "Я хвилююся, але довіряю вашому досвіду.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-07T09:25:02.216940"
+    },
+    {
+      "english": "Please repeat, I want to get it right.",
+      "ukrainian": "Будь ласка, повторіть, я хочу зробити правильно.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-07T09:25:02.216941"
+    },
+    {
+      "english": "I feel calmer when we talk like humans.",
+      "ukrainian": "Мені спокійніше, коли ми говоримо по-людськи.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-07T09:25:02.216943"
+    },
+    {
+      "english": "I’m trying to notice small wins each day.",
+      "ukrainian": "Я намагаюся помічати маленькі перемоги щодня.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-07T09:25:02.216945"
+    },
+    {
+      "english": "Sometimes I’m tired, but I’ll keep going.",
+      "ukrainian": "Іноді я втомлена, але я продовжу.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-07T09:25:02.216947"
+    },
+    {
+      "english": "I want to feel safe with this medication.",
+      "ukrainian": "Я хочу почуватися в безпеці з цим ліками.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-07T09:25:02.216949"
+    },
+    {
+      "english": "Be gentle, I’m sensitive to big changes.",
+      "ukrainian": "Будьте м’якші, я чутлива до різких змін.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-07T09:25:02.216950"
+    },
+    {
+      "english": "I’m grateful you explain everything, step by step.",
+      "ukrainian": "Дякую, що пояснюєте все, крок за кроком.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-07T09:25:02.216952"
+    },
+    {
+      "english": "Honestly, I just needed someone to listen.",
+      "ukrainian": "Чесно, мені просто треба було, щоб мене вислухали.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-07T09:25:02.216954"
+    },
+    {
+      "english": "Doctor, can you explain my diagnosis plainly, please?",
+      "ukrainian": "Лікарю, можете пояснити діагноз простими словами, будь ласка?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-07T09:25:02.216955"
+    },
+    {
+      "english": "Take these meds after breakfast, don’t skip doses.",
+      "ukrainian": "Приймай ці ліки після сніданку, не пропускай дози.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-07T09:25:02.216957"
     }
   ],
-  "last_updated": "2026-11-06T10:05:09.810833"
+  "last_updated": "2026-11-07T09:25:02.216959"
 }
