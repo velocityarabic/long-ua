@@ -14399,7 +14399,727 @@
       "ukrainian": "Приймай ці ліки після сніданку, не пропускай дози.",
       "category": "Doctor & Pharmacy",
       "generated_at": "2026-11-07T09:25:02.216957"
+    },
+    {
+      "english": "You’ve got this, start right now, step by step.",
+      "ukrainian": "Ти впораєшся, починай прямо зараз, крок за кроком.",
+      "category": "Motivation",
+      "generated_at": "2026-11-08T09:41:59.680030"
+    },
+    {
+      "english": "No excuses, just do it, small action today.",
+      "ukrainian": "Без відмовок, просто роби, сьогодні маленька дія.",
+      "category": "Motivation",
+      "generated_at": "2026-11-08T09:41:59.680044"
+    },
+    {
+      "english": "Don’t wait, move forward, you’re closer than you think.",
+      "ukrainian": "Не чекай, рухайся вперед, ти ближче, ніж здається.",
+      "category": "Motivation",
+      "generated_at": "2026-11-08T09:41:59.680049"
+    },
+    {
+      "english": "Keep going, even when it’s messy, you learn.",
+      "ukrainian": "Продовжуй, навіть коли каша в голові, ти вчишся.",
+      "category": "Motivation",
+      "generated_at": "2026-11-08T09:41:59.680053"
+    },
+    {
+      "english": "One more try, breathe, and say, I can.",
+      "ukrainian": "Ще одна спроба, вдихни, і скажи, я можу.",
+      "category": "Motivation",
+      "generated_at": "2026-11-08T09:41:59.680057"
+    },
+    {
+      "english": "Start with “hi”, get momentum, then build.",
+      "ukrainian": "Почни з «привіт», набери темп, а далі будуй.",
+      "category": "Motivation",
+      "generated_at": "2026-11-08T09:41:59.680060"
+    },
+    {
+      "english": "Yes, you can, try again, don’t quit.",
+      "ukrainian": "Так, можеш, спробуй ще раз, не здавайся.",
+      "category": "Motivation",
+      "generated_at": "2026-11-08T09:41:59.680066"
+    },
+    {
+      "english": "Focus now, worry later, do what matters.",
+      "ukrainian": "Зосередься зараз, переживання потім, роби головне.",
+      "category": "Motivation",
+      "generated_at": "2026-11-08T09:41:59.680072"
+    },
+    {
+      "english": "It’s okay, take it easy, you’re progressing.",
+      "ukrainian": "Це нормально, не поспішай, ти рухаєшся вперед.",
+      "category": "Motivation",
+      "generated_at": "2026-11-08T09:41:59.680077"
+    },
+    {
+      "english": "Good job, keep that energy, don’t slow down.",
+      "ukrainian": "Молодець, тримай той настрій, не гальмуй.",
+      "category": "Motivation",
+      "generated_at": "2026-11-08T09:41:59.680081"
+    },
+    {
+      "english": "Alright then, we go, together, and we win.",
+      "ukrainian": "Добре, то рушаймо, разом, і переможемо.",
+      "category": "Motivation",
+      "generated_at": "2026-11-08T09:41:59.680084"
+    },
+    {
+      "english": "Small steps win, stay consistent, show up daily.",
+      "ukrainian": "Маленькі кроки перемагають, тримайся системності, приходь щодня.",
+      "category": "Motivation",
+      "generated_at": "2026-11-08T09:41:59.680087"
+    },
+    {
+      "english": "Today counts, breathe in, let’s do it.",
+      "ukrainian": "Сьогодні важливо, вдихни, давай зробимо.",
+      "category": "Motivation",
+      "generated_at": "2026-11-08T09:41:59.680091"
+    },
+    {
+      "english": "You’re on track, keep studying, it will click.",
+      "ukrainian": "Ти в курсі, продовжуй вчитись, і зійдеться.",
+      "category": "Motivation",
+      "generated_at": "2026-11-08T09:41:59.680094"
+    },
+    {
+      "english": "Don’t fear mistakes, they’re part of your growth.",
+      "ukrainian": "Не бійся помилок, вони частина твого росту.",
+      "category": "Motivation",
+      "generated_at": "2026-11-08T09:41:59.680098"
+    },
+    {
+      "english": "Right now, choose effort, results will follow.",
+      "ukrainian": "Зараз обери старання, результат прийде.",
+      "category": "Motivation",
+      "generated_at": "2026-11-08T09:41:59.680102"
+    },
+    {
+      "english": "Come on, we can do this, stay calm.",
+      "ukrainian": "Ну що ж, ми можемо, тримайся спокійно.",
+      "category": "Motivation",
+      "generated_at": "2026-11-08T09:41:59.680105"
+    },
+    {
+      "english": "Say it loud, I believe, and start acting.",
+      "ukrainian": "Скажи голосно, я вірю, і починай діяти.",
+      "category": "Motivation",
+      "generated_at": "2026-11-08T09:41:59.680108"
+    },
+    {
+      "english": "Make it simple, one plan, one step, go.",
+      "ukrainian": "Зроби просто: один план, один крок, вперед.",
+      "category": "Motivation",
+      "generated_at": "2026-11-08T09:41:59.680111"
+    },
+    {
+      "english": "You’re not behind, you’re building, keep going.",
+      "ukrainian": "Ти не відстаєш, ти будуєш, не зупиняйся.",
+      "category": "Motivation",
+      "generated_at": "2026-11-08T09:41:59.680115"
+    },
+    {
+      "english": "Wake up, take action, today you level up.",
+      "ukrainian": "Прокинься, берися за справу, сьогодні ти зростаєш.",
+      "category": "Motivation",
+      "generated_at": "2026-11-08T09:41:59.680118"
+    },
+    {
+      "english": "Stay hopeful, keep trying, progress is real.",
+      "ukrainian": "Не втрачай надії, пробуй, прогрес справжній.",
+      "category": "Motivation",
+      "generated_at": "2026-11-08T09:41:59.680121"
+    },
+    {
+      "english": "This is practice, not perfection, just keep moving.",
+      "ukrainian": "Це практика, не ідеал, просто рухайся далі.",
+      "category": "Motivation",
+      "generated_at": "2026-11-08T09:41:59.680124"
+    },
+    {
+      "english": "I’m proud of you, keep building your Ukrainian.",
+      "ukrainian": "Я пишаюся тобою, продовжуй будувати свою українську.",
+      "category": "Motivation",
+      "generated_at": "2026-11-08T09:41:59.680127"
+    },
+    {
+      "english": "Don’t overthink, just respond, one sentence works.",
+      "ukrainian": "Не накручуй себе, просто відповідай, одне речення вже допоможе.",
+      "category": "Motivation",
+      "generated_at": "2026-11-08T09:41:59.680130"
+    },
+    {
+      "english": "Momentum is everything, go again, faster or slower.",
+      "ukrainian": "Темп вирішує все, пробуй знову, швидше чи повільніше.",
+      "category": "Motivation",
+      "generated_at": "2026-11-08T09:41:59.680133"
+    },
+    {
+      "english": "You’ve learned a lot, now apply it today.",
+      "ukrainian": "Ти багато вже вивчив, тепер застосуй сьогодні.",
+      "category": "Motivation",
+      "generated_at": "2026-11-08T09:41:59.680137"
+    },
+    {
+      "english": "Let’s go for it, ask questions, don’t stay stuck.",
+      "ukrainian": "Давай спробуємо, став питання, не застрягай.",
+      "category": "Motivation",
+      "generated_at": "2026-11-08T09:41:59.680142"
+    },
+    {
+      "english": "Even one word helps, keep speaking, keep warming up.",
+      "ukrainian": "Навіть одне слово допомагає, говори, розігрівайся.",
+      "category": "Motivation",
+      "generated_at": "2026-11-08T09:41:59.680145"
+    },
+    {
+      "english": "You’re becoming confident, keep listening, then answer.",
+      "ukrainian": "Ти стаєш упевненішим, слухай, а тоді відповідай.",
+      "category": "Motivation",
+      "generated_at": "2026-11-08T09:41:59.680149"
+    },
+    {
+      "english": "What do you say first, when you meet?",
+      "ukrainian": "Що ти кажеш першим, коли знайомишся?",
+      "category": "Motivation",
+      "generated_at": "2026-11-08T09:41:59.680153"
+    },
+    {
+      "english": "Can I ask for a quick tip, please?",
+      "ukrainian": "Можна попросити швидку пораду, будь ласка?",
+      "category": "Motivation",
+      "generated_at": "2026-11-08T09:41:59.680156"
+    },
+    {
+      "english": "Which Ukrainian question helps you start conversations?",
+      "ukrainian": "Яке українське питання допомагає почати розмову?",
+      "category": "Motivation",
+      "generated_at": "2026-11-08T09:41:59.680159"
+    },
+    {
+      "english": "How’s your day going, and what’s new?",
+      "ukrainian": "Як минає твій день, що нового?",
+      "category": "Motivation",
+      "generated_at": "2026-11-08T09:41:59.680163"
+    },
+    {
+      "english": "I’m trying to improve, what should I practice?",
+      "ukrainian": "Я хочу покращитись, що мені тренувати?",
+      "category": "Motivation",
+      "generated_at": "2026-11-08T09:41:59.680167"
+    },
+    {
+      "english": "Where can I speak Ukrainian today, like a local?",
+      "ukrainian": "Де сьогодні можна поговорити українською, як місцевий?",
+      "category": "Motivation",
+      "generated_at": "2026-11-08T09:41:59.680170"
+    },
+    {
+      "english": "Do you know a good phrase for polite talk?",
+      "ukrainian": "Ти знаєш гарну фразу для ввічливої розмови?",
+      "category": "Motivation",
+      "generated_at": "2026-11-08T09:41:59.680172"
+    },
+    {
+      "english": "Could you repeat it, slowly, please?",
+      "ukrainian": "Можеш повторити повільно, будь ласка?",
+      "category": "Motivation",
+      "generated_at": "2026-11-08T09:41:59.680175"
+    },
+    {
+      "english": "What’s the best way to ask “how much”?",
+      "ukrainian": "Як найкраще запитати “скільки це коштує”?",
+      "category": "Motivation",
+      "generated_at": "2026-11-08T09:41:59.680179"
+    },
+    {
+      "english": "What should I answer, when they ask where I’m from?",
+      "ukrainian": "Що мені відповідати, коли питають, звідки я?",
+      "category": "Motivation",
+      "generated_at": "2026-11-08T09:41:59.680182"
+    },
+    {
+      "english": "Can you correct my sentence, just once?",
+      "ukrainian": "Можеш виправити моє речення, лише раз?",
+      "category": "Motivation",
+      "generated_at": "2026-11-08T09:41:59.680185"
+    },
+    {
+      "english": "Is this phrase natural, or too formal?",
+      "ukrainian": "Ця фраза звучить природно, чи надто офіційно?",
+      "category": "Motivation",
+      "generated_at": "2026-11-08T09:41:59.680188"
+    },
+    {
+      "english": "What do I say if I don’t understand?",
+      "ukrainian": "Що я кажу, якщо я не розумію?",
+      "category": "Motivation",
+      "generated_at": "2026-11-08T09:41:59.680191"
+    },
+    {
+      "english": "Would you like to practice a short dialogue?",
+      "ukrainian": "Хочеш потренувати короткий діалог?",
+      "category": "Motivation",
+      "generated_at": "2026-11-08T09:41:59.680193"
+    },
+    {
+      "english": "How often should I speak, even for ten minutes?",
+      "ukrainian": "Як часто варто говорити, навіть десять хвилин?",
+      "category": "Motivation",
+      "generated_at": "2026-11-08T09:41:59.680196"
+    },
+    {
+      "english": "Can I use this word in everyday Ukrainian?",
+      "ukrainian": "Чи можна використовувати це слово щодня?",
+      "category": "Motivation",
+      "generated_at": "2026-11-08T09:41:59.680199"
+    },
+    {
+      "english": "What’s your go-to question when you’re stuck?",
+      "ukrainian": "Яке твоє улюблене питання, коли ти в стопорі?",
+      "category": "Motivation",
+      "generated_at": "2026-11-08T09:41:59.680202"
+    },
+    {
+      "english": "Should I learn phrases, or grammar first?",
+      "ukrainian": "Вчити фрази чи граматику спочатку?",
+      "category": "Motivation",
+      "generated_at": "2026-11-08T09:41:59.680207"
+    },
+    {
+      "english": "Who can help me, a teacher or a partner?",
+      "ukrainian": "Хто допоможе, репетитор чи мовний партнер?",
+      "category": "Motivation",
+      "generated_at": "2026-11-08T09:41:59.680210"
+    },
+    {
+      "english": "Can you share your favorite Ukrainian learning trick?",
+      "ukrainian": "Поділишся твоїм улюбленим лайфхаком для вивчення?",
+      "category": "Motivation",
+      "generated_at": "2026-11-08T09:41:59.680212"
+    },
+    {
+      "english": "What topic should we talk about, for motivation?",
+      "ukrainian": "Про яку тему говорити, щоб було цікаво й мотивувало?",
+      "category": "Motivation",
+      "generated_at": "2026-11-08T09:41:59.680215"
+    },
+    {
+      "english": "How do you ask for directions politely?",
+      "ukrainian": "Як ввічливо запитати дорогу?",
+      "category": "Motivation",
+      "generated_at": "2026-11-08T09:41:59.680218"
+    },
+    {
+      "english": "What’s a friendly way to say “excuse me”?",
+      "ukrainian": "Як по-дружньому сказати “вибачте”?",
+      "category": "Motivation",
+      "generated_at": "2026-11-08T09:41:59.680221"
+    },
+    {
+      "english": "Can you recommend a podcast for learners?",
+      "ukrainian": "Порадь подкаст для тих, хто вчить мову, будь ласка.",
+      "category": "Motivation",
+      "generated_at": "2026-11-08T09:41:59.680224"
+    },
+    {
+      "english": "Do you want to trade corrections, you first?",
+      "ukrainian": "Хочеш обмінятися виправленнями, ти починай?",
+      "category": "Motivation",
+      "generated_at": "2026-11-08T09:41:59.680227"
+    },
+    {
+      "english": "What’s the simplest question you can say today?",
+      "ukrainian": "Яке найпростіше питання ти можеш сказати сьогодні?",
+      "category": "Motivation",
+      "generated_at": "2026-11-08T09:41:59.680230"
+    },
+    {
+      "english": "Where can I find practice, without feeling awkward?",
+      "ukrainian": "Де знайти практику, щоб не було незручно?",
+      "category": "Motivation",
+      "generated_at": "2026-11-08T09:41:59.680234"
+    },
+    {
+      "english": "What’s one mistake beginners always make?",
+      "ukrainian": "Яку одну помилку роблять новачки найчастіше?",
+      "category": "Motivation",
+      "generated_at": "2026-11-08T09:41:59.680237"
+    },
+    {
+      "english": "Can we do a quick call-and-response exercise?",
+      "ukrainian": "Давай зробимо швидку вправу “питай-відповідай”?",
+      "category": "Motivation",
+      "generated_at": "2026-11-08T09:41:59.680240"
+    },
+    {
+      "english": "How do you keep calm when speaking Ukrainian?",
+      "ukrainian": "Як ти тримаєш спокій, коли говориш українською?",
+      "category": "Motivation",
+      "generated_at": "2026-11-08T09:41:59.680243"
+    },
+    {
+      "english": "What’s the next question to ask after “hi”?",
+      "ukrainian": "Яке наступне питання варто сказати після “привіт”?",
+      "category": "Motivation",
+      "generated_at": "2026-11-08T09:41:59.680247"
+    },
+    {
+      "english": "Нo worries, say it anyway, get better fast",
+      "ukrainian": "Та не хвилюйся, скажи й так, швидше стане краще",
+      "category": "Motivation",
+      "generated_at": "2026-11-08T09:41:59.680250"
+    },
+    {
+      "english": "Small steps, don’t quit, keep going daily",
+      "ukrainian": "Трохи-потрохи, не кидай, роби щодня",
+      "category": "Motivation",
+      "generated_at": "2026-11-08T09:41:59.680254"
+    },
+    {
+      "english": "Practice and you’ll sound normal, not perfect",
+      "ukrainian": "Тренуйся — і буде нормально, не ідеально",
+      "category": "Motivation",
+      "generated_at": "2026-11-08T09:41:59.680257"
+    },
+    {
+      "english": "Start talking now, later you’ll relax more",
+      "ukrainian": "Говори зараз, потім і легше стане",
+      "category": "Motivation",
+      "generated_at": "2026-11-08T09:41:59.680261"
+    },
+    {
+      "english": "Don’t be shy, ask, people understand",
+      "ukrainian": "Не соромся, питай, усі зрозуміють",
+      "category": "Motivation",
+      "generated_at": "2026-11-08T09:41:59.680264"
+    },
+    {
+      "english": "Better late than never, join the conversation",
+      "ukrainian": "Краще пізно, ніж ніколи, влийся в розмову",
+      "category": "Motivation",
+      "generated_at": "2026-11-08T09:41:59.680267"
+    },
+    {
+      "english": "Go step by step, one phrase at a time",
+      "ukrainian": "Іди крок за кроком, по фразі за раз",
+      "category": "Motivation",
+      "generated_at": "2026-11-08T09:41:59.680270"
+    },
+    {
+      "english": "Mistakes happen, keep your chin up, speak",
+      "ukrainian": "Помиляються всі, не падай духом, говори",
+      "category": "Motivation",
+      "generated_at": "2026-11-08T09:41:59.680273"
+    },
+    {
+      "english": "If you freeze, restart, it’s okay",
+      "ukrainian": "Застиг? Почни знов, так буває",
+      "category": "Motivation",
+      "generated_at": "2026-11-08T09:41:59.680276"
+    },
+    {
+      "english": "Today’s little effort, tomorrow you’ll thank yourself",
+      "ukrainian": "Трошки сьогодні, завтра скажеш собі «дякую»",
+      "category": "Motivation",
+      "generated_at": "2026-11-08T09:41:59.680280"
+    },
+    {
+      "english": "You don’t need magic, just use what you know",
+      "ukrainian": "Не треба магії, просто користуйся тим, що знаєш",
+      "category": "Motivation",
+      "generated_at": "2026-11-08T09:41:59.680283"
+    },
+    {
+      "english": "Throw yourself into it, and learn quicker",
+      "ukrainian": "Вкидайся в мовлення, і піде швидше",
+      "category": "Motivation",
+      "generated_at": "2026-11-08T09:41:59.680285"
+    },
+    {
+      "english": "Bit by bit, it clicks, that’s the trick",
+      "ukrainian": "Крапля за краплею, і «клацне», от і фокус",
+      "category": "Motivation",
+      "generated_at": "2026-11-08T09:41:59.680289"
+    },
+    {
+      "english": "Don’t wait for confidence, confidence comes later",
+      "ukrainian": "Не чекай на впевненість, вона прийде з часом",
+      "category": "Motivation",
+      "generated_at": "2026-11-08T09:41:59.680292"
+    },
+    {
+      "english": "Talk even badly, the language will warm up",
+      "ukrainian": "Говори навіть криво, мова розігріється",
+      "category": "Motivation",
+      "generated_at": "2026-11-08T09:41:59.680295"
+    },
+    {
+      "english": "No hero mode, just repeat until it sticks",
+      "ukrainian": "Не герої, просто повторюй, доки не прилипне",
+      "category": "Motivation",
+      "generated_at": "2026-11-08T09:41:59.680298"
+    },
+    {
+      "english": "Do it for real, not for show",
+      "ukrainian": "Роби по-справжньому, а не «для галочки»",
+      "category": "Motivation",
+      "generated_at": "2026-11-08T09:41:59.680300"
+    },
+    {
+      "english": "Keep your goals small, you’ll finish bigger",
+      "ukrainian": "Став маленьку ціль, і далі буде легше",
+      "category": "Motivation",
+      "generated_at": "2026-11-08T09:41:59.680305"
+    },
+    {
+      "english": "When stuck, switch to simple words, then continue",
+      "ukrainian": "Завис? Перейди на прості слова, і вперед",
+      "category": "Motivation",
+      "generated_at": "2026-11-08T09:41:59.680309"
+    },
+    {
+      "english": "Put effort in, results follow, quietly, steadily",
+      "ukrainian": "Працюй — і результат прийде, не одразу, але буде",
+      "category": "Motivation",
+      "generated_at": "2026-11-08T09:41:59.680313"
+    },
+    {
+      "english": "Don’t make excuses, just schedule short practice",
+      "ukrainian": "Без відмазок, заплануй коротку практику",
+      "category": "Motivation",
+      "generated_at": "2026-11-08T09:41:59.680317"
+    },
+    {
+      "english": "Better one message, than perfect silence",
+      "ukrainian": "Краще одне повідомлення, ніж ідеальна тиша",
+      "category": "Motivation",
+      "generated_at": "2026-11-08T09:41:59.680320"
+    },
+    {
+      "english": "Keep it moving, even on tired days",
+      "ukrainian": "Не зупиняйся, навіть коли втомився",
+      "category": "Motivation",
+      "generated_at": "2026-11-08T09:41:59.680322"
+    },
+    {
+      "english": "Read a bit, then speak, that’s the rhythm",
+      "ukrainian": "Почитай трохи, потім говори, так і живе мова",
+      "category": "Motivation",
+      "generated_at": "2026-11-08T09:41:59.680326"
+    },
+    {
+      "english": "Learning is like training, sweat today, wins tomorrow",
+      "ukrainian": "Мова як тренування, сьогодні попотій, завтра виграєш",
+      "category": "Motivation",
+      "generated_at": "2026-11-08T09:41:59.680329"
+    },
+    {
+      "english": "Ask, answer, repeat, that’s how confidence appears",
+      "ukrainian": "Питання, відповідь, повтор, так і росте впевненість",
+      "category": "Motivation",
+      "generated_at": "2026-11-08T09:41:59.680332"
+    },
+    {
+      "english": "Say it out loud, don’t just think silently",
+      "ukrainian": "Скажи вголос, а не думай мовчки",
+      "category": "Motivation",
+      "generated_at": "2026-11-08T09:41:59.680336"
+    },
+    {
+      "english": "You’ll get there, keep your head up, friend",
+      "ukrainian": "Дійдеш, тримайся бадьоро, друже",
+      "category": "Motivation",
+      "generated_at": "2026-11-08T09:41:59.680339"
+    },
+    {
+      "english": "One day you’ll notice, you’re already speaking easier",
+      "ukrainian": "Один день — і сам відчуєш, говориться легше",
+      "category": "Motivation",
+      "generated_at": "2026-11-08T09:41:59.680342"
+    },
+    {
+      "english": "Be honest, your feelings matter too, keep going.",
+      "ukrainian": "Будь чесним, твої відчуття теж важливі, продовжуй.",
+      "category": "Motivation",
+      "generated_at": "2026-11-08T09:41:59.680345"
+    },
+    {
+      "english": "It’s okay to be unsure, try anyway.",
+      "ukrainian": "Нормально сумніватися, але спробуй усе одно.",
+      "category": "Motivation",
+      "generated_at": "2026-11-08T09:41:59.680349"
+    },
+    {
+      "english": "Slow down, your brain needs room to learn.",
+      "ukrainian": "Сповільнися, мозку потрібен простір для навчання.",
+      "category": "Motivation",
+      "generated_at": "2026-11-08T09:41:59.680352"
+    },
+    {
+      "english": "Say what you feel, then say it in Ukrainian.",
+      "ukrainian": "Скажи, що відчуваєш, а потім — українською.",
+      "category": "Motivation",
+      "generated_at": "2026-11-08T09:41:59.680354"
+    },
+    {
+      "english": "Pause, breathe, then continue, no need to rush.",
+      "ukrainian": "Зупинись, вдихни, й продовжуй, поспіх не потрібен.",
+      "category": "Motivation",
+      "generated_at": "2026-11-08T09:41:59.680360"
+    },
+    {
+      "english": "Some days are heavy, talk anyway, softly.",
+      "ukrainian": "Іноді важко, але поговори все одно, тихенько.",
+      "category": "Motivation",
+      "generated_at": "2026-11-08T09:41:59.680363"
+    },
+    {
+      "english": "Your progress isn’t loud, it’s real inside.",
+      "ukrainian": "Твій прогрес не гучний, він справжній всередині.",
+      "category": "Motivation",
+      "generated_at": "2026-11-08T09:41:59.680366"
+    },
+    {
+      "english": "Let the awkward moment pass, don’t fight it.",
+      "ukrainian": "Пусти незручність, нехай мине, не борись.",
+      "category": "Motivation",
+      "generated_at": "2026-11-08T09:41:59.680370"
+    },
+    {
+      "english": "Small wins count, even when you doubt.",
+      "ukrainian": "Маленькі перемоги рахуються, навіть коли сумніваєшся.",
+      "category": "Motivation",
+      "generated_at": "2026-11-08T09:41:59.680373"
+    },
+    {
+      "english": "Give yourself patience, one sentence at a time.",
+      "ukrainian": "Дай собі терпіння, одне речення за раз.",
+      "category": "Motivation",
+      "generated_at": "2026-11-08T09:41:59.680376"
+    },
+    {
+      "english": "You don’t have to feel ready, just speak.",
+      "ukrainian": "Тобі не треба бути готовим, просто говори.",
+      "category": "Motivation",
+      "generated_at": "2026-11-08T09:41:59.680379"
+    },
+    {
+      "english": "If you’re frustrated, be gentle, keep practicing.",
+      "ukrainian": "Якщо ти злишся, будь лагідним, продовжуй вправи.",
+      "category": "Motivation",
+      "generated_at": "2026-11-08T09:41:59.680383"
+    },
+    {
+      "english": "Trust the process, your mouth learns slowly.",
+      "ukrainian": "Довір процесу, твій рот навчається повільно.",
+      "category": "Motivation",
+      "generated_at": "2026-11-08T09:41:59.680386"
+    },
+    {
+      "english": "Remember, mistakes are feedback, not a verdict.",
+      "ukrainian": "Пам’ятай, помилки — це підказки, не вирок.",
+      "category": "Motivation",
+      "generated_at": "2026-11-08T09:41:59.680389"
+    },
+    {
+      "english": "Write it honestly, even if it’s messy.",
+      "ukrainian": "Пиши чесно, навіть якщо виходить хаотично.",
+      "category": "Motivation",
+      "generated_at": "2026-11-08T09:41:59.680392"
+    },
+    {
+      "english": "When you miss a word, don’t panic.",
+      "ukrainian": "Якщо загубив слово, не панікуй.",
+      "category": "Motivation",
+      "generated_at": "2026-11-08T09:41:59.680395"
+    },
+    {
+      "english": "Say it your way, then refine it later.",
+      "ukrainian": "Скажи своїм способом, а потім удоскональ пізніше.",
+      "category": "Motivation",
+      "generated_at": "2026-11-08T09:41:59.680400"
+    },
+    {
+      "english": "Your feelings guide you, habits build you up.",
+      "ukrainian": "Твої відчуття ведуть, звички підсилюють.",
+      "category": "Motivation",
+      "generated_at": "2026-11-08T09:41:59.680403"
+    },
+    {
+      "english": "Be proud of effort, not flawless speech.",
+      "ukrainian": "Гордися старанням, а не ідеальною мовою.",
+      "category": "Motivation",
+      "generated_at": "2026-11-08T09:41:59.680406"
+    },
+    {
+      "english": "If it hurts, pause, then start small again.",
+      "ukrainian": "Якщо болить, зупинись, а потім почни з малого знову.",
+      "category": "Motivation",
+      "generated_at": "2026-11-08T09:41:59.680409"
+    },
+    {
+      "english": "Your voice counts, even when it’s shaky.",
+      "ukrainian": "Твій голос важить, навіть коли тремтить.",
+      "category": "Motivation",
+      "generated_at": "2026-11-08T09:41:59.680418"
+    },
+    {
+      "english": "Celebrate calm focus, that’s real progress.",
+      "ukrainian": "Святкуй спокійний фокус, це справжній прогрес.",
+      "category": "Motivation",
+      "generated_at": "2026-11-08T09:41:59.680421"
+    },
+    {
+      "english": "It’s okay to repeat, repetition heals confidence.",
+      "ukrainian": "Нормально повторювати, повторення лікує невпевненість.",
+      "category": "Motivation",
+      "generated_at": "2026-11-08T09:41:59.680425"
+    },
+    {
+      "english": "Tell yourself the truth, you can learn this.",
+      "ukrainian": "Скажи собі правду, ти можеш це вивчити.",
+      "category": "Motivation",
+      "generated_at": "2026-11-08T09:41:59.680428"
+    },
+    {
+      "english": "Don’t chase perfect, chase honest practice.",
+      "ukrainian": "Не женись за ідеалом, ганяйся за чесними вправами.",
+      "category": "Motivation",
+      "generated_at": "2026-11-08T09:41:59.680431"
+    },
+    {
+      "english": "When you feel stuck, change the sentence.",
+      "ukrainian": "Коли застряг, зміни речення, і рухайся далі.",
+      "category": "Motivation",
+      "generated_at": "2026-11-08T09:41:59.680434"
+    },
+    {
+      "english": "Let your day be imperfect, still practice a bit.",
+      "ukrainian": "Нехай день буде неідеальний, але потренуйся трішки.",
+      "category": "Motivation",
+      "generated_at": "2026-11-08T09:41:59.680437"
+    },
+    {
+      "english": "You’re not late, you’re learning at your pace.",
+      "ukrainian": "Ти не запізнився, ти вчишся у своєму темпі.",
+      "category": "Motivation",
+      "generated_at": "2026-11-08T09:41:59.680440"
+    },
+    {
+      "english": "Keep it heartfelt, Ukrainian grows in your mind.",
+      "ukrainian": "Тримай це по-справжньому, українська проростає в голові.",
+      "category": "Motivation",
+      "generated_at": "2026-11-08T09:41:59.680443"
+    },
+    {
+      "english": "Even one brave sentence today changes you.",
+      "ukrainian": "Навіть одне сміливе речення сьогодні змінює тебе.",
+      "category": "Motivation",
+      "generated_at": "2026-11-08T09:41:59.680445"
     }
   ],
-  "last_updated": "2026-11-07T09:25:02.216959"
+  "last_updated": "2026-11-08T09:41:59.680447"
 }
