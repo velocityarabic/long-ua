@@ -15119,7 +15119,727 @@
       "ukrainian": "Навіть одне сміливе речення сьогодні змінює тебе.",
       "category": "Motivation",
       "generated_at": "2026-11-08T09:41:59.680445"
+    },
+    {
+      "english": "Hey, are you okay, really?",
+      "ukrainian": "Ей, ти в порядку, справді?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T10:35:32.487596"
+    },
+    {
+      "english": "Stop, breathe slowly, you’re fine.",
+      "ukrainian": "Стоп, дихай повільно, ти в нормі.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T10:35:32.487611"
+    },
+    {
+      "english": "Call an ambulance, please, now.",
+      "ukrainian": "Зателефонуй у швидку, будь ласка, зараз.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T10:35:32.487615"
+    },
+    {
+      "english": "Where does it hurt, right now?",
+      "ukrainian": "Де болить, прямо зараз?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T10:35:32.487618"
+    },
+    {
+      "english": "I think you’re sick, do you feel feverish?",
+      "ukrainian": "Мені здається, ти захворів, тобі жарко?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T10:35:32.487621"
+    },
+    {
+      "english": "Drink some water, okay, small sips.",
+      "ukrainian": "Випий трохи води, добре, по ковточку.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T10:35:32.487624"
+    },
+    {
+      "english": "Don’t move, stay here, I’ll help.",
+      "ukrainian": "Не рухайся, залишайся тут, я допоможу.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T10:35:32.487628"
+    },
+    {
+      "english": "Is it serious, should we call someone?",
+      "ukrainian": "Це серйозно, нам телефонувати комусь?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T10:35:32.487633"
+    },
+    {
+      "english": "Are you allergic, do you have allergies?",
+      "ukrainian": "Ти маєш алергію, чи буває алергія?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T10:35:32.487637"
+    },
+    {
+      "english": "Give me a moment, I’m checking.",
+      "ukrainian": "Дай мені хвилинку, я перевіряю.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T10:35:32.487640"
+    },
+    {
+      "english": "That looks bad, put your hand here.",
+      "ukrainian": "Це виглядає погано, поклади руку тут.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T10:35:32.487643"
+    },
+    {
+      "english": "Wait, your breathing sounds weird.",
+      "ukrainian": "Почекай, твоє дихання звучить дивно.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T10:35:32.487646"
+    },
+    {
+      "english": "Do you have a headache, right now?",
+      "ukrainian": "У тебе болить голова, зараз?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T10:35:32.487648"
+    },
+    {
+      "english": "I’m not a doctor, but let’s be safe.",
+      "ukrainian": "Я не лікар, але давай безпечно.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T10:35:32.487652"
+    },
+    {
+      "english": "How long has this been happening?",
+      "ukrainian": "Скільки це триває, як давно?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T10:35:32.487654"
+    },
+    {
+      "english": "You should rest, take it easy now.",
+      "ukrainian": "Тобі треба відпочити, не поспішай зараз.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T10:35:32.487657"
+    },
+    {
+      "english": "I’ve got sanitizer, do you need it?",
+      "ukrainian": "У мене є антисептик, тобі треба?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T10:35:32.487660"
+    },
+    {
+      "english": "Don’t panic, it’ll be okay.",
+      "ukrainian": "Не панікуй, усе буде добре.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T10:35:32.487663"
+    },
+    {
+      "english": "Are you dizzy, like, spinning?",
+      "ukrainian": "Тебе крутить, запаморочення є?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T10:35:32.487666"
+    },
+    {
+      "english": "Let me see, open your mouth, please.",
+      "ukrainian": "Дай гляну, відкрий рот, будь ласка.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T10:35:32.487669"
+    },
+    {
+      "english": "It’s burning, where exactly does it hurt?",
+      "ukrainian": "Пече, де саме болить?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T10:35:32.487672"
+    },
+    {
+      "english": "If you faint, lie down, okay?",
+      "ukrainian": "Якщо знепритомнієш, ляж, добре?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T10:35:32.487675"
+    },
+    {
+      "english": "I can’t find your meds, help me?",
+      "ukrainian": "Я не можу знайти твої ліки, допоможеш?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T10:35:32.487678"
+    },
+    {
+      "english": "Do you need water, a blanket, something?",
+      "ukrainian": "Тобі вода потрібна, плед, щось?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T10:35:32.487683"
+    },
+    {
+      "english": "Try to calm down, slow breaths.",
+      "ukrainian": "Спробуй заспокоїтися, повільні вдихи.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T10:35:32.487686"
+    },
+    {
+      "english": "Your skin looks pale, are you okay?",
+      "ukrainian": "Ти бліднеш, ти в нормі?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T10:35:32.487689"
+    },
+    {
+      "english": "I’ll take you to a hospital, come.",
+      "ukrainian": "Я відвезу тебе в лікарню, ходімо.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T10:35:32.487692"
+    },
+    {
+      "english": "Do you have chest pain, right now?",
+      "ukrainian": "У тебе болить у грудях, зараз?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T10:35:32.487695"
+    },
+    {
+      "english": "Keep your phone ready, we need details.",
+      "ukrainian": "Тримай телефон під рукою, нам потрібні деталі.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T10:35:32.487697"
+    },
+    {
+      "english": "Should we go to urgent care, today?",
+      "ukrainian": "Ми підемо в невідкладну допомогу сьогодні?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T10:35:32.487700"
+    },
+    {
+      "english": "Do you have pain, or just discomfort?",
+      "ukrainian": "Тобі болить, чи просто неприємно?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T10:35:32.487705"
+    },
+    {
+      "english": "Can you talk, without getting out of breath?",
+      "ukrainian": "Ти можеш говорити, не задихаючись?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T10:35:32.487708"
+    },
+    {
+      "english": "What caused it, did you get hurt?",
+      "ukrainian": "Як це сталося, тебе щось вдарило?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T10:35:32.487711"
+    },
+    {
+      "english": "Do you feel weak, even when standing?",
+      "ukrainian": "Ти відчуваєш слабкість, навіть коли стоїш?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T10:35:32.487716"
+    },
+    {
+      "english": "Have you eaten today, or skipped meals?",
+      "ukrainian": "Ти сьогодні їв, чи пропускав(ла) їжу?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T10:35:32.487719"
+    },
+    {
+      "english": "Any nausea, or are you just dizzy?",
+      "ukrainian": "Тошнить, чи тобі просто крутиться голова?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T10:35:32.487721"
+    },
+    {
+      "english": "Is this new, or happening before too?",
+      "ukrainian": "Це вперше, чи таке вже було раніше?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T10:35:32.487724"
+    },
+    {
+      "english": "What’s your temperature, do you know?",
+      "ukrainian": "Яка в тебе температура, ти знаєш?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T10:35:32.487727"
+    },
+    {
+      "english": "Can you show me where it hurts?",
+      "ukrainian": "Покажи, будь ласка, де саме болить.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T10:35:32.487730"
+    },
+    {
+      "english": "Do you take any regular medications?",
+      "ukrainian": "Ти приймаєш якісь ліки постійно?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T10:35:32.487734"
+    },
+    {
+      "english": "Did you drink alcohol today, by any chance?",
+      "ukrainian": "Ти сьогодні пив(ла) алкоголь, випадково?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T10:35:32.487737"
+    },
+    {
+      "english": "Do you have an inhaler or epinephrine?",
+      "ukrainian": "У тебе є інгалятор або епінефрин?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T10:35:32.487741"
+    },
+    {
+      "english": "Should we call a doctor or a friend?",
+      "ukrainian": "Кликати лікаря, чи краще друга/подругу?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T10:35:32.487743"
+    },
+    {
+      "english": "Who can I contact for you right now?",
+      "ukrainian": "Кому я можу зателефонувати для тебе?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T10:35:32.487746"
+    },
+    {
+      "english": "Do you have any medical documents with you?",
+      "ukrainian": "У тебе є при собі медичні документи?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T10:35:32.487749"
+    },
+    {
+      "english": "Did you take any medicine already?",
+      "ukrainian": "Ти вже щось приймав(ла) з ліків?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T10:35:32.487751"
+    },
+    {
+      "english": "Can you rate the pain, from one to ten?",
+      "ukrainian": "Оціни, будь ласка, біль від одного до десяти.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T10:35:32.487754"
+    },
+    {
+      "english": "Is the symptom getting better or worse?",
+      "ukrainian": "Стан стає кращим, чи гіршим?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T10:35:32.487757"
+    },
+    {
+      "english": "Do you have trouble seeing or speaking?",
+      "ukrainian": "Тобі важко бачити чи говорити?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T10:35:32.487759"
+    },
+    {
+      "english": "Are you having numbness in your arm?",
+      "ukrainian": "У тебе онімів(ла) рука?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T10:35:32.487761"
+    },
+    {
+      "english": "What’s the safest position for you now?",
+      "ukrainian": "Як тобі безпечніше сісти або лежати?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T10:35:32.487765"
+    },
+    {
+      "english": "Do you need a quiet place, right now?",
+      "ukrainian": "Тобі треба тихе місце прямо зараз?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T10:35:32.487767"
+    },
+    {
+      "english": "Should I loosen your clothes for comfort?",
+      "ukrainian": "Мені послабити одяг для комфорту?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T10:35:32.487769"
+    },
+    {
+      "english": "Do you have any recent injuries or bruises?",
+      "ukrainian": "Є нещодавні травми чи синці?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T10:35:32.487772"
+    },
+    {
+      "english": "Can you tell me what you ate last?",
+      "ukrainian": "Що ти їв(ла) останнім, можеш сказати?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T10:35:32.487774"
+    },
+    {
+      "english": "Did this start suddenly, or gradually?",
+      "ukrainian": "Це почалося різко, чи поступово?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T10:35:32.487777"
+    },
+    {
+      "english": "Is your skin warm, or cold and clammy?",
+      "ukrainian": "Твоя шкіра тепла, чи холодна й липка?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T10:35:32.487779"
+    },
+    {
+      "english": "Do you know your blood pressure or pulse?",
+      "ukrainian": "Ти знаєш тиск або пульс?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T10:35:32.487782"
+    },
+    {
+      "english": "What do you need most right now?",
+      "ukrainian": "Що тобі зараз найбільше потрібно?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T10:35:32.487784"
+    },
+    {
+      "english": "How can I help, step by step?",
+      "ukrainian": "Як я можу допомогти, по кроках?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T10:35:32.487787"
+    },
+    {
+      "english": "I’m scared, but I’ll stay with you.",
+      "ukrainian": "Мені страшно, але я буду поруч.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T10:35:32.487790"
+    },
+    {
+      "english": "Stay still, your breathing can come back.",
+      "ukrainian": "Не рухайся, дихання ще повернеться.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T10:35:32.487793"
+    },
+    {
+      "english": "I notice you’re holding back, don’t.",
+      "ukrainian": "Я бачу, ти стримуєшся, не треба.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T10:35:32.487796"
+    },
+    {
+      "english": "It feels weird, but we’ll figure it out.",
+      "ukrainian": "Це дивно відчувається, та ми розберемось.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T10:35:32.487799"
+    },
+    {
+      "english": "I’m trying to be calm for you.",
+      "ukrainian": "Я намагаюся бути спокійним заради тебе.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T10:35:32.487802"
+    },
+    {
+      "english": "Let’s take it slow, one thing at a time.",
+      "ukrainian": "Давай повільно, по одному кроку.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T10:35:32.487808"
+    },
+    {
+      "english": "If you feel worse, tell me immediately.",
+      "ukrainian": "Якщо стане гірше, скажи мені одразу.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T10:35:32.487810"
+    },
+    {
+      "english": "I believe you, panic makes it feel louder.",
+      "ukrainian": "Я тобі вірю, паніка все перебільшує.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T10:35:32.487813"
+    },
+    {
+      "english": "You don’t have to explain everything right now.",
+      "ukrainian": "Тобі не треба все пояснювати зараз.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T10:35:32.487817"
+    },
+    {
+      "english": "I’m here, even if you’re overwhelmed.",
+      "ukrainian": "Я поруч, навіть якщо тебе накриває.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T10:35:32.487820"
+    },
+    {
+      "english": "We can wait a minute, just breathe.",
+      "ukrainian": "Можемо почекати хвилинку, просто подихай.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T10:35:32.487823"
+    },
+    {
+      "english": "Honestly, this is stressful, but we’ll manage.",
+      "ukrainian": "Чесно, це стрес, але ми впораємось.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T10:35:32.487826"
+    },
+    {
+      "english": "Your feelings matter, even if it’s minor.",
+      "ukrainian": "Твої відчуття важливі, навіть якщо здається дрібним.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T10:35:32.487830"
+    },
+    {
+      "english": "Please, keep your voice steady, I’m listening.",
+      "ukrainian": "Будь ласка, говори спокійно, я слухаю.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T10:35:32.487833"
+    },
+    {
+      "english": "I can see you’re trying, that helps.",
+      "ukrainian": "Видно, що ти тримаєшся, це допомагає.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T10:35:32.487836"
+    },
+    {
+      "english": "Don’t judge yourself, your body is reacting.",
+      "ukrainian": "Не звинувачуй себе, тіло реагує.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T10:35:32.487841"
+    },
+    {
+      "english": "Let’s focus on comfort, not panic, okay?",
+      "ukrainian": "Давай думати про комфорт, а не паніку, добре?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T10:35:32.487844"
+    },
+    {
+      "english": "I’m not leaving, we’ll get help together.",
+      "ukrainian": "Я не піду, ми разом знайдемо допомогу.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T10:35:32.487847"
+    },
+    {
+      "english": "It’s okay to be emotional, really.",
+      "ukrainian": "Нормально хвилюватися, чесно.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T10:35:32.487850"
+    },
+    {
+      "english": "Tell me what you can feel, step by step.",
+      "ukrainian": "Скажи, що саме відчуваєш, крок за кроком.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T10:35:32.487853"
+    },
+    {
+      "english": "I know it hurts, but you’re not alone.",
+      "ukrainian": "Я знаю, що болить, але ти не один.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T10:35:32.487856"
+    },
+    {
+      "english": "Give me a calm answer, yes or no.",
+      "ukrainian": "Дай мені спокійну відповідь, так чи ні.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T10:35:32.487859"
+    },
+    {
+      "english": "This might pass, but we’ll stay alert.",
+      "ukrainian": "Може минути, але ми не розслабляємось.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T10:35:32.487862"
+    },
+    {
+      "english": "I’m listening closely, don’t rush your words.",
+      "ukrainian": "Я уважно слухаю, не поспішай зі словами.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T10:35:32.487866"
+    },
+    {
+      "english": "If you can, relax your shoulders, slowly.",
+      "ukrainian": "Якщо можеш, розслаб плечі, повільно.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T10:35:32.487868"
+    },
+    {
+      "english": "I want honesty, what scares you most?",
+      "ukrainian": "Хочу правду, що лякає найбільше?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T10:35:32.487871"
+    },
+    {
+      "english": "We’ll make a plan, even if it’s messy.",
+      "ukrainian": "Ми складе́мо план, навіть якщо все плутається.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T10:35:32.487876"
+    },
+    {
+      "english": "It’s okay to pause, you don’t need to push.",
+      "ukrainian": "Можна зупинитися, не треба себе тиснути.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T10:35:32.487880"
+    },
+    {
+      "english": "Right now, we just focus on you.",
+      "ukrainian": "Зараз головне — ти, тримаємо фокус на тобі.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T10:35:32.487884"
+    },
+    {
+      "english": "Thank you for telling me how you feel.",
+      "ukrainian": "Дякую, що сказав(ла), як ти почуваєшся.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T10:35:32.487887"
+    },
+    {
+      "english": "I’m worried, but I’ll stay patient with you.",
+      "ukrainian": "Я хвилююся, але я буду терплячим із тобою.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T10:35:32.487890"
+    },
+    {
+      "english": "Take a breath, I see you fighting it.",
+      "ukrainian": "Зроби вдих, я бачу, як ти борешся.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T10:35:32.487893"
+    },
+    {
+      "english": "It’s okay, your thoughts are loud right now.",
+      "ukrainian": "Це нормально, твої думки зараз шумлять.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T10:35:32.487896"
+    },
+    {
+      "english": "I believe your body, it’s trying to protect.",
+      "ukrainian": "Я вірю твоєму тілу, воно намагається захистити.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T10:35:32.487899"
+    },
+    {
+      "english": "Let’s slow down, even if time feels tight.",
+      "ukrainian": "Давай уповільнимо, навіть якщо час тисне.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T10:35:32.487902"
+    },
+    {
+      "english": "You don’t have to be strong right now.",
+      "ukrainian": "Ти не мусиш бути сильним зараз.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T10:35:32.487905"
+    },
+    {
+      "english": "Honestly, this can feel scary, I get it.",
+      "ukrainian": "Чесно, це може лякати, я розумію.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T10:35:32.487910"
+    },
+    {
+      "english": "How are you feeling emotionally, not just physically?",
+      "ukrainian": "Як ти почуваєшся емоційно, не лише фізично?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T10:35:32.487913"
+    },
+    {
+      "english": "I’ll ask calmly, answer only what you can.",
+      "ukrainian": "Я спитаю спокійно, відповідай лише що можеш.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T10:35:32.487916"
+    },
+    {
+      "english": "If something hurts, tell me gently.",
+      "ukrainian": "Якщо щось болить, скажи мені лагідно.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T10:35:32.487919"
+    },
+    {
+      "english": "Your comfort matters, even during emergency.",
+      "ukrainian": "Твій комфорт важливий, навіть під час екстреної допомоги.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T10:35:32.487922"
+    },
+    {
+      "english": "Stay with me, your fear is understandable.",
+      "ukrainian": "Будь зі мною, твій страх зрозумілий.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T10:35:32.487925"
+    },
+    {
+      "english": "I can feel your tension, slow your jaw.",
+      "ukrainian": "Я відчуваю твою напругу, розслаб щелепу.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T10:35:32.487927"
+    },
+    {
+      "english": "Let’s check in, how’s your mood right now?",
+      "ukrainian": "Зробімо паузу, яка твоя думка зараз?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T10:35:32.487931"
+    },
+    {
+      "english": "I’m here, your panic doesn’t run the moment.",
+      "ukrainian": "Я поруч, паніка не керує цією миттю.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T10:35:32.487934"
+    },
+    {
+      "english": "It’s okay to tremble, your body reacts.",
+      "ukrainian": "Це нормально, що тремтиш, тіло реагує.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T10:35:32.487937"
+    },
+    {
+      "english": "Just notice it, then relax, little by little.",
+      "ukrainian": "Просто помічай, а потім розслабляйся, потроху.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T10:35:32.487940"
+    },
+    {
+      "english": "I’ll speak slowly, your mind can catch up.",
+      "ukrainian": "Я говоритиму повільно, твоєму розуму легше наздогнати.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T10:35:32.487943"
+    },
+    {
+      "english": "What feels hardest right now, breathing or waiting?",
+      "ukrainian": "Що найважче зараз, дихати чи чекати?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T10:35:32.487946"
+    },
+    {
+      "english": "You’re not bothering me, it’s important.",
+      "ukrainian": "Ти не заважаєш мені, це важливо.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T10:35:32.487949"
+    },
+    {
+      "english": "I’m not judging you, your fear is human.",
+      "ukrainian": "Я тебе не засуджую, твій страх людський.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T10:35:32.487952"
+    },
+    {
+      "english": "Please answer honestly, even short answers help.",
+      "ukrainian": "Пожалуйста, відповідай чесно, навіть короткі відповіді допомагають.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T10:35:32.487955"
+    },
+    {
+      "english": "Right now, we handle feelings, then symptoms.",
+      "ukrainian": "Зараз ми впораємося з емоціями, потім із симптомами.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T10:35:32.487958"
+    },
+    {
+      "english": "Let your shoulders drop, fear tightens them.",
+      "ukrainian": "Опусти плечі, страх їх стискає.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T10:35:32.487961"
+    },
+    {
+      "english": "If you can, tell me what you notice most.",
+      "ukrainian": "Якщо можеш, скажи, що ти помічаєш найбільше.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T10:35:32.487963"
+    },
+    {
+      "english": "I’ll keep it simple, your stress is enough.",
+      "ukrainian": "Я зроблю це простіше, твого стресу вже досить.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T10:35:32.487966"
+    },
+    {
+      "english": "We can pause, your body needs a reset.",
+      "ukrainian": "Можемо зробити паузу, тілу потрібне відновлення.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T10:35:32.487969"
+    },
+    {
+      "english": "Even if it’s minor, your honesty matters.",
+      "ukrainian": "Навіть якщо це дрібниця, твоя чесність важлива.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T10:35:32.487972"
+    },
+    {
+      "english": "Thank you, I’ll remember your words and calm.",
+      "ukrainian": "Дякую, я запам’ятаю твої слова й заспокою.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T10:35:32.487975"
+    },
+    {
+      "english": "If you’re dizzy, sit down, call help.",
+      "ukrainian": "Якщо тобі паморочиться, сядь, поклич допомогу.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-09T10:35:32.487979"
     }
   ],
-  "last_updated": "2026-11-08T09:41:59.680447"
+  "last_updated": "2026-11-09T10:35:32.487980"
 }
