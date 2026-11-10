@@ -15839,7 +15839,727 @@
       "ukrainian": "Якщо тобі паморочиться, сядь, поклич допомогу.",
       "category": "Emergency & Health",
       "generated_at": "2026-11-09T10:35:32.487979"
+    },
+    {
+      "english": "Excuse me, where is Gate B?",
+      "ukrainian": "Вибачте, де вихід на Платформу B?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T10:47:08.742634"
+    },
+    {
+      "english": "Hi, I think I’m in the wrong line.",
+      "ukrainian": "Привіт, здається, я стою не в тому ряду.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T10:47:08.742648"
+    },
+    {
+      "english": "Sorry, can you help me find check-in?",
+      "ukrainian": "Вибачте, ви можете підказати, де чек-ін?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T10:47:08.742652"
+    },
+    {
+      "english": "Is this the passport control queue?",
+      "ukrainian": "Це черга на паспортний контроль?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T10:47:08.742655"
+    },
+    {
+      "english": "How long does security usually take?",
+      "ukrainian": "Зазвичай скільки триває огляд безпеки?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T10:47:08.742658"
+    },
+    {
+      "english": "Wait, my flight number starts with 3.",
+      "ukrainian": "Почекайте, мій номер рейсу починається з 3.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T10:47:08.742663"
+    },
+    {
+      "english": "Do you know where the boarding starts?",
+      "ukrainian": "Ви знаєте, де починається посадка?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T10:47:08.742666"
+    },
+    {
+      "english": "Just a second, I’m looking for my ticket.",
+      "ukrainian": "Зачекайте секунду, я шукаю свій квиток.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T10:47:08.742672"
+    },
+    {
+      "english": "My bad, I missed the gate change.",
+      "ukrainian": "Моя помилка, я пропустив зміну виходу.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T10:47:08.742676"
+    },
+    {
+      "english": "No worries, we still have time.",
+      "ukrainian": "Нічого страшного, у нас ще є час.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T10:47:08.742679"
+    },
+    {
+      "english": "Where can I buy a water bottle?",
+      "ukrainian": "Де можна купити воду, пляшку?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T10:47:08.742681"
+    },
+    {
+      "english": "I need help with my baggage tag.",
+      "ukrainian": "Мені потрібна допомога з багажною біркою.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T10:47:08.742684"
+    },
+    {
+      "english": "Is there a place to charge my phone?",
+      "ukrainian": "Де можна підзарядити телефон?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T10:47:08.742687"
+    },
+    {
+      "english": "Please, speak slowly, I’m learning Ukrainian.",
+      "ukrainian": "Будь ласка, говоріть повільно, я вчу українську.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T10:47:08.742690"
+    },
+    {
+      "english": "Sorry, I don’t understand, what does it mean?",
+      "ukrainian": "Вибачте, я не розумію, що це означає?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T10:47:08.742694"
+    },
+    {
+      "english": "Great, my flight is on time.",
+      "ukrainian": "Чудово, мій рейс вчасно.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T10:47:08.742697"
+    },
+    {
+      "english": "Oh no, my seat was reassigned.",
+      "ukrainian": "Ой ні, мені змінили місце.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T10:47:08.742699"
+    },
+    {
+      "english": "Where is the baggage claim area?",
+      "ukrainian": "Де знаходиться зона видачі багажу?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T10:47:08.742702"
+    },
+    {
+      "english": "I’m looking for lost luggage desk.",
+      "ukrainian": "Я шукаю стійку загубленого багажу.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T10:47:08.742705"
+    },
+    {
+      "english": "My bag didn’t arrive, what now?",
+      "ukrainian": "Мого багажу немає, що робити?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T10:47:08.742708"
+    },
+    {
+      "english": "Do I need to fill out this form?",
+      "ukrainian": "Мені треба заповнити цю форму?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T10:47:08.742711"
+    },
+    {
+      "english": "Can I get an aisle seat, please?",
+      "ukrainian": "Можна місце біля проходу, будь ласка?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T10:47:08.742713"
+    },
+    {
+      "english": "I’ll go ask, wait here for me.",
+      "ukrainian": "Я піду запитаю, зачекайте тут, будь ласка.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T10:47:08.742716"
+    },
+    {
+      "english": "Do you take credit cards here?",
+      "ukrainian": "У вас приймають кредитні картки?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T10:47:08.742719"
+    },
+    {
+      "english": "Sorry, I have a tight connection.",
+      "ukrainian": "Вибачте, у мене пересадка з запасом хвилин.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T10:47:08.742721"
+    },
+    {
+      "english": "Is there a map of the terminal?",
+      "ukrainian": "Є карта терміналу, підкажете?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T10:47:08.742724"
+    },
+    {
+      "english": "Just confirm, my departure time is 6.",
+      "ukrainian": "Підтвердьте, будь ласка, мій виліт о шостій.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T10:47:08.742727"
+    },
+    {
+      "english": "Thanks, that sign really helped.",
+      "ukrainian": "Дякую, той знак дуже допоміг.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T10:47:08.742731"
+    },
+    {
+      "english": "Excuse me, where’s the restroom?",
+      "ukrainian": "Вибачте, де туалет?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T10:47:08.742736"
+    },
+    {
+      "english": "I’m ready, please start boarding now.",
+      "ukrainian": "Я готовий, починайте посадку зараз, будь ласка.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T10:47:08.742739"
+    },
+    {
+      "english": "Hi, can you point me to arrivals, please?",
+      "ukrainian": "Привіт, підкажіть, як пройти до зони прильоту, будь ласка?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T10:47:08.742742"
+    },
+    {
+      "english": "Which line is for passengers with e-tickets?",
+      "ukrainian": "У яку чергу йти з електронними квитками?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T10:47:08.742745"
+    },
+    {
+      "english": "Do I need a paper boarding pass, today?",
+      "ukrainian": "Сьогодні потрібен паперовий посадковий, чи можна телефоном?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T10:47:08.742748"
+    },
+    {
+      "english": "What documents should I have ready, please?",
+      "ukrainian": "Які документи треба мати з собою, будь ласка?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T10:47:08.742751"
+    },
+    {
+      "english": "Can I ask, where is the passport office?",
+      "ukrainian": "Підкажіть, будь ласка, де тут паспортний стіл?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T10:47:08.742754"
+    },
+    {
+      "english": "Is there a kiosk to check in myself?",
+      "ukrainian": "Тут є кіоск для самостійної реєстрації?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T10:47:08.742756"
+    },
+    {
+      "english": "Do flights to Kraków depart from this terminal?",
+      "ukrainian": "Рейси до Кракова вилітають з цього терміналу?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T10:47:08.742762"
+    },
+    {
+      "english": "I’m nervous, what happens after security?",
+      "ukrainian": "Я хвилююся, що буде після контролю безпеки?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T10:47:08.742765"
+    },
+    {
+      "english": "Where do I drop off my checked luggage?",
+      "ukrainian": "Куди здати багаж, який я реєструю?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T10:47:08.742768"
+    },
+    {
+      "english": "How do I confirm my gate, exactly?",
+      "ukrainian": "Як саме перевірити мій гейт на табло?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T10:47:08.742771"
+    },
+    {
+      "english": "Could you help me with the boarding time?",
+      "ukrainian": "Підкажіть, будь ласка, час посадки.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T10:47:08.742773"
+    },
+    {
+      "english": "Is it okay if I’m ten minutes early?",
+      "ukrainian": "Нічого, якщо я прийду 10 хвилин раніше?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T10:47:08.742776"
+    },
+    {
+      "english": "Do you think my flight will be delayed?",
+      "ukrainian": "Як думаєте, мій рейс може затриматися?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T10:47:08.742779"
+    },
+    {
+      "english": "Where can I get a transit stamp?",
+      "ukrainian": "Де тут поставити транзитний штамп?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T10:47:08.742781"
+    },
+    {
+      "english": "What’s the fastest way to the gate?",
+      "ukrainian": "Який найшвидший шлях до гейту?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T10:47:08.742784"
+    },
+    {
+      "english": "Is there a quiet area to wait?",
+      "ukrainian": "Є тихе місце, де можна зачекати?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T10:47:08.742786"
+    },
+    {
+      "english": "Can I change seats, if it’s empty?",
+      "ukrainian": "Можна змінити місце, якщо воно вільне?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T10:47:08.742790"
+    },
+    {
+      "english": "Do you know where the lost and found is?",
+      "ukrainian": "Тут є куди звернутись із загубленими речами?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T10:47:08.742792"
+    },
+    {
+      "english": "My luggage is damaged, who do I tell?",
+      "ukrainian": "Мій багаж пошкоджений, кому про це сказати?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T10:47:08.742795"
+    },
+    {
+      "english": "Can I get a receipt for the baggage fee?",
+      "ukrainian": "Чи можу я отримати чек за багаж?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T10:47:08.742797"
+    },
+    {
+      "english": "Is there free Wi‑Fi in the terminal?",
+      "ukrainian": "У терміналі є безкоштовний Wi‑Fi?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T10:47:08.742800"
+    },
+    {
+      "english": "What time should I start lining up?",
+      "ukrainian": "О котрій годині краще ставати в чергу?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T10:47:08.742803"
+    },
+    {
+      "english": "Do I go straight to customs after check-in?",
+      "ukrainian": "Після реєстрації одразу до митниці?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T10:47:08.742805"
+    },
+    {
+      "english": "Can you explain where the transfer desk is?",
+      "ukrainian": "Підкажіть, де знаходиться стійка трансферу.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T10:47:08.742808"
+    },
+    {
+      "english": "Is there a restroom near gate A?",
+      "ukrainian": "Санвузол близько біля гейту А?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T10:47:08.742810"
+    },
+    {
+      "english": "Do I keep my liquids in a bag?",
+      "ukrainian": "Мені тримати рідини в прозорому пакеті?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T10:47:08.742813"
+    },
+    {
+      "english": "What’s the baggage weight limit for my ticket?",
+      "ukrainian": "Яка вага багажу входить у мій квиток?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T10:47:08.742816"
+    },
+    {
+      "english": "Could I get directions to baggage claim, please?",
+      "ukrainian": "Підкажіть, будь ласка, як дістатися до видачі багажу.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T10:47:08.742819"
+    },
+    {
+      "english": "Thanks, I’ll wait here, is that okay?",
+      "ukrainian": "Дякую, я зачекаю тут, так можна?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T10:47:08.742822"
+    },
+    {
+      "english": "You’ve got this, one step at a time.",
+      "ukrainian": "Ти справишся, крок за кроком.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T10:47:08.742825"
+    },
+    {
+      "english": "Stay calm, airports move fast, you’ll catch up.",
+      "ukrainian": "Зберігай спокій, аеропорт рухається швидко, ти встигнеш.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T10:47:08.742834"
+    },
+    {
+      "english": "Breathe in, you’re already doing great.",
+      "ukrainian": "Вдихни, ти вже робиш чудово.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T10:47:08.742838"
+    },
+    {
+      "english": "Plan once, improvise when life surprises you.",
+      "ukrainian": "Заплануй один раз, а потім імпровізуй, коли здивує життя.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T10:47:08.742841"
+    },
+    {
+      "english": "Every flight delay teaches you something useful.",
+      "ukrainian": "Кожна затримка рейсу чомусь навчає.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T10:47:08.742843"
+    },
+    {
+      "english": "New city, same you, stronger mindset today.",
+      "ukrainian": "Нове місто, та сама ти, сильніший настрій сьогодні.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T10:47:08.742846"
+    },
+    {
+      "english": "Ask questions, smart travelers do that.",
+      "ukrainian": "Питай, розумні мандрівники так роблять.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T10:47:08.742849"
+    },
+    {
+      "english": "Confidence looks good, even in a line.",
+      "ukrainian": "Впевненість пасує, навіть у черзі.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T10:47:08.742852"
+    },
+    {
+      "english": "Small wins count, keep moving forward.",
+      "ukrainian": "Малі перемоги важать, рухайся далі.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T10:47:08.742855"
+    },
+    {
+      "english": "Today’s goal, get through smoothly, no stress.",
+      "ukrainian": "Сьогоднішня ціль — пройти легко, без стресу.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T10:47:08.742859"
+    },
+    {
+      "english": "You’re not behind, you’re just in progress.",
+      "ukrainian": "Ти не відстаєш, ти просто в процесі.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T10:47:08.742864"
+    },
+    {
+      "english": "Trust the process, signs are your friend.",
+      "ukrainian": "Довір процесу, вказівники — твої друзі.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T10:47:08.742867"
+    },
+    {
+      "english": "If you get lost, stop, breathe, choose calmly.",
+      "ukrainian": "Якщо заблукав, зупинись, подихай, обери спокійно.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T10:47:08.742870"
+    },
+    {
+      "english": "You speak Ukrainian, even a little, it helps.",
+      "ukrainian": "Ти говориш українською, хай трохи, і це допомагає.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T10:47:08.742873"
+    },
+    {
+      "english": "Be brave, asking is not embarrassing at all.",
+      "ukrainian": "Будь сміливим, просити — зовсім не соромно.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T10:47:08.742878"
+    },
+    {
+      "english": "Celebrate every checked box, you’re building momentum.",
+      "ukrainian": "Радій кожному виконаному пункту, ти набираєш темп.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T10:47:08.742881"
+    },
+    {
+      "english": "Mistakes happen, you recover, that’s the skill.",
+      "ukrainian": "Помилки трапляються, ти відновлюєшся — це й є навичка.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T10:47:08.742885"
+    },
+    {
+      "english": "Keep your smile, it opens doors fast.",
+      "ukrainian": "Тримай усмішку, вона швидко відкриває двері.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T10:47:08.742888"
+    },
+    {
+      "english": "You’re learning, that’s already a win.",
+      "ukrainian": "Ти навчаєшся, а це вже перемога.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T10:47:08.742891"
+    },
+    {
+      "english": "Stay positive, even queues can feel manageable.",
+      "ukrainian": "Залишайся позитивним, черги теж можуть бути терпимими.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T10:47:08.742894"
+    },
+    {
+      "english": "You don’t need perfect, just be present.",
+      "ukrainian": "Не треба ідеально, головне — бути в моменті.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T10:47:08.742897"
+    },
+    {
+      "english": "Unexpected changes? Great, you’re practicing adaptability.",
+      "ukrainian": "Несподівані зміни? Чудово, ти тренуєш гнучкість.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T10:47:08.742900"
+    },
+    {
+      "english": "Say thank you first, it sets good energy.",
+      "ukrainian": "Спочатку скажи «дякую», це задає хороший настрій.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T10:47:08.742903"
+    },
+    {
+      "english": "Your luggage follows you, one way or another.",
+      "ukrainian": "Твій багаж тебе знайде, так чи інакше.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T10:47:08.742906"
+    },
+    {
+      "english": "Focus on the next sign, not the whole route.",
+      "ukrainian": "Зосередься на наступній вказівці, а не на всьому маршруті.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T10:47:08.742908"
+    },
+    {
+      "english": "If it’s complicated, you can simplify it.",
+      "ukrainian": "Якщо складно, ти можеш це спростити.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T10:47:08.742911"
+    },
+    {
+      "english": "You’re doing it, navigating with confidence today.",
+      "ukrainian": "Ти це робиш, сьогодні мандруєш упевнено.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T10:47:08.742915"
+    },
+    {
+      "english": "Give yourself credit, travel takes real courage.",
+      "ukrainian": "Дай собі похвалу, подорожі потребують сміливості.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T10:47:08.742918"
+    },
+    {
+      "english": "Let’s go, one quick check and you’re set.",
+      "ukrainian": "Поїхали, швидка перевірка — і ти готовий.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T10:47:08.742921"
+    },
+    {
+      "english": "Remember, patience beats panic every time.",
+      "ukrainian": "Пам’ятай, терпіння перемагає паніку завжди.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T10:47:08.742924"
+    },
+    {
+      "english": "I’m nervous, but I’m here.",
+      "ukrainian": "Мені трохи хвилює, але я тут.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T10:47:08.742927"
+    },
+    {
+      "english": "Honestly, this feels bigger than me.",
+      "ukrainian": "Чесно кажучи, це здається більшим за мене.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T10:47:08.742930"
+    },
+    {
+      "english": "I’ll go slow, safety comes first.",
+      "ukrainian": "Я йтиму повільно, безпека передусім.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T10:47:08.742933"
+    },
+    {
+      "english": "I need a moment, then I continue.",
+      "ukrainian": "Мені треба хвилинку, і я продовжу.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T10:47:08.742935"
+    },
+    {
+      "english": "It’s okay to ask again, really.",
+      "ukrainian": "Усе нормально, можна спитати ще раз, чесно.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T10:47:08.742941"
+    },
+    {
+      "english": "I trust my steps, not my phone.",
+      "ukrainian": "Я довіряю своїм крокам, а не телефону.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T10:47:08.742944"
+    },
+    {
+      "english": "I’m checking myself, breathe, and focus.",
+      "ukrainian": "Я себе ловлю, дихаю, і зосереджуюсь.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T10:47:08.742947"
+    },
+    {
+      "english": "Waiting teaches patience, even in airports.",
+      "ukrainian": "Очікування вчить терпінню, навіть в аеропортах.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T10:47:08.742950"
+    },
+    {
+      "english": "I’ll admit it, I’m overthinking.",
+      "ukrainian": "Скажу чесно, я надто накручую.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T10:47:08.742953"
+    },
+    {
+      "english": "If I miss something, I’ll handle it.",
+      "ukrainian": "Якщо я щось проґавлю, я впораюся.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T10:47:08.742957"
+    },
+    {
+      "english": "I want things clear, not perfect.",
+      "ukrainian": "Я хочу ясності, а не ідеалу.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T10:47:08.742960"
+    },
+    {
+      "english": "My plan is simple, my heart steady.",
+      "ukrainian": "Мій план простий, а серце спокійне.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T10:47:08.742964"
+    },
+    {
+      "english": "Can you be patient with me, please?",
+      "ukrainian": "Можете, будь ласка, бути трохи терплячими зі мною?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T10:47:08.742967"
+    },
+    {
+      "english": "I’m learning, so I won’t rush.",
+      "ukrainian": "Я вчуся, тож не поспішаю.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T10:47:08.742970"
+    },
+    {
+      "english": "I feel awkward, but I ask anyway.",
+      "ukrainian": "Мені трохи незручно, але я все одно питаю.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T10:47:08.742973"
+    },
+    {
+      "english": "Today, I’ll focus on what I can.",
+      "ukrainian": "Сьогодні я зосереджуся на тому, що можу.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T10:47:08.742976"
+    },
+    {
+      "english": "This line is long, but I’m okay.",
+      "ukrainian": "Ця черга довга, але зі мною все добре.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T10:47:08.742979"
+    },
+    {
+      "english": "I’m grateful for small, helpful signs.",
+      "ukrainian": "Я вдячний за дрібні, корисні підказки.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T10:47:08.742982"
+    },
+    {
+      "english": "I’ll take one step at a time, calm.",
+      "ukrainian": "Я робитиму крок за кроком, спокійно.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T10:47:08.742986"
+    },
+    {
+      "english": "I don’t want to panic, even slightly.",
+      "ukrainian": "Я не хочу панікувати, навіть трошки.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T10:47:08.742989"
+    },
+    {
+      "english": "I’m listening, even when I’m tired.",
+      "ukrainian": "Я слухаю, навіть коли я втомлений.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T10:47:08.742992"
+    },
+    {
+      "english": "Travel reminds me, I can adapt.",
+      "ukrainian": "Подорож нагадує, що я вмію адаптуватися.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T10:47:08.742997"
+    },
+    {
+      "english": "I’ll be honest, I need guidance.",
+      "ukrainian": "Скажу чесно, мені потрібна підказка.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T10:47:08.743000"
+    },
+    {
+      "english": "My confidence grows when I stay kind.",
+      "ukrainian": "Моя впевненість росте, коли я залишаюсь добрим.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T10:47:08.743002"
+    },
+    {
+      "english": "I can’t control everything, but I try.",
+      "ukrainian": "Я не можу контролювати все, але я стараюсь.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T10:47:08.743005"
+    },
+    {
+      "english": "Let me think, then I’ll answer clearly.",
+      "ukrainian": "Дайте мені подумати, і тоді відповім чітко.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T10:47:08.743008"
+    },
+    {
+      "english": "I’ll keep my stress low, for real.",
+      "ukrainian": "Я триматиму стрес низько, серйозно.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T10:47:08.743011"
+    },
+    {
+      "english": "It’s okay to pause, I’m human.",
+      "ukrainian": "Це нормально, можна зупинитися, я ж людина.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T10:47:08.743014"
+    },
+    {
+      "english": "I feel better when I speak up.",
+      "ukrainian": "Мені легше, коли я говорю вголос.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T10:47:08.743016"
+    },
+    {
+      "english": "Before boarding, double-check your gate number.",
+      "ukrainian": "Перед посадкою, двічі перевір номер виходу.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T10:47:08.743019"
+    },
+    {
+      "english": "Where’s the exit for transit passengers?",
+      "ukrainian": "Де вихід для пасажирів з пересадкою?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-10T10:47:08.743022"
     }
   ],
-  "last_updated": "2026-11-09T10:35:32.487980"
+  "last_updated": "2026-11-10T10:47:08.743024"
 }
