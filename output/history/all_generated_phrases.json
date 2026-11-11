@@ -16559,7 +16559,727 @@
       "ukrainian": "Де вихід для пасажирів з пересадкою?",
       "category": "Travel & Airport",
       "generated_at": "2026-11-10T10:47:08.743022"
+    },
+    {
+      "english": "Hold on, this will get better.",
+      "ukrainian": "Тримайся, стане краще.",
+      "category": "Hope",
+      "generated_at": "2026-11-11T10:00:39.881994"
+    },
+    {
+      "english": "We’ll figure it out, don’t panic.",
+      "ukrainian": "Розберемось, не панікуй.",
+      "category": "Hope",
+      "generated_at": "2026-11-11T10:00:39.882009"
+    },
+    {
+      "english": "Keep going, even small steps matter.",
+      "ukrainian": "Іди далі, навіть малі кроки важливі.",
+      "category": "Hope",
+      "generated_at": "2026-11-11T10:00:39.882012"
+    },
+    {
+      "english": "Tomorrow might be brighter, trust me.",
+      "ukrainian": "Завтра може бути світліше, повір мені.",
+      "category": "Hope",
+      "generated_at": "2026-11-11T10:00:39.882014"
+    },
+    {
+      "english": "There’s hope here, let’s stay calm.",
+      "ukrainian": "Тут є надія, давай спокійно.",
+      "category": "Hope",
+      "generated_at": "2026-11-11T10:00:39.882016"
+    },
+    {
+      "english": "It’s okay, we’ll manage somehow.",
+      "ukrainian": "Нічого страшного, якось упораємось.",
+      "category": "Hope",
+      "generated_at": "2026-11-11T10:00:39.882018"
+    },
+    {
+      "english": "One day at a time, breathe.",
+      "ukrainian": "Крок за кроком, дихай.",
+      "category": "Hope",
+      "generated_at": "2026-11-11T10:00:39.882020"
+    },
+    {
+      "english": "I’ve got this, step by step, okay?",
+      "ukrainian": "Я впораюся, крок за кроком, добре?",
+      "category": "Hope",
+      "generated_at": "2026-11-11T10:00:39.882024"
+    },
+    {
+      "english": "Hang in there, let’s try again.",
+      "ukrainian": "Тримайся, давай спробуємо ще раз.",
+      "category": "Hope",
+      "generated_at": "2026-11-11T10:00:39.882027"
+    },
+    {
+      "english": "It’s not over, I still believe.",
+      "ukrainian": "Це ще не кінець, я все ще вірю.",
+      "category": "Hope",
+      "generated_at": "2026-11-11T10:00:39.882029"
+    },
+    {
+      "english": "Breathe, we’ll move forward, slowly.",
+      "ukrainian": "Дихай, ми йтимемо далі, повільно.",
+      "category": "Hope",
+      "generated_at": "2026-11-11T10:00:39.882032"
+    },
+    {
+      "english": "Let’s keep it positive, right now.",
+      "ukrainian": "Давай тримати позитив, прямо зараз.",
+      "category": "Hope",
+      "generated_at": "2026-11-11T10:00:39.882034"
+    },
+    {
+      "english": "Things can change, trust that.",
+      "ukrainian": "Усе може змінитися, повір у це.",
+      "category": "Hope",
+      "generated_at": "2026-11-11T10:00:39.882035"
+    },
+    {
+      "english": "We can make it, count on me.",
+      "ukrainian": "Ми зможемо, покладайся на мене.",
+      "category": "Hope",
+      "generated_at": "2026-11-11T10:00:39.882037"
+    },
+    {
+      "english": "Wait a moment, a good turn comes.",
+      "ukrainian": "Зачекай хвилинку, станеться добре.",
+      "category": "Hope",
+      "generated_at": "2026-11-11T10:00:39.882040"
+    },
+    {
+      "english": "Let hope in, even if it’s small.",
+      "ukrainian": "Пускай надію, навіть якщо вона маленька.",
+      "category": "Hope",
+      "generated_at": "2026-11-11T10:00:39.882042"
+    },
+    {
+      "english": "We’ll be fine, just keep calm.",
+      "ukrainian": "Ми будемо гаразд, просто будь спокійний.",
+      "category": "Hope",
+      "generated_at": "2026-11-11T10:00:39.882045"
+    },
+    {
+      "english": "I’m here, everything will work out.",
+      "ukrainian": "Я поруч, усе буде добре.",
+      "category": "Hope",
+      "generated_at": "2026-11-11T10:00:39.882047"
+    },
+    {
+      "english": "Try again, you’re closer than you think.",
+      "ukrainian": "Спробуй ще раз, ти ближче, ніж здається.",
+      "category": "Hope",
+      "generated_at": "2026-11-11T10:00:39.882049"
+    },
+    {
+      "english": "We’ve got options, let’s choose wisely.",
+      "ukrainian": "У нас є варіанти, давай виберемо розумно.",
+      "category": "Hope",
+      "generated_at": "2026-11-11T10:00:39.882051"
+    },
+    {
+      "english": "Don’t stop, progress is happening quietly.",
+      "ukrainian": "Не зупиняйся, прогрес тихо триває.",
+      "category": "Hope",
+      "generated_at": "2026-11-11T10:00:39.882059"
+    },
+    {
+      "english": "Let’s not panic, we can handle it.",
+      "ukrainian": "Не панікуймо, ми впораємося.",
+      "category": "Hope",
+      "generated_at": "2026-11-11T10:00:39.882060"
+    },
+    {
+      "english": "Good things take time, keep going.",
+      "ukrainian": "Добрі речі потребують часу, рухайся далі.",
+      "category": "Hope",
+      "generated_at": "2026-11-11T10:00:39.882064"
+    },
+    {
+      "english": "Maybe today is the start, why not?",
+      "ukrainian": "Можливо, сьогодні старт, а чому ні?",
+      "category": "Hope",
+      "generated_at": "2026-11-11T10:00:39.882065"
+    },
+    {
+      "english": "We’ll learn, then we’ll get better.",
+      "ukrainian": "Ми навчимося, і тоді стане краще.",
+      "category": "Hope",
+      "generated_at": "2026-11-11T10:00:39.882067"
+    },
+    {
+      "english": "Keep your head up, hope matters.",
+      "ukrainian": "Тримай голову вище, надія важлива.",
+      "category": "Hope",
+      "generated_at": "2026-11-11T10:00:39.882069"
+    },
+    {
+      "english": "This is tough, but it won’t last.",
+      "ukrainian": "Це важко, але це не надовго.",
+      "category": "Hope",
+      "generated_at": "2026-11-11T10:00:39.882071"
+    },
+    {
+      "english": "Let’s talk, there’s still a way.",
+      "ukrainian": "Давай поговоримо, шлях ще є.",
+      "category": "Hope",
+      "generated_at": "2026-11-11T10:00:39.882073"
+    },
+    {
+      "english": "You’re stronger than this moment.",
+      "ukrainian": "Ти сильніший, ніж цей момент.",
+      "category": "Hope",
+      "generated_at": "2026-11-11T10:00:39.882074"
+    },
+    {
+      "english": "I’m counting on tomorrow, seriously.",
+      "ukrainian": "Я розраховую на завтра, чесно.",
+      "category": "Hope",
+      "generated_at": "2026-11-11T10:00:39.882076"
+    },
+    {
+      "english": "All good, we’ll fix it together.",
+      "ukrainian": "Все гаразд, ми виправимо це разом.",
+      "category": "Hope",
+      "generated_at": "2026-11-11T10:00:39.882078"
+    },
+    {
+      "english": "Hold on, but keep smiling.",
+      "ukrainian": "Тримайся, але усміхайся.",
+      "category": "Hope",
+      "generated_at": "2026-11-11T10:00:39.882080"
+    },
+    {
+      "english": "Take one small step, that’s enough.",
+      "ukrainian": "Зроби один маленький крок, цього досить.",
+      "category": "Hope",
+      "generated_at": "2026-11-11T10:00:39.882082"
+    },
+    {
+      "english": "No worries, we can turn this around.",
+      "ukrainian": "Без паніки, ми можемо це змінити.",
+      "category": "Hope",
+      "generated_at": "2026-11-11T10:00:39.882142"
+    },
+    {
+      "english": "I’ve got faith, let’s move.",
+      "ukrainian": "У мене є віра, давай рухаймося.",
+      "category": "Hope",
+      "generated_at": "2026-11-11T10:00:39.882144"
+    },
+    {
+      "english": "Can we talk, I need advice?",
+      "ukrainian": "Можемо поговорити, мені потрібна порада?",
+      "category": "Hope",
+      "generated_at": "2026-11-11T10:00:39.882146"
+    },
+    {
+      "english": "What’s your plan, for staying hopeful?",
+      "ukrainian": "Який у тебе план, як триматися надії?",
+      "category": "Hope",
+      "generated_at": "2026-11-11T10:00:39.882148"
+    },
+    {
+      "english": "How do you keep going, when it’s messy?",
+      "ukrainian": "Як ти тримаєшся, коли все валиться?",
+      "category": "Hope",
+      "generated_at": "2026-11-11T10:00:39.882150"
+    },
+    {
+      "english": "Do you think things can improve soon?",
+      "ukrainian": "Ти думаєш, що скоро стане краще?",
+      "category": "Hope",
+      "generated_at": "2026-11-11T10:00:39.882152"
+    },
+    {
+      "english": "Where do you find hope, lately?",
+      "ukrainian": "Де ти знаходиш надію, останнім часом?",
+      "category": "Hope",
+      "generated_at": "2026-11-11T10:00:39.882154"
+    },
+    {
+      "english": "I’m stuck, can you help me?",
+      "ukrainian": "Я застряг, ти можеш допомогти?",
+      "category": "Hope",
+      "generated_at": "2026-11-11T10:00:39.882156"
+    },
+    {
+      "english": "Should I wait, or try again today?",
+      "ukrainian": "Мені чекати, чи спробувати знов сьогодні?",
+      "category": "Hope",
+      "generated_at": "2026-11-11T10:00:39.882158"
+    },
+    {
+      "english": "What helps you, when hope feels far?",
+      "ukrainian": "Що тебе рятує, коли надія далеко?",
+      "category": "Hope",
+      "generated_at": "2026-11-11T10:00:39.882160"
+    },
+    {
+      "english": "Can we make a small next step?",
+      "ukrainian": "Можемо зробити маленький наступний крок?",
+      "category": "Hope",
+      "generated_at": "2026-11-11T10:00:39.882162"
+    },
+    {
+      "english": "Is it okay if I vent a bit?",
+      "ukrainian": "Можна, я трохи виговорюсь?",
+      "category": "Hope",
+      "generated_at": "2026-11-11T10:00:39.882164"
+    },
+    {
+      "english": "Do you have time for a quick chat?",
+      "ukrainian": "Ти маєш час, на коротку розмову?",
+      "category": "Hope",
+      "generated_at": "2026-11-11T10:00:39.882165"
+    },
+    {
+      "english": "What would you do in my place?",
+      "ukrainian": "Що б ти зробив на моєму місці?",
+      "category": "Hope",
+      "generated_at": "2026-11-11T10:00:39.882169"
+    },
+    {
+      "english": "Let’s check, what’s the next good move?",
+      "ukrainian": "Давай подивимось, яка наступна добра дія?",
+      "category": "Hope",
+      "generated_at": "2026-11-11T10:00:39.882171"
+    },
+    {
+      "english": "Can you repeat that, I missed it?",
+      "ukrainian": "Можеш повторити, я не почув?",
+      "category": "Hope",
+      "generated_at": "2026-11-11T10:00:39.882173"
+    },
+    {
+      "english": "Are we talking real advice, or jokes?",
+      "ukrainian": "Ми зараз за справжню пораду, чи жартуємо?",
+      "category": "Hope",
+      "generated_at": "2026-11-11T10:00:39.882175"
+    },
+    {
+      "english": "How can I stay positive, without faking?",
+      "ukrainian": "Як лишатися позитивним, не вдаючи?",
+      "category": "Hope",
+      "generated_at": "2026-11-11T10:00:39.882177"
+    },
+    {
+      "english": "Can you remind me, why I started?",
+      "ukrainian": "Ти можеш нагадати, навіщо я почав?",
+      "category": "Hope",
+      "generated_at": "2026-11-11T10:00:39.882179"
+    },
+    {
+      "english": "What’s one hopeful thing today, for you?",
+      "ukrainian": "Що сьогодні одне надійне, для тебе?",
+      "category": "Hope",
+      "generated_at": "2026-11-11T10:00:39.882180"
+    },
+    {
+      "english": "Should we call someone, for support?",
+      "ukrainian": "Ми можемо комусь подзвонити, по підтримку?",
+      "category": "Hope",
+      "generated_at": "2026-11-11T10:00:39.882182"
+    },
+    {
+      "english": "I hear you, but what’s next, please?",
+      "ukrainian": "Я тебе розумію, але що далі, будь ласка?",
+      "category": "Hope",
+      "generated_at": "2026-11-11T10:00:39.882186"
+    },
+    {
+      "english": "Do you think luck is showing up?",
+      "ukrainian": "Ти думаєш, удача вже під’їжджає?",
+      "category": "Hope",
+      "generated_at": "2026-11-11T10:00:39.882189"
+    },
+    {
+      "english": "Can we swap ideas, and choose one?",
+      "ukrainian": "Можемо обмінятися ідеями, і вибрати одну?",
+      "category": "Hope",
+      "generated_at": "2026-11-11T10:00:39.882191"
+    },
+    {
+      "english": "What if this is just a phase?",
+      "ukrainian": "А якщо це просто етап, а не кінець?",
+      "category": "Hope",
+      "generated_at": "2026-11-11T10:00:39.882192"
+    },
+    {
+      "english": "Do you want a hug, or solutions?",
+      "ukrainian": "Ти хочеш обійми, чи поради?",
+      "category": "Hope",
+      "generated_at": "2026-11-11T10:00:39.882194"
+    },
+    {
+      "english": "Can I say something hopeful, right now?",
+      "ukrainian": "Можна я скажу щось надихаюче, зараз?",
+      "category": "Hope",
+      "generated_at": "2026-11-11T10:00:39.882196"
+    },
+    {
+      "english": "What’s your go-to trick, when anxious?",
+      "ukrainian": "Яка твоя штука, коли тривожно?",
+      "category": "Hope",
+      "generated_at": "2026-11-11T10:00:39.882198"
+    },
+    {
+      "english": "Let’s not rush, what feels doable?",
+      "ukrainian": "Давай без поспіху, що реально зробити?",
+      "category": "Hope",
+      "generated_at": "2026-11-11T10:00:39.882200"
+    },
+    {
+      "english": "If I fall, will you remind me?",
+      "ukrainian": "Якщо я впаду, ти нагадаєш мені?",
+      "category": "Hope",
+      "generated_at": "2026-11-11T10:00:39.882201"
+    },
+    {
+      "english": "Can we end with hope, even today?",
+      "ukrainian": "Можемо завершити надією, навіть сьогодні?",
+      "category": "Hope",
+      "generated_at": "2026-11-11T10:00:39.882203"
+    },
+    {
+      "english": "Hope, don’t freeze, move one step.",
+      "ukrainian": "Надіє, не завмри, зроби крок.",
+      "category": "Hope",
+      "generated_at": "2026-11-11T10:00:39.882205"
+    },
+    {
+      "english": "A little light, and the road shows.",
+      "ukrainian": "Трошки світла, і дорога знайдеться.",
+      "category": "Hope",
+      "generated_at": "2026-11-11T10:00:39.882207"
+    },
+    {
+      "english": "As long as breathe, keep hoping.",
+      "ukrainian": "Поки дихаєш, надійся.",
+      "category": "Hope",
+      "generated_at": "2026-11-11T10:00:39.882209"
+    },
+    {
+      "english": "We’ll catch the good, even slowly.",
+      "ukrainian": "Зловимо хороше, хай і потрохи.",
+      "category": "Hope",
+      "generated_at": "2026-11-11T10:00:39.882211"
+    },
+    {
+      "english": "Hope is a rope, hold tight.",
+      "ukrainian": "Надія, мов канат, тримайся міцно.",
+      "category": "Hope",
+      "generated_at": "2026-11-11T10:00:39.882212"
+    },
+    {
+      "english": "Don’t lose heart, it comes back.",
+      "ukrainian": "Не втрачай серця, воно повернеться.",
+      "category": "Hope",
+      "generated_at": "2026-11-11T10:00:39.882214"
+    },
+    {
+      "english": "Better tomorrow starts with one today.",
+      "ukrainian": "Краще завтра починається з сьогодні.",
+      "category": "Hope",
+      "generated_at": "2026-11-11T10:00:39.882216"
+    },
+    {
+      "english": "Hold on, the calm will return.",
+      "ukrainian": "Тримайся, тиша ще прийде.",
+      "category": "Hope",
+      "generated_at": "2026-11-11T10:00:39.882217"
+    },
+    {
+      "english": "When it’s dark, find one good thing.",
+      "ukrainian": "Коли темно, знайди одну добру річ.",
+      "category": "Hope",
+      "generated_at": "2026-11-11T10:00:39.882219"
+    },
+    {
+      "english": "Hope grows, when you keep showing up.",
+      "ukrainian": "Надія росте, коли ти з’являєшся.",
+      "category": "Hope",
+      "generated_at": "2026-11-11T10:00:39.882221"
+    },
+    {
+      "english": "Keep your promise to yourself, tomorrow.",
+      "ukrainian": "Тримай обіцянку собі, завтра.",
+      "category": "Hope",
+      "generated_at": "2026-11-11T10:00:39.882223"
+    },
+    {
+      "english": "Try again, the wheel turns for you.",
+      "ukrainian": "Спробуй ще раз, колесо повернеться.",
+      "category": "Hope",
+      "generated_at": "2026-11-11T10:00:39.882224"
+    },
+    {
+      "english": "There’s hope, even if it’s quiet.",
+      "ukrainian": "Надія є, навіть тихенька.",
+      "category": "Hope",
+      "generated_at": "2026-11-11T10:00:39.882226"
+    },
+    {
+      "english": "Don’t curse the night, wait it out.",
+      "ukrainian": "Не лайте ніч, переживіть її.",
+      "category": "Hope",
+      "generated_at": "2026-11-11T10:00:39.882230"
+    },
+    {
+      "english": "If hope wobbles, steady your breath.",
+      "ukrainian": "Як надія хитнеться, вирівняй дихання.",
+      "category": "Hope",
+      "generated_at": "2026-11-11T10:00:39.882232"
+    },
+    {
+      "english": "Good things take time, stay in it.",
+      "ukrainian": "Добре приходить з часом, не сходь.",
+      "category": "Hope",
+      "generated_at": "2026-11-11T10:00:39.882233"
+    },
+    {
+      "english": "Don’t count clouds, look for breaks.",
+      "ukrainian": "Не лічіть хмари, дивіться просвіти.",
+      "category": "Hope",
+      "generated_at": "2026-11-11T10:00:39.882235"
+    },
+    {
+      "english": "Hope is like bread, never waste it.",
+      "ukrainian": "Надія, як хліб, не марнуй.",
+      "category": "Hope",
+      "generated_at": "2026-11-11T10:00:39.882237"
+    },
+    {
+      "english": "Keep walking, the way will appear.",
+      "ukrainian": "Іди далі, дорога знайдеться.",
+      "category": "Hope",
+      "generated_at": "2026-11-11T10:00:39.882239"
+    },
+    {
+      "english": "When you fall, stand up by faith.",
+      "ukrainian": "Як упав, підіймайся з вірою.",
+      "category": "Hope",
+      "generated_at": "2026-11-11T10:00:39.882240"
+    },
+    {
+      "english": "Better a small hope than none.",
+      "ukrainian": "Краще маленька надія, ніж жодної.",
+      "category": "Hope",
+      "generated_at": "2026-11-11T10:00:39.882242"
+    },
+    {
+      "english": "Leave a window open for hope.",
+      "ukrainian": "Залиш вікно для надії відкритим.",
+      "category": "Hope",
+      "generated_at": "2026-11-11T10:00:39.882244"
+    },
+    {
+      "english": "The heart needs hope, not speeches.",
+      "ukrainian": "Серцю потрібна надія, не слова.",
+      "category": "Hope",
+      "generated_at": "2026-11-11T10:00:39.882245"
+    },
+    {
+      "english": "Let’s not rush, hope comes stepwise.",
+      "ukrainian": "Не спіши, надія приходить кроками.",
+      "category": "Hope",
+      "generated_at": "2026-11-11T10:00:39.882247"
+    },
+    {
+      "english": "If you wait, hope keeps working.",
+      "ukrainian": "Як чекаєш, надія працює.",
+      "category": "Hope",
+      "generated_at": "2026-11-11T10:00:39.882250"
+    },
+    {
+      "english": "Dream a bit, then do a bit.",
+      "ukrainian": "Мрій трошки, і зроби трошки.",
+      "category": "Hope",
+      "generated_at": "2026-11-11T10:00:39.882252"
+    },
+    {
+      "english": "When luck is shy, be stubborn.",
+      "ukrainian": "Коли удача соромиться, будь упертим.",
+      "category": "Hope",
+      "generated_at": "2026-11-11T10:00:39.882254"
+    },
+    {
+      "english": "Hope is a daily habit, not a mood.",
+      "ukrainian": "Надія — це щоденна звичка.",
+      "category": "Hope",
+      "generated_at": "2026-11-11T10:00:39.882256"
+    },
+    {
+      "english": "Keep the faith, the rest follows.",
+      "ukrainian": "Тримай віру, решта підтягнеться.",
+      "category": "Hope",
+      "generated_at": "2026-11-11T10:00:39.882257"
+    },
+    {
+      "english": "Even storms pass, hope stays awake.",
+      "ukrainian": "Навіть бурі минають, надія не спить.",
+      "category": "Hope",
+      "generated_at": "2026-11-11T10:00:39.882259"
+    },
+    {
+      "english": "I’m scared, still, I’ll try again.",
+      "ukrainian": "Мені страшно, але я все одно спробую знову.",
+      "category": "Hope",
+      "generated_at": "2026-11-11T10:00:39.882262"
+    },
+    {
+      "english": "Some days, hope is just a breath.",
+      "ukrainian": "У деякі дні надія — це просто подих.",
+      "category": "Hope",
+      "generated_at": "2026-11-11T10:00:39.882263"
+    },
+    {
+      "english": "I don’t feel brave, yet I move.",
+      "ukrainian": "Я не відчуваю себе сміливою, але рухаюсь.",
+      "category": "Hope",
+      "generated_at": "2026-11-11T10:00:39.882265"
+    },
+    {
+      "english": "I’m learning to be patient with myself.",
+      "ukrainian": "Я вчуся бути терплячим із собою.",
+      "category": "Hope",
+      "generated_at": "2026-11-11T10:00:39.882268"
+    },
+    {
+      "english": "I keep telling my heart, it’s okay.",
+      "ukrainian": "Я все повторюю серцю: усе буде добре.",
+      "category": "Hope",
+      "generated_at": "2026-11-11T10:00:39.882269"
+    },
+    {
+      "english": "Right now, I choose quiet hope.",
+      "ukrainian": "Зараз я обираю тиху надію.",
+      "category": "Hope",
+      "generated_at": "2026-11-11T10:00:39.882271"
+    },
+    {
+      "english": "My hope isn’t loud, it’s steady.",
+      "ukrainian": "Моя надія не гучна, вона рівна й тиха.",
+      "category": "Hope",
+      "generated_at": "2026-11-11T10:00:39.882273"
+    },
+    {
+      "english": "I don’t force joy, I wait gently.",
+      "ukrainian": "Я не змушую радості, я чекаю спокійно.",
+      "category": "Hope",
+      "generated_at": "2026-11-11T10:00:39.882275"
+    },
+    {
+      "english": "If it hurts, I still hold hope.",
+      "ukrainian": "Якщо болить, я все одно тримаю надію.",
+      "category": "Hope",
+      "generated_at": "2026-11-11T10:00:39.882277"
+    },
+    {
+      "english": "I miss certainty, but I keep going.",
+      "ukrainian": "Мені бракує ясності, та я йду далі.",
+      "category": "Hope",
+      "generated_at": "2026-11-11T10:00:39.882278"
+    },
+    {
+      "english": "I’m honest with myself, hope stays.",
+      "ukrainian": "Я чесний із собою, надія залишається.",
+      "category": "Hope",
+      "generated_at": "2026-11-11T10:00:39.882280"
+    },
+    {
+      "english": "I can be tired, and still believe.",
+      "ukrainian": "Я можу бути втомленим, і все ж вірити.",
+      "category": "Hope",
+      "generated_at": "2026-11-11T10:00:39.882282"
+    },
+    {
+      "english": "I don’t rush answers, I trust time.",
+      "ukrainian": "Я не поспішаю з відповідями, я довіряю часу.",
+      "category": "Hope",
+      "generated_at": "2026-11-11T10:00:39.882284"
+    },
+    {
+      "english": "Hope shows up, when I don’t quit.",
+      "ukrainian": "Надія приходить, коли я не здаюся.",
+      "category": "Hope",
+      "generated_at": "2026-11-11T10:00:39.882286"
+    },
+    {
+      "english": "I let feelings speak, then I breathe.",
+      "ukrainian": "Я даю почуттям голос, потім дихаю.",
+      "category": "Hope",
+      "generated_at": "2026-11-11T10:00:39.882288"
+    },
+    {
+      "english": "Even doubts can ride with me forward.",
+      "ukrainian": "Навіть сумніви можуть їхати зі мною далі.",
+      "category": "Hope",
+      "generated_at": "2026-11-11T10:00:39.882291"
+    },
+    {
+      "english": "I’m building hope, not pretending everything’s fine.",
+      "ukrainian": "Я не прикидаюся, що все добре, я будую надію.",
+      "category": "Hope",
+      "generated_at": "2026-11-11T10:00:39.882294"
+    },
+    {
+      "english": "I’d rather be hopeful, than numb.",
+      "ukrainian": "Краще бути з надією, ніж заціпеніти.",
+      "category": "Hope",
+      "generated_at": "2026-11-11T10:00:39.882296"
+    },
+    {
+      "english": "When I fall quiet, hope keeps humming.",
+      "ukrainian": "Коли я стаю тихим, надія все одно гуде.",
+      "category": "Hope",
+      "generated_at": "2026-11-11T10:00:39.882297"
+    },
+    {
+      "english": "I forgive my pace, I keep hope close.",
+      "ukrainian": "Я прощаю свій темп, і тримаю надію поруч.",
+      "category": "Hope",
+      "generated_at": "2026-11-11T10:00:39.882299"
+    },
+    {
+      "english": "I don’t need magic, just small steps.",
+      "ukrainian": "Мені не потрібна магія, мені потрібні малі кроки.",
+      "category": "Hope",
+      "generated_at": "2026-11-11T10:00:39.882301"
+    },
+    {
+      "english": "Some mornings, hope is my first choice.",
+      "ukrainian": "Деякі ранки, надія — мій перший вибір.",
+      "category": "Hope",
+      "generated_at": "2026-11-11T10:00:39.882303"
+    },
+    {
+      "english": "I talk to tomorrow, softly, with trust.",
+      "ukrainian": "Я шепочу завтрашньому дню, з довірою.",
+      "category": "Hope",
+      "generated_at": "2026-11-11T10:00:39.882305"
+    },
+    {
+      "english": "I can’t control everything, but I hope.",
+      "ukrainian": "Я не можу контролювати все, та я сподіваюсь.",
+      "category": "Hope",
+      "generated_at": "2026-11-11T10:00:39.882309"
+    },
+    {
+      "english": "My heart learns, one honest moment at a time.",
+      "ukrainian": "Серце вчиться, по одному щирому моменту.",
+      "category": "Hope",
+      "generated_at": "2026-11-11T10:00:39.882310"
+    },
+    {
+      "english": "I’m allowed to be unsure, and hopeful.",
+      "ukrainian": "Мені можна сумніватися, і все ж бути з надією.",
+      "category": "Hope",
+      "generated_at": "2026-11-11T10:00:39.882313"
     }
   ],
-  "last_updated": "2026-11-10T10:47:08.743024"
+  "last_updated": "2026-11-11T10:00:39.882314"
 }
