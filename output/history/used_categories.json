@@ -127,7 +127,39 @@
     {
       "category": "Friendship",
       "date": "2026-11-13"
+    },
+    {
+      "category": "Kindness",
+      "date": "2026-11-14"
+    },
+    {
+      "category": "Agreeing & Disagreeing",
+      "date": "2026-11-14"
+    },
+    {
+      "category": "Success",
+      "date": "2026-11-14"
+    },
+    {
+      "category": "Banking & Money",
+      "date": "2026-11-14"
+    },
+    {
+      "category": "Weather & Small Talk",
+      "date": "2026-11-14"
+    },
+    {
+      "category": "Hobbies & Free Time",
+      "date": "2026-11-14"
+    },
+    {
+      "category": "Coffee Shop & Bakery",
+      "date": "2026-11-14"
+    },
+    {
+      "category": "Confidence",
+      "date": "2026-11-14"
     }
   ],
-  "last_updated": "2026-11-13T01:10:11.024869"
+  "last_updated": "2026-11-14T00:56:23.461547"
 }
