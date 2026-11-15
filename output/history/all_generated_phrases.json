@@ -18063,7 +18063,399 @@
       "transliteration": "Ya skazhu tse, navit yakshcho bUde nezGRABno.",
       "category": "Confidence",
       "generated_at": "2026-11-14T00:56:23.445692"
+    },
+    {
+      "english": "Where is the nearest bus stop?",
+      "ukrainian": "Де найближча зупинка автобуса?",
+      "transliteration": "De nayblyzhcha zupynka avtobusa?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-14T23:59:01.096027"
+    },
+    {
+      "english": "What time does the tram arrive?",
+      "ukrainian": "О котрій годині приїжджає трамвай?",
+      "transliteration": "O kotriy hodyni pryizhdzhaye tramvay?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-14T23:59:01.096027"
+    },
+    {
+      "english": "Does this route go downtown?",
+      "ukrainian": "Цей маршрут їде в центр?",
+      "transliteration": "Tsey marshrut yide v tsentr?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-14T23:59:01.096027"
+    },
+    {
+      "english": "How much is a ticket?",
+      "ukrainian": "Скільки коштує квиток?",
+      "transliteration": "Skilky koshtuye kvytok?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-14T23:59:01.096027"
+    },
+    {
+      "english": "Do I need to validate it?",
+      "ukrainian": "Мені треба компостувати квиток?",
+      "transliteration": "Meni treba kompostuvaty kvytok?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-14T23:59:01.096027"
+    },
+    {
+      "english": "Is there free transfer time?",
+      "ukrainian": "Пересадка безкоштовна на який час?",
+      "transliteration": "Peresadka bezkoshtovna na yakyy chas?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-14T23:59:01.096027"
+    },
+    {
+      "english": "Where do I tap my card?",
+      "ukrainian": "Де прикласти картку для оплати?",
+      "transliteration": "De pryklasty kartku dlya oplaty?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-14T23:59:01.096027"
+    },
+    {
+      "english": "Let’s map out tonight’s priorities.",
+      "ukrainian": "Давай визначимо пріоритети на сьогодні ввечері.",
+      "transliteration": "Davai vyznachymo priorytety na sʹohodni vvechery.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-14T23:59:01.096027"
+    },
+    {
+      "english": "I need a simple weekly plan.",
+      "ukrainian": "Мені потрібен простий план на тиждень.",
+      "transliteration": "Meni potriben prostyi plan na tyzhdenʹ.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-14T23:59:01.096027"
+    },
+    {
+      "english": "What time works best for you?",
+      "ukrainian": "О котрій годині тобі найзручніше?",
+      "transliteration": "O kótriyih hodyni tobi naizruchnishe?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-14T23:59:01.096027"
+    },
+    {
+      "english": "I’ll set reminders so I don’t forget.",
+      "ukrainian": "Я поставлю нагадування, щоб не забути.",
+      "transliteration": "Ya postavlyu nahanaduvannya, shchob ne zabuty.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-14T23:59:01.096027"
+    },
+    {
+      "english": "Can you send the schedule by email?",
+      "ukrainian": "Можеш надіслати розклад електронною поштою?",
+      "transliteration": "Mozhesʹ nadislaty rozklad elektronnoiu poshtoiu?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-14T23:59:01.096027"
+    },
+    {
+      "english": "Let’s plan around your work hours.",
+      "ukrainian": "Давай сплануємо з урахуванням твоїх робочих годин.",
+      "transliteration": "Davai splanuemo z urakhuvannyam tvoikh robochykh hodyn.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-14T23:59:01.096027"
+    },
+    {
+      "english": "I’ll book it now, just to lock it in.",
+      "ukrainian": "Я забронюю це зараз, щоб усе було гарантовано.",
+      "transliteration": "Ya zabronyu tse zaraz, shchob usе bulo harantovano.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-14T23:59:01.096027"
+    },
+    {
+      "english": "How do I get to the station?",
+      "ukrainian": "Як дістатися до вокзалу?",
+      "transliteration": "Yak distiatysia do VOKZalu?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-14T23:59:01.096027"
+    },
+    {
+      "english": "Is this the right way to downtown?",
+      "ukrainian": "Це правильно, якщо йти в центр?",
+      "transliteration": "Tse pravy lno, yakshcho yty v TSENTR?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-14T23:59:01.096027"
+    },
+    {
+      "english": "Can you show me on the map?",
+      "ukrainian": "Можете показати мені на мапі?",
+      "transliteration": "Mozhete poka zaty meni na MAPi?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-14T23:59:01.096027"
+    },
+    {
+      "english": "What bus goes to that street?",
+      "ukrainian": "Який автобус їде на ту вулицю?",
+      "transliteration": "Yaky BUS yide na tu VULYtsyu?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-14T23:59:01.096027"
+    },
+    {
+      "english": "Which stop should I get off at?",
+      "ukrainian": "На якій зупинці виходити?",
+      "transliteration": "Na yakiy ZUPYNTsi vykho dyty?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-14T23:59:01.096027"
+    },
+    {
+      "english": "How far is it from here?",
+      "ukrainian": "Скільки це хвилин пішки від сюди?",
+      "transliteration": "Skil ky tse HYLYn pish ky vid SYudy?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-14T23:59:01.096027"
+    },
+    {
+      "english": "Is it walkable from this place?",
+      "ukrainian": "До кінця можна дійти пішки звідси?",
+      "transliteration": "Do kin tsia mozhna DIYty pish ky zvid sy?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-14T23:59:01.096027"
+    },
+    {
+      "english": "Come over for Christmas Eve supper",
+      "ukrainian": "Зайди на різдвяну вечерю в гості",
+      "transliteration": "Zaydy na rizdvyanu vecheryu v hosti",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-14T23:59:01.096027"
+    },
+    {
+      "english": "We share paska after the service",
+      "ukrainian": "Після служби ми ділимося паскою",
+      "transliteration": "Pislya sluzhby my dilymo-sya paskoyu",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-14T23:59:01.096027"
+    },
+    {
+      "english": "Let’s try kutia, it’s tradition",
+      "ukrainian": "Давай спробуємо кутю, це традиція",
+      "transliteration": "Davay sprobuymo kuti, tse tradytsiya",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-14T23:59:01.096027"
+    },
+    {
+      "english": "On holidays, we cook together",
+      "ukrainian": "У свята ми готуємо разом, усі",
+      "transliteration": "U svya-ta my hotuyemo razom, usi",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-14T23:59:01.096027"
+    },
+    {
+      "english": "Wish me luck before major exams",
+      "ukrainian": "Побажай мені удачі перед іспитами",
+      "transliteration": "Pobazhay meni udachi pered ispy-tamy",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-14T23:59:01.096027"
+    },
+    {
+      "english": "We light candles for memorial days",
+      "ukrainian": "У дні пам’яті запалюємо свічки",
+      "transliteration": "U dni pam’yati zapalyuyemo svichky",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-14T23:59:01.096027"
+    },
+    {
+      "english": "People sing carols through the streets",
+      "ukrainian": "Колядники ходять вулицями й співають",
+      "transliteration": "Kolyadnyky khodyat vulytsyamy y spivayut",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-14T23:59:01.096027"
+    },
+    {
+      "english": "I said it, even though I shook.",
+      "ukrainian": "Я сказав це, навіть коли трясло.",
+      "transliteration": "Ya skazav tse, navit, koly tryaslo.",
+      "category": "Courage",
+      "generated_at": "2026-11-14T23:59:01.096027"
+    },
+    {
+      "english": "Thanks for speaking up for me.",
+      "ukrainian": "Дякую, що ти заступився за мене.",
+      "transliteration": "Dyakuyu, shcho ty zastupysya za mene.",
+      "category": "Courage",
+      "generated_at": "2026-11-14T23:59:01.096027"
+    },
+    {
+      "english": "Stay calm, you can do it.",
+      "ukrainian": "Тримайся спокійно, ти можеш це зробити.",
+      "transliteration": "Trymay'sya spokiyno, ty mozhesh tse zrobyty.",
+      "category": "Courage",
+      "generated_at": "2026-11-14T23:59:01.096027"
+    },
+    {
+      "english": "I will call them back now.",
+      "ukrainian": "Я передзвоню їм зараз.",
+      "transliteration": "Ya peredzvonyu yim zaraz.",
+      "category": "Courage",
+      "generated_at": "2026-11-14T23:59:01.096027"
+    },
+    {
+      "english": "I can handle this question.",
+      "ukrainian": "Я впораюся з цим питанням.",
+      "transliteration": "Ya vporayusya z tsym pytannyam.",
+      "category": "Courage",
+      "generated_at": "2026-11-14T23:59:01.096027"
+    },
+    {
+      "english": "I apologized, and that took guts.",
+      "ukrainian": "Я вибачився, і це було по-справжньому сміливо.",
+      "transliteration": "Ya vyvachyvся, i tse bulo po-spravzhnomu SIMILYVO.",
+      "category": "Courage",
+      "generated_at": "2026-11-14T23:59:01.096027"
+    },
+    {
+      "english": "Let’s go, we’re not waiting.",
+      "ukrainian": "Ходімо, ми не чекаємо.",
+      "transliteration": "Khodi'mo, my ne chekaye'mo.",
+      "category": "Courage",
+      "generated_at": "2026-11-14T23:59:01.096027"
+    },
+    {
+      "english": "Breathe, I’m here, that’s enough.",
+      "ukrainian": "Дихаю, я тут, цього достатньо.",
+      "transliteration": "Dykhayu, ya tut, cʹogo dostatnʹo.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-14T23:59:01.096027"
+    },
+    {
+      "english": "Stop scrolling, feel your own breath.",
+      "ukrainian": "Зупиняйся, відчуй своє дихання.",
+      "transliteration": "Zupynyaysya, vidchuy svoe dyhannya.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-14T23:59:01.096027"
+    },
+    {
+      "english": "My thoughts can wait, I can rest.",
+      "ukrainian": "Мої думки можуть зачекати, я відпочину.",
+      "transliteration": "Moyi dumky mozhutʹ zachekaty, ya vidpochynu.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-14T23:59:01.096027"
+    },
+    {
+      "english": "I choose calm, even for five minutes.",
+      "ukrainian": "Я обираю спокій, навіть на п’ять хвилин.",
+      "transliteration": "Ya obyrayu spokiy, navitʹ na pʹyatʹ khvylyn.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-14T23:59:01.096027"
+    },
+    {
+      "english": "Let the noise pass by me.",
+      "ukrainian": "Нехай шум минає повз мене.",
+      "transliteration": "Nekhay shum mynaye po z mnye",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-14T23:59:01.096027"
+    },
+    {
+      "english": "Soft smile, straight posture, steady mind.",
+      "ukrainian": "М’яка посмішка, рівна спина, ясна голова.",
+      "transliteration": "Myaka posmishka, rivna spyna, yasna holova.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-14T23:59:01.096027"
+    },
+    {
+      "english": "I’m safe right now, just breathe.",
+      "ukrainian": "Я в безпеці прямо зараз, просто дихаю.",
+      "transliteration": "Ya v bezpeci priamo zaraz, prosto dyhayu.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-14T23:59:01.096027"
+    },
+    {
+      "english": "Good vibes, start now, okay?",
+      "ukrainian": "Добрі віби, почнімо вже, добре?",
+      "transliteration": "DObri víby, pochnímo vzhe, dóbre?",
+      "category": "Positive Life",
+      "generated_at": "2026-11-14T23:59:01.096027"
+    },
+    {
+      "english": "Today is mine to shape.",
+      "ukrainian": "Сьогодні моє час формувати.",
+      "transliteration": "Sʹóhodni moє chas formuváty.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-14T23:59:01.096027"
+    },
+    {
+      "english": "I choose calm over chaos.",
+      "ukrainian": "Я обираю спокій замість хаосу.",
+      "transliteration": "YA obyrayú spokíy zamíst kháosu.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-14T23:59:01.096027"
+    },
+    {
+      "english": "Small steps still move me forward.",
+      "ukrainian": "Маленькі кроки все одно рухають мене вперед.",
+      "transliteration": "Malénʹki króky vse odno rukháyutʹ mene vpéred.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-14T23:59:01.096027"
+    },
+    {
+      "english": "I sleep better when I forgive.",
+      "ukrainian": "Я сплю краще, коли прощаю.",
+      "transliteration": "YA splýo krashche, koly proshcháyú.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-14T23:59:01.096027"
+    },
+    {
+      "english": "Gratitude is my daily reset.",
+      "ukrainian": "Подяка щодня перезавантажує мій розум.",
+      "transliteration": "Podýaka shchódnya perezavan­tázhuyе moí rozúm.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-14T23:59:01.096027"
+    },
+    {
+      "english": "I talk to myself like a friend.",
+      "ukrainian": "Я говорю з собою, як із другом.",
+      "transliteration": "YA hovorýu z sobóyu, yak iz drúgom.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-14T23:59:01.096027"
+    },
+    {
+      "english": "I’m growing into my new job.",
+      "ukrainian": "Я доростаю до моєї нової роботи.",
+      "transliteration": "Ya dorostayu do moyeї novoyi robotу.",
+      "category": "Growth",
+      "generated_at": "2026-11-14T23:59:01.096027"
+    },
+    {
+      "english": "I’m learning fast, step by step.",
+      "ukrainian": "Я швидко вчуся, крок за кроком.",
+      "transliteration": "Ya shvydko vchusya, krok za krokом.",
+      "category": "Growth",
+      "generated_at": "2026-11-14T23:59:01.096027"
+    },
+    {
+      "english": "This habit is changing my days.",
+      "ukrainian": "Ця звичка змінює мої дні.",
+      "transliteration": "Tsiya zvychka zminyuye moi dni.",
+      "category": "Growth",
+      "generated_at": "2026-11-14T23:59:01.096027"
+    },
+    {
+      "english": "Today I practice, tomorrow I level up.",
+      "ukrainian": "Сьогодні тренуюся, завтра підростаю.",
+      "transliteration": "Sʹohodni trenuyusya, zavtra pidrostayu.",
+      "category": "Growth",
+      "generated_at": "2026-11-14T23:59:01.096027"
+    },
+    {
+      "english": "My confidence grows every week.",
+      "ukrainian": "Моя впевненість росте щотижня.",
+      "transliteration": "Moya vpevnenistʹ roste shchotyzhnyа.",
+      "category": "Growth",
+      "generated_at": "2026-11-14T23:59:01.096027"
+    },
+    {
+      "english": "Small wins add up, I feel it.",
+      "ukrainian": "Маленькі перемоги накопичуються, я це відчуваю.",
+      "transliteration": "Malenʹki peremohy nakopychuyutsya, ya tse vіdchuvayu.",
+      "category": "Growth",
+      "generated_at": "2026-11-14T23:59:01.096027"
+    },
+    {
+      "english": "I’m building strength, not just motivation.",
+      "ukrainian": "Я нарощую силу, не лише мотивацію.",
+      "transliteration": "Ya naroshchuyu sylu, ne lyshe motyvatsiyu.",
+      "category": "Growth",
+      "generated_at": "2026-11-14T23:59:01.096027"
     }
   ],
-  "last_updated": "2026-11-14T00:56:23.445692"
+  "last_updated": "2026-11-14T23:59:01.096027"
 }
