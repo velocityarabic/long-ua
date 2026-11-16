@@ -191,7 +191,39 @@
     {
       "category": "Growth",
       "date": "2026-11-14"
+    },
+    {
+      "category": "Balance",
+      "date": "2026-11-16"
+    },
+    {
+      "category": "Hotel & Accommodation",
+      "date": "2026-11-16"
+    },
+    {
+      "category": "Perseverance",
+      "date": "2026-11-16"
+    },
+    {
+      "category": "Wisdom",
+      "date": "2026-11-16"
+    },
+    {
+      "category": "Self Improvement",
+      "date": "2026-11-16"
+    },
+    {
+      "category": "Phone Calls & Messages",
+      "date": "2026-11-16"
+    },
+    {
+      "category": "Sports & Fitness",
+      "date": "2026-11-16"
+    },
+    {
+      "category": "Common Native Slang",
+      "date": "2026-11-16"
     }
   ],
-  "last_updated": "2026-11-14T23:59:01.108878"
+  "last_updated": "2026-11-16T00:01:24.424171"
 }
