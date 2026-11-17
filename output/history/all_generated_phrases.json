@@ -18847,7 +18847,399 @@
       "transliteration": "PodyvyMOsy, bez haraNTIY.",
       "category": "Common Native Slang",
       "generated_at": "2026-11-16T00:01:24.410238"
+    },
+    {
+      "english": "I choose joy, even on hard days.",
+      "ukrainian": "Я обираю радість, навіть у важкі дні.",
+      "transliteration": "Ya OBIRayu radist', navit u vazhki dni.",
+      "category": "Joy",
+      "generated_at": "2026-11-17T02:59:42.703222"
+    },
+    {
+      "english": "Today my smile comes naturally.",
+      "ukrainian": "Сьогодні моя усмішка приходить сама.",
+      "transliteration": "S'ohodni MOYA usmishka prikhodit' sama.",
+      "category": "Joy",
+      "generated_at": "2026-11-17T02:59:42.703222"
+    },
+    {
+      "english": "Small laughter turns my mood around.",
+      "ukrainian": "Маленький сміх перевертає мій настрій.",
+      "transliteration": "MAlynykyi smikh perevertae moi nastroi.",
+      "category": "Joy",
+      "generated_at": "2026-11-17T02:59:42.703222"
+    },
+    {
+      "english": "I feel lighter after a good chat.",
+      "ukrainian": "Мені легше після доброї розмови.",
+      "transliteration": "Meni LEGSHE pislya dobroyi rozmovy.",
+      "category": "Joy",
+      "generated_at": "2026-11-17T02:59:42.703222"
+    },
+    {
+      "english": "A kindness today is pure joy.",
+      "ukrainian": "Сьогоднішня доброта це радість.",
+      "transliteration": "S'ohodniSHNYA dobrota tse RADIST'.",
+      "category": "Joy",
+      "generated_at": "2026-11-17T02:59:42.703222"
+    },
+    {
+      "english": "I notice beauty in everyday steps.",
+      "ukrainian": "Я помічаю красу навіть у дрібницях.",
+      "transliteration": "Ya POMICHAYU krаsu navit u dribnytsyakh.",
+      "category": "Joy",
+      "generated_at": "2026-11-17T02:59:42.703222"
+    },
+    {
+      "english": "The day feels sweeter with friends.",
+      "ukrainian": "З друзями день стає солодшим.",
+      "transliteration": "Z DRUZYamy den staye SOlodshym.",
+      "category": "Joy",
+      "generated_at": "2026-11-17T02:59:42.703222"
+    },
+    {
+      "english": "I switch to evening mode now.",
+      "ukrainian": "Я перемикаюся на вечірній режим.",
+      "transliteration": "Ya pereMYkayusya na Vechirniy REZHYM.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-17T02:59:42.703222"
+    },
+    {
+      "english": "First, I tidy my desk a bit.",
+      "ukrainian": "Спершу трохи наведу лад на столі.",
+      "transliteration": "SPershu troKhy naVedu LAD na STOli.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-17T02:59:42.703222"
+    },
+    {
+      "english": "I brew coffee, then plan my day.",
+      "ukrainian": "Я варю каву, і одразу планую день.",
+      "transliteration": "Ya VARYu kaVU, i odRAzu plaNuyU denʹ.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-17T02:59:42.703222"
+    },
+    {
+      "english": "I make my bed, nice and clean.",
+      "ukrainian": "Я застеляю ліжко, щоб було охайно.",
+      "transliteration": "Ya zasteLYayu LIZKO, shchob buLO okhayNO.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-17T02:59:42.703222"
+    },
+    {
+      "english": "I step out for fresh air.",
+      "ukrainian": "Я виходжу подихати свіжим повітрям.",
+      "transliteration": "Ya vyhODzhu podykhaTY sviZHym povITryam.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-17T02:59:42.703222"
+    },
+    {
+      "english": "Lunch hits, so I slow down.",
+      "ukrainian": "Починається обід, я трохи сповільнюсь.",
+      "transliteration": "POchyNayetsya OBiD, ya troKhy SPOvilʹnyusʹ.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-17T02:59:42.703222"
+    },
+    {
+      "english": "I wash dishes right after eating.",
+      "ukrainian": "Я мою посуд одразу після їжі.",
+      "transliteration": "Ya MOyu poSUD odRAzu pIslya YIZhI.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-17T02:59:42.703222"
+    },
+    {
+      "english": "I like how easy this feels.",
+      "ukrainian": "Мені подобається, як це легко відчувається.",
+      "transliteration": "Meni podobaetsia, iak tse lekhko vidchuvaietsia.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-17T02:59:42.703222"
+    },
+    {
+      "english": "Tell me what you really want.",
+      "ukrainian": "Скажи, чого ти справді хочеш.",
+      "transliteration": "Skazhy, choho ty spravdi khochesh.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-17T02:59:42.703222"
+    },
+    {
+      "english": "Let’s meet again soon, if you want.",
+      "ukrainian": "Давай зустрінемося знову скоро, якщо ти хочеш.",
+      "transliteration": "Davay zustrinemosia znovu skoro, yakshcho ty khoche sh.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-17T02:59:42.703222"
+    },
+    {
+      "english": "I’m drawn to your calm energy.",
+      "ukrainian": "Мене тягне до твоєї спокійної енергії.",
+      "transliteration": "Mene tiagne do tvoiei spokiiinoi enerhii.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-17T02:59:42.703222"
+    },
+    {
+      "english": "Can I hold your hand here?",
+      "ukrainian": "Можна я візьму тебе за руку тут?",
+      "transliteration": "Mozhna ia vizmu tebe za ruku tut?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-17T02:59:42.703222"
+    },
+    {
+      "english": "I feel safe with you.",
+      "ukrainian": "З тобою мені спокійно.",
+      "transliteration": "Z toboiu meni spokiiino.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-17T02:59:42.703222"
+    },
+    {
+      "english": "No pressure, just good chemistry.",
+      "ukrainian": "Без тиску, просто класна хімія.",
+      "transliteration": "Bez tysku, prosto klazna khimiia.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-17T02:59:42.703222"
+    },
+    {
+      "english": "I feel uneasy right now, honestly.",
+      "ukrainian": "Мені зараз тривожно, чесно.",
+      "transliteration": "Meni zaraz TRYVOZHNO, chesno.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-17T02:59:42.703222"
+    },
+    {
+      "english": "My heart is pounding, something s up.",
+      "ukrainian": "У мене серце калатає, щось сталось.",
+      "transliteration": "U mene sertse KALATAE, shchos stalos.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-17T02:59:42.703222"
+    },
+    {
+      "english": "I can t focus, I m rattled.",
+      "ukrainian": "Я не можу зосередитись, мене трусить.",
+      "transliteration": "Ya ne mozhу ZOSEREDYTYS, mene TRUSIT.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-17T02:59:42.703222"
+    },
+    {
+      "english": "I m oddly calm, like nothing can hurt me.",
+      "ukrainian": "Мені дивно спокійно, ніщо не страшне.",
+      "transliteration": "Meni dyvno SPOKOYINO, nishcho ne strashne.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-17T02:59:42.703222"
+    },
+    {
+      "english": "I feel guarded, so please be gentle.",
+      "ukrainian": "Я насторожі, тож будь ласка, обережно.",
+      "transliteration": "Ya nastorozhi, tozh budʹ laska, oberezhno.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-17T02:59:42.703222"
+    },
+    {
+      "english": "I m quietly disappointed, but I ll be fine.",
+      "ukrainian": "Мені трохи прикро, але я впораюсь.",
+      "transliteration": "Meni trokhy PRYKRO, ale ya vporayus.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-17T02:59:42.703222"
+    },
+    {
+      "english": "I got a wave of nostalgia today.",
+      "ukrainian": "Сьогодні на мене накотила ностальгія.",
+      "transliteration": "Sʹogodni na mene nakotyla nostalgіya.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-17T02:59:42.703222"
+    },
+    {
+      "english": "Let’s be clear on our goal.",
+      "ukrainian": "Даваймо чітко визначимо нашу мету.",
+      "transliteration": "Davaymo chітko vyznachymo nashu metu",
+      "category": "Purpose",
+      "generated_at": "2026-11-17T02:59:42.703222"
+    },
+    {
+      "english": "What matters most right now?",
+      "ukrainian": "Що зараз має найбільше значення?",
+      "transliteration": "Shcho zaraz maye naybilʹshe znachennya",
+      "category": "Purpose",
+      "generated_at": "2026-11-17T02:59:42.703222"
+    },
+    {
+      "english": "Name the target, then move.",
+      "ukrainian": "Назвіть ціль, і вперед.",
+      "transliteration": "Nazvіtʹ tsіlʹ, і vpered",
+      "category": "Purpose",
+      "generated_at": "2026-11-17T02:59:42.703222"
+    },
+    {
+      "english": "I want results, not busywork.",
+      "ukrainian": "Я хочу результатів, а не суєти.",
+      "transliteration": "Ya khochu rezulʹtatіv, a ne suëti",
+      "category": "Purpose",
+      "generated_at": "2026-11-17T02:59:42.703222"
+    },
+    {
+      "english": "Let’s align on the reason.",
+      "ukrainian": "Даваймо узгодимося з причиною.",
+      "transliteration": "Davaymo uzo hodymy s prychynoyu",
+      "category": "Purpose",
+      "generated_at": "2026-11-17T02:59:42.703222"
+    },
+    {
+      "english": "Keep the purpose in every step.",
+      "ukrainian": "Тримаймо мету в кожному кроці.",
+      "transliteration": "Trymaymo metu v kozhnomu krocі",
+      "category": "Purpose",
+      "generated_at": "2026-11-17T02:59:42.703222"
+    },
+    {
+      "english": "This should lead somewhere useful.",
+      "ukrainian": "Це має привезти до корисного результату.",
+      "transliteration": "Tse maye privezty do korysnoho rezulʹtatu",
+      "category": "Purpose",
+      "generated_at": "2026-11-17T02:59:42.703222"
+    },
+    {
+      "english": "Can we discuss priorities today?",
+      "ukrainian": "Можемо обговорити пріоритети сьогодні?",
+      "transliteration": "Mozhemo obgovoryty priorytety SOgodni?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-17T02:59:42.703222"
+    },
+    {
+      "english": "I need this by 5 pm.",
+      "ukrainian": "Мені потрібно це до п’ятої години.",
+      "transliteration": "Meni potribno tse do pyatoyi godyny.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-17T02:59:42.703222"
+    },
+    {
+      "english": "Let’s confirm the meeting time.",
+      "ukrainian": "Давай підтвердимо час зустрічі.",
+      "transliteration": "Davai pidtverdymo chAS zustrichi.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-17T02:59:42.703222"
+    },
+    {
+      "english": "Please resend the attachment.",
+      "ukrainian": "Будь ласка, надішліть вкладення ще раз.",
+      "transliteration": "Budʹ laska, nadishlitʹ vkladennya SHche raz.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-17T02:59:42.703222"
+    },
+    {
+      "english": "Who owns this task?",
+      "ukrainian": "Хто відповідає за це завдання?",
+      "transliteration": "Khto vidpovidaye za tse zavdannya?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-17T02:59:42.703222"
+    },
+    {
+      "english": "I’ll take minutes during the call.",
+      "ukrainian": "Я вестиму нотатки під час дзвінка.",
+      "transliteration": "Ya vestymu NOTATky pid chas dzvinka.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-17T02:59:42.703222"
+    },
+    {
+      "english": "I’ll draft a quick summary.",
+      "ukrainian": "Я підготую короткий підсумок.",
+      "transliteration": "Ya pidhotuyu korotkyy pidsumok.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-17T02:59:42.703222"
+    },
+    {
+      "english": "Hi, I m really happy to meet you.",
+      "ukrainian": "Привіт, я щиро радий вас зустріти.",
+      "transliteration": "Pryvit, YA shchiro radyy vas zustrity.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-17T02:59:42.703222"
+    },
+    {
+      "english": "What should I call you, please?",
+      "ukrainian": "Як мені до вас звертатися, будь ласка?",
+      "transliteration": "Yak meni do vas zvertatysya, bud laska?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-17T02:59:42.703222"
+    },
+    {
+      "english": "Where are you from originally?",
+      "ukrainian": "Звідки ви родом, якщо не секрет?",
+      "transliteration": "Zvidky vy rodom, yakshcho ne sekret?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-17T02:59:42.703222"
+    },
+    {
+      "english": "I m new here, can you help me?",
+      "ukrainian": "Я новенький тут, підкажіть, будь ласка.",
+      "transliteration": "YA novenkyy tut, pidkazhit, bud laska.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-17T02:59:42.703222"
+    },
+    {
+      "english": "Have we met before, maybe?",
+      "ukrainian": "Ми, бува, не зустрічалися раніше?",
+      "transliteration": "My, buvа, ne zustrichalysya ranishe?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-17T02:59:42.703222"
+    },
+    {
+      "english": "Nice to meet you, and welcome!",
+      "ukrainian": "Дуже приємно познайомитися, вітаю вас!",
+      "transliteration": "Duzhe pryyemno poznayomytysya, vitayu vas!",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-17T02:59:42.703222"
+    },
+    {
+      "english": "How long have you been learning Ukrainian?",
+      "ukrainian": "Скільки часу ви вчите українську?",
+      "transliteration": "Skilky chasu vy vchyte ukrayinsku?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-17T02:59:42.703222"
+    },
+    {
+      "english": "Try a doodle before you decide anything.",
+      "ukrainian": "Почни з малюнка, не приймайши рішень одразу.",
+      "transliteration": "Pochny z malюнка, ne pryymayuchy rishen odrazu.",
+      "category": "Creativity",
+      "generated_at": "2026-11-17T02:59:42.703222"
+    },
+    {
+      "english": "Make it messy, then make it sing.",
+      "ukrainian": "Зроби трохи безладно, а потім нехай воно оживе.",
+      "transliteration": "Zroby trоkh y bezladno, a potім nekhay vono ozhyve.",
+      "category": "Creativity",
+      "generated_at": "2026-11-17T02:59:42.703222"
+    },
+    {
+      "english": "Let questions lead, not perfection.",
+      "ukrainian": "Нехай питання ведуть, а не перфекціонізм.",
+      "transliteration": "Nekhay pytannya vedut, a ne perfektsionizm.",
+      "category": "Creativity",
+      "generated_at": "2026-11-17T02:59:42.703222"
+    },
+    {
+      "english": "Write one free sentence, no filters.",
+      "ukrainian": "Запиши одне вільне речення, без жодних фільтрів.",
+      "transliteration": "Zapyshe odne vilne recheпня, bez zhodnykh filtriv.",
+      "category": "Creativity",
+      "generated_at": "2026-11-17T02:59:42.703222"
+    },
+    {
+      "english": "Borrow an idea, then twist it.",
+      "ukrainian": "Запозич ідею, а потім перетвори її по-своєму.",
+      "transliteration": "Zapozychy ideyu, a potім peretvory yiyi po-svoyemu.",
+      "category": "Creativity",
+      "generated_at": "2026-11-17T02:59:42.703222"
+    },
+    {
+      "english": "Describe it like you’re talking to a friend.",
+      "ukrainian": "Опиши це так, ніби ти розмовляєш із другом.",
+      "transliteration": "Opуshy tse tak, nibi ty rozmovylyayes iz druhom.",
+      "category": "Creativity",
+      "generated_at": "2026-11-17T02:59:42.703222"
+    },
+    {
+      "english": "Change one detail, see what shifts.",
+      "ukrainian": "Зміни одну деталь, і подивись, що зміниться.",
+      "transliteration": "Zminy odnu detal, i dyvys, shcho zminyt'sya.",
+      "category": "Creativity",
+      "generated_at": "2026-11-17T02:59:42.703222"
     }
   ],
-  "last_updated": "2026-11-16T00:01:24.410238"
+  "last_updated": "2026-11-17T02:59:42.703222"
 }
