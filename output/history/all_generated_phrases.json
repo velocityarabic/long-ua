@@ -19239,7 +19239,399 @@
       "transliteration": "Zminy odnu detal, i dyvys, shcho zminyt'sya.",
       "category": "Creativity",
       "generated_at": "2026-11-17T02:59:42.703222"
+    },
+    {
+      "english": "Today feels warm and possible",
+      "ukrainian": "Сьогодні мені тепло й усе реально",
+      "transliteration": "S'ohodni meni teplo j use real'no",
+      "category": "Happiness",
+      "generated_at": "2026-11-18T02:30:32.312520"
+    },
+    {
+      "english": "I’m grateful for small, steady wins",
+      "ukrainian": "Я вдячний за маленькі й сталі перемоги",
+      "transliteration": "Ya vdjachnyj za malen'ki j stali peremohy",
+      "category": "Happiness",
+      "generated_at": "2026-11-18T02:30:32.312520"
+    },
+    {
+      "english": "A good cup of coffee helps",
+      "ukrainian": "Добра чашка кави реально гріє",
+      "transliteration": "Dobra chashka kavy real'no hriye",
+      "category": "Happiness",
+      "generated_at": "2026-11-18T02:30:32.312520"
+    },
+    {
+      "english": "My body feels safe and relaxed",
+      "ukrainian": "Моє тіло відчуває безпеку й розслаблення",
+      "transliteration": "Moye tilo vidchuvaye bezpeku j rozslablennya",
+      "category": "Happiness",
+      "generated_at": "2026-11-18T02:30:32.312520"
+    },
+    {
+      "english": "I choose hope, even quietly",
+      "ukrainian": "Я обираю надію, навіть тихо",
+      "transliteration": "Ya obyrayU nadiyu, navit' tyho",
+      "category": "Happiness",
+      "generated_at": "2026-11-18T02:30:32.312520"
+    },
+    {
+      "english": "Kind words today change everything",
+      "ukrainian": "Теплі слова сьогодні змінюють усе",
+      "transliteration": "Tepli slova s'ohodni zminyuyut' use",
+      "category": "Happiness",
+      "generated_at": "2026-11-18T02:30:32.312520"
+    },
+    {
+      "english": "I can rest without guilt",
+      "ukrainian": "Я можу відпочивати без провини",
+      "transliteration": "Ya mozhU vidpochyvaty bez provyny",
+      "category": "Happiness",
+      "generated_at": "2026-11-18T02:30:32.312520"
+    },
+    {
+      "english": "Home feels safer when we talk",
+      "ukrainian": "Дім стає безпечнішим, коли ми говоримо відверто.",
+      "transliteration": "Дім стає безпечнішим, коли ми ГОВОРИМО відверто.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-18T02:30:32.312520"
+    },
+    {
+      "english": "Text me when you get in",
+      "ukrainian": "Напиши мені, як ти зайдеш додому.",
+      "transliteration": "НАДПИШИ мені, як ти ЗАЙДЕШ додому.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-18T02:30:32.312520"
+    },
+    {
+      "english": "Let’s set the table together",
+      "ukrainian": "Давай накриємо стіл разом.",
+      "transliteration": "ДАвай накриємо СТІЛ разом.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-18T02:30:32.312520"
+    },
+    {
+      "english": "My mom always remembers birthdays",
+      "ukrainian": "Мама завжди пам’ятає дні народження.",
+      "transliteration": "МАма завжди пам’ятає дні народження.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-18T02:30:32.312520"
+    },
+    {
+      "english": "We share chores, so it’s fair",
+      "ukrainian": "Ми ділимося домашніми справами, щоб було справедливо.",
+      "transliteration": "Ми ДІлимося домашніми справами, щоб було СПРАведливо.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-18T02:30:32.312520"
+    },
+    {
+      "english": "Who wants tea, sweet or plain?",
+      "ukrainian": "Хто хоче чаю, з медом чи без?",
+      "transliteration": "ХТО хоче чаю, з МЕдом чи без?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-18T02:30:32.312520"
+    },
+    {
+      "english": "Keep shoes by the door, please",
+      "ukrainian": "Сховай взуття біля дверей, будь ласка.",
+      "transliteration": "СХОВай взуття біля ДВЕРЕЙ, будь ласка.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-18T02:30:32.312520"
+    },
+    {
+      "english": "What are today's specials, please?",
+      "ukrainian": "Які у вас сьогодні спеціальні страви?",
+      "transliteration": "Yaki u vas sʹohodni spetsialʹni stravy?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-18T02:30:32.312520"
+    },
+    {
+      "english": "I’m vegetarian, any recommendations?",
+      "ukrainian": "Я вегетаріанець, що порадите?",
+      "transliteration": "Ya vehetarīanetsʹ, shcho poradite?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-18T02:30:32.312520"
+    },
+    {
+      "english": "Can I substitute fries for salad?",
+      "ukrainian": "Чи можна замінити картоплю на салат?",
+      "transliteration": "Chy mozhna zaminity kartoplʹu na salat?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-18T02:30:32.312520"
+    },
+    {
+      "english": "What comes with the main dish?",
+      "ukrainian": "З чим подають основну страву?",
+      "transliteration": "Z chym podaiutʹ osnovnu stravu?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-18T02:30:32.312520"
+    },
+    {
+      "english": "Could I have extra napkins, please?",
+      "ukrainian": "Можна ще серветок, будь ласка?",
+      "transliteration": "Mozhna shche servetok, budʹ laska?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-18T02:30:32.312520"
+    },
+    {
+      "english": "Is the chicken breaded?",
+      "ukrainian": "Курка в паніровці?",
+      "transliteration": "Kurka v panirovtsi?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-18T02:30:32.312520"
+    },
+    {
+      "english": "Do you serve it freshly made?",
+      "ukrainian": "Це готують одразу, щойно замовляю?",
+      "transliteration": "Tse hotuiutʹ odrazu, shchoyno zamovlyayu?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-18T02:30:32.312520"
+    },
+    {
+      "english": "I feel safe when you’re close.",
+      "ukrainian": "Мені затишно, коли ти поруч.",
+      "transliteration": "Meni zatysno, koly ty poruch.",
+      "category": "Love",
+      "generated_at": "2026-11-18T02:30:32.312520"
+    },
+    {
+      "english": "Let’s talk, then breathe together.",
+      "ukrainian": "Поговорімо, а потім просто подихаємо разом.",
+      "transliteration": "Pogovorymo, a potim prosto dykhiyemo razom.",
+      "category": "Love",
+      "generated_at": "2026-11-18T02:30:32.312520"
+    },
+    {
+      "english": "I like who I become with you.",
+      "ukrainian": "Мені подобається, ким я стаю поруч з тобою.",
+      "transliteration": "Meni podobayetsya, kym ya stayu poruch z toboyu.",
+      "category": "Love",
+      "generated_at": "2026-11-18T02:30:32.312520"
+    },
+    {
+      "english": "Your kindness makes everything softer.",
+      "ukrainian": "Твоя доброта робить усе м’якшим.",
+      "transliteration": "Tvoya dobrotа robyt usе myakshym.",
+      "category": "Love",
+      "generated_at": "2026-11-18T02:30:32.312520"
+    },
+    {
+      "english": "I want your dreams, not just plans.",
+      "ukrainian": "Я хочу твої мрії, а не лише плани.",
+      "transliteration": "Ya khochu tvoyi mriyi, a ne lishe plany.",
+      "category": "Love",
+      "generated_at": "2026-11-18T02:30:32.312520"
+    },
+    {
+      "english": "Hold my hand, even briefly.",
+      "ukrainian": "Дай мені руку, навіть ненадовго.",
+      "transliteration": "Day meni ruku, navit nenadovgo.",
+      "category": "Love",
+      "generated_at": "2026-11-18T02:30:32.312520"
+    },
+    {
+      "english": "I’m listening for the real you.",
+      "ukrainian": "Я слухаю, де твоя справжня ти.",
+      "transliteration": "Ya slukhayu, de tvoya spravzhnyaya ty.",
+      "category": "Love",
+      "generated_at": "2026-11-18T02:30:32.312520"
+    },
+    {
+      "english": "What’s the final price after discounts?",
+      "ukrainian": "Яка остаточна ціна після знижок?",
+      "transliteration": "Yaka ostatochna tsina pislya znyzhok?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-18T02:30:32.312520"
+    },
+    {
+      "english": "Does this include VAT and delivery?",
+      "ukrainian": "Це включає ПДВ і доставку?",
+      "transliteration": "Tse vkluchaie PDV i dostavku?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-18T02:30:32.312520"
+    },
+    {
+      "english": "Do you offer exchanges without receipts?",
+      "ukrainian": "Чи можна обмін без чека?",
+      "transliteration": "Chy mozhna obmin bez cheka?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-18T02:30:32.312520"
+    },
+    {
+      "english": "Is there a warranty for this?",
+      "ukrainian": "Є гарантія на це?",
+      "transliteration": "Ye harantiya na tse?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-18T02:30:32.312520"
+    },
+    {
+      "english": "How long is the return period?",
+      "ukrainian": "На який строк діє повернення?",
+      "transliteration": "Na yakyi strok diie povernennya?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-18T02:30:32.312520"
+    },
+    {
+      "english": "Show me the cheaper same quality.",
+      "ukrainian": "Покажіть дешевший варіант тієї ж якості.",
+      "transliteration": "Pokazhit deshevshyi variant tih zh yakosti.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-18T02:30:32.312520"
+    },
+    {
+      "english": "Can I see it in person?",
+      "ukrainian": "Можна подивитися наживо?",
+      "transliteration": "Mozhna dyvytysya nazivo?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-18T02:30:32.312520"
+    },
+    {
+      "english": "Hi, can I speak with the doctor?",
+      "ukrainian": "Добрий день, можу поговорити з лікарем?",
+      "transliteration": "Dobryi den, mozhu pohovoryty z LIKAREM?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-18T02:30:32.312520"
+    },
+    {
+      "english": "What’s the next step for me?",
+      "ukrainian": "Який наступний крок для мене?",
+      "transliteration": "Yakyi nastupnyi KROK dlya mene?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-18T02:30:32.312520"
+    },
+    {
+      "english": "Do I need blood tests today?",
+      "ukrainian": "Мені потрібні аналізи крові сьогодні?",
+      "transliteration": "Meni potribni ANALIZY KROVI sohodni?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-18T02:30:32.312520"
+    },
+    {
+      "english": "How long will this treatment take?",
+      "ukrainian": "Скільки триватиме це лікування?",
+      "transliteration": "SkiLky tryv6tyme tse LIkuvannia?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-18T02:30:32.312520"
+    },
+    {
+      "english": "Can you explain side effects calmly?",
+      "ukrainian": "Можете спокійно пояснити побічні ефекти?",
+      "transliteration": "Mozhete SPOKOIYNO poiasnyty POBICHNI efekty?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-18T02:30:32.312520"
+    },
+    {
+      "english": "What should I avoid while taking it?",
+      "ukrainian": "Чого мені уникати під час прийому?",
+      "transliteration": "Chogo meni UNYKATY pid chas pryimu?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-18T02:30:32.312520"
+    },
+    {
+      "english": "Will this medication interact with mine?",
+      "ukrainian": "Чи буде ця ліки взаємодіяти з моїми?",
+      "transliteration": "Chy bude tsya LIky vzaiemodiAYty z moiMY?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-18T02:30:32.312520"
+    },
+    {
+      "english": "Start before you feel confident.",
+      "ukrainian": "Почни раніше, ніж стане страшно.",
+      "transliteration": "Pochny, ranishe, nizh stane strashno",
+      "category": "Motivation",
+      "generated_at": "2026-11-18T02:30:32.312520"
+    },
+    {
+      "english": "Make it fun, just for today.",
+      "ukrainian": "Зроби це цікаво, хоча б сьогодні.",
+      "transliteration": "Zrob i ce tsikavo, hoty b sohodni",
+      "category": "Motivation",
+      "generated_at": "2026-11-18T02:30:32.312520"
+    },
+    {
+      "english": "One sentence a day keeps momentum.",
+      "ukrainian": "Одна фраза на день тримає темп.",
+      "transliteration": "Odna fraza na den trymaye temp",
+      "category": "Motivation",
+      "generated_at": "2026-11-18T02:30:32.312520"
+    },
+    {
+      "english": "You can ask, then rest, then try.",
+      "ukrainian": "Можна запитати, посидіти тихо, і знову спробувати.",
+      "transliteration": "Mozhna zapytaty, posidyty tyho, i znovu sprobu yty",
+      "category": "Motivation",
+      "generated_at": "2026-11-18T02:30:32.312520"
+    },
+    {
+      "english": "Your brain learns through doing, not waiting.",
+      "ukrainian": "Мозок вчиться через дію, не через очікування.",
+      "transliteration": "Mozok vchyt sya cherez diyu, ne cherez ochikuvannya",
+      "category": "Motivation",
+      "generated_at": "2026-11-18T02:30:32.312520"
+    },
+    {
+      "english": "Choose one phrase and use it daily.",
+      "ukrainian": "Вибери одну фразу й повторюй її щодня.",
+      "transliteration": "Vybyry odnu frazu i povtory u yiyi shchodnya",
+      "category": "Motivation",
+      "generated_at": "2026-11-18T02:30:32.312520"
+    },
+    {
+      "english": "When you stumble, smile and continue.",
+      "ukrainian": "Спіткнувся, посміхнись, і йди далі.",
+      "transliteration": "Spitknuvsya, posmikh nis, i ydy dali",
+      "category": "Motivation",
+      "generated_at": "2026-11-18T02:30:32.312520"
+    },
+    {
+      "english": "Call emergency now, I stay with you.",
+      "ukrainian": "Терміново телефонуй у швидку, я лишаюсь з тобою.",
+      "transliteration": "TerMINovo telefonuy u shVYdku, ya LYsha-yus z toBOyu.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-18T02:30:32.312520"
+    },
+    {
+      "english": "Where are you right now, safe?",
+      "ukrainian": "Де ти зараз, у безпеці?",
+      "transliteration": "De ti ZAraz, u BEZpetsi?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-18T02:30:32.312520"
+    },
+    {
+      "english": "Do you have chest pain or pressure?",
+      "ukrainian": "У тебе є біль у грудях чи стискання?",
+      "transliteration": "U teBE ye bil u HRudyakh chy SYskannya?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-18T02:30:32.312520"
+    },
+    {
+      "english": "Is it sudden, or building over time?",
+      "ukrainian": "Це раптово чи наростає з часом?",
+      "transliteration": "Tse RAPtovo chy narosta-ye z CHAсом?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-18T02:30:32.312520"
+    },
+    {
+      "english": "Check breathing, are you gasping?",
+      "ukrainian": "Перевір дихання, ти задихаєшся?",
+      "transliteration": "PerevIR dYkhannya, ty zadYKHayeshsya?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-18T02:30:32.312520"
+    },
+    {
+      "english": "Keep your airway clear, lean slightly forward.",
+      "ukrainian": "Тримай дихальні шляхи відкритими, трохи нахились вперед.",
+      "transliteration": "Trymay dykhalni SHLYakhy vidkRИtymy, trokhy nakHYlys vPERed.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-18T02:30:32.312520"
+    },
+    {
+      "english": "If you faint, lie on your side.",
+      "ukrainian": "Якщо паморочиться, ляж на бік.",
+      "transliteration": "Yakshcho pamORochytsya, lyazh na bIK.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-18T02:30:32.312520"
     }
   ],
-  "last_updated": "2026-11-17T02:59:42.703222"
+  "last_updated": "2026-11-18T02:30:32.312520"
 }
