@@ -351,7 +351,39 @@
     {
       "category": "Asking for Directions",
       "date": "2026-11-20"
+    },
+    {
+      "category": "Weather & Small Talk",
+      "date": "2026-11-21"
+    },
+    {
+      "category": "Growth",
+      "date": "2026-11-21"
+    },
+    {
+      "category": "Public Transportation",
+      "date": "2026-11-21"
+    },
+    {
+      "category": "Confidence",
+      "date": "2026-11-21"
+    },
+    {
+      "category": "Banking & Money",
+      "date": "2026-11-21"
+    },
+    {
+      "category": "Cultural Traditions",
+      "date": "2026-11-21"
+    },
+    {
+      "category": "Agreeing & Disagreeing",
+      "date": "2026-11-21"
+    },
+    {
+      "category": "Making Plans",
+      "date": "2026-11-21"
     }
   ],
-  "last_updated": "2026-11-20T01:49:54.083271"
+  "last_updated": "2026-11-21T01:35:05.803708"
 }
