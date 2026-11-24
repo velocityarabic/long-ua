@@ -21591,7 +21591,399 @@
       "transliteration": "Rozkazhy svoю istoriyu troma rechennyamy.",
       "category": "Creativity",
       "generated_at": "2026-11-23T00:58:07.949175"
+    },
+    {
+      "english": "I need feedback on this draft.",
+      "ukrainian": "Мені потрібен фідбек щодо цього чернеткового варіанту.",
+      "transliteration": "Meni potriben FIDbek schodo tsogo chernetkovoho variantu.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-24T04:51:17.602487"
+    },
+    {
+      "english": "Can you talk me through it?",
+      "ukrainian": "Ти можеш проговорити зі мною крок за кроком?",
+      "transliteration": "Ty mozhes prohovoryty zi mnoyu krok za krokusom?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-24T04:51:17.602487"
+    },
+    {
+      "english": "Let's align on the next steps.",
+      "ukrainian": "Давай узгодимо наступні кроки.",
+      "transliteration": "Davai uzo hodymo nastupni kropky.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-24T04:51:17.602487"
+    },
+    {
+      "english": "I’m stuck, can someone help?",
+      "ukrainian": "Я завис, можеш допомогти хтось?",
+      "transliteration": "Ya zavy s, mozhesh dopomohty khtos?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-24T04:51:17.602487"
+    },
+    {
+      "english": "We’re running late today.",
+      "ukrainian": "Ми сьогодні трохи запізнюємося.",
+      "transliteration": "My s'ohodni troshky zapiznyuyemosya.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-24T04:51:17.602487"
+    },
+    {
+      "english": "Please queue this for approval.",
+      "ukrainian": "Будь ласка, постав це в чергу на погодження.",
+      "transliteration": "Budʹ laska, postav tse v cherhu na pohodzhennya.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-24T04:51:17.602487"
+    },
+    {
+      "english": "Who can unblock this issue?",
+      "ukrainian": "Хто може зняти це блокування з проблеми?",
+      "transliteration": "Khto mozhe znyaty tse bloku vannya z problemy?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-24T04:51:17.602487"
+    },
+    {
+      "english": "Hi, how’s your day going?",
+      "ukrainian": "Привіт, як у тебе справи сьогодні?",
+      "transliteration": "Pryvit, yak u tebe spravy sohodni?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-24T04:51:17.602487"
+    },
+    {
+      "english": "I’m excited to meet you in person.",
+      "ukrainian": "Мені приємно познайомитися з тобою наживо.",
+      "transliteration": "Meni priemno poznaiomytysia z toboiu nazhyvo.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-24T04:51:17.602487"
+    },
+    {
+      "english": "Could we talk for a minute?",
+      "ukrainian": "Можна з тобою на хвилинку поговорити?",
+      "transliteration": "Mozhna z toboiu na hvylynku pohovoryty?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-24T04:51:17.602487"
+    },
+    {
+      "english": "How do you prefer I pronounce your name?",
+      "ukrainian": "Як тобі зручно, щоб я вимовляв твоє ім’я?",
+      "transliteration": "Yak tobi zruchno, shchob ya vymovliav tvoie im'ya?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-24T04:51:17.602487"
+    },
+    {
+      "english": "I’ll introduce myself, by the way.",
+      "ukrainian": "Я зараз представлюся, до речі.",
+      "transliteration": "Ya zaraz predstavliu sia, do rechi.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-24T04:51:17.602487"
+    },
+    {
+      "english": "Where did you grow up?",
+      "ukrainian": "Звідки ти родом?",
+      "transliteration": "Zvidky ty rodom?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-24T04:51:17.602487"
+    },
+    {
+      "english": "Nice to meet you, let’s be friends.",
+      "ukrainian": "Приємно познайомитися, давай дружити.",
+      "transliteration": "Priemno poznaiomytysia, davay druzhyty.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-24T04:51:17.602487"
+    },
+    {
+      "english": "Can I pay by card here?",
+      "ukrainian": "Можна заплатити карткою тут?",
+      "transliteration": "Mozhna zaplatyty kartkoyu tut?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-24T04:51:17.602487"
+    },
+    {
+      "english": "What brands do you recommend?",
+      "ukrainian": "Які бренди ви радите?",
+      "transliteration": "Yaki brendy vy radyte?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-24T04:51:17.602487"
+    },
+    {
+      "english": "Are there student or loyalty discounts?",
+      "ukrainian": "Є знижки для студентів або за програмою лояльності?",
+      "transliteration": "Ye znyzhky dlya studentiv abo za programoyu loyalnosti?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-24T04:51:17.602487"
+    },
+    {
+      "english": "Is it on sale today?",
+      "ukrainian": "Він сьогодні зі знижкою?",
+      "transliteration": "Vin sohodni zi znyzhkoyu?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-24T04:51:17.602487"
+    },
+    {
+      "english": "What does the price include exactly?",
+      "ukrainian": "За що саме відповідає ця ціна?",
+      "transliteration": "Za shcho samе vidpovidaye tsya tsina?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-24T04:51:17.602487"
+    },
+    {
+      "english": "Can I see the size chart?",
+      "ukrainian": "Можете показати розмірну сітку?",
+      "transliteration": "Mozhete pokazaty rozmіrnu sіtku?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-24T04:51:17.602487"
+    },
+    {
+      "english": "Is the packaging included too?",
+      "ukrainian": "У комплекті є упаковка?",
+      "transliteration": "U komlektі ye upakovka?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-24T04:51:17.602487"
+    },
+    {
+      "english": "I miss you, even in silence.",
+      "ukrainian": "Мені бракує тебе навіть у тиші.",
+      "transliteration": "Meni brakuye tebe navit u tyshi.",
+      "category": "Love",
+      "generated_at": "2026-11-24T04:51:17.602487"
+    },
+    {
+      "english": "Tell me the truth, I can take it.",
+      "ukrainian": "Скажи мені правду, я витримаю.",
+      "transliteration": "Skazhy meni pravdu, ya vytrymau.",
+      "category": "Love",
+      "generated_at": "2026-11-24T04:51:17.602487"
+    },
+    {
+      "english": "My heart leans toward you.",
+      "ukrainian": "Моє серце тягнеться до тебе.",
+      "transliteration": "Moye sertse tyahnetsya do tebe.",
+      "category": "Love",
+      "generated_at": "2026-11-24T04:51:17.602487"
+    },
+    {
+      "english": "I choose you in small moments.",
+      "ukrainian": "Я обираю тебе в дрібницях.",
+      "transliteration": "Ya obyrayuo tebe v dribnytsyakh.",
+      "category": "Love",
+      "generated_at": "2026-11-24T04:51:17.602487"
+    },
+    {
+      "english": "Stay close, I like us here.",
+      "ukrainian": "Побудь ближче, мені подобається нам тут.",
+      "transliteration": "Pobud blyzche, meni podobayetsya nam tut.",
+      "category": "Love",
+      "generated_at": "2026-11-24T04:51:17.602487"
+    },
+    {
+      "english": "When you laugh, I relax.",
+      "ukrainian": "Коли ти смієшся, мені спокійно.",
+      "transliteration": "Koly ty smiyeyeshsya, meni spokiyino.",
+      "category": "Love",
+      "generated_at": "2026-11-24T04:51:17.602487"
+    },
+    {
+      "english": "I want your comfort, not perfection.",
+      "ukrainian": "Мені потрібна твоя близькість, а не ідеальність.",
+      "transliteration": "Meni potribna tvoya blyzкість, a ne idealnist.",
+      "category": "Love",
+      "generated_at": "2026-11-24T04:51:17.602487"
+    },
+    {
+      "english": "Call emergency if breathing is hard",
+      "ukrainian": "Телефонуйте в екстрені служби, якщо важко дихати.",
+      "transliteration": "TeLeFONUyTe v ekstreNI sluzhBY, yakshcho vazhKo dyHaTY.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-24T04:51:17.602487"
+    },
+    {
+      "english": "I’m going to ask about allergies",
+      "ukrainian": "Я зараз запитаю про алергії.",
+      "transliteration": "YA zaraz zapytaIu pro aLErHii.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-24T04:51:17.602487"
+    },
+    {
+      "english": "Do you have an EpiPen with you",
+      "ukrainian": "Тобі потрібен епіпен, він у тебе є?",
+      "transliteration": "Tobi poTrIBen epiPen, vin u tebe ye?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-24T04:51:17.602487"
+    },
+    {
+      "english": "Stop eating, if your throat feels tight",
+      "ukrainian": "Припиніть їсти, якщо горло стискає.",
+      "transliteration": "PRypiniT diIty, yakshcho horlo stYskaE.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-24T04:51:17.602487"
+    },
+    {
+      "english": "Can you speak full sentences right now",
+      "ukrainian": "Ти можеш сказати повне речення прямо зараз?",
+      "transliteration": "Ti moZheSH skazaTY povNe reCheNnia praMO zh zaraz?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-24T04:51:17.602487"
+    },
+    {
+      "english": "Check the wound, is it still bleeding",
+      "ukrainian": "Подивись на рану, вона ще кровить?",
+      "transliteration": "PoDyVys na RA nu, vona shche krovYT?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-24T04:51:17.602487"
+    },
+    {
+      "english": "Press firmly, keep pressure on",
+      "ukrainian": "Тисни міцно, не послаблюй тиск.",
+      "transliteration": "TYsny mitsNo, ne poSlaBliUy TYSK.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-24T04:51:17.602487"
+    },
+    {
+      "english": "Hi, I need this prescription today.",
+      "ukrainian": "Привіт, мені потрібен цей рецепт сьогодні.",
+      "transliteration": "PRyvit, meni potriben tsei retsept SOhodni.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-24T04:51:17.602487"
+    },
+    {
+      "english": "Where is the pharmacy pickup counter?",
+      "ukrainian": "Де стійка видачі в аптеці?",
+      "transliteration": "De stiika vydachi v APtetsi?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-24T04:51:17.602487"
+    },
+    {
+      "english": "Can you check my dosage instructions?",
+      "ukrainian": "Можете перевірити мою дозу, будь ласка?",
+      "transliteration": "MOzhete pereviryty moyu DOzu, bud laska?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-24T04:51:17.602487"
+    },
+    {
+      "english": "I forgot the label, what now?",
+      "ukrainian": "Я загубив етикетку, що робити?",
+      "transliteration": "Ya zahubiv Etyketku, shcho robyty?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-24T04:51:17.602487"
+    },
+    {
+      "english": "Does this come in a cheaper option?",
+      "ukrainian": "Чи є дешевший варіант цього препарату?",
+      "transliteration": "Chy ye deshevshyi VARiant ts'oho preparatu?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-24T04:51:17.602487"
+    },
+    {
+      "english": "Can I have it in liquid form?",
+      "ukrainian": "Чи можна мені в рідкій формі?",
+      "transliteration": "Chy mozhna meni v RIDkii formi?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-24T04:51:17.602487"
+    },
+    {
+      "english": "How should I store it at home?",
+      "ukrainian": "Як мені зберігати це вдома?",
+      "transliteration": "Yak meni zberihaty tse vDOMa?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-24T04:51:17.602487"
+    },
+    {
+      "english": "I’m letting joy meet me halfway",
+      "ukrainian": "Я даю радості зустріти мене наполовину",
+      "transliteration": "Ya dayu radosti zustrity mene napovilinu",
+      "category": "Happiness",
+      "generated_at": "2026-11-24T04:51:17.602487"
+    },
+    {
+      "english": "Today I choose softness, not stress",
+      "ukrainian": "Сьогодні я обираю м’якість, а не стрес",
+      "transliteration": "Sʹohodni ya obyrayu m’yakistʹ, a ne stres",
+      "category": "Happiness",
+      "generated_at": "2026-11-24T04:51:17.602487"
+    },
+    {
+      "english": "Grateful breath, calm mind, steady heart",
+      "ukrainian": "Дихаю з вдячністю, розум спокійний, серце тримає рівний ритм",
+      "transliteration": "Dyhayu z vdyachnistyu, rozum spokiynyy, sertse trymaye rivnyy rytm",
+      "category": "Happiness",
+      "generated_at": "2026-11-24T04:51:17.602487"
+    },
+    {
+      "english": "My smile comes from inside",
+      "ukrainian": "Моя усмішка йде зсередини",
+      "transliteration": "Moya usmishka yde zseredyny",
+      "category": "Happiness",
+      "generated_at": "2026-11-24T04:51:17.602487"
+    },
+    {
+      "english": "I make room for quiet happiness",
+      "ukrainian": "Я знаходжу місце для тихого щастя",
+      "transliteration": "Ya znahodzhuyu mistse dlya tyhoho schastya",
+      "category": "Happiness",
+      "generated_at": "2026-11-24T04:51:17.602487"
+    },
+    {
+      "english": "Kindness to myself feels powerful",
+      "ukrainian": "Доброта до себе дає силу",
+      "transliteration": "Dobrota do sebe daye sýlu",
+      "category": "Happiness",
+      "generated_at": "2026-11-24T04:51:17.602487"
+    },
+    {
+      "english": "I’m proud of how I’m growing",
+      "ukrainian": "Я пишаюся тим, як я росту",
+      "transliteration": "Ya pyshayuśya tym, yak ya rostu",
+      "category": "Happiness",
+      "generated_at": "2026-11-24T04:51:17.602487"
+    },
+    {
+      "english": "Try again, even if it stings.",
+      "ukrainian": "Спробуй ще раз, навіть якщо боляче.",
+      "transliteration": "SprobuЙ she raz, navit yakshcho bolyache.",
+      "category": "Motivation",
+      "generated_at": "2026-11-24T04:51:17.602487"
+    },
+    {
+      "english": "Make your learning your small ritual.",
+      "ukrainian": "Зроби навчання маленьким щоденним ритуалом.",
+      "transliteration": "Zroby navchannya malenkym shchodennym rytualom.",
+      "category": "Motivation",
+      "generated_at": "2026-11-24T04:51:17.602487"
+    },
+    {
+      "english": "One conversation beats ten perfect lessons.",
+      "ukrainian": "Одна розмова важить більше за десять уроків.",
+      "transliteration": "Odna rozmova vazhit bilshe za desyat urokiv.",
+      "category": "Motivation",
+      "generated_at": "2026-11-24T04:51:17.602487"
+    },
+    {
+      "english": "Speak for one person, not perfection.",
+      "ukrainian": "Говори для однієї людини, не для ідеалу.",
+      "transliteration": "Hovory dlya odniyei lyudyny, ne dlya idealu.",
+      "category": "Motivation",
+      "generated_at": "2026-11-24T04:51:17.602487"
+    },
+    {
+      "english": "Let mistakes open doors, not walls.",
+      "ukrainian": "Нехай помилки відкривають двері, а не стіни.",
+      "transliteration": "Ne hai pomylky vidkryvayut dveri, a ne stiny.",
+      "category": "Motivation",
+      "generated_at": "2026-11-24T04:51:17.602487"
+    },
+    {
+      "english": "Ask one question today, quietly.",
+      "ukrainian": "Сьогодні запитай одне питання, спокійно.",
+      "transliteration": "Sogodni zapytay odne pytannya, spokiyno.",
+      "category": "Motivation",
+      "generated_at": "2026-11-24T04:51:17.602487"
+    },
+    {
+      "english": "Short answers build real confidence fast.",
+      "ukrainian": "Короткі відповіді швидко додають впевненості.",
+      "transliteration": "Korotki vidpovidi shvydko dodayut vpevnenosti.",
+      "category": "Motivation",
+      "generated_at": "2026-11-24T04:51:17.602487"
     }
   ],
-  "last_updated": "2026-11-23T00:58:07.949175"
+  "last_updated": "2026-11-24T04:51:17.602487"
 }
