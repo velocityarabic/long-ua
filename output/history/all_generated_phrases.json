@@ -21983,7 +21983,399 @@
       "transliteration": "Korotki vidpovidi shvydko dodayut vpevnenosti.",
       "category": "Motivation",
       "generated_at": "2026-11-24T04:51:17.602487"
+    },
+    {
+      "english": "Make room for everyone at dinner.",
+      "ukrainian": "Знайди місце для всіх за вечерею.",
+      "transliteration": "Znaĭdy mistse dlia vsikh za vechereiu.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-25T03:38:37.056085"
+    },
+    {
+      "english": "We wash hands, then we eat.",
+      "ukrainian": "Ми миємо руки, а потім їмо.",
+      "transliteration": "My myemo ruky, a potim yimo.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-25T03:38:37.056085"
+    },
+    {
+      "english": "Story time starts after homework.",
+      "ukrainian": "Читання історій починається після домашки.",
+      "transliteration": "Chytannia istorii pochynaietsia pislia domashky.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-25T03:38:37.056085"
+    },
+    {
+      "english": "Who’s hungry, I’m plating food.",
+      "ukrainian": "Хто голодний, я накладаю їжу.",
+      "transliteration": "Khto holodnyi, ya nakladayU yizhu.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-25T03:38:37.056085"
+    },
+    {
+      "english": "Let’s call Grandma, just to chat.",
+      "ukrainian": "Давай подзвонимо бабусі, просто поговорити.",
+      "transliteration": "Davay podzvonnyomo babusi, prosto pohovoryty.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-25T03:38:37.056085"
+    },
+    {
+      "english": "The kids tidy toys before bed.",
+      "ukrainian": "Діти прибирають іграшки перед сном.",
+      "transliteration": "Dity prybyraiut ihrashky pered snom.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-25T03:38:37.056085"
+    },
+    {
+      "english": "We listen first, then we decide.",
+      "ukrainian": "Спочатку слухаємо, а потім вирішуємо.",
+      "transliteration": "Spochatku slukhaemo, a potim vyrishuiemo.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-25T03:38:37.056085"
+    },
+    {
+      "english": "What’s the quickest thing to order?",
+      "ukrainian": "Що найшвидше можна замовити?",
+      "transliteration": "SHcho naySHVYdSHe mozhna zamovyty?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-25T03:38:37.056085"
+    },
+    {
+      "english": "I’d like it mild, please.",
+      "ukrainian": "Мені, будь ласка, м’яко, не гостро.",
+      "transliteration": "Meni budʹ laska MYaKO, ne HOSTro.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-25T03:38:37.056085"
+    },
+    {
+      "english": "Is the portion big enough?",
+      "ukrainian": "Порція велика, чи вистачить?",
+      "transliteration": "Porciya VELYka, chy vySTACHyt?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-25T03:38:37.056085"
+    },
+    {
+      "english": "Do you have any kid-friendly options?",
+      "ukrainian": "У вас є щось для дітей, будь ласка?",
+      "transliteration": "U vas ye shchosʹ dlya ditey budʹ laska?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-25T03:38:37.056085"
+    },
+    {
+      "english": "I’m allergic to peanuts, please.",
+      "ukrainian": "У мене алергія на арахіс, будь ласка.",
+      "transliteration": "U mene aleRHIya na ARAHIS, budʹ laska.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-25T03:38:37.056085"
+    },
+    {
+      "english": "What’s the cheapest meal today?",
+      "ukrainian": "Який найдешевший обід сьогодні?",
+      "transliteration": "YAkyy nayDESHevshyy obid soGOdni?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-25T03:38:37.056085"
+    },
+    {
+      "english": "Can I have it to go?",
+      "ukrainian": "Можна це з собою?",
+      "transliteration": "Mozhna tse z SOBOyu?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-25T03:38:37.056085"
+    },
+    {
+      "english": "Look around, soften your eyes",
+      "ukrainian": "Оглянься, пом’якши погляд",
+      "transliteration": "OHLyhnʹsya, pOMyakshy pohlyad",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-25T03:38:37.056085"
+    },
+    {
+      "english": "Feel your breath, no effort",
+      "ukrainian": "Відчуй дихання, без зусиль",
+      "transliteration": "VIdchuy dyhannya, bez zusyLʹ",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-25T03:38:37.056085"
+    },
+    {
+      "english": "Let the thought arrive, then leave",
+      "ukrainian": "Нехай думка приходить і відходить",
+      "transliteration": "NeKHAY dumka pryKhodytʹ i vIdhodytʹ",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-25T03:38:37.056085"
+    },
+    {
+      "english": "Unhook from the story you tell",
+      "ukrainian": "Від’єднайся від історії, яку собі кажеш",
+      "transliteration": "VidYednaysya vId istoriyi, yaku sobI kazhesh",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-25T03:38:37.056085"
+    },
+    {
+      "english": "Soften your tongue in your mouth",
+      "ukrainian": "Розслаб язик у роті",
+      "transliteration": "ROZSlab yazyk u roTI",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-25T03:38:37.056085"
+    },
+    {
+      "english": "Notice your hands, what are they doing?",
+      "ukrainian": "Поміть руки, що вони зараз роблять",
+      "transliteration": "PomItʹ ruky, SHcho vony zaraz roBYatʹ",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-25T03:38:37.056085"
+    },
+    {
+      "english": "Hear your name, respond gently",
+      "ukrainian": "Усвідом, як ти реагуєш на своє ім’я",
+      "transliteration": "USvIdom, yak ty reahuyEsh na svoye IM’ya",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-25T03:38:37.056085"
+    },
+    {
+      "english": "I find my strength in small wins.",
+      "ukrainian": "Я знаходжу силу в маленьких перемогах.",
+      "transliteration": "Ya znahozhu sylu v malenkýkh peremogakh.",
+      "category": "Strength",
+      "generated_at": "2026-11-25T03:38:37.056085"
+    },
+    {
+      "english": "Stay with me, I won't fold.",
+      "ukrainian": "Тримайся зі мною, я не зламаюсь.",
+      "transliteration": "Trymai'sya zi mnoiu, ya ne zlamaus'.",
+      "category": "Strength",
+      "generated_at": "2026-11-25T03:38:37.056085"
+    },
+    {
+      "english": "My spine is straight, my mind steady.",
+      "ukrainian": "Мій хребет рівний, думки спокійні.",
+      "transliteration": "Mii khrebet rivnyi, dumky spokiini.",
+      "category": "Strength",
+      "generated_at": "2026-11-25T03:38:37.056085"
+    },
+    {
+      "english": "I speak slowly, strength is calm.",
+      "ukrainian": "Я говорю повільно, сила в спокої.",
+      "transliteration": "Ya hovoriou povil'no, syla v spokoі.",
+      "category": "Strength",
+      "generated_at": "2026-11-25T03:38:37.056085"
+    },
+    {
+      "english": "I set a boundary, gently but firmly.",
+      "ukrainian": "Я ставлю межу, м’яко, але твердо.",
+      "transliteration": "Ya stavliu mezhu, miako, ale tverdo.",
+      "category": "Strength",
+      "generated_at": "2026-11-25T03:38:37.056085"
+    },
+    {
+      "english": "Even tired, I keep moving forward.",
+      "ukrainian": "Навіть втомлений, я рухаюся далі.",
+      "transliteration": "Navit' vtomlenyi, ya rukhaiusya dali.",
+      "category": "Strength",
+      "generated_at": "2026-11-25T03:38:37.056085"
+    },
+    {
+      "english": "I choose courage over convenience.",
+      "ukrainian": "Я обираю сміливість замість легкості.",
+      "transliteration": "Ya obyrayiu simílivist' zamist' lehkosti.",
+      "category": "Strength",
+      "generated_at": "2026-11-25T03:38:37.056085"
+    },
+    {
+      "english": "You get me, no explanations.",
+      "ukrainian": "Ти розумієш мене, без пояснень.",
+      "transliteration": "Ty ROzumíš mene, bez poYasnènʹ",
+      "category": "Friendship",
+      "generated_at": "2026-11-25T03:38:37.056085"
+    },
+    {
+      "english": "Let s grab coffee and talk.",
+      "ukrainian": "Давай візьмемо каву й поговоримо.",
+      "transliteration": "DavaJ VIZʹmomo kau i pogovoRimo",
+      "category": "Friendship",
+      "generated_at": "2026-11-25T03:38:37.056085"
+    },
+    {
+      "english": "We celebrate wins together, always.",
+      "ukrainian": "Ми разом святкуємо перемоги, завжди.",
+      "transliteration": "My raZom sviatkuYemo peremoHy, zavZHdy",
+      "category": "Friendship",
+      "generated_at": "2026-11-25T03:38:37.056085"
+    },
+    {
+      "english": "I can be myself with you.",
+      "ukrainian": "З тобою я можу бути собою.",
+      "transliteration": "Z TOboom ya moZhu buty soBOYu",
+      "category": "Friendship",
+      "generated_at": "2026-11-25T03:38:37.056085"
+    },
+    {
+      "english": "Thanks for listening when I rant.",
+      "ukrainian": "Дякую, що слухаєш, коли я виговорююся.",
+      "transliteration": "DiakuYo, shcho SLukhayesh, KOly ya vyhovoryuYSya",
+      "category": "Friendship",
+      "generated_at": "2026-11-25T03:38:37.056085"
+    },
+    {
+      "english": "You text first, and it helps.",
+      "ukrainian": "Ти пишеш першим, і від цього легше.",
+      "transliteration": "Ty PYshesh perSHym, i vid tSOgo lehSHe",
+      "category": "Friendship",
+      "generated_at": "2026-11-25T03:38:37.056085"
+    },
+    {
+      "english": "We keep it real, every time.",
+      "ukrainian": "Ми тримаємося правди, кожного разу.",
+      "transliteration": "My TRymaiesmoSya pravdy, kozHnoho raZU",
+      "category": "Friendship",
+      "generated_at": "2026-11-25T03:38:37.056085"
+    },
+    {
+      "english": "Hope, come sit with me today.",
+      "ukrainian": "Надіє, прийди посиди зі мною сьогодні.",
+      "transliteration": "Nadiye, pryy̆dy posy dy zi mnoyu sohodni.",
+      "category": "Hope",
+      "generated_at": "2026-11-25T03:38:37.056085"
+    },
+    {
+      "english": "I can hope without pretending.",
+      "ukrainian": "Я можу мати надію, не прикидаючись.",
+      "transliteration": "Ya mozhу mayty nadiyu, ne prykydayuchysʹ.",
+      "category": "Hope",
+      "generated_at": "2026-11-25T03:38:37.056085"
+    },
+    {
+      "english": "I let hope live in small moments.",
+      "ukrainian": "Я даю надії жити в малих моментах.",
+      "transliteration": "Ya dayu nadiyi zhyty v malykh momentakh.",
+      "category": "Hope",
+      "generated_at": "2026-11-25T03:38:37.056085"
+    },
+    {
+      "english": "When I wake, I choose hope again.",
+      "ukrainian": "Коли я прокидаюся, я знов обираю надію.",
+      "transliteration": "Koly ya prokydayusya, ya znov obyrayu nadiyu.",
+      "category": "Hope",
+      "generated_at": "2026-11-25T03:38:37.056085"
+    },
+    {
+      "english": "Hope keeps my hands reaching, gently.",
+      "ukrainian": "Надія тримає мої руки відкритими, лагідно.",
+      "transliteration": "Nadiya trymaye moi ruky vidkrytymy, lahidno.",
+      "category": "Hope",
+      "generated_at": "2026-11-25T03:38:37.056085"
+    },
+    {
+      "english": "I text one person, hopeful.",
+      "ukrainian": "Я пишу одній людині, з надією.",
+      "transliteration": "Ya pyshu odniy lyudyni, z nadiyeyu.",
+      "category": "Hope",
+      "generated_at": "2026-11-25T03:38:37.056085"
+    },
+    {
+      "english": "I’m building hope, not waiting for luck.",
+      "ukrainian": "Я творю надію, а не чекаю на удачу.",
+      "transliteration": "Ya tvoryu nadiyu, a ne chekay u na udachu.",
+      "category": "Hope",
+      "generated_at": "2026-11-25T03:38:37.056085"
+    },
+    {
+      "english": "Take your time, really.",
+      "ukrainian": "Ти спокійно, не поспішай, будь ласка.",
+      "transliteration": "Ty spokiyno, ne pospiSHAy, budʹ laska.",
+      "category": "Patience",
+      "generated_at": "2026-11-25T03:38:37.056085"
+    },
+    {
+      "english": "I’ll wait, no problem.",
+      "ukrainian": "Я зачекаю, без проблем.",
+      "transliteration": "Ya zachekAYu, bez problem.",
+      "category": "Patience",
+      "generated_at": "2026-11-25T03:38:37.056085"
+    },
+    {
+      "english": "Let’s do it step by step.",
+      "ukrainian": "Давай робити все крок за кроком, без поспіху.",
+      "transliteration": "DavAY robyty vsye krok za krokom, bez posPIhu.",
+      "category": "Patience",
+      "generated_at": "2026-11-25T03:38:37.056085"
+    },
+    {
+      "english": "Give me a second to breathe.",
+      "ukrainian": "Дай мені секунду, щоб видихнути.",
+      "transliteration": "Day meni seKUNdu, shchob vydyKHnuty.",
+      "category": "Patience",
+      "generated_at": "2026-11-25T03:38:37.056085"
+    },
+    {
+      "english": "We can pause and continue later.",
+      "ukrainian": "Можемо зробити паузу й продовжити потім.",
+      "transliteration": "MOzhemo zroByty pauzu y prodovzhYty POTIM.",
+      "category": "Patience",
+      "generated_at": "2026-11-25T03:38:37.056085"
+    },
+    {
+      "english": "Stay with me, just calmly.",
+      "ukrainian": "Тримайся зі мною, спокійно.",
+      "transliteration": "TryMAYSya zi mnoyu, spokiYno.",
+      "category": "Patience",
+      "generated_at": "2026-11-25T03:38:37.056085"
+    },
+    {
+      "english": "Let’s wait until it’s ready.",
+      "ukrainian": "Почекаймо, доки все буде готове.",
+      "transliteration": "POchekaymo, doky vsye bUde goTOve.",
+      "category": "Patience",
+      "generated_at": "2026-11-25T03:38:37.056085"
+    },
+    {
+      "english": "Excuse me, where is passport control?",
+      "ukrainian": "Вибачте, де паспортний контроль?",
+      "transliteration": "Vybachte, de pasportnyy kontrol?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-25T03:38:37.056085"
+    },
+    {
+      "english": "Do I need a visa for this flight?",
+      "ukrainian": "Мені потрібна віза для цього рейсу?",
+      "transliteration": "Meni potribna viza dlya tsogo reisu?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-25T03:38:37.056085"
+    },
+    {
+      "english": "I lost my boarding pass, sorry.",
+      "ukrainian": "Я загубив посадковий талон, вибачте.",
+      "transliteration": "Ya zagubyv posadkovyy talon, vybachte.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-25T03:38:37.056085"
+    },
+    {
+      "english": "Could I change seats, please?",
+      "ukrainian": "Можна змінити місце, будь ласка?",
+      "transliteration": "Mozhna zminyty mistse, bud laska?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-25T03:38:37.056085"
+    },
+    {
+      "english": "Is there water here, please?",
+      "ukrainian": "Тут можна води, будь ласка?",
+      "transliteration": "Tut mozhna vody, bud laska?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-25T03:38:37.056085"
+    },
+    {
+      "english": "Which carousel has my luggage?",
+      "ukrainian": "На якому конвеєрі моє багажне?",
+      "transliteration": "Na yakomu koneyeri moye bazhzhye?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-25T03:38:37.056085"
+    },
+    {
+      "english": "I think my bag went missing.",
+      "ukrainian": "Здається, мій багаж загубився.",
+      "transliteration": "Zdaietsya, miy bazhzh ya zahubivsya.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-25T03:38:37.056085"
     }
   ],
-  "last_updated": "2026-11-24T04:51:17.602487"
+  "last_updated": "2026-11-25T03:38:37.056085"
 }
