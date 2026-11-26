@@ -22375,7 +22375,399 @@
       "transliteration": "Zdaietsya, miy bazhzh ya zahubivsya.",
       "category": "Travel & Airport",
       "generated_at": "2026-11-25T03:38:37.056085"
+    },
+    {
+      "english": "Pass the plates, please.",
+      "ukrainian": "Передай, будь ласка, тарілки.",
+      "transliteration": "Pereday, budʹ laska, tarilky.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-26T02:54:35.179570"
+    },
+    {
+      "english": "Let’s do a quick group photo.",
+      "ukrainian": "Давай зробимо швидке фото всією компанією.",
+      "transliteration": "Davaĭ zrobỳmo shvydke foto vsʹiеyu kompanieyu.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-26T02:54:35.179570"
+    },
+    {
+      "english": "I love this playlist, seriously!",
+      "ukrainian": "Мені дуже подобається цей плейлист.",
+      "transliteration": "Meni duzhe podobayetsya tseĭ pleĭlyst.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-26T02:54:35.179570"
+    },
+    {
+      "english": "Where’s the bathroom, please?",
+      "ukrainian": "Де тут туалет, будь ласка?",
+      "transliteration": "De tut tualet, budʹ laska?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-26T02:54:35.179570"
+    },
+    {
+      "english": "Cheers, everyone, you’re amazing!",
+      "ukrainian": "Тостуйте, будь ласка, усі ви неймовірні!",
+      "transliteration": "Tostoꞌuite, budʹ laska, usi vy neĭmovirni!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-26T02:54:35.179570"
+    },
+    {
+      "english": "Thanks for hosting tonight, really.",
+      "ukrainian": "Дуже дякую, що запросили і прийняли сьогодні.",
+      "transliteration": "Duzhe dʹakyuyu, shcho zaprosyly i pryynyaly sʹohodni.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-26T02:54:35.179570"
+    },
+    {
+      "english": "Can I help with the food?",
+      "ukrainian": "Можна я допоможу з їжею?",
+      "transliteration": "Mozhna ya dopomozhu z iizheyú?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-26T02:54:35.179570"
+    },
+    {
+      "english": "Thanks for the reminder, it helped.",
+      "ukrainian": "Дякую за нагадування, це реально допомогло.",
+      "transliteration": "Dyakuyu za nagaduvannya, tse realno dopomohlo.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-26T02:54:35.179570"
+    },
+    {
+      "english": "I really appreciate your encouragement.",
+      "ukrainian": "Щиро дякую за твою підтримку й підбадьорення.",
+      "transliteration": "Shchyrо dyakuyu za tvoyu pidtrymku y pidbadiorennya.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-26T02:54:35.179570"
+    },
+    {
+      "english": "I’m thankful for your steady help.",
+      "ukrainian": "Дякую тобі за постійну підтримку, це цінно.",
+      "transliteration": "Dyakuyu tobi za postiynu pidtrymku, tse tsinno.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-26T02:54:35.179570"
+    },
+    {
+      "english": "Thank you for the thoughtful advice.",
+      "ukrainian": "Дякую за твою мудру пораду, я це врахую.",
+      "transliteration": "Dyakuyu za tvoyu mudru poradu, ya tse vrakhu.-yu.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-26T02:54:35.179570"
+    },
+    {
+      "english": "I’m grateful for your open-mindedness.",
+      "ukrainian": "Дякую за твою відкритість і спокій у розмові.",
+      "transliteration": "Dyakuyu za tvoyu vidkrytist i spokiy u rozmovi.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-26T02:54:35.179570"
+    },
+    {
+      "english": "I appreciate your clear explanation.",
+      "ukrainian": "Дякую за чітке пояснення, стало зрозуміло.",
+      "transliteration": "Dyakuyu za chitke poiasnennya, stalo zrozumilo.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-26T02:54:35.179570"
+    },
+    {
+      "english": "Thank you for the second chance.",
+      "ukrainian": "Дякую тобі за другий шанс.",
+      "transliteration": "Dyakuyu tobi za druhyy shans.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-26T02:54:35.179570"
+    },
+    {
+      "english": "You can borrow my charger, please.",
+      "ukrainian": "Можеш позичити мій зарядний пристрій, будь ласка.",
+      "transliteration": "MoZHesh poZHYchyty miy zarYadnyy prystroy, budʹ laSKA.",
+      "category": "Kindness",
+      "generated_at": "2026-11-26T02:54:35.179570"
+    },
+    {
+      "english": "I noticed you, are you okay?",
+      "ukrainian": "Я помітив тебе, ти в порядку?",
+      "transliteration": "Ya poMIvtyv tebe, ty v pORYadku?",
+      "category": "Kindness",
+      "generated_at": "2026-11-26T02:54:35.179570"
+    },
+    {
+      "english": "Here, take a seat near me.",
+      "ukrainian": "Ось, візьми місце біля мене.",
+      "transliteration": "Ossʹ, vizʹmy misTSE bi lya MEne.",
+      "category": "Kindness",
+      "generated_at": "2026-11-26T02:54:35.179570"
+    },
+    {
+      "english": "That was a thoughtful message, thank you.",
+      "ukrainian": "Це було дуже турботливо з твого боку, дякую.",
+      "transliteration": "Tse buLO duzhe turboTLyvo z tvoHo boKu, dyaKUYu.",
+      "category": "Kindness",
+      "generated_at": "2026-11-26T02:54:35.179570"
+    },
+    {
+      "english": "Let me pick it up for you.",
+      "ukrainian": "Дай мені, я підберу це замість тебе.",
+      "transliteration": "Day meNI, ya pIDberyu tse zaMIS T tebE.",
+      "category": "Kindness",
+      "generated_at": "2026-11-26T02:54:35.179570"
+    },
+    {
+      "english": "Would you like to go first?",
+      "ukrainian": "Ти хочеш піти першим?",
+      "transliteration": "Ty khoCHesh pIty pershYm?",
+      "category": "Kindness",
+      "generated_at": "2026-11-26T02:54:35.179570"
+    },
+    {
+      "english": "I’m glad you came today.",
+      "ukrainian": "Мені дуже приємно, що ти прийшов сьогодні.",
+      "transliteration": "MeNI duzhe pryYemno, shcho ty pryYyshov sʹoHODni.",
+      "category": "Kindness",
+      "generated_at": "2026-11-26T02:54:35.179570"
+    },
+    {
+      "english": "Send one message, even if nervous.",
+      "ukrainian": "Надішли одне повідомлення, навіть якщо хвилюєшся.",
+      "transliteration": "Nadisli odne povidomlennia, navit yakshcho khvyluiiesiasia.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-26T02:54:35.179570"
+    },
+    {
+      "english": "Wash dishes, clear your mind.",
+      "ukrainian": "Помий посуд, очисти думки.",
+      "transliteration": "Pomyi posud, ochyst y dumky.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-26T02:54:35.179570"
+    },
+    {
+      "english": "Do it badly, then learn.",
+      "ukrainian": "Зроби погано, а потім навчишся.",
+      "transliteration": "Zroby pohano, a potim navchyshsia.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-26T02:54:35.179570"
+    },
+    {
+      "english": "Step outside, let your shoulders drop.",
+      "ukrainian": "Вийди надвір, нехай плечі опустяться.",
+      "transliteration": "Viіdy nadrivir, nekhai plechi opustiat'sia.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-26T02:54:35.179570"
+    },
+    {
+      "english": "Open the curtains, invite light in.",
+      "ukrainian": "Відкрий штори, впусти світло.",
+      "transliteration": "Vidkryi shtory, vpu sty svitlo.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-26T02:54:35.179570"
+    },
+    {
+      "english": "Write one sentence to future you.",
+      "ukrainian": "Напиши одне речення для майбутнього себе.",
+      "transliteration": "N ap yshy odne rechennia dlia maibutnoho sebe.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-26T02:54:35.179570"
+    },
+    {
+      "english": "Take a slow walk, notice five things.",
+      "ukrainian": "Повільна прогулянка, поміть п’ять речей.",
+      "transliteration": "Povilna prohulianka, pomit piat rechei.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-26T02:54:35.179570"
+    },
+    {
+      "english": "Success feels calm, not chaotic.",
+      "ukrainian": "Успіх відчувається спокійно, а не хаотично.",
+      "transliteration": "Uspikh VIDCHUVAЄTьsia spokIyno, a ne khaotYchno.",
+      "category": "Success",
+      "generated_at": "2026-11-26T02:54:35.179570"
+    },
+    {
+      "english": "I ship, then I improve.",
+      "ukrainian": "Я надсилаю, а потім удосконалюю.",
+      "transliteration": "Ya NADSYLAYU, a potIM udoskONalyuyu.",
+      "category": "Success",
+      "generated_at": "2026-11-26T02:54:35.179570"
+    },
+    {
+      "english": "My hard work gets noticed.",
+      "ukrainian": "Моя праця помітна.",
+      "transliteration": "Moya pratsia POMitna.",
+      "category": "Success",
+      "generated_at": "2026-11-26T02:54:35.179570"
+    },
+    {
+      "english": "I stop waiting, I start.",
+      "ukrainian": "Я перестаю чекати, я починаю.",
+      "transliteration": "Ya perestAyu chekAty, ya pochynAyu.",
+      "category": "Success",
+      "generated_at": "2026-11-26T02:54:35.179570"
+    },
+    {
+      "english": "One clear decision changed my week.",
+      "ukrainian": "Одна чітка дія змінила мій тиждень.",
+      "transliteration": "Odna chITka diya zminIla miy tyZHden'.",
+      "category": "Success",
+      "generated_at": "2026-11-26T02:54:35.179570"
+    },
+    {
+      "english": "I keep promises to myself.",
+      "ukrainian": "Я тримаю обіцянки собі.",
+      "transliteration": "Ya trymAyu obitsiANKy sobI.",
+      "category": "Success",
+      "generated_at": "2026-11-26T02:54:35.179570"
+    },
+    {
+      "english": "Small steps, strong results.",
+      "ukrainian": "Маленькі кроки, сильні результати.",
+      "transliteration": "Malen'ki KROky, syl'ni rezul'tAty.",
+      "category": "Success",
+      "generated_at": "2026-11-26T02:54:35.179570"
+    },
+    {
+      "english": "Okay, I forgive you. Really.",
+      "ukrainian": "Гаразд, я тебе прощаю, справді.",
+      "transliteration": "Harazd, ya tebe PROshayu, spravdi.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-26T02:54:35.179570"
+    },
+    {
+      "english": "I’m letting go of this anger.",
+      "ukrainian": "Я відпускаю цю злість.",
+      "transliteration": "Ya vidpuskayu TSYu zltsʹtʹ.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-26T02:54:35.179570"
+    },
+    {
+      "english": "You can count on my calm.",
+      "ukrainian": "На мене можеш розраховувати, я буду спокійний.",
+      "transliteration": "Na mene MOZHesh rozrakhovuvaty, ya BUdu SPOkíynyy.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-26T02:54:35.179570"
+    },
+    {
+      "english": "I forgive you, and I don’t want drama.",
+      "ukrainian": "Я тебе прощаю, і не хочу драми.",
+      "transliteration": "Ya tebe PROshayu, i ne khochu DRamy.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-26T02:54:35.179570"
+    },
+    {
+      "english": "I heard you, and I release it.",
+      "ukrainian": "Я тебе почув, і відпускаю це.",
+      "transliteration": "Ya tebe POChuv, i vÍdpuskayu tse.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-26T02:54:35.179570"
+    },
+    {
+      "english": "Let’s be kind from this moment.",
+      "ukrainian": "З цього моменту будемо добрими.",
+      "transliteration": "Z tsʹoho MOMentu budemo DOBrymy.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-26T02:54:35.179570"
+    },
+    {
+      "english": "I won’t bring it up again.",
+      "ukrainian": "Я більше цього не підніматиму.",
+      "transliteration": "Ya bilʹshe tsʹoho ne pídnImatyMu.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-26T02:54:35.179570"
+    },
+    {
+      "english": "Where is the nearest ATM?",
+      "ukrainian": "Де найближчий банкомат?",
+      "transliteration": "De NAІblyzhchyi BANkomat?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-26T02:54:35.179570"
+    },
+    {
+      "english": "How do I get to the airport?",
+      "ukrainian": "Як дістатися до аеропорту?",
+      "transliteration": "Yak DISTatysya do aERoportu?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-26T02:54:35.179570"
+    },
+    {
+      "english": "Is there a bridge nearby?",
+      "ukrainian": "Поруч є міст?",
+      "transliteration": "Poruch ye MІST?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-26T02:54:35.179570"
+    },
+    {
+      "english": "Does this road go downtown?",
+      "ukrainian": "Ця дорога веде в центр?",
+      "transliteration": "Tsya doroha vede v TSENTR?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-26T02:54:35.179570"
+    },
+    {
+      "english": "Which way is the river?",
+      "ukrainian": "Куди звідси річка?",
+      "transliteration": "KUDy zvidsi rІchka?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-26T02:54:35.179570"
+    },
+    {
+      "english": "Can you tell me the street name?",
+      "ukrainian": "Підкажіть, будь ласка, назву цієї вулиці.",
+      "transliteration": "PidKAZhit, bud' LAASKA, nazvu tsiyei VULytsi.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-26T02:54:35.179570"
+    },
+    {
+      "english": "What landmark is closest here?",
+      "ukrainian": "Що тут поруч, яку можна назвати візитівкою?",
+      "transliteration": "Shcho tut poruch, yaku mozhna nazvaty viziTІVKoyu?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-26T02:54:35.179570"
+    },
+    {
+      "english": "Do you have fresh croissants this morning?",
+      "ukrainian": "У вас є свіжі круасани сьогодні зранку?",
+      "transliteration": "U vas ye svi'ezhi kruasany s'ohodni zranku?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-26T02:54:35.179570"
+    },
+    {
+      "english": "I want a small latte, please.",
+      "ukrainian": "Мені, будь ласка, невеликий латте.",
+      "transliteration": "Meni, budʹ laska, nevelykyy latte.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-26T02:54:35.179570"
+    },
+    {
+      "english": "Is there a seasonal pastry today?",
+      "ukrainian": "Яка у вас сьогодні сезонна випічка?",
+      "transliteration": "Yaka u vas sʹohodni sezonna vy'pichka?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-26T02:54:35.179570"
+    },
+    {
+      "english": "Can I get a coffee to go?",
+      "ukrainian": "Можна каву з собою, будь ласка?",
+      "transliteration": "Mozhna kavu z soboyu, budʹ laska?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-26T02:54:35.179570"
+    },
+    {
+      "english": "What kind of bread is best for sandwiches?",
+      "ukrainian": "Який хліб найкраще підходить для сендвічів?",
+      "transliteration": "Yakyy khlib naykrashche pidkhodytʹ dlya sendvichiv?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-26T02:54:35.179570"
+    },
+    {
+      "english": "Do you have warm cinnamon buns?",
+      "ukrainian": "У вас є теплі булочки з корицею?",
+      "transliteration": "U vas ye tepli bu lochky z korytseyu?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-26T02:54:35.179570"
+    },
+    {
+      "english": "Could I get a slice of something light?",
+      "ukrainian": "Можна шматочок чогось легкого, будь ласка?",
+      "transliteration": "Mozhna shmatochek chohosʹ lehkoho, budʹ laska?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-26T02:54:35.179570"
     }
   ],
-  "last_updated": "2026-11-25T03:38:37.056085"
+  "last_updated": "2026-11-26T02:54:35.179570"
 }
