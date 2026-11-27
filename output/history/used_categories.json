@@ -543,7 +543,39 @@
     {
       "category": "Coffee Shop & Bakery",
       "date": "2026-11-26"
+    },
+    {
+      "category": "Positive Life",
+      "date": "2026-11-27"
+    },
+    {
+      "category": "Hobbies & Free Time",
+      "date": "2026-11-27"
+    },
+    {
+      "category": "Making Plans",
+      "date": "2026-11-27"
+    },
+    {
+      "category": "Agreeing & Disagreeing",
+      "date": "2026-11-27"
+    },
+    {
+      "category": "Cultural Traditions",
+      "date": "2026-11-27"
+    },
+    {
+      "category": "Banking & Money",
+      "date": "2026-11-27"
+    },
+    {
+      "category": "Growth",
+      "date": "2026-11-27"
+    },
+    {
+      "category": "Public Transportation",
+      "date": "2026-11-27"
     }
   ],
-  "last_updated": "2026-11-26T02:54:35.195965"
+  "last_updated": "2026-11-27T02:54:22.114233"
 }

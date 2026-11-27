@@ -22767,7 +22767,399 @@
       "transliteration": "Mozhna shmatochek chohosʹ lehkoho, budʹ laska?",
       "category": "Coffee Shop & Bakery",
       "generated_at": "2026-11-26T02:54:35.179570"
+    },
+    {
+      "english": "I drink water and feel steadier.",
+      "ukrainian": "Я п’ю воду, і мені стає спокійніше.",
+      "transliteration": "Ya p’yu vodu, i meni staye spokiynishe.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-27T02:54:22.097756"
+    },
+    {
+      "english": "I let laughter soften my shoulders.",
+      "ukrainian": "Я дозволяю сміху розслабити плечі.",
+      "transliteration": "Ya dozvolyayu smikhu rozslablyty plechi.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-27T02:54:22.097756"
+    },
+    {
+      "english": "I clean one small corner, right now.",
+      "ukrainian": "Я прибираю один маленький куточок, прямо зараз.",
+      "transliteration": "Ya prybyrayu odyn malenskyy kutochek, priamo zaraz.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-27T02:54:22.097756"
+    },
+    {
+      "english": "Today I speak kinder than my thoughts.",
+      "ukrainian": "Сьогодні я говорю добріше, ніж мої думки.",
+      "transliteration": "S’ohodni ya hovoryu dobrishe, nizh moi dumky.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-27T02:54:22.097756"
+    },
+    {
+      "english": "I choose the next right thing.",
+      "ukrainian": "Я обираю наступний правильний крок.",
+      "transliteration": "Ya obyrayu nastupnyy pravylnyy krok.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-27T02:54:22.097756"
+    },
+    {
+      "english": "My phone can wait, I focus.",
+      "ukrainian": "Телефон може зачекати, я зосереджуюся.",
+      "transliteration": "Telefon mozhe chekati, ya soseredzhuysya.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-27T02:54:22.097756"
+    },
+    {
+      "english": "I warm my hands, then my mood.",
+      "ukrainian": "Я зігріваю руки, а тоді й настрій.",
+      "transliteration": "Ya zigrivayu ruky, a potim i nastriy.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-27T02:54:22.097756"
+    },
+    {
+      "english": "I do yoga before dinner.",
+      "ukrainian": "Я роблю йогу перед вечерею.",
+      "transliteration": "Ya ROBLYU yoGU pered veCHereyu",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-27T02:54:22.097756"
+    },
+    {
+      "english": "I try baking cookies, not bread.",
+      "ukrainian": "Я печу печиво, не хліб.",
+      "transliteration": "Ya PEchu peCHyvo, ne khlib",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-27T02:54:22.097756"
+    },
+    {
+      "english": "I fix small things around home.",
+      "ukrainian": "Я лагоджу дрібні речі вдома.",
+      "transliteration": "Ya laHODzhu dribni REchi vDOMa",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-27T02:54:22.097756"
+    },
+    {
+      "english": "I clean my room, then chill.",
+      "ukrainian": "Я прибираю в кімнаті, а тоді відпочиваю.",
+      "transliteration": "Ya pryBYRayu v kimNATi, a TODI vidpochyVAyu",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-27T02:54:22.097756"
+    },
+    {
+      "english": "I play the guitar for fun.",
+      "ukrainian": "Я граю на гітарі просто для задоволення.",
+      "transliteration": "Ya HRAyu na GITari proSTO dlya zaDOvolennya",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-27T02:54:22.097756"
+    },
+    {
+      "english": "I read comics on the weekend.",
+      "ukrainian": "На вихідних я читаю комікси.",
+      "transliteration": "Na vyKHYdnykh ya CHytayu koMIKsy",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-27T02:54:22.097756"
+    },
+    {
+      "english": "I sketch random ideas in my notebook.",
+      "ukrainian": "Я роблю ескізи випадкових ідей у блокноті.",
+      "transliteration": "Ya ROBlyu ESKIzy vypadKOVykh IDEy u BLOKnoti",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-27T02:54:22.097756"
+    },
+    {
+      "english": "Let’s decide the budget first",
+      "ukrainian": "Давай спершу визначимо бюджет.",
+      "transliteration": "Davai spershu vyznachymo biudzhet.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-27T02:54:22.097756"
+    },
+    {
+      "english": "I’ll reserve time for calls",
+      "ukrainian": "Я залишу час для дзвінків.",
+      "transliteration": "Ya zalyshu chas dlya dzvinkiv.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-27T02:54:22.097756"
+    },
+    {
+      "english": "What’s your best deadline date?",
+      "ukrainian": "Яка у тебе найкраща кінцева дата?",
+      "transliteration": "Yaka u tebe naikrashcha kinceva data?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-27T02:54:22.097756"
+    },
+    {
+      "english": "Let’s plan with fewer meetings",
+      "ukrainian": "Давай сплануємо менше зустрічей.",
+      "transliteration": "Davai splanu yemo menshe zustrichei.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-27T02:54:22.097756"
+    },
+    {
+      "english": "I need a draft agenda, please",
+      "ukrainian": "Мені потрібен чернетковий план зустрічі, будь ласка.",
+      "transliteration": "Meni potriben cherne tkovyi plan zustrichi, budʹ laska.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-27T02:54:22.097756"
+    },
+    {
+      "english": "Should we start earlier this week?",
+      "ukrainian": "Може почнемо раніше цього тижня?",
+      "transliteration": "Mozhe pochnemo ranisheʹʹoho tyzhnya?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-27T02:54:22.097756"
+    },
+    {
+      "english": "Let’s add buffer time between tasks",
+      "ukrainian": "Давай додамо запас часу між справами.",
+      "transliteration": "Davai doda mo zapas chasu mizh spravam y.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-27T02:54:22.097756"
+    },
+    {
+      "english": "I agree, that works for me.",
+      "ukrainian": "Я погоджуюся, це мені підходить.",
+      "transliteration": "Ya pohodzhuysya, tse meni pidkhodyt.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-27T02:54:22.097756"
+    },
+    {
+      "english": "You’ve convinced me, I’m in.",
+      "ukrainian": "Ти мене переконав, я згоден.",
+      "transliteration": "Ty mene perekonav, ya zghoden.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-27T02:54:22.097756"
+    },
+    {
+      "english": "That’s the right way to say it.",
+      "ukrainian": "Ти сказав це якнайкраще.",
+      "transliteration": "Ty skazav tse yaknaykrashche.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-27T02:54:22.097756"
+    },
+    {
+      "english": "I’m with you on the timing.",
+      "ukrainian": "Я з тобою щодо термінів.",
+      "transliteration": "Ya z toboyu shchodo terminiv.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-27T02:54:22.097756"
+    },
+    {
+      "english": "Let’s do it, without overthinking.",
+      "ukrainian": "Давай зробимо це, без зайвих роздумів.",
+      "transliteration": "Davay zroby`mo tse, bez zayvuh rozmiv.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-27T02:54:22.097756"
+    },
+    {
+      "english": "I see your point, but wait.",
+      "ukrainian": "Я розумію твою думку, але почекай.",
+      "transliteration": "Ya rozumiyu tvoiu dumku, ale po`ch`ykay.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-27T02:54:22.097756"
+    },
+    {
+      "english": "I don’t think that will help.",
+      "ukrainian": "Я не думаю, що це допоможе.",
+      "transliteration": "Ya ne dumayu, shcho tse dopomozhe.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-27T02:54:22.097756"
+    },
+    {
+      "english": "Bring a wreath to a churchyard.",
+      "ukrainian": "Принеси вінок на цвинтар до церкви.",
+      "transliteration": "PRYNESY vinok na tsvyntar do tserkvy.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-27T02:54:22.097756"
+    },
+    {
+      "english": "We bake braided bread for good luck.",
+      "ukrainian": "Ми печемо плетений хліб на щастя.",
+      "transliteration": "MIPEChemo PLETENYY khlib na shchastya.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-27T02:54:22.097756"
+    },
+    {
+      "english": "I’ll join the village choir practice.",
+      "ukrainian": "Я приєднаюся до репетиції сільського хору.",
+      "transliteration": "YA pryyednayusya do REPETYTSIY sil's'koho khoru.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-27T02:54:22.097756"
+    },
+    {
+      "english": "After Mass, we greet elders warmly.",
+      "ukrainian": "Після Служби ми тепло вітаємо старших.",
+      "transliteration": "PISLYA sluzhby my teplo VITAYEm starshykh.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-27T02:54:22.097756"
+    },
+    {
+      "english": "We share sausage and warm homemade bread.",
+      "ukrainian": "Ми ділимося ковбасою й теплим домашнім хлібом.",
+      "transliteration": "MY DILI MOSYA kovbasoyu y teplym domashnim khlibom.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-27T02:54:22.097756"
+    },
+    {
+      "english": "Let’s watch a puppet show together.",
+      "ukrainian": "Давай подивимось лялькову виставу разом.",
+      "transliteration": "DAVAY podyvy mos' lo l'k o vu vystavu razom.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-27T02:54:22.097756"
+    },
+    {
+      "english": "I’m learning Ukrainian folk dances today.",
+      "ukrainian": "Сьогодні я вчуся українських народних танців.",
+      "transliteration": "S'OHODNI YA VCHUSYA ukrayins'kykh narodnykh tanttsiv.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-27T02:54:22.097756"
+    },
+    {
+      "english": "I need small change, please",
+      "ukrainian": "Мені потрібна дрібна здача, будь ласка.",
+      "transliteration": "Meni potribna dribna zDacha, budʹ laska.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-27T02:54:22.097756"
+    },
+    {
+      "english": "Can I pay with contactless?",
+      "ukrainian": "Можна заплатити безконтактно, будь ласка?",
+      "transliteration": "Mozhna zaplatyty bezkontakTno, budʹ laska?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-27T02:54:22.097756"
+    },
+    {
+      "english": "Do you accept Apple Pay?",
+      "ukrainian": "Ви приймаєте Apple Pay?",
+      "transliteration": "Vy pryymayete Apple Pay?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-27T02:54:22.097756"
+    },
+    {
+      "english": "I want to check my balance",
+      "ukrainian": "Хочу перевірити залишок на рахунку.",
+      "transliteration": "Khochu pereviryty zalyshok na rakHunku.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-27T02:54:22.097756"
+    },
+    {
+      "english": "Is there a cash deposit machine?",
+      "ukrainian": "У вас є банкомат для внесення готівки?",
+      "transliteration": "U vas ye bankomat dlya vnesennya hOtivky?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-27T02:54:22.097756"
+    },
+    {
+      "english": "Where can I withdraw without fees?",
+      "ukrainian": "Де можна зняти готівку без комісії?",
+      "transliteration": "De mozhna znyaty hOtivku bez komiSiyi?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-27T02:54:22.097756"
+    },
+    {
+      "english": "My PIN is right, please try again",
+      "ukrainian": "Мій ПІН правильний, будь ласка, спробуйте ще раз.",
+      "transliteration": "Miy PIN pravyLʹnyy, budʹ laska, sprobu yte shche raz.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-27T02:54:22.097756"
+    },
+    {
+      "english": "I grow even when nobody notices",
+      "ukrainian": "Я зростаю навіть коли ніхто не бачить",
+      "transliteration": "Ya ZROSTAYU navit koli NIKHTO ne bachitʹ",
+      "category": "Growth",
+      "generated_at": "2026-11-27T02:54:22.097756"
+    },
+    {
+      "english": "My skills are stacking up quietly",
+      "ukrainian": "Мої навички тихо накопичуються",
+      "transliteration": "Moi NAVYCHKY tykho nakopychuyutʹsya",
+      "category": "Growth",
+      "generated_at": "2026-11-27T02:54:22.097756"
+    },
+    {
+      "english": "I’m learning to recover with grace",
+      "ukrainian": "Я вчуся відновлюватися з гідністю",
+      "transliteration": "YA VCHUSʹ vidnovlyuvatysya z HIDNISTYU",
+      "category": "Growth",
+      "generated_at": "2026-11-27T02:54:22.097756"
+    },
+    {
+      "english": "Each week, I stretch my limits",
+      "ukrainian": "Кожного тижня я розтягую свої межі",
+      "transliteration": "KOZHNOHO tyzhnya YA roztyahayu svoi MEZHI",
+      "category": "Growth",
+      "generated_at": "2026-11-27T02:54:22.097756"
+    },
+    {
+      "english": "I talk to myself like a coach",
+      "ukrainian": "Я говорю з собою як тренер",
+      "transliteration": "YA hovoryu z SOBOYU yak TREner",
+      "category": "Growth",
+      "generated_at": "2026-11-27T02:54:22.097756"
+    },
+    {
+      "english": "I grow through small honest actions",
+      "ukrainian": "Я зростаю через маленькі чесні дії",
+      "transliteration": "YA ZROSTAYU cherez MALENʹki chesni DII",
+      "category": "Growth",
+      "generated_at": "2026-11-27T02:54:22.097756"
+    },
+    {
+      "english": "New challenges feel like my training",
+      "ukrainian": "Нові виклики відчуваються як тренування",
+      "transliteration": "Novi VYKLIKY vidchuvayutʹsya yak TREnuvannya",
+      "category": "Growth",
+      "generated_at": "2026-11-27T02:54:22.097756"
+    },
+    {
+      "english": "Which stop for the university?",
+      "ukrainian": "На якій зупинці виходити на університет?",
+      "transliteration": "Na yakiyu zupyntsi vykhodyty na universytet?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-27T02:54:22.097756"
+    },
+    {
+      "english": "Is this tram going past the park?",
+      "ukrainian": "Цей трамвай їде повз парк?",
+      "transliteration": "Tsey tramvay yide povz park?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-27T02:54:22.097756"
+    },
+    {
+      "english": "How late is the last bus?",
+      "ukrainian": "О котрій годині їде останній автобус?",
+      "transliteration": "O kotriyih hodyni yide ostanniy avtobus?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-27T02:54:22.097756"
+    },
+    {
+      "english": "Where is the night route stop?",
+      "ukrainian": "Де зупинка нічного маршруту?",
+      "transliteration": "De zupynka nichnoho marshrutu?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-27T02:54:22.097756"
+    },
+    {
+      "english": "Can I pay cash on board?",
+      "ukrainian": "Можна оплатити готівкою в салоні?",
+      "transliteration": "Mozhna oplatyty hotivkoyu v salonі?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-27T02:54:22.097756"
+    },
+    {
+      "english": "Do they accept contactless cards?",
+      "ukrainian": "Вони беруть безконтактну оплату карткою?",
+      "transliteration": "Vony berut bezkontaktnu oplatu kartkoyu?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-27T02:54:22.097756"
+    },
+    {
+      "english": "Do I need an ID?",
+      "ukrainian": "Чи потрібен документ для поїздки?",
+      "transliteration": "Chy potriben dokument dlya poyizdky?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-27T02:54:22.097756"
     }
   ],
-  "last_updated": "2026-11-26T02:54:35.179570"
+  "last_updated": "2026-11-27T02:54:22.097756"
 }
