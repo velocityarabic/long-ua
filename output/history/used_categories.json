@@ -575,7 +575,39 @@
     {
       "category": "Public Transportation",
       "date": "2026-11-27"
+    },
+    {
+      "category": "Confidence",
+      "date": "2026-11-28"
+    },
+    {
+      "category": "Weather & Small Talk",
+      "date": "2026-11-28"
+    },
+    {
+      "category": "Balance",
+      "date": "2026-11-28"
+    },
+    {
+      "category": "Inner Peace",
+      "date": "2026-11-28"
+    },
+    {
+      "category": "Courage",
+      "date": "2026-11-28"
+    },
+    {
+      "category": "Hotel & Accommodation",
+      "date": "2026-11-28"
+    },
+    {
+      "category": "Phone Calls & Messages",
+      "date": "2026-11-28"
+    },
+    {
+      "category": "Perseverance",
+      "date": "2026-11-28"
     }
   ],
-  "last_updated": "2026-11-27T02:54:22.114233"
+  "last_updated": "2026-11-28T02:46:25.367114"
 }

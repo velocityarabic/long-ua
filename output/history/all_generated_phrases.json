@@ -23159,7 +23159,399 @@
       "transliteration": "Chy potriben dokument dlya poyizdky?",
       "category": "Public Transportation",
       "generated_at": "2026-11-27T02:54:22.097756"
+    },
+    {
+      "english": "I’ll figure it out, one call at a time",
+      "ukrainian": "Я розберуся, крок за кроком, через дзвінок",
+      "transliteration": "Ya rozberusya, krok za krok... cherez dzyvinok",
+      "category": "Confidence",
+      "generated_at": "2026-11-28T02:46:25.344998"
+    },
+    {
+      "english": "I trust my instincts, they know",
+      "ukrainian": "Я довіряю інтуїції, вона підкаже",
+      "transliteration": "Ya doviryayu intuitsiyi, vona pidkazhe",
+      "category": "Confidence",
+      "generated_at": "2026-11-28T02:46:25.344998"
+    },
+    {
+      "english": "I can start before I feel ready",
+      "ukrainian": "Я можу почати, навіть якщо ще не готовий",
+      "transliteration": "Ya mozhu pochaty, navit yakshcho shche ne hotovyy",
+      "category": "Confidence",
+      "generated_at": "2026-11-28T02:46:25.344998"
+    },
+    {
+      "english": "Say it straight, I’ll handle it",
+      "ukrainian": "Скажи прямо, я це витримаю",
+      "transliteration": "Skazhy priamo, ya tse vytrymau",
+      "category": "Confidence",
+      "generated_at": "2026-11-28T02:46:25.344998"
+    },
+    {
+      "english": "I’m learning fast, even today",
+      "ukrainian": "Я вчуся швидко, навіть сьогодні",
+      "transliteration": "Ya vchusya shvydko, navit sohodni",
+      "category": "Confidence",
+      "generated_at": "2026-11-28T02:46:25.344998"
+    },
+    {
+      "english": "I won’t overthink, I’ll act now",
+      "ukrainian": "Я не буду накручувати себе, діятиму зараз",
+      "transliteration": "Ya ne budu nakruchuvaty sebe, diyaty mu zaraz",
+      "category": "Confidence",
+      "generated_at": "2026-11-28T02:46:25.344998"
+    },
+    {
+      "english": "I ask questions, no shame",
+      "ukrainian": "Я ставлю питання, без сорому",
+      "transliteration": "Ya stavlyu pytannya, bez soromu",
+      "category": "Confidence",
+      "generated_at": "2026-11-28T02:46:25.344998"
+    },
+    {
+      "english": "Is it going to thunder soon?",
+      "ukrainian": "Чи скоро буде грім?",
+      "transliteration": "Chy SKORO bude hrim?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-28T02:46:25.344998"
+    },
+    {
+      "english": "The sky is kinda overcast today.",
+      "ukrainian": "Небо сьогодні якесь затягнуте хмарами.",
+      "transliteration": "NEBO sʹohodni yakesʹ zatiahnute khmaramy.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-28T02:46:25.344998"
+    },
+    {
+      "english": "I need a jacket, it’s chilly.",
+      "ukrainian": "Мені потрібна куртка, тут прохолодно.",
+      "transliteration": "Meni potribna KURTKA, tut prokholodno.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-28T02:46:25.344998"
+    },
+    {
+      "english": "How’s the weather treating you today?",
+      "ukrainian": "Як тобі погода сьогодні?",
+      "transliteration": "Yak TOBI pohoda sohodni?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-28T02:46:25.344998"
+    },
+    {
+      "english": "Do you smell rain in the air?",
+      "ukrainian": "Ти відчуваєш, що пахне дощем?",
+      "transliteration": "TY vidchuvaieshʹ, shcho pakhne doshchem?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-28T02:46:25.344998"
+    },
+    {
+      "english": "It’s misty, I can barely see.",
+      "ukrainian": "Туманно, я майже не бачу.",
+      "transliteration": "TUMANNO, ia maizhe ne bachu.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-28T02:46:25.344998"
+    },
+    {
+      "english": "Looks like the wind is changing.",
+      "ukrainian": "Схоже, вітер міняє напрям.",
+      "transliteration": "Skhizhe, VITER miniaie napriam.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-28T02:46:25.344998"
+    },
+    {
+      "english": "Pause, check your posture, reset.",
+      "ukrainian": "Зупинись, перевір поставу, перезавантажся.",
+      "transliteration": "Zupynyś, perevir postavu, perezavantazśia.",
+      "category": "Balance",
+      "generated_at": "2026-11-28T02:46:25.344998"
+    },
+    {
+      "english": "Balance chores with fun tonight.",
+      "ukrainian": "Збалансуй домашні справи з розвагами сьогодні ввечері.",
+      "transliteration": "Zbalansuй domashni spravy z rozvahamy s'ohodni vvecheri.",
+      "category": "Balance",
+      "generated_at": "2026-11-28T02:46:25.344998"
+    },
+    {
+      "english": "Breathe in, breathe out, then choose.",
+      "ukrainian": "Вдихни, видихни, і тоді обирай.",
+      "transliteration": "Vdyhny, vydhyhny, i todi obyray.",
+      "category": "Balance",
+      "generated_at": "2026-11-28T02:46:25.344998"
+    },
+    {
+      "english": "Keep work and life in sync.",
+      "ukrainian": "Тримай роботу й життя в рівновазі.",
+      "transliteration": "Trymay robotu y zhyttia v rivnovazi.",
+      "category": "Balance",
+      "generated_at": "2026-11-28T02:46:25.344998"
+    },
+    {
+      "english": "Let your day breathe, not rush.",
+      "ukrainian": "Нехай твій день дихає, без поспіху.",
+      "transliteration": "Nekhai tviy den dykhaie, bez pospikhu.",
+      "category": "Balance",
+      "generated_at": "2026-11-28T02:46:25.344998"
+    },
+    {
+      "english": "Walk a bit, unclench your jaw.",
+      "ukrainian": "Пройдися трохи, розтисни щелепу.",
+      "transliteration": "Proydisia trokhу, roztysny schelepu.",
+      "category": "Balance",
+      "generated_at": "2026-11-28T02:46:25.344998"
+    },
+    {
+      "english": "Too much? Scale it back gently.",
+      "ukrainian": "Якщо забагато, м’яко зменш оберти.",
+      "transliteration": "Yakshcho zabahato, miako zmensh oberty.",
+      "category": "Balance",
+      "generated_at": "2026-11-28T02:46:25.344998"
+    },
+    {
+      "english": "Right now, I soften my shoulders.",
+      "ukrainian": "Зараз я розслабляю плечі.",
+      "transliteration": "ZARAZ ya rozSLABlyayu plechI",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-28T02:46:25.344998"
+    },
+    {
+      "english": "My breath leads, my mind follows.",
+      "ukrainian": "Мій подих веде, а розум слідує.",
+      "transliteration": "miy poDYKH vede, a rozUM SLIDuye",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-28T02:46:25.344998"
+    },
+    {
+      "english": "I hear my body, not panic.",
+      "ukrainian": "Я чую своє тіло, не паніку.",
+      "transliteration": "ya CHUYU svoYe tilo, ne paNIKU",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-28T02:46:25.344998"
+    },
+    {
+      "english": "I release this moment gently.",
+      "ukrainian": "Я м’яко відпускаю цей момент.",
+      "transliteration": "ya MYAKO VIdpusKAYU tsey MOMent",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-28T02:46:25.344998"
+    },
+    {
+      "english": "Let the next step be simple.",
+      "ukrainian": "Нехай наступний крок буде простим.",
+      "transliteration": "nekHAy nastupNIy krok bude PROStim",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-28T02:46:25.344998"
+    },
+    {
+      "english": "I stop negotiating with worry.",
+      "ukrainian": "Я перестаю торгуватися з тривогою.",
+      "transliteration": "ya PERESTAYU TORguvatysya z TRYvoHOyu",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-28T02:46:25.344998"
+    },
+    {
+      "english": "I choose silence for my attention.",
+      "ukrainian": "Я обираю тишу для своєї уваги.",
+      "transliteration": "ya obIRAYU tySHyu dlya svoyeI UvaGI",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-28T02:46:25.344998"
+    },
+    {
+      "english": "I’ll speak first, even if nervous.",
+      "ukrainian": "Я скажу першим, навіть якщо хвилююсь.",
+      "transliteration": "Ya skazhu pershym, NAVITʹ i yakshcho hvyluyusʹ.",
+      "category": "Courage",
+      "generated_at": "2026-11-28T02:46:25.344998"
+    },
+    {
+      "english": "I’m not backing down from this.",
+      "ukrainian": "Я не відступлю від цього.",
+      "transliteration": "Ya ne vidstuplyu vid tsʹogo.",
+      "category": "Courage",
+      "generated_at": "2026-11-28T02:46:25.344998"
+    },
+    {
+      "english": "I can ask for help, confidently.",
+      "ukrainian": "Я можу попросити допомоги, впевнено.",
+      "transliteration": "Ya MOZHU poprosyty dopomohy, vpevneno.",
+      "category": "Courage",
+      "generated_at": "2026-11-28T02:46:25.344998"
+    },
+    {
+      "english": "I told them no, respectfully.",
+      "ukrainian": "Я сказав їм ні, чемно й прямо.",
+      "transliteration": "Ya skazav yim NI, CHEMNO i prYAMO.",
+      "category": "Courage",
+      "generated_at": "2026-11-28T02:46:25.344998"
+    },
+    {
+      "english": "I’ll fix it, even if it’s hard.",
+      "ukrainian": "Я виправлю це, навіть якщо важко.",
+      "transliteration": "Ya vypravlyu tse, NAVITʹ yakshcho vazhko.",
+      "category": "Courage",
+      "generated_at": "2026-11-28T02:46:25.344998"
+    },
+    {
+      "english": "I’ll face the call and answer.",
+      "ukrainian": "Я підійду до дзвінка й відповім.",
+      "transliteration": "Ya PIDIYDU do dzvinka y vidpovim.",
+      "category": "Courage",
+      "generated_at": "2026-11-28T02:46:25.344998"
+    },
+    {
+      "english": "I shared my plan, with no fear.",
+      "ukrainian": "Я озвучив свій план без страху.",
+      "transliteration": "Ya OZVUCHYV sviy plan bez strahu.",
+      "category": "Courage",
+      "generated_at": "2026-11-28T02:46:25.344998"
+    },
+    {
+      "english": "Is there a gym in the hotel?",
+      "ukrainian": "У готелі є тренажерний зал?",
+      "transliteration": "U hotelі ye trenazhernyy zal?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-28T02:46:25.344998"
+    },
+    {
+      "english": "What floor is my room on?",
+      "ukrainian": "На якому поверсі мій номер?",
+      "transliteration": "Na yakomu povertsi miy nomer?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-28T02:46:25.344998"
+    },
+    {
+      "english": "Can I change my room, please?",
+      "ukrainian": "Можна, я зміню номер, будь ласка?",
+      "transliteration": "Mozhna, ya zminyu nomer, budʹ laska?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-28T02:46:25.344998"
+    },
+    {
+      "english": "Is there an elevator for guests?",
+      "ukrainian": "У вас є ліфт для гостей?",
+      "transliteration": "U vas ye lift dlya гостей?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-28T02:46:25.344998"
+    },
+    {
+      "english": "Do you offer airport shuttle?",
+      "ukrainian": "Чи надаєте трансфер до аеропорту?",
+      "transliteration": "Chy nadayete transfer do aeroportu?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-28T02:46:25.344998"
+    },
+    {
+      "english": "Can I get a late checkout?",
+      "ukrainian": "Чи можна пізніше виселення?",
+      "transliteration": "Chy mozhna piznishe vyselennya?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-28T02:46:25.344998"
+    },
+    {
+      "english": "Where can I pay my bill?",
+      "ukrainian": "Де можна оплатити рахунок?",
+      "transliteration": "De mozhna oplatyty rakhunok?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-28T02:46:25.344998"
+    },
+    {
+      "english": "Hey, are you free right now?",
+      "ukrainian": "Привіт, ти зараз можеш говорити?",
+      "transliteration": "Pryvit, ty zaraz mozhesh hovoryty?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-28T02:46:25.344998"
+    },
+    {
+      "english": "I’m calling about tomorrow’s plan.",
+      "ukrainian": "Я дзвоню щодо планів на завтра.",
+      "transliteration": "Ya dzvonyu shchodo planiv na zavtra.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-28T02:46:25.344998"
+    },
+    {
+      "english": "Call me when you get a chance.",
+      "ukrainian": "Зателефонуй мені, коли матимеш хвилинку.",
+      "transliteration": "Zatelefonuy meni, koly matymesh khvylynku.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-28T02:46:25.344998"
+    },
+    {
+      "english": "Can you call me back, please?",
+      "ukrainian": "Можеш мені передзвонити, будь ласка?",
+      "transliteration": "Mozhesh meni peredzvonyty, budʹ laska?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-28T02:46:25.344998"
+    },
+    {
+      "english": "Text me the details, please.",
+      "ukrainian": "Напиши мені деталі, будь ласка.",
+      "transliteration": "Napyshy meni detali, budʹ laska.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-28T02:46:25.344998"
+    },
+    {
+      "english": "I’m on my way, be ready.",
+      "ukrainian": "Я вже їду, будь готовий.",
+      "transliteration": "Ya vzhe yidu, budʹ gotovyy.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-28T02:46:25.344998"
+    },
+    {
+      "english": "I’ll try calling one more time.",
+      "ukrainian": "Спробую ще раз тобі зателефонувати.",
+      "transliteration": "Sprobuy shche raz tobi zatelefonuvaty.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-28T02:46:25.344998"
+    },
+    {
+      "english": "I keep going, even in doubt",
+      "ukrainian": "Я йду далі, навіть коли сумніваюся",
+      "transliteration": "Ya йdu dalshe, navit koli sumnivayusya",
+      "category": "Perseverance",
+      "generated_at": "2026-11-28T02:46:25.344998"
+    },
+    {
+      "english": "I do it tired, not defeated",
+      "ukrainian": "Я роблю це втомлено, а не здавшись",
+      "transliteration": "Ya roblyu tse vtomeno, a ne zdavshys",
+      "category": "Perseverance",
+      "generated_at": "2026-11-28T02:46:25.344998"
+    },
+    {
+      "english": "Today, I finish the smallest task",
+      "ukrainian": "Сьогодні я завершую найменшу справу",
+      "transliteration": "Sʹohodni ya zavershuyu naymenshu spravu",
+      "category": "Perseverance",
+      "generated_at": "2026-11-28T02:46:25.344998"
+    },
+    {
+      "english": "I can be slow and still move",
+      "ukrainian": "Я можу бути повільною, але рухатися",
+      "transliteration": "Ya mozhу buty povilʹnoyu, ale rukhatysya",
+      "category": "Perseverance",
+      "generated_at": "2026-11-28T02:46:25.344998"
+    },
+    {
+      "english": "I try again, one breath at a time",
+      "ukrainian": "Я пробую знову, один вдих за одним",
+      "transliteration": "Ya probuyu znovu, odyn vdikh za odnym",
+      "category": "Perseverance",
+      "generated_at": "2026-11-28T02:46:25.344998"
+    },
+    {
+      "english": "I learn from it, then adjust",
+      "ukrainian": "Я вчуся з цього, а потім коригую",
+      "transliteration": "Ya vchusʹsʹ z tsʹogo, a potim koryguyu",
+      "category": "Perseverance",
+      "generated_at": "2026-11-28T02:46:25.344998"
+    },
+    {
+      "english": "I refuse to quit on a hard day",
+      "ukrainian": "Я не зупиняюся в важкий день",
+      "transliteration": "Ya ne zupynyayusya v vazhkyy denʹ",
+      "category": "Perseverance",
+      "generated_at": "2026-11-28T02:46:25.344998"
     }
   ],
-  "last_updated": "2026-11-27T02:54:22.097756"
+  "last_updated": "2026-11-28T02:46:25.344998"
 }
